@@ -1,0 +1,3924 @@
+PROJECT STRUCTURE:
+.
+├── analysis_options.yaml
+├── pubspec.yaml
+├── lib/
+│   ├── app.dart
+│   ├── main.dart
+│   ├── core/
+│   │   ├── config/
+│   │   │   ├── env.dart
+│   │   ├── error/
+│   │   │   ├── exceptions.dart
+│   │   │   ├── failures.dart
+│   │   ├── network/
+│   │   │   ├── dio_client.dart
+│   │   │   ├── interceptors/
+│   │   │   │   ├── auth_interceptor.dart
+│   │   │   │   ├── error_interceptor.dart
+│   │   ├── routing/
+│   │   │   ├── app_router.dart
+│   │   ├── storage/
+│   │   │   ├── hive_storage.dart
+│   │   │   ├── secure_storage.dart
+│   │   ├── theme/
+│   │   │   ├── app_theme.dart
+│   │   ├── usecases/
+│   │   │   ├── usecase.dart
+│   ├── features/
+│   │   ├── auth/
+│   │   │   ├── data/
+│   │   │   │   ├── auth_remote_source.dart
+│   │   │   │   ├── auth_repository_impl.dart
+│   │   │   ├── domain/
+│   │   │   │   ├── auth_repository.dart
+│   │   │   │   ├── usecases/
+│   │   │   │   │   ├── login_usecase.dart
+│   │   │   │   │   ├── signup_usecase.dart
+│   │   │   ├── presentation/
+│   │   │   │   ├── providers/
+│   │   │   │   │   ├── auth_provider.dart
+│   │   │   │   ├── screens/
+│   │   │   │   │   ├── login_screen.dart
+│   │   │   │   │   ├── signup_screen.dart
+│   │   ├── cart/
+│   │   │   ├── data/
+│   │   │   │   ├── cart_repository_impl.dart
+│   │   │   ├── domain/
+│   │   │   │   ├── entities/
+│   │   │   │   │   ├── cart_item.dart
+│   │   │   │   ├── repositories/
+│   │   │   │   │   ├── cart_repository.dart
+│   │   │   │   ├── usecases/
+│   │   │   │   │   ├── add_to_cart.dart
+│   │   │   │   │   ├── calculate_total.dart
+│   │   │   ├── presentation/
+│   │   │   │   ├── providers/
+│   │   │   │   │   ├── cart_provider.dart
+│   │   │   │   ├── screens/
+│   │   │   │   │   ├── cart_screen.dart
+│   │   ├── checkout/
+│   │   │   ├── presentation/
+│   │   │   │   ├── checkout_screen.dart
+│   │   │   │   ├── widgets/
+│   │   │   │   │   ├── address_form.dart
+│   │   │   │   │   ├── payment_selector.dart
+│   │   ├── home/
+│   │   │   ├── presentation/
+│   │   │   │   ├── home_screen.dart
+│   │   │   │   ├── screens/
+│   │   │   │   │   ├── categories_screen.dart
+│   │   │   │   │   ├── category_products_screen.dart
+│   │   │   │   ├── widgets/
+│   │   │   │   │   ├── banner_slider.dart
+│   │   │   │   │   ├── product_grid.dart
+│   │   ├── orders/
+│   │   │   ├── presentation/
+│   │   │   │   ├── order_list_screen.dart
+│   │   │   │   ├── order_tracking_screen.dart
+│   │   ├── product_details/
+│   │   │   ├── presentation/
+│   │   │   │   ├── product_detail_screen.dart
+│   │   ├── profile/
+│   │   │   ├── presentation/
+│   │   │   │   ├── profile_screen.dart
+
+============================================================
+FILE CONTENTS START HERE
+============================================================
+
+FILE: analysis_options.yaml
+--------------------------------------------------
+# This file configures the analyzer, which statically analyzes Dart code to
+# check for errors, warnings, and lints.
+#
+# The issues identified by the analyzer are surfaced in the UI of Dart-enabled
+# IDEs (https://dart.dev/tools#ides-and-editors). The analyzer can also be
+# invoked from the command line by running `flutter analyze`.
+
+# The following line activates a set of recommended lints for Flutter apps,
+# packages, and plugins designed to encourage good coding practices.
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  # The lint rules applied to this project can be customized in the
+  # section below to disable rules from the `package:flutter_lints/flutter.yaml`
+  # included above or to enable additional rules. A list of all available lints
+  # and their documentation is published at https://dart.dev/lints.
+  #
+  # Instead of disabling a lint rule for the entire project in the
+  # section below, it can also be suppressed for a single line of code
+  # or a specific dart file by using the `// ignore: name_of_lint` and
+  # `// ignore_for_file: name_of_lint` syntax on the line or in the file
+  # producing the lint.
+  rules:
+    # avoid_print: false  # Uncomment to disable the `avoid_print` rule
+    # prefer_single_quotes: true  # Uncomment to enable the `prefer_single_quotes` rule
+
+# Additional information about this file can be found at
+# https://dart.dev/guides/language/analysis-options
+
+==================================================
+
+FILE: pubspec.yaml
+--------------------------------------------------
+name: grocery_app
+description: A Premium Grocery Delivery App
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_riverpod: ^2.5.1
+  go_router: ^14.0.1
+  fpdart: ^1.1.0
+  intl: ^0.19.0
+
+  dio: ^5.4.3
+  hive_flutter: ^1.1.0
+  flutter_secure_storage: ^9.2.2
+
+  google_fonts: ^6.2.1
+  flutter_svg: ^2.0.10
+  cached_network_image: ^3.3.1
+  carousel_slider: ^5.0.0
+  shimmer: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  build_runner: ^2.4.9
+  hive_generator: ^2.0.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/fonts/
+==================================================
+
+FILE: lib\app.dart
+--------------------------------------------------
+import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'core/routing/app_router.dart';
+import 'core/theme/app_theme.dart';
+
+class FreshMartApp extends ConsumerWidget {
+  const FreshMartApp({super.key});
+
+  @override
+  Widget build(BuildContext context, WidgetRef ref) {
+    return MaterialApp.router(
+      title: 'FreshMart',
+      debugShowCheckedModeBanner: false,
+      theme: AppTheme.lightTheme,
+      routerConfig: appRouter,
+      builder: (context, child) {
+        return MediaQuery(
+          data: MediaQuery.of(context).copyWith(textScaler: const TextScaler.linear(1.0)),
+          child: child!,
+        );
+      },
+    );
+  }
+}
+==================================================
+
+FILE: lib\main.dart
+--------------------------------------------------
+import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'core/storage/hive_storage.dart';
+import 'app.dart';
+
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+
+  await SystemChrome.setPreferredOrientations([
+    DeviceOrientation.portraitUp,
+    DeviceOrientation.portraitDown,
+  ]);
+
+  final hiveService = HiveStorageService();
+  await hiveService.init();
+
+  runApp(
+    const ProviderScope(
+      child: FreshMartApp(),
+    ),
+  );
+}
+==================================================
+
+FILE: lib\core\config\env.dart
+--------------------------------------------------
+import 'dart:io';
+import 'package:flutter/foundation.dart';
+
+class Env {
+  // Private constructor to prevent instantiation
+  Env._();
+
+  // =========================================================
+  // 1. BASE URL CONFIGURATION
+  // =========================================================
+  
+  /// Returns the correct Base URL based on the environment and platform.
+  /// 
+  /// * Android Emulator: Uses 10.0.2.2 (Special alias for host localhost)
+  /// * iOS Simulator: Uses localhost
+  /// * Production (Release Mode): Uses the live server URL
+  static String get baseUrl {
+    if (kReleaseMode) {
+      // TODO: Replace this with your actual domain when deploying to Play Store
+      return 'https://api.freshmart.com'; 
+    }
+
+    // Development Mode Logic
+    if (!kIsWeb && Platform.isAndroid) {
+      return 'http://10.0.2.2:3000';
+    }
+
+    return 'http://localhost:3000';
+  }
+
+  // =========================================================
+  // 2. NETWORK SETTINGS
+  // =========================================================
+
+  static const int connectTimeout = 30000; // 30 seconds
+  static const int receiveTimeout = 30000; // 30 seconds
+
+  // =========================================================
+  // 3. API ENDPOINTS
+  // =========================================================
+  
+  static const String loginEndpoint = '/auth/login';
+  static const String registerEndpoint = '/auth/register';
+  static const String userEndpoint = '/users/profile';
+  static const String productsEndpoint = '/products';
+  static const String cartEndpoint = '/cart';
+  static const String ordersEndpoint = '/orders';
+}
+==================================================
+
+FILE: lib\core\error\exceptions.dart
+--------------------------------------------------
+class ServerException implements Exception {
+  final String message;
+  final int? statusCode;
+
+  ServerException(this.message, {this.statusCode});
+}
+
+class CacheException implements Exception {
+  final String message;
+  CacheException(this.message);
+}
+
+class NetworkException implements Exception {
+  final String message;
+  NetworkException(this.message);
+}
+
+class UnauthorizedException implements Exception {
+  final String message;
+  UnauthorizedException(this.message);
+}
+
+class ValidationException implements Exception {
+  final String message;
+  ValidationException(this.message);
+}
+==================================================
+
+FILE: lib\core\error\failures.dart
+--------------------------------------------------
+abstract class Failure {
+  final String message;
+
+  const Failure(this.message);
+}
+
+class ServerFailure extends Failure {
+  const ServerFailure(super.message);
+}
+
+class CacheFailure extends Failure {
+  const CacheFailure(super.message);
+}
+
+class NetworkFailure extends Failure {
+  const NetworkFailure(super.message);
+}
+
+class ValidationFailure extends Failure {
+  const ValidationFailure(super.message);
+}
+
+class AuthFailure extends Failure {
+  const AuthFailure(super.message);
+}
+==================================================
+
+FILE: lib\core\network\dio_client.dart
+--------------------------------------------------
+import 'package:dio/dio.dart';
+import 'package:flutter_secure_storage/flutter_secure_storage.dart';
+import '../config/env.dart';
+import 'interceptors/auth_interceptor.dart';
+import 'interceptors/error_interceptor.dart';
+
+class DioClient {
+  final Dio _dio;
+
+  DioClient()
+      : _dio = Dio(
+          BaseOptions(
+            baseUrl: Env.baseUrl,
+            connectTimeout: Duration(milliseconds: Env.connectTimeout),
+            receiveTimeout: Duration(milliseconds: Env.receiveTimeout),
+            responseType: ResponseType.json,
+            headers: {
+              'Content-Type': 'application/json',
+              'Accept': 'application/json',
+            },
+          ),
+        ) {
+    _dio.interceptors.addAll([
+      AuthInterceptor(const FlutterSecureStorage()),
+      ErrorInterceptor(),
+    ]);
+  }
+
+  Dio get dio => _dio;
+
+  Future<Response> get(
+    String path, {
+    Map<String, dynamic>? queryParameters,
+    Options? options,
+  }) async {
+    return await _dio.get(
+      path,
+      queryParameters: queryParameters,
+      options: options,
+    );
+  }
+
+  Future<Response> post(
+    String path, {
+    dynamic data,
+    Map<String, dynamic>? queryParameters,
+    Options? options,
+  }) async {
+    return await _dio.post(
+      path,
+      data: data,
+      queryParameters: queryParameters,
+      options: options,
+    );
+  }
+
+  Future<Response> put(
+    String path, {
+    dynamic data,
+    Map<String, dynamic>? queryParameters,
+    Options? options,
+  }) async {
+    return await _dio.put(
+      path,
+      data: data,
+      queryParameters: queryParameters,
+      options: options,
+    );
+  }
+
+  Future<Response> delete(
+    String path, {
+    dynamic data,
+    Map<String, dynamic>? queryParameters,
+    Options? options,
+  }) async {
+    return await _dio.delete(
+      path,
+      data: data,
+      queryParameters: queryParameters,
+      options: options,
+    );
+  }
+}
+==================================================
+
+FILE: lib\core\network\interceptors\auth_interceptor.dart
+--------------------------------------------------
+import 'package:dio/dio.dart';
+import 'package:flutter_secure_storage/flutter_secure_storage.dart';
+
+class AuthInterceptor extends Interceptor {
+  final FlutterSecureStorage _storage;
+
+  AuthInterceptor(this._storage);
+
+  @override
+  Future<void> onRequest(
+      RequestOptions options, RequestInterceptorHandler handler) async {
+    final token = await _storage.read(key: 'auth_token');
+
+    if (token != null) {
+      options.headers['Authorization'] = 'Bearer $token';
+    }
+
+    return handler.next(options);
+  }
+}
+==================================================
+
+FILE: lib\core\network\interceptors\error_interceptor.dart
+--------------------------------------------------
+import 'package:dio/dio.dart';
+
+class ErrorInterceptor extends Interceptor {
+  @override
+  void onError(DioException err, ErrorInterceptorHandler handler) {
+    switch (err.type) {
+      case DioExceptionType.connectionTimeout:
+      case DioExceptionType.sendTimeout:
+      case DioExceptionType.receiveTimeout:
+        throw NetworkException('Connection timed out');
+      
+      case DioExceptionType.badResponse:
+        final statusCode = err.response?.statusCode;
+        if (statusCode == 401) {
+          throw UnauthorizedException('Session expired');
+        }
+        if (statusCode == 403) {
+          throw ForbiddenException('Access denied');
+        }
+        if (statusCode == 404) {
+          throw NotFoundException('Resource not found');
+        }
+        if (statusCode == 500) {
+          throw ServerException('Internal server error');
+        }
+        throw ServerException('Server error: $statusCode');
+        
+      case DioExceptionType.cancel:
+        throw NetworkException('Request cancelled');
+        
+      case DioExceptionType.unknown:
+        throw NetworkException('No internet connection');
+        
+      default:
+        throw NetworkException('Unexpected error occurred');
+    }
+  }
+}
+
+class NetworkException implements Exception {
+  final String message;
+  NetworkException(this.message);
+}
+
+class UnauthorizedException extends NetworkException {
+  UnauthorizedException(super.message);
+}
+
+class ForbiddenException extends NetworkException {
+  ForbiddenException(super.message);
+}
+
+class NotFoundException extends NetworkException {
+  NotFoundException(super.message);
+}
+
+class ServerException extends NetworkException {
+  ServerException(super.message);
+}
+==================================================
+
+FILE: lib\core\routing\app_router.dart
+--------------------------------------------------
+import 'package:flutter/material.dart';
+import 'package:go_router/go_router.dart';
+
+// --- AUTH ---
+import '../../features/auth/presentation/screens/login_screen.dart';
+import '../../features/auth/presentation/screens/signup_screen.dart';
+
+// --- HOME & CATEGORIES ---
+import '../../features/home/presentation/home_screen.dart';
+import '../../features/home/presentation/screens/categories_screen.dart';
+
+// --- CART & CHECKOUT ---
+import '../../features/cart/presentation/screens/cart_screen.dart';
+import '../../features/checkout/presentation/checkout_screen.dart';
+
+// --- ORDERS ---
+import '../../features/orders/presentation/order_list_screen.dart';
+import '../../features/orders/presentation/order_tracking_screen.dart';
+
+// --- PRODUCT DETAILS ---
+import '../../features/product_details/presentation/product_detail_screen.dart';
+
+// --- PROFILE ---
+import '../../features/profile/presentation/profile_screen.dart';
+
+// --- PLACEHOLDERS (For screens that might be missing) ---
+class PlaceholderScreen extends StatelessWidget {
+  final String title;
+  const PlaceholderScreen(this.title, {super.key});
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(title: Text(title)),
+      body: Center(child: Text("$title Screen (Coming Soon)", style: const TextStyle(fontSize: 20))),
+    );
+  }
+}
+
+final appRouter = GoRouter(
+  initialLocation: '/login',
+  routes: [
+    // -------------------------------------------------------------------------
+    // AUTH ROUTES
+    // -------------------------------------------------------------------------
+    GoRoute(
+      path: '/login',
+      builder: (context, state) => const LoginScreen(),
+    ),
+    GoRoute(
+      path: '/signup',
+      builder: (context, state) => const SignupScreen(),
+    ),
+
+    // -------------------------------------------------------------------------
+    // MAIN APP ROUTES
+    // -------------------------------------------------------------------------
+    GoRoute(
+      path: '/home',
+      builder: (context, state) => const HomeScreen(),
+    ),
+    GoRoute(
+      path: '/categories',
+      builder: (context, state) => const CategoriesScreen(),
+    ),
+    GoRoute(
+      path: '/cart',
+      builder: (context, state) => const CartScreen(),
+    ),
+    GoRoute(
+      path: '/profile',
+      builder: (context, state) => const ProfileScreen(),
+    ),
+
+    // -------------------------------------------------------------------------
+    // CHECKOUT & ORDERS
+    // -------------------------------------------------------------------------
+    GoRoute(
+      path: '/checkout',
+      builder: (context, state) => const CheckoutScreen(),
+    ),
+    GoRoute(
+      path: '/orders',
+      builder: (context, state) => const OrderListScreen(),
+    ),
+    GoRoute(
+      path: '/tracking/:id',
+      builder: (context, state) {
+        final id = state.pathParameters['id'] ?? '';
+        return OrderTrackingScreen(orderId: id);
+      },
+    ),
+
+    // -------------------------------------------------------------------------
+    // PRODUCT DETAILS (FIXED THIS PART)
+    // -------------------------------------------------------------------------
+    GoRoute(
+      path: '/product/:id',
+      builder: (context, state) {
+        // 1. Try to get the actual product object passed from the previous screen
+        final product = state.extra as Map<String, dynamic>?;
+
+        // 2. If no product was passed (e.g., refresh), use a Mock Product so it doesn't crash
+        final effectiveProduct = product ?? {
+          'id': '0',
+          'name': 'Loading Product...',
+          'price': 0.0,
+          'discountPrice': 0.0,
+          'image': 'https://via.placeholder.com/150',
+          'description': 'Product details not available.',
+          'unit': 'kg'
+        };
+
+        return ProductDetailScreen(product: effectiveProduct);
+      },
+    ),
+  ],
+);
+==================================================
+
+FILE: lib\core\storage\hive_storage.dart
+--------------------------------------------------
+import 'package:hive_flutter/hive_flutter.dart';
+
+class HiveStorageService {
+  static const String _preferencesBox = 'app_preferences';
+  static const String _cartBox = 'cart_box';
+
+  Future<void> init() async {
+    await Hive.initFlutter();
+    await Hive.openBox(_preferencesBox);
+    await Hive.openBox(_cartBox);
+  }
+
+  Box get _prefs => Hive.box(_preferencesBox);
+  Box get _cart => Hive.box(_cartBox);
+
+  Future<void> saveThemeMode(bool isDark) async {
+    await _prefs.put('is_dark_mode', isDark);
+  }
+
+  bool get isDarkMode => _prefs.get('is_dark_mode', defaultValue: false);
+
+  Future<void> saveToCart(String productId, Map<String, dynamic> productData) async {
+    await _cart.put(productId, productData);
+  }
+
+  List<Map<String, dynamic>> getCartItems() {
+    return _cart.values.cast<Map<String, dynamic>>().toList();
+  }
+
+  Future<void> removeFromCart(String productId) async {
+    await _cart.delete(productId);
+  }
+
+  Future<void> clearCart() async {
+    await _cart.clear();
+  }
+}
+==================================================
+
+FILE: lib\core\storage\secure_storage.dart
+--------------------------------------------------
+import 'package:flutter_secure_storage/flutter_secure_storage.dart';
+
+class SecureStorageService {
+  final FlutterSecureStorage _storage;
+
+  SecureStorageService() : _storage = const FlutterSecureStorage();
+
+  Future<void> write(String key, String value) async {
+    await _storage.write(key: key, value: value);
+  }
+
+  Future<String?> read(String key) async {
+    return await _storage.read(key: key);
+  }
+
+  Future<void> delete(String key) async {
+    await _storage.delete(key: key);
+  }
+
+  Future<void> clearAll() async {
+    await _storage.deleteAll();
+  }
+
+  Future<bool> hasToken() async {
+    final token = await read('auth_token');
+    return token != null;
+  }
+}
+==================================================
+
+FILE: lib\core\theme\app_theme.dart
+--------------------------------------------------
+import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
+
+class AppTheme {
+  // 1. Color Palette (Extracted from your FreshMart Design)
+  static const Color primaryGreen = Color(0xFF1B5E20); // Deep Forest Green
+  static const Color accentGreen = Color(0xFF4CAF50);  // Bright Green for Tags
+  static const Color scaffoldBackground = Color(0xFFF8F9FA); // Very light grey
+  static const Color inputFillColor = Color(0xFFF0F2F5); // Light grey for text inputs
+  static const Color textDark = Color(0xFF1A1A1A);
+  static const Color textGrey = Color(0xFF8C8C8C);
+
+  // 2. The Master Theme
+  static ThemeData get lightTheme {
+    return ThemeData(
+      useMaterial3: true,
+      brightness: Brightness.light,
+      primaryColor: primaryGreen,
+      scaffoldBackgroundColor: scaffoldBackground,
+
+      // Text Theme (Poppins for that modern look)
+      textTheme: GoogleFonts.poppinsTextTheme().copyWith(
+        displayLarge: const TextStyle(fontSize: 32, fontWeight: FontWeight.bold, color: Colors.white),
+        headlineMedium: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold, color: textDark),
+        titleMedium: const TextStyle(fontSize: 16, fontWeight: FontWeight.w600, color: textDark),
+        bodyLarge: const TextStyle(fontSize: 14, color: textGrey),
+        bodyMedium: const TextStyle(fontSize: 14, color: textDark),
+      ),
+
+      // Button Theme (Rounded & Green)
+      elevatedButtonTheme: ElevatedButtonThemeData(
+        style: ElevatedButton.styleFrom(
+          backgroundColor: primaryGreen,
+          foregroundColor: Colors.white,
+          elevation: 0,
+          textStyle: GoogleFonts.poppins(fontSize: 16, fontWeight: FontWeight.w600),
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(30)), // Pill shape
+          padding: const EdgeInsets.symmetric(vertical: 16, horizontal: 24),
+          minimumSize: const Size(double.infinity, 56), // Full width, tall buttons
+        ),
+      ),
+
+      // Input Field Theme (Light Grey background, no border)
+      inputDecorationTheme: InputDecorationTheme(
+        filled: true,
+        fillColor: inputFillColor,
+        hintStyle: const TextStyle(color: Color(0xFFB0B0B0), fontSize: 14),
+        contentPadding: const EdgeInsets.all(16),
+        border: OutlineInputBorder(
+          borderRadius: BorderRadius.circular(12),
+          borderSide: BorderSide.none,
+        ),
+        enabledBorder: OutlineInputBorder(
+          borderRadius: BorderRadius.circular(12),
+          borderSide: BorderSide.none,
+        ),
+        focusedBorder: OutlineInputBorder(
+          borderRadius: BorderRadius.circular(12),
+          borderSide: const BorderSide(color: primaryGreen, width: 1.5),
+        ),
+      ),
+
+      // Icon Theme
+      iconTheme: const IconThemeData(color: textDark),
+      
+      // App Bar Theme
+      appBarTheme: const AppBarTheme(
+        backgroundColor: Colors.transparent,
+        elevation: 0,
+        centerTitle: true,
+        iconTheme: IconThemeData(color: textDark),
+        titleTextStyle: TextStyle(color: textDark, fontSize: 18, fontWeight: FontWeight.w600),
+      ),
+    );
+  }
+}
+==================================================
+
+FILE: lib\core\usecases\usecase.dart
+--------------------------------------------------
+import 'package:fpdart/fpdart.dart';
+import '../error/failures.dart';
+
+abstract class UseCase<Type, Params> {
+  Future<Either<Failure, Type>> call(Params params);
+}
+
+class NoParams {}
+==================================================
+
+FILE: lib\features\auth\data\auth_remote_source.dart
+--------------------------------------------------
+import '../../../../core/network/dio_client.dart';
+import '../../../../core/config/env.dart';
+
+abstract class AuthRemoteSource {
+  Future<Map<String, dynamic>> login(String email, String password);
+  Future<Map<String, dynamic>> register(String name, String email, String password);
+}
+
+class AuthRemoteSourceImpl implements AuthRemoteSource {
+  final DioClient _dioClient;
+
+  AuthRemoteSourceImpl(this._dioClient);
+
+  @override
+  Future<Map<String, dynamic>> login(String email, String password) async {
+    final response = await _dioClient.post(
+      Env.loginEndpoint,
+      data: {
+        'email': email,
+        'password': password,
+      },
+    );
+    return response.data['data'];
+  }
+
+  @override
+  Future<Map<String, dynamic>> register(String name, String email, String password) async {
+    final response = await _dioClient.post(
+      Env.registerEndpoint,
+      data: {
+        'name': name,
+        'email': email,
+        'password': password,
+      },
+    );
+    return response.data['data'];
+  }
+}
+==================================================
+
+FILE: lib\features\auth\data\auth_repository_impl.dart
+--------------------------------------------------
+import 'package:fpdart/fpdart.dart';
+import '../../../../core/error/exceptions.dart';
+import '../../../../core/error/failures.dart';
+import '../../../../core/storage/secure_storage.dart';
+import '../domain/auth_repository.dart';
+import 'auth_remote_source.dart';
+
+class AuthRepositoryImpl implements AuthRepository {
+  final AuthRemoteSource _remoteSource;
+  final SecureStorageService _storageService;
+
+  AuthRepositoryImpl(this._remoteSource, this._storageService);
+
+  // ---------------------------------------------------------------------------
+  // MOCK LOGIN IMPLEMENTATION (For Frontend Testing Only)
+  // ---------------------------------------------------------------------------
+  @override
+  Future<Either<Failure, Map<String, dynamic>>> login(String email, String password) async {
+    try {
+      // 1. Simulate Network Delay (So you see the loading spinner)
+      await Future.delayed(const Duration(seconds: 1));
+
+      // 2. Create Fake User Data
+      final fakeResponse = {
+        'access_token': 'mock_token_12345',
+        'user': {
+          'id': '1',
+          'name': 'Test User',
+          'email': email,
+        }
+      };
+
+      // 3. Save the fake token locally so the app "remembers" you are logged in
+      if (fakeResponse.containsKey('access_token')) {
+        await _storageService.write('auth_token', fakeResponse['access_token'] as String);
+      }
+      
+      return Right(fakeResponse);
+
+    } catch (e) {
+      // If something goes wrong in our mock logic (unlikely), return failure
+      return Left(ServerFailure(e.toString()));
+    }
+  }
+
+  // ---------------------------------------------------------------------------
+  // MOCK REGISTER IMPLEMENTATION
+  // ---------------------------------------------------------------------------
+  @override
+  Future<Either<Failure, Map<String, dynamic>>> register(String name, String email, String password) async {
+    try {
+      // 1. Simulate Network Delay
+      await Future.delayed(const Duration(seconds: 1));
+
+      // 2. Create Fake Response
+      final fakeResponse = {
+        'access_token': 'mock_token_67890',
+        'user': {
+          'id': '2',
+          'name': name,
+          'email': email,
+        }
+      };
+
+      // 3. Save Token
+      if (fakeResponse.containsKey('access_token')) {
+        await _storageService.write('auth_token', fakeResponse['access_token'] as String);
+      }
+
+      return Right(fakeResponse);
+      
+    } catch (e) {
+      return Left(ServerFailure(e.toString()));
+    }
+  }
+
+  @override
+  Future<Either<Failure, void>> logout() async {
+    try {
+      await _storageService.delete('auth_token');
+      return const Right(null);
+    } catch (e) {
+      return const Left(CacheFailure('Failed to logout'));
+    }
+  }
+}
+==================================================
+
+FILE: lib\features\auth\domain\auth_repository.dart
+--------------------------------------------------
+import 'package:fpdart/fpdart.dart';
+import '../../../../core/error/failures.dart';
+
+abstract class AuthRepository {
+  Future<Either<Failure, Map<String, dynamic>>> login(String email, String password);
+  Future<Either<Failure, Map<String, dynamic>>> register(String name, String email, String password);
+  Future<Either<Failure, void>> logout();
+}
+==================================================
+
+FILE: lib\features\auth\domain\usecases\login_usecase.dart
+--------------------------------------------------
+import 'package:fpdart/fpdart.dart';
+import '../../../../core/error/failures.dart';
+import '../../../../core/usecases/usecase.dart';
+import '../auth_repository.dart';
+
+class LoginUseCase implements UseCase<Map<String, dynamic>, LoginParams> {
+  final AuthRepository _repository;
+
+  LoginUseCase(this._repository);
+
+  @override
+  Future<Either<Failure, Map<String, dynamic>>> call(LoginParams params) async {
+    return await _repository.login(params.email, params.password);
+  }
+}
+
+class LoginParams {
+  final String email;
+  final String password;
+
+  const LoginParams({
+    required this.email,
+    required this.password,
+  });
+}
+==================================================
+
+FILE: lib\features\auth\domain\usecases\signup_usecase.dart
+--------------------------------------------------
+import 'package:fpdart/fpdart.dart';
+import '../../../../core/error/failures.dart';
+import '../../../../core/usecases/usecase.dart';
+import '../auth_repository.dart';
+
+class SignupUseCase implements UseCase<Map<String, dynamic>, SignupParams> {
+  final AuthRepository _repository;
+
+  SignupUseCase(this._repository);
+
+  @override
+  Future<Either<Failure, Map<String, dynamic>>> call(SignupParams params) async {
+    return await _repository.register(params.name, params.email, params.password);
+  }
+}
+
+class SignupParams {
+  final String name;
+  final String email;
+  final String password;
+
+  const SignupParams({
+    required this.name,
+    required this.email,
+    required this.password,
+  });
+}
+==================================================
+
+FILE: lib\features\auth\presentation\providers\auth_provider.dart
+--------------------------------------------------
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:flutter_secure_storage/flutter_secure_storage.dart';
+import '../../../../core/network/dio_client.dart';
+import '../../../../core/storage/secure_storage.dart';
+import '../../data/auth_remote_source.dart';
+import '../../data/auth_repository_impl.dart';
+import '../../domain/usecases/login_usecase.dart';
+import '../../domain/usecases/signup_usecase.dart';
+
+// 1. Dependency Injection (Wiring up the layers)
+final dioClientProvider = Provider((ref) => DioClient());
+final secureStorageProvider = Provider((ref) => SecureStorageService());
+
+final authRemoteSourceProvider = Provider((ref) => AuthRemoteSourceImpl(ref.read(dioClientProvider)));
+
+final authRepositoryProvider = Provider((ref) => AuthRepositoryImpl(
+  ref.read(authRemoteSourceProvider),
+  ref.read(secureStorageProvider),
+));
+
+final loginUseCaseProvider = Provider((ref) => LoginUseCase(ref.read(authRepositoryProvider)));
+final signupUseCaseProvider = Provider((ref) => SignupUseCase(ref.read(authRepositoryProvider)));
+
+// 2. Auth State (The data the UI listens to)
+class AuthState {
+  final bool isLoading;
+  final String? error;
+  final Map<String, dynamic>? user;
+
+  const AuthState({this.isLoading = false, this.error, this.user});
+
+  AuthState copyWith({bool? isLoading, String? error, Map<String, dynamic>? user}) {
+    return AuthState(
+      isLoading: isLoading ?? this.isLoading,
+      error: error, // If not passed, it clears the error (intended behavior)
+      user: user ?? this.user,
+    );
+  }
+}
+
+// 3. Auth Notifier (The logic controller)
+class AuthNotifier extends StateNotifier<AuthState> {
+  final LoginUseCase _loginUseCase;
+  final SignupUseCase _signupUseCase;
+
+  AuthNotifier(this._loginUseCase, this._signupUseCase) : super(const AuthState());
+
+  Future<bool> login(String email, String password) async {
+    state = state.copyWith(isLoading: true, error: null);
+
+    final result = await _loginUseCase(LoginParams(email: email, password: password));
+
+    return result.fold(
+      (failure) {
+        state = state.copyWith(isLoading: false, error: failure.message);
+        return false;
+      },
+      (user) {
+        state = state.copyWith(isLoading: false, user: user);
+        return true;
+      },
+    );
+  }
+
+  Future<bool> signup(String name, String email, String password) async {
+    state = state.copyWith(isLoading: true, error: null);
+
+    final result = await _signupUseCase(SignupParams(name: name, email: email, password: password));
+
+    return result.fold(
+      (failure) {
+        state = state.copyWith(isLoading: false, error: failure.message);
+        return false;
+      },
+      (user) {
+        state = state.copyWith(isLoading: false, user: user);
+        return true;
+      },
+    );
+  }
+}
+
+// 4. The Global Provider (UI uses this)
+final authProvider = StateNotifierProvider<AuthNotifier, AuthState>((ref) {
+  return AuthNotifier(
+    ref.read(loginUseCaseProvider),
+    ref.read(signupUseCaseProvider),
+  );
+});
+==================================================
+
+FILE: lib\features\auth\presentation\screens\login_screen.dart
+--------------------------------------------------
+import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:go_router/go_router.dart';
+import '../../../../core/theme/app_theme.dart';
+import '../providers/auth_provider.dart';
+
+class LoginScreen extends ConsumerStatefulWidget {
+  const LoginScreen({super.key});
+
+  @override
+  ConsumerState<LoginScreen> createState() => _LoginScreenState();
+}
+
+class _LoginScreenState extends ConsumerState<LoginScreen> {
+  final _emailController = TextEditingController();
+  final _passwordController = TextEditingController();
+  final _formKey = GlobalKey<FormState>();
+  bool _isPasswordVisible = false;
+
+  @override
+  void dispose() {
+    _emailController.dispose();
+    _passwordController.dispose();
+    super.dispose();
+  }
+
+  Future<void> _handleLogin() async {
+    if (!_formKey.currentState!.validate()) return;
+
+    final success = await ref.read(authProvider.notifier).login(
+      _emailController.text.trim(),
+      _passwordController.text,
+    );
+
+    if (success && mounted) {
+      context.go('/home');
+    }
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    // Listen to state changes to show errors
+    ref.listen(authProvider, (previous, next) {
+      if (next.error != null) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(content: Text(next.error!), backgroundColor: Colors.red),
+        );
+      }
+    });
+
+    final authState = ref.watch(authProvider);
+
+    return Scaffold(
+      body: SafeArea(
+        child: SingleChildScrollView(
+          padding: const EdgeInsets.all(24.0),
+          child: Form(
+            key: _formKey,
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.stretch,
+              children: [
+                const SizedBox(height: 40),
+                // Logo or Icon
+                Center(
+                  child: Container(
+                    padding: const EdgeInsets.all(16),
+                    decoration: BoxDecoration(
+                      color: AppTheme.primaryGreen.withOpacity(0.1),
+                      shape: BoxShape.circle,
+                    ),
+                    child: const Icon(Icons.shopping_basket, size: 60, color: AppTheme.primaryGreen),
+                  ),
+                ),
+                const SizedBox(height: 24),
+                
+                Text(
+                  "Welcome Back!",
+                  textAlign: TextAlign.center,
+                  style: Theme.of(context).textTheme.headlineMedium,
+                ),
+                const SizedBox(height: 8),
+                Text(
+                  "Log in to your account to continue",
+                  textAlign: TextAlign.center,
+                  style: Theme.of(context).textTheme.bodyLarge,
+                ),
+                const SizedBox(height: 40),
+
+                // Email Field
+                TextFormField(
+                  controller: _emailController,
+                  keyboardType: TextInputType.emailAddress,
+                  decoration: const InputDecoration(
+                    labelText: "Email",
+                    prefixIcon: Icon(Icons.email_outlined),
+                  ),
+                  validator: (value) {
+                    if (value == null || !value.contains('@')) {
+                      return 'Please enter a valid email';
+                    }
+                    return null;
+                  },
+                ),
+                const SizedBox(height: 16),
+
+                // Password Field
+                TextFormField(
+                  controller: _passwordController,
+                  obscureText: !_isPasswordVisible,
+                  decoration: InputDecoration(
+                    labelText: "Password",
+                    prefixIcon: const Icon(Icons.lock_outline),
+                    suffixIcon: IconButton(
+                      icon: Icon(_isPasswordVisible ? Icons.visibility : Icons.visibility_off),
+                      onPressed: () => setState(() => _isPasswordVisible = !_isPasswordVisible),
+                    ),
+                  ),
+                  validator: (value) => value!.length < 6 ? 'Password must be 6+ chars' : null,
+                ),
+                
+                Align(
+                  alignment: Alignment.centerRight,
+                  child: TextButton(
+                    onPressed: () {}, // TODO: Implement Forgot Password
+                    child: const Text("Forgot Password?", style: TextStyle(color: AppTheme.primaryGreen)),
+                  ),
+                ),
+                
+                const SizedBox(height: 24),
+
+                // Login Button
+                ElevatedButton(
+                  onPressed: authState.isLoading ? null : _handleLogin,
+                  child: authState.isLoading
+                      ? const SizedBox(
+                          height: 20, width: 20,
+                          child: CircularProgressIndicator(color: Colors.white, strokeWidth: 2),
+                        )
+                      : const Text("Log In"),
+                ),
+
+                const SizedBox(height: 24),
+
+                // Social Login Divider (Visual Only for now)
+                const Row(
+                  children: [
+                    Expanded(child: Divider()),
+                    Padding(
+                      padding: EdgeInsets.symmetric(horizontal: 16),
+                      child: Text("Or continue with"),
+                    ),
+                    Expanded(child: Divider()),
+                  ],
+                ),
+                const SizedBox(height: 24),
+                
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    _socialButton(Icons.g_mobiledata), // Google Placeholder
+                    const SizedBox(width: 16),
+                    _socialButton(Icons.apple), // Apple Placeholder
+                  ],
+                ),
+
+                const SizedBox(height: 40),
+
+                // Signup Link
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    const Text("Don't have an account?"),
+                    TextButton(
+                      onPressed: () => context.push('/signup'),
+                      child: const Text("Sign Up", style: TextStyle(fontWeight: FontWeight.bold, color: AppTheme.primaryGreen)),
+                    ),
+                  ],
+                ),
+              ],
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+
+  Widget _socialButton(IconData icon) {
+    return Container(
+      padding: const EdgeInsets.all(12),
+      decoration: BoxDecoration(
+        border: Border.all(color: Colors.grey.shade300),
+        borderRadius: BorderRadius.circular(12),
+        color: Colors.white,
+      ),
+      child: Icon(icon, size: 32),
+    );
+  }
+}
+==================================================
+
+FILE: lib\features\auth\presentation\screens\signup_screen.dart
+--------------------------------------------------
+import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:go_router/go_router.dart';
+import '../../../../core/theme/app_theme.dart';
+import '../providers/auth_provider.dart';
+
+class SignupScreen extends ConsumerStatefulWidget {
+  const SignupScreen({super.key});
+
+  @override
+  ConsumerState<SignupScreen> createState() => _SignupScreenState();
+}
+
+class _SignupScreenState extends ConsumerState<SignupScreen> {
+  final _nameController = TextEditingController();
+  final _emailController = TextEditingController();
+  final _passwordController = TextEditingController();
+  final _formKey = GlobalKey<FormState>();
+  bool _isPasswordVisible = false;
+
+  @override
+  void dispose() {
+    _nameController.dispose();
+    _emailController.dispose();
+    _passwordController.dispose();
+    super.dispose();
+  }
+
+  Future<void> _handleSignup() async {
+    if (!_formKey.currentState!.validate()) return;
+
+    final success = await ref.read(authProvider.notifier).signup(
+      _nameController.text.trim(),
+      _emailController.text.trim(),
+      _passwordController.text,
+    );
+
+    if (success && mounted) {
+      context.go('/home');
+    }
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    // Listen for errors
+    ref.listen(authProvider, (previous, next) {
+      if (next.error != null) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(content: Text(next.error!), backgroundColor: Colors.red),
+        );
+      }
+    });
+
+    final authState = ref.watch(authProvider);
+
+    return Scaffold(
+      appBar: AppBar(
+        leading: IconButton(
+          icon: const Icon(Icons.arrow_back),
+          onPressed: () => context.pop(),
+        ),
+      ),
+      body: SafeArea(
+        child: SingleChildScrollView(
+          padding: const EdgeInsets.all(24.0),
+          child: Form(
+            key: _formKey,
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.stretch,
+              children: [
+                Text(
+                  "Create Account",
+                  style: Theme.of(context).textTheme.headlineMedium,
+                ),
+                const SizedBox(height: 8),
+                Text(
+                  "Start your healthy journey with us",
+                  style: Theme.of(context).textTheme.bodyLarge,
+                ),
+                const SizedBox(height: 40),
+
+                // Name Field
+                TextFormField(
+                  controller: _nameController,
+                  decoration: const InputDecoration(
+                    labelText: "Full Name",
+                    prefixIcon: Icon(Icons.person_outline),
+                  ),
+                  validator: (value) => value!.isEmpty ? 'Name is required' : null,
+                ),
+                const SizedBox(height: 16),
+
+                // Email Field
+                TextFormField(
+                  controller: _emailController,
+                  keyboardType: TextInputType.emailAddress,
+                  decoration: const InputDecoration(
+                    labelText: "Email",
+                    prefixIcon: Icon(Icons.email_outlined),
+                  ),
+                  validator: (value) => !value!.contains('@') ? 'Invalid email' : null,
+                ),
+                const SizedBox(height: 16),
+
+                // Password Field
+                TextFormField(
+                  controller: _passwordController,
+                  obscureText: !_isPasswordVisible,
+                  decoration: InputDecoration(
+                    labelText: "Password",
+                    prefixIcon: const Icon(Icons.lock_outline),
+                    suffixIcon: IconButton(
+                      icon: Icon(_isPasswordVisible ? Icons.visibility : Icons.visibility_off),
+                      onPressed: () => setState(() => _isPasswordVisible = !_isPasswordVisible),
+                    ),
+                  ),
+                  validator: (value) => value!.length < 6 ? 'Password must be 6+ chars' : null,
+                ),
+                const SizedBox(height: 32),
+
+                // Sign Up Button
+                ElevatedButton(
+                  onPressed: authState.isLoading ? null : _handleSignup,
+                  child: authState.isLoading
+                      ? const SizedBox(
+                          height: 20, width: 20,
+                          child: CircularProgressIndicator(color: Colors.white, strokeWidth: 2),
+                        )
+                      : const Text("Sign Up"),
+                ),
+
+                const SizedBox(height: 24),
+
+                // Footer
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    const Text("Already have an account?"),
+                    TextButton(
+                      onPressed: () => context.pop(),
+                      child: const Text("Log In", style: TextStyle(fontWeight: FontWeight.bold, color: AppTheme.primaryGreen)),
+                    ),
+                  ],
+                ),
+              ],
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+}
+==================================================
+
+FILE: lib\features\cart\data\cart_repository_impl.dart
+--------------------------------------------------
+import 'package:fpdart/fpdart.dart';
+import '../../../../core/error/exceptions.dart';
+import '../../../../core/error/failures.dart';
+import '../../../../core/network/dio_client.dart';
+import '../../../../core/storage/hive_storage.dart';
+import '../domain/entities/cart_item.dart';
+import '../domain/repositories/cart_repository.dart';
+
+class CartRepositoryImpl implements CartRepository {
+  final HiveStorageService _hiveStorage;
+  final DioClient _dioClient;
+
+  CartRepositoryImpl(this._hiveStorage, this._dioClient);
+
+  @override
+  Future<Either<Failure, List<CartItem>>> getCartItems() async {
+    try {
+      // 1. Try to fetch the latest cart from the server (Sync)
+      // Note: In a real app, you might check network status here first.
+      try {
+        final response = await _dioClient.get('/cart');
+        final List<dynamic> remoteData = response.data['data']['items'];
+        
+        // Map remote data to entities
+        final remoteItems = remoteData.map((e) => CartItem.fromJson(e)).toList();
+        
+        // Sync local storage with remote data
+        await _hiveStorage.clearCart();
+        for (var item in remoteItems) {
+          await _hiveStorage.saveToCart(item.productId, item.toJson());
+        }
+        
+        return Right(remoteItems);
+      } catch (e) {
+        // If server fails (offline), fall back to local Hive storage
+        final localData = _hiveStorage.getCartItems();
+        final localItems = localData.map((e) => CartItem.fromJson(e)).toList();
+        return Right(localItems);
+      }
+    } catch (e) {
+      return Left(CacheFailure('Failed to load cart items'));
+    }
+  }
+
+  @override
+  Future<Either<Failure, void>> addToCart(CartItem item) async {
+    try {
+      // 1. Optimistic Update: Save to Local Storage immediately
+      await _hiveStorage.saveToCart(item.productId, item.toJson());
+
+      // 2. Sync with Server
+      await _dioClient.post(
+        '/cart/add',
+        data: {
+          'productId': item.productId,
+          'quantity': item.quantity,
+        },
+      );
+
+      return const Right(null);
+    } on ServerException catch (e) {
+      // If server fails, we might want to revert local change or queue it.
+      // For now, we return the failure but keep local data (Offline mode).
+      return Left(ServerFailure(e.message));
+    } catch (e) {
+      return Left(CacheFailure('Failed to add item to cart'));
+    }
+  }
+
+  @override
+  Future<Either<Failure, void>> removeFromCart(String productId) async {
+    try {
+      // 1. Local Update
+      await _hiveStorage.removeFromCart(productId);
+
+      // 2. Server Sync
+      await _dioClient.delete('/cart/remove/$productId');
+
+      return const Right(null);
+    } catch (e) {
+      return Left(CacheFailure('Failed to remove item from cart'));
+    }
+  }
+
+  @override
+  Future<Either<Failure, void>> updateQuantity(String productId, int quantity) async {
+    try {
+      // 1. Local Update: Fetch item, update qty, save back
+      final localData = _hiveStorage.getCartItems();
+      final itemData = localData.firstWhere(
+        (element) => element['productId'] == productId,
+        orElse: () => {},
+      );
+
+      if (itemData.isNotEmpty) {
+        final updatedItem = CartItem.fromJson(itemData).copyWith(quantity: quantity);
+        await _hiveStorage.saveToCart(productId, updatedItem.toJson());
+      }
+
+      // 2. Server Sync
+      await _dioClient.put(
+        '/cart/update',
+        data: {
+          'productId': productId,
+          'quantity': quantity,
+        },
+      );
+
+      return const Right(null);
+    } catch (e) {
+      return Left(CacheFailure('Failed to update quantity'));
+    }
+  }
+
+  @override
+  Future<Either<Failure, void>> clearCart() async {
+    try {
+      await _hiveStorage.clearCart();
+      await _dioClient.delete('/cart/clear');
+      return const Right(null);
+    } catch (e) {
+      return Left(CacheFailure('Failed to clear cart'));
+    }
+  }
+}
+==================================================
+
+FILE: lib\features\cart\domain\entities\cart_item.dart
+--------------------------------------------------
+class CartItem {
+  final String productId;
+  final String name;
+  final double price;
+  final String image;
+  final int quantity;
+
+  const CartItem({
+    required this.productId,
+    required this.name,
+    required this.price,
+    required this.image,
+    required this.quantity,
+  });
+
+  double get totalPrice => price * quantity;
+
+  CartItem copyWith({
+    String? productId,
+    String? name,
+    double? price,
+    String? image,
+    int? quantity,
+  }) {
+    return CartItem(
+      productId: productId ?? this.productId,
+      name: name ?? this.name,
+      price: price ?? this.price,
+      image: image ?? this.image,
+      quantity: quantity ?? this.quantity,
+    );
+  }
+
+  factory CartItem.fromJson(Map<String, dynamic> json) {
+    return CartItem(
+      productId: json['productId'],
+      name: json['name'],
+      price: (json['price'] as num).toDouble(),
+      image: json['image'],
+      quantity: json['quantity'] ?? 1,
+    );
+  }
+
+  Map<String, dynamic> toJson() {
+    return {
+      'productId': productId,
+      'name': name,
+      'price': price,
+      'image': image,
+      'quantity': quantity,
+    };
+  }
+}
+==================================================
+
+FILE: lib\features\cart\domain\repositories\cart_repository.dart
+--------------------------------------------------
+import 'package:fpdart/fpdart.dart';
+import '../../../../core/error/failures.dart';
+import '../entities/cart_item.dart';
+
+abstract class CartRepository {
+  Future<Either<Failure, List<CartItem>>> getCartItems();
+  Future<Either<Failure, void>> addToCart(CartItem item);
+  Future<Either<Failure, void>> removeFromCart(String productId);
+  Future<Either<Failure, void>> updateQuantity(String productId, int quantity);
+  Future<Either<Failure, void>> clearCart();
+}
+==================================================
+
+FILE: lib\features\cart\domain\usecases\add_to_cart.dart
+--------------------------------------------------
+import 'package:fpdart/fpdart.dart';
+import '../../../../core/error/failures.dart';
+import '../../../../core/usecases/usecase.dart';
+import '../entities/cart_item.dart';
+import '../repositories/cart_repository.dart';
+
+class AddToCartUseCase implements UseCase<void, CartItem> {
+  final CartRepository _repository;
+
+  AddToCartUseCase(this._repository);
+
+  @override
+  Future<Either<Failure, void>> call(CartItem params) async {
+    return await _repository.addToCart(params);
+  }
+}
+==================================================
+
+FILE: lib\features\cart\domain\usecases\calculate_total.dart
+--------------------------------------------------
+import '../entities/cart_item.dart';
+
+class CalculateTotalUseCase {
+  double call(List<CartItem> items) {
+    double total = 0;
+    for (var item in items) {
+      total += item.price * item.quantity;
+    }
+    return total;
+  }
+}
+==================================================
+
+FILE: lib\features\cart\presentation\providers\cart_provider.dart
+--------------------------------------------------
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+import '../../../../core/network/dio_client.dart';
+import '../../../../core/storage/hive_storage.dart';
+import '../../data/cart_repository_impl.dart';
+import '../../domain/entities/cart_item.dart';
+import '../../domain/usecases/add_to_cart.dart';
+import '../../domain/usecases/calculate_total.dart';
+
+final hiveStorageProvider = Provider((ref) => HiveStorageService()..init());
+final dioClientProvider = Provider((ref) => DioClient());
+
+final cartRepositoryProvider = Provider((ref) => CartRepositoryImpl(
+  ref.read(hiveStorageProvider),
+  ref.read(dioClientProvider),
+));
+
+final addToCartUseCaseProvider = Provider((ref) => AddToCartUseCase(ref.read(cartRepositoryProvider)));
+final calculateTotalUseCaseProvider = Provider((ref) => CalculateTotalUseCase());
+
+class CartState {
+  final bool isLoading;
+  final String? error;
+  final List<CartItem> items;
+  final double totalAmount;
+
+  const CartState({
+    this.isLoading = false,
+    this.error,
+    this.items = const [],
+    this.totalAmount = 0.0,
+  });
+
+  CartState copyWith({
+    bool? isLoading,
+    String? error,
+    List<CartItem>? items,
+    double? totalAmount,
+  }) {
+    return CartState(
+      isLoading: isLoading ?? this.isLoading,
+      error: error,
+      items: items ?? this.items,
+      totalAmount: totalAmount ?? this.totalAmount,
+    );
+  }
+}
+
+class CartNotifier extends StateNotifier<CartState> {
+  final CartRepositoryImpl _repository;
+  final AddToCartUseCase _addToCartUseCase;
+  final CalculateTotalUseCase _calculateTotalUseCase;
+
+  CartNotifier(this._repository, this._addToCartUseCase, this._calculateTotalUseCase)
+      : super(const CartState()) {
+    loadCart();
+  }
+
+  Future<void> loadCart() async {
+    state = state.copyWith(isLoading: true, error: null);
+    
+    final result = await _repository.getCartItems();
+    
+    result.fold(
+      (failure) => state = state.copyWith(isLoading: false, error: failure.message),
+      (items) {
+        final total = _calculateTotalUseCase(items);
+        state = state.copyWith(isLoading: false, items: items, totalAmount: total);
+      },
+    );
+  }
+
+  Future<void> addItem(CartItem item) async {
+    final result = await _addToCartUseCase(item);
+    
+    result.fold(
+      (failure) => state = state.copyWith(error: failure.message),
+      (_) => loadCart(),
+    );
+  }
+
+  Future<void> updateQuantity(String productId, int quantity) async {
+    if (quantity < 1) return;
+    
+    final result = await _repository.updateQuantity(productId, quantity);
+    
+    result.fold(
+      (failure) => state = state.copyWith(error: failure.message),
+      (_) => loadCart(),
+    );
+  }
+
+  Future<void> removeItem(String productId) async {
+    final result = await _repository.removeFromCart(productId);
+    
+    result.fold(
+      (failure) => state = state.copyWith(error: failure.message),
+      (_) => loadCart(),
+    );
+  }
+
+  Future<void> clearCart() async {
+    final result = await _repository.clearCart();
+    
+    result.fold(
+      (failure) => state = state.copyWith(error: failure.message),
+      (_) => state = const CartState(),
+    );
+  }
+}
+
+final cartProvider = StateNotifierProvider<CartNotifier, CartState>((ref) {
+  return CartNotifier(
+    ref.read(cartRepositoryProvider),
+    ref.read(addToCartUseCaseProvider),
+    ref.read(calculateTotalUseCaseProvider),
+  );
+});
+==================================================
+
+FILE: lib\features\cart\presentation\screens\cart_screen.dart
+--------------------------------------------------
+import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:go_router/go_router.dart';
+import '../../../../core/theme/app_theme.dart';
+import '../providers/cart_provider.dart';
+
+class CartScreen extends ConsumerWidget {
+  const CartScreen({super.key});
+
+  @override
+  Widget build(BuildContext context, WidgetRef ref) {
+    final cartState = ref.watch(cartProvider);
+
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text("My Cart"),
+        centerTitle: true,
+        actions: [
+          if (cartState.items.isNotEmpty)
+            IconButton(
+              icon: const Icon(Icons.delete_outline),
+              onPressed: () => ref.read(cartProvider.notifier).clearCart(),
+            ),
+        ],
+      ),
+      body: cartState.isLoading
+          ? const Center(child: CircularProgressIndicator(color: AppTheme.primaryGreen))
+          : cartState.items.isEmpty
+              ? _buildEmptyCart(context)
+              : Column(
+                  children: [
+                    Expanded(
+                      child: ListView.separated(
+                        padding: const EdgeInsets.all(16),
+                        itemCount: cartState.items.length,
+                        separatorBuilder: (_, __) => const SizedBox(height: 16),
+                        itemBuilder: (context, index) {
+                          final item = cartState.items[index];
+                          return Container(
+                            padding: const EdgeInsets.all(12),
+                            decoration: BoxDecoration(
+                              color: Colors.white,
+                              borderRadius: BorderRadius.circular(16),
+                              boxShadow: [
+                                BoxShadow(
+                                  color: Colors.grey.withOpacity(0.05),
+                                  blurRadius: 10,
+                                  offset: const Offset(0, 5),
+                                ),
+                              ],
+                            ),
+                            child: Row(
+                              children: [
+                                Container(
+                                  width: 80,
+                                  height: 80,
+                                  decoration: BoxDecoration(
+                                    color: Colors.grey[100],
+                                    borderRadius: BorderRadius.circular(12),
+                                    image: DecorationImage(
+                                      image: NetworkImage(item.image),
+                                      fit: BoxFit.cover,
+                                    ),
+                                  ),
+                                ),
+                                const SizedBox(width: 16),
+                                Expanded(
+                                  child: Column(
+                                    crossAxisAlignment: CrossAxisAlignment.start,
+                                    children: [
+                                      Text(
+                                        item.name,
+                                        style: const TextStyle(
+                                          fontWeight: FontWeight.bold,
+                                          fontSize: 16,
+                                          color: AppTheme.textDark,
+                                        ),
+                                      ),
+                                      const SizedBox(height: 4),
+                                      Text(
+                                        "\$${item.price.toStringAsFixed(2)}",
+                                        style: const TextStyle(
+                                          color: Colors.grey,
+                                          fontSize: 14,
+                                        ),
+                                      ),
+                                    ],
+                                  ),
+                                ),
+                                Column(
+                                  crossAxisAlignment: CrossAxisAlignment.end,
+                                  children: [
+                                    IconButton(
+                                      icon: const Icon(Icons.close, size: 18, color: Colors.grey),
+                                      onPressed: () => ref.read(cartProvider.notifier).removeItem(item.productId),
+                                    ),
+                                    Container(
+                                      decoration: BoxDecoration(
+                                        color: AppTheme.inputFillColor,
+                                        borderRadius: BorderRadius.circular(8),
+                                      ),
+                                      child: Row(
+                                        children: [
+                                          InkWell(
+                                            onTap: () {
+                                              if (item.quantity > 1) {
+                                                ref.read(cartProvider.notifier).updateQuantity(item.productId, item.quantity - 1);
+                                              }
+                                            },
+                                            child: const Padding(
+                                              padding: EdgeInsets.all(8.0),
+                                              child: Icon(Icons.remove, size: 16),
+                                            ),
+                                          ),
+                                          Text(
+                                            "${item.quantity}",
+                                            style: const TextStyle(fontWeight: FontWeight.bold),
+                                          ),
+                                          InkWell(
+                                            onTap: () {
+                                              ref.read(cartProvider.notifier).updateQuantity(item.productId, item.quantity + 1);
+                                            },
+                                            child: const Padding(
+                                              padding: EdgeInsets.all(8.0),
+                                              child: Icon(Icons.add, size: 16, color: AppTheme.primaryGreen),
+                                            ),
+                                          ),
+                                        ],
+                                      ),
+                                    ),
+                                  ],
+                                ),
+                              ],
+                            ),
+                          );
+                        },
+                      ),
+                    ),
+                    _buildCheckoutSummary(context, cartState.totalAmount),
+                  ],
+                ),
+    );
+  }
+
+  Widget _buildEmptyCart(BuildContext context) {
+    return Center(
+      child: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          Icon(Icons.shopping_cart_outlined, size: 80, color: Colors.grey[300]),
+          const SizedBox(height: 16),
+          Text(
+            "Your cart is empty",
+            style: Theme.of(context).textTheme.headlineSmall?.copyWith(color: Colors.grey),
+          ),
+          const SizedBox(height: 24),
+          ElevatedButton(
+            onPressed: () => context.go('/home'),
+            style: ElevatedButton.styleFrom(minimumSize: const Size(200, 50)),
+            child: const Text("Start Shopping"),
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildCheckoutSummary(BuildContext context, double subtotal) {
+    const deliveryFee = 5.00; 
+    final total = subtotal + deliveryFee;
+
+    return Container(
+      padding: const EdgeInsets.all(24),
+      decoration: BoxDecoration(
+        color: Colors.white,
+        borderRadius: const BorderRadius.vertical(top: Radius.circular(30)),
+        boxShadow: [
+          BoxShadow(
+            color: Colors.grey.withOpacity(0.1),
+            blurRadius: 20,
+            offset: const Offset(0, -5),
+          ),
+        ],
+      ),
+      child: Column(
+        children: [
+          Row(
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            children: [
+              const Text("Subtotal", style: TextStyle(color: Colors.grey)),
+              Text("\$${subtotal.toStringAsFixed(2)}", style: const TextStyle(fontWeight: FontWeight.bold)),
+            ],
+          ),
+          const SizedBox(height: 12),
+          const Row(
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            children: [
+              Text("Delivery Fee", style: TextStyle(color: Colors.grey)),
+              Text("\$5.00", style: TextStyle(fontWeight: FontWeight.bold)),
+            ],
+          ),
+          const Padding(
+            padding: EdgeInsets.symmetric(vertical: 16),
+            child: Divider(),
+          ),
+          Row(
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            children: [
+              const Text("Total", style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
+              Text("\$${total.toStringAsFixed(2)}", style: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold, color: AppTheme.primaryGreen)),
+            ],
+          ),
+          const SizedBox(height: 24),
+          ElevatedButton(
+            onPressed: () => context.push('/checkout'),
+            child: const Text("Checkout"),
+          ),
+        ],
+      ),
+    );
+  }
+}
+==================================================
+
+FILE: lib\features\checkout\presentation\checkout_screen.dart
+--------------------------------------------------
+import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:go_router/go_router.dart';
+import '../../../../core/theme/app_theme.dart';
+import '../../cart/presentation/providers/cart_provider.dart';
+import 'widgets/address_form.dart';
+import 'widgets/payment_selector.dart';
+
+class CheckoutScreen extends ConsumerStatefulWidget {
+  const CheckoutScreen({super.key});
+
+  @override
+  ConsumerState<CheckoutScreen> createState() => _CheckoutScreenState();
+}
+
+class _CheckoutScreenState extends ConsumerState<CheckoutScreen> {
+  PaymentMethod _selectedPayment = PaymentMethod.card;
+  Map<String, String> _address = {};
+  bool _isProcessing = false;
+
+  void _handlePlaceOrder() async {
+    // Basic Validation
+    if (_address['name']?.isEmpty ?? true) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(content: Text("Please enter your name")),
+      );
+      return;
+    }
+
+    setState(() => _isProcessing = true);
+
+    // Simulate API Call delay
+    await Future.delayed(const Duration(seconds: 2));
+
+    if (mounted) {
+      setState(() => _isProcessing = false);
+
+      // Clear Cart
+      ref.read(cartProvider.notifier).clearCart();
+
+      // Show Success Dialog
+      showDialog(
+        context: context,
+        barrierDismissible: false,
+        builder: (ctx) => AlertDialog(
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              Container(
+                padding: const EdgeInsets.all(16),
+                decoration: BoxDecoration(
+                  color: AppTheme.primaryGreen.withOpacity(0.1),
+                  shape: BoxShape.circle,
+                ),
+                child: const Icon(Icons.check, color: AppTheme.primaryGreen, size: 40),
+              ),
+              const SizedBox(height: 16),
+              const Text(
+                "Order Confirmed!",
+                style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),
+              ),
+              const SizedBox(height: 8),
+              const Text(
+                "Your order has been placed successfully. You can track it in the orders tab.",
+                textAlign: TextAlign.center,
+                style: TextStyle(color: Colors.grey),
+              ),
+              const SizedBox(height: 24),
+              SizedBox(
+                width: double.infinity,
+                child: ElevatedButton(
+                  onPressed: () {
+                    context.go('/home'); // Reset to Home
+                  },
+                  child: const Text("Back to Home"),
+                ),
+              ),
+            ],
+          ),
+        ),
+      );
+    }
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final cartState = ref.watch(cartProvider);
+    final total = cartState.totalAmount + 5.00; // Adding $5 delivery fee
+
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text("Checkout"),
+        leading: IconButton(
+          icon: const Icon(Icons.arrow_back),
+          onPressed: () => context.pop(),
+        ),
+      ),
+      body: SingleChildScrollView(
+        padding: const EdgeInsets.all(16),
+        child: Column(
+          children: [
+            AddressForm(
+              onAddressChanged: (addr) => _address = addr,
+            ),
+            const SizedBox(height: 16),
+            PaymentSelector(
+              selectedMethod: _selectedPayment,
+              onMethodChanged: (method) {
+                setState(() => _selectedPayment = method);
+              },
+            ),
+            const SizedBox(height: 16),
+            
+            // Order Summary Card
+            Container(
+              padding: const EdgeInsets.all(20),
+              decoration: BoxDecoration(
+                color: Colors.white,
+                borderRadius: BorderRadius.circular(16),
+                boxShadow: [
+                  BoxShadow(
+                    color: Colors.grey.withOpacity(0.05),
+                    blurRadius: 10,
+                    offset: const Offset(0, 5),
+                  ),
+                ],
+              ),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  const Text("Order Summary", style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16)),
+                  const SizedBox(height: 16),
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                    children: [
+                      Text("Items (${cartState.items.length})", style: const TextStyle(color: Colors.grey)),
+                      Text("\$${cartState.totalAmount.toStringAsFixed(2)}"),
+                    ],
+                  ),
+                  const SizedBox(height: 8),
+                  const Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                    children: [
+                      Text("Delivery Fee", style: TextStyle(color: Colors.grey)),
+                      Text("\$5.00"),
+                    ],
+                  ),
+                  const Padding(
+                    padding: EdgeInsets.symmetric(vertical: 12),
+                    child: Divider(),
+                  ),
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                    children: [
+                      const Text("Total Amount", style: TextStyle(fontWeight: FontWeight.bold)),
+                      Text("\$${total.toStringAsFixed(2)}", style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 18, color: AppTheme.primaryGreen)),
+                    ],
+                  ),
+                ],
+              ),
+            ),
+            const SizedBox(height: 32),
+          ],
+        ),
+      ),
+      bottomNavigationBar: Container(
+        padding: const EdgeInsets.all(16),
+        decoration: BoxDecoration(
+          color: Colors.white,
+          boxShadow: [
+            BoxShadow(
+              color: Colors.grey.withOpacity(0.1),
+              blurRadius: 20,
+              offset: const Offset(0, -5),
+            ),
+          ],
+        ),
+        child: SafeArea(
+          child: ElevatedButton(
+            onPressed: _isProcessing ? null : _handlePlaceOrder,
+            style: ElevatedButton.styleFrom(
+              minimumSize: const Size(double.infinity, 56),
+            ),
+            child: _isProcessing
+                ? const SizedBox(
+                    height: 24,
+                    width: 24,
+                    child: CircularProgressIndicator(color: Colors.white, strokeWidth: 2),
+                  )
+                : const Text("Place Order"),
+          ),
+        ),
+      ),
+    );
+  }
+}
+==================================================
+
+FILE: lib\features\checkout\presentation\widgets\address_form.dart
+--------------------------------------------------
+import 'package:flutter/material.dart';
+import '../../../../core/theme/app_theme.dart';
+
+class AddressForm extends StatefulWidget {
+  final Function(Map<String, String>) onAddressChanged;
+
+  const AddressForm({super.key, required this.onAddressChanged});
+
+  @override
+  State<AddressForm> createState() => _AddressFormState();
+}
+
+class _AddressFormState extends State<AddressForm> {
+  final _nameController = TextEditingController();
+  final _streetController = TextEditingController();
+  final _cityController = TextEditingController();
+  final _zipController = TextEditingController();
+
+  void _notifyChange() {
+    widget.onAddressChanged({
+      'name': _nameController.text,
+      'street': _streetController.text,
+      'city': _cityController.text,
+      'zip': _zipController.text,
+    });
+  }
+
+  @override
+  void initState() {
+    super.initState();
+    _nameController.addListener(_notifyChange);
+    _streetController.addListener(_notifyChange);
+    _cityController.addListener(_notifyChange);
+    _zipController.addListener(_notifyChange);
+  }
+
+  @override
+  void dispose() {
+    _nameController.dispose();
+    _streetController.dispose();
+    _cityController.dispose();
+    _zipController.dispose();
+    super.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      padding: const EdgeInsets.all(20),
+      decoration: BoxDecoration(
+        color: Colors.white,
+        borderRadius: BorderRadius.circular(16),
+        boxShadow: [
+          BoxShadow(
+            color: Colors.grey.withOpacity(0.05),
+            blurRadius: 10,
+            offset: const Offset(0, 5),
+          ),
+        ],
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          const Row(
+            children: [
+              Icon(Icons.location_on_outlined, color: AppTheme.primaryGreen),
+              SizedBox(width: 8),
+              Text(
+                "Delivery Address",
+                style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16),
+              ),
+            ],
+          ),
+          const SizedBox(height: 16),
+          TextFormField(
+            controller: _nameController,
+            decoration: const InputDecoration(labelText: "Full Name"),
+          ),
+          const SizedBox(height: 12),
+          TextFormField(
+            controller: _streetController,
+            decoration: const InputDecoration(labelText: "Street Address"),
+          ),
+          const SizedBox(height: 12),
+          Row(
+            children: [
+              Expanded(
+                child: TextFormField(
+                  controller: _cityController,
+                  decoration: const InputDecoration(labelText: "City"),
+                ),
+              ),
+              const SizedBox(width: 12),
+              Expanded(
+                child: TextFormField(
+                  controller: _zipController,
+                  keyboardType: TextInputType.number,
+                  decoration: const InputDecoration(labelText: "Zip Code"),
+                ),
+              ),
+            ],
+          ),
+        ],
+      ),
+    );
+  }
+}
+==================================================
+
+FILE: lib\features\checkout\presentation\widgets\payment_selector.dart
+--------------------------------------------------
+import 'package:flutter/material.dart';
+import '../../../../core/theme/app_theme.dart';
+
+enum PaymentMethod { card, cod }
+
+class PaymentSelector extends StatelessWidget {
+  final PaymentMethod selectedMethod;
+  final ValueChanged<PaymentMethod> onMethodChanged;
+
+  const PaymentSelector({
+    super.key,
+    required this.selectedMethod,
+    required this.onMethodChanged,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      padding: const EdgeInsets.all(20),
+      decoration: BoxDecoration(
+        color: Colors.white,
+        borderRadius: BorderRadius.circular(16),
+        boxShadow: [
+          BoxShadow(
+            color: Colors.grey.withOpacity(0.05),
+            blurRadius: 10,
+            offset: const Offset(0, 5),
+          ),
+        ],
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          const Row(
+            children: [
+              Icon(Icons.payment, color: AppTheme.primaryGreen),
+              SizedBox(width: 8),
+              Text(
+                "Payment Method",
+                style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16),
+              ),
+            ],
+          ),
+          const SizedBox(height: 16),
+          _buildOption(
+            context,
+            title: "Credit/Debit Card (Razorpay)",
+            icon: Icons.credit_card,
+            value: PaymentMethod.card,
+          ),
+          const SizedBox(height: 12),
+          _buildOption(
+            context,
+            title: "Cash on Delivery",
+            icon: Icons.money,
+            value: PaymentMethod.cod,
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildOption(
+    BuildContext context, {
+    required String title,
+    required IconData icon,
+    required PaymentMethod value,
+  }) {
+    final isSelected = selectedMethod == value;
+    return GestureDetector(
+      onTap: () => onMethodChanged(value),
+      child: Container(
+        padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+        decoration: BoxDecoration(
+          color: isSelected ? AppTheme.primaryGreen.withOpacity(0.05) : Colors.white,
+          border: Border.all(
+            color: isSelected ? AppTheme.primaryGreen : Colors.grey[200]!,
+            width: isSelected ? 2 : 1,
+          ),
+          borderRadius: BorderRadius.circular(12),
+        ),
+        child: Row(
+          children: [
+            Icon(icon, color: isSelected ? AppTheme.primaryGreen : Colors.grey),
+            const SizedBox(width: 12),
+            Expanded(
+              child: Text(
+                title,
+                style: TextStyle(
+                  fontWeight: isSelected ? FontWeight.bold : FontWeight.normal,
+                  color: isSelected ? AppTheme.primaryGreen : Colors.black87,
+                ),
+              ),
+            ),
+            if (isSelected)
+              const Icon(Icons.check_circle, color: AppTheme.primaryGreen, size: 20),
+          ],
+        ),
+      ),
+    );
+  }
+}
+==================================================
+
+FILE: lib\features\home\presentation\home_screen.dart
+--------------------------------------------------
+import 'package:flutter/material.dart';
+import 'package:go_router/go_router.dart'; // <--- IMPORTANT: Needed for navigation
+import '../../../../core/theme/app_theme.dart';
+import 'widgets/banner_slider.dart';
+import 'widgets/product_grid.dart';
+
+class HomeScreen extends StatelessWidget {
+  const HomeScreen({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      body: SafeArea(
+        child: SingleChildScrollView(
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              // 1. Header (Location & Profile)
+              Padding(
+                padding: const EdgeInsets.all(16.0),
+                child: Row(
+                  children: [
+                    const Icon(Icons.location_on, color: AppTheme.primaryGreen),
+                    const SizedBox(width: 8),
+                    const Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Text(
+                          "New York, NY",
+                          style: TextStyle(
+                            fontWeight: FontWeight.bold,
+                            fontSize: 16,
+                            color: AppTheme.textDark,
+                          ),
+                        ),
+                      ],
+                    ),
+                    const Spacer(),
+                    Container(
+                      decoration: BoxDecoration(
+                        color: Colors.white,
+                        shape: BoxShape.circle,
+                        boxShadow: [
+                          BoxShadow(
+                            color: Colors.grey.withOpacity(0.1),
+                            blurRadius: 10,
+                            offset: const Offset(0, 5),
+                          ),
+                        ],
+                      ),
+                      child: IconButton(
+                        icon: const Icon(Icons.notifications_none),
+                        onPressed: () {},
+                        color: AppTheme.textDark,
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+
+              // 2. Search Bar
+              Padding(
+                padding: const EdgeInsets.symmetric(horizontal: 16.0),
+                child: TextField(
+                  decoration: InputDecoration(
+                    hintText: "Search for products...",
+                    prefixIcon: const Icon(Icons.search, color: Colors.grey),
+                    suffixIcon: Container(
+                      margin: const EdgeInsets.all(8),
+                      padding: const EdgeInsets.all(8),
+                      decoration: const BoxDecoration(
+                        color: AppTheme.primaryGreen,
+                        shape: BoxShape.circle,
+                      ),
+                      child: const Icon(Icons.mic, color: Colors.white, size: 20),
+                    ),
+                    fillColor: Colors.white,
+                    filled: true,
+                    border: OutlineInputBorder(
+                      borderRadius: BorderRadius.circular(30),
+                      borderSide: BorderSide.none,
+                    ),
+                    contentPadding: const EdgeInsets.symmetric(horizontal: 20, vertical: 16),
+                  ),
+                ),
+              ),
+
+              const SizedBox(height: 24),
+
+              // 3. Banner Slider
+              const BannerSlider(),
+
+              const SizedBox(height: 24),
+
+              // 4. Categories Grid
+              const Padding(
+                padding: EdgeInsets.symmetric(horizontal: 16.0),
+                child: Text(
+                  "Categories",
+                  style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
+                ),
+              ),
+              const SizedBox(height: 16),
+              _buildCategoryGrid(context), // Passed context here
+
+              const SizedBox(height: 24),
+
+              // 5. Featured Products
+              const Padding(
+                padding: EdgeInsets.symmetric(horizontal: 16.0),
+                child: Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  children: [
+                    Text(
+                      "Featured Products",
+                      style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
+                    ),
+                    Text(
+                      "See All",
+                      style: TextStyle(color: AppTheme.primaryGreen, fontWeight: FontWeight.w600),
+                    ),
+                  ],
+                ),
+              ),
+              const SizedBox(height: 16),
+              
+              const ProductGrid(),
+
+              const SizedBox(height: 80), // Bottom spacing for FAB/Nav
+            ],
+          ),
+        ),
+      ),
+      
+      // 6. Bottom Navigation Bar (NOW FIXED)
+      bottomNavigationBar: Container(
+        decoration: BoxDecoration(
+          color: Colors.white,
+          boxShadow: [
+            BoxShadow(
+              color: Colors.grey.withOpacity(0.1),
+              blurRadius: 20,
+              offset: const Offset(0, -5),
+            ),
+          ],
+        ),
+        child: BottomNavigationBar(
+          currentIndex: 0, // Always highlight Home for now
+          backgroundColor: Colors.white,
+          selectedItemColor: AppTheme.primaryGreen,
+          unselectedItemColor: Colors.grey,
+          type: BottomNavigationBarType.fixed,
+          showUnselectedLabels: true,
+          elevation: 0,
+          onTap: (index) {
+            // <--- THIS WAS MISSING
+            switch (index) {
+              case 0:
+                // Stay on Home
+                break;
+              case 1:
+                context.push('/categories'); // Go to Categories
+                break;
+              case 2:
+                context.push('/cart');       // Go to Cart
+                break;
+              case 3:
+                context.push('/orders');     // Go to Orders
+                break;
+              case 4:
+                context.push('/profile');    // Go to Profile
+                break;
+            }
+          },
+          items: const [
+            BottomNavigationBarItem(icon: Icon(Icons.home), label: "Home"),
+            BottomNavigationBarItem(icon: Icon(Icons.grid_view), label: "Categories"),
+            BottomNavigationBarItem(icon: Icon(Icons.shopping_cart), label: "Cart"),
+            BottomNavigationBarItem(icon: Icon(Icons.receipt_long), label: "Orders"),
+            BottomNavigationBarItem(icon: Icon(Icons.person_outline), label: "Profile"),
+          ],
+        ),
+      ),
+    );
+  }
+
+  Widget _buildCategoryGrid(BuildContext context) {
+    final categories = [
+      {"name": "Fruits", "icon": "🍎"},
+      {"name": "Vegetables", "icon": "🥕"},
+      {"name": "Dairy", "icon": "🥛"},
+      {"name": "Bakery", "icon": "🥐"},
+      {"name": "Meat", "icon": "🥩"},
+      {"name": "Beverages", "icon": "🥤"},
+      {"name": "Snacks", "icon": "🍪"},
+      {"name": "Household", "icon": "🧹"},
+    ];
+
+    return SizedBox(
+      height: 220,
+      child: GridView.builder(
+        padding: const EdgeInsets.symmetric(horizontal: 16),
+        physics: const NeverScrollableScrollPhysics(),
+        gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+          crossAxisCount: 4,
+          childAspectRatio: 0.8,
+          crossAxisSpacing: 16,
+          mainAxisSpacing: 16,
+        ),
+        itemCount: categories.length,
+        itemBuilder: (context, index) {
+          return GestureDetector(
+            onTap: () {
+               // Optional: Make these icons clickable too!
+               context.push('/categories'); 
+            },
+            child: Column(
+              children: [
+                Container(
+                  height: 60,
+                  width: 60,
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    borderRadius: BorderRadius.circular(12),
+                    boxShadow: [
+                      BoxShadow(
+                        color: Colors.grey.withOpacity(0.05),
+                        blurRadius: 10,
+                        offset: const Offset(0, 5),
+                      ),
+                    ],
+                  ),
+                  child: Center(
+                    child: Text(
+                      categories[index]["icon"]!,
+                      style: const TextStyle(fontSize: 24),
+                    ),
+                  ),
+                ),
+                const SizedBox(height: 8),
+                Text(
+                  categories[index]["name"]!,
+                  style: const TextStyle(fontSize: 12, fontWeight: FontWeight.w500),
+                  textAlign: TextAlign.center,
+                  maxLines: 1,
+                ),
+              ],
+            ),
+          );
+        },
+      ),
+    );
+  }
+}
+==================================================
+
+FILE: lib\features\home\presentation\screens\categories_screen.dart
+--------------------------------------------------
+import 'package:flutter/material.dart';
+import 'package:go_router/go_router.dart';
+import '../../../../core/theme/app_theme.dart';
+
+class CategoriesScreen extends StatelessWidget {
+  const CategoriesScreen({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    // Mock Data for Categories
+    final categories = [
+      {'name': 'Fruits', 'icon': Icons.apple, 'color': Colors.red},
+      {'name': 'Vegetables', 'icon': Icons.grass, 'color': Colors.green},
+      {'name': 'Dairy', 'icon': Icons.egg, 'color': Colors.orange},
+      {'name': 'Bakery', 'icon': Icons.breakfast_dining, 'color': Colors.brown},
+      {'name': 'Beverages', 'icon': Icons.local_drink, 'color': Colors.blue},
+      {'name': 'Snacks', 'icon': Icons.fastfood, 'color': Colors.purple},
+    ];
+
+    return Scaffold(
+      appBar: AppBar(title: const Text("All Categories")),
+      body: GridView.builder(
+        padding: const EdgeInsets.all(16),
+        gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+          crossAxisCount: 2,
+          crossAxisSpacing: 16,
+          mainAxisSpacing: 16,
+          childAspectRatio: 1.1,
+        ),
+        itemCount: categories.length,
+        itemBuilder: (context, index) {
+          final cat = categories[index];
+          return GestureDetector(
+            onTap: () {
+              // Later: Navigate to product list
+              ScaffoldMessenger.of(context).showSnackBar(
+                SnackBar(content: Text("Selected: ${cat['name']}")),
+              );
+            },
+            child: Container(
+              decoration: BoxDecoration(
+                color: (cat['color'] as Color).withOpacity(0.1),
+                borderRadius: BorderRadius.circular(16),
+                border: Border.all(color: (cat['color'] as Color).withOpacity(0.3)),
+              ),
+              child: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  Icon(cat['icon'] as IconData, size: 48, color: cat['color'] as Color),
+                  const SizedBox(height: 12),
+                  Text(
+                    cat['name'] as String,
+                    style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 16),
+                  ),
+                ],
+              ),
+            ),
+          );
+        },
+      ),
+    );
+  }
+}
+==================================================
+
+FILE: lib\features\home\presentation\screens\category_products_screen.dart
+--------------------------------------------------
+import 'package:flutter/material.dart';
+import '../../../../core/theme/app_theme.dart';
+import '../widgets/product_grid.dart';
+
+class CategoryProductsScreen extends StatelessWidget {
+  final String categoryName;
+
+  const CategoryProductsScreen({super.key, required this.categoryName});
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text(categoryName),
+        leading: IconButton(
+          icon: const Icon(Icons.arrow_back),
+          onPressed: () => Navigator.pop(context),
+        ),
+      ),
+      body: SingleChildScrollView(
+        padding: const EdgeInsets.all(16),
+        child: Column(
+          children: [
+            // Reusing the existing ProductGrid
+            // In a real app, you would pass the category ID to filter the grid
+            const ProductGrid(),
+          ],
+        ),
+      ),
+    );
+  }
+}
+==================================================
+
+FILE: lib\features\home\presentation\widgets\banner_slider.dart
+--------------------------------------------------
+import 'package:carousel_slider/carousel_slider.dart';
+import 'package:flutter/material.dart';
+import '../../../../core/theme/app_theme.dart';
+
+class BannerSlider extends StatelessWidget {
+  const BannerSlider({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    final List<String> banners = [
+      "https://img.freepik.com/free-photo/vegetables-set-left-black-slate_1220-685.jpg",
+      "https://img.freepik.com/free-photo/healthy-vegetables-wooden-table_1150-38014.jpg",
+      "https://img.freepik.com/free-photo/fresh-fruit-stalls-san-miguel-market_53876-146829.jpg",
+    ];
+
+    return CarouselSlider(
+      options: CarouselOptions(
+        height: 180.0,
+        autoPlay: true,
+        enlargeCenterPage: true,
+        aspectRatio: 16 / 9,
+        autoPlayCurve: Curves.fastOutSlowIn,
+        enableInfiniteScroll: true,
+        autoPlayAnimationDuration: const Duration(milliseconds: 800),
+        viewportFraction: 0.92,
+      ),
+      items: banners.map((imageUrl) {
+        return Builder(
+          builder: (BuildContext context) {
+            return Container(
+              width: MediaQuery.of(context).size.width,
+              margin: const EdgeInsets.symmetric(horizontal: 5.0),
+              decoration: BoxDecoration(
+                color: AppTheme.primaryGreen,
+                borderRadius: BorderRadius.circular(16.0),
+                image: DecorationImage(
+                  image: NetworkImage(imageUrl),
+                  fit: BoxFit.cover,
+                  colorFilter: ColorFilter.mode(
+                    Colors.black.withOpacity(0.3),
+                    BlendMode.darken,
+                  ),
+                ),
+              ),
+              child: Padding(
+                padding: const EdgeInsets.all(20.0),
+                child: Column(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    const Text(
+                      "Fresh Grocery Sale",
+                      style: TextStyle(
+                        color: Colors.white,
+                        fontSize: 18,
+                        fontWeight: FontWeight.w500,
+                      ),
+                    ),
+                    const SizedBox(height: 8),
+                    const Text(
+                      "Up to 30% OFF",
+                      style: TextStyle(
+                        color: Colors.white,
+                        fontSize: 28,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                    const SizedBox(height: 16),
+                    ElevatedButton(
+                      onPressed: () {},
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: Colors.white,
+                        foregroundColor: AppTheme.primaryGreen,
+                        padding: const EdgeInsets.symmetric(
+                            horizontal: 24, vertical: 10),
+                        minimumSize: const Size(100, 40),
+                      ),
+                      child: const Text("Shop Now"),
+                    ),
+                  ],
+                ),
+              ),
+            );
+          },
+        );
+      }).toList(),
+    );
+  }
+}
+==================================================
+
+FILE: lib\features\home\presentation\widgets\product_grid.dart
+--------------------------------------------------
+import 'package:flutter/material.dart';
+import '../../../../core/theme/app_theme.dart';
+
+class ProductGrid extends StatelessWidget {
+  const ProductGrid({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    final products = [
+      {
+        "name": "Organic Apples",
+        "price": "\$2.99",
+        "oldPrice": "\$3.75",
+        "discount": "20% OFF",
+        "image": "https://img.freepik.com/free-photo/red-apples-isolated-white-background_1232-2975.jpg"
+      },
+      {
+        "name": "Farm Fresh Milk",
+        "price": "\$1.99",
+        "oldPrice": "\$2.35",
+        "discount": "15% OFF",
+        "image": "https://img.freepik.com/free-photo/milk-glass-bottle_144627-16982.jpg"
+      },
+      {
+        "name": "Whole Grain Bread",
+        "price": "\$1.49",
+        "oldPrice": "\$1.99",
+        "discount": "25% OFF",
+        "image": "https://img.freepik.com/free-photo/loaf-bread_144627-13350.jpg"
+      },
+      {
+        "name": "Fresh Strawberries",
+        "price": "\$4.99",
+        "oldPrice": "\$5.89",
+        "discount": "15% OFF",
+        "image": "https://img.freepik.com/free-photo/strawberries-white-background_144627-13374.jpg"
+      },
+    ];
+
+    return GridView.builder(
+      padding: const EdgeInsets.symmetric(horizontal: 16),
+      shrinkWrap: true,
+      physics: const NeverScrollableScrollPhysics(),
+      itemCount: products.length,
+      gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+        crossAxisCount: 2,
+        childAspectRatio: 0.70,
+        crossAxisSpacing: 16,
+        mainAxisSpacing: 16,
+      ),
+      itemBuilder: (context, index) {
+        final product = products[index];
+        return Container(
+          decoration: BoxDecoration(
+            color: Colors.white,
+            borderRadius: BorderRadius.circular(16),
+            boxShadow: [
+              BoxShadow(
+                color: Colors.grey.withOpacity(0.08),
+                spreadRadius: 2,
+                blurRadius: 10,
+                offset: const Offset(0, 2),
+              ),
+            ],
+          ),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Expanded(
+                child: Stack(
+                  children: [
+                    Container(
+                      width: double.infinity,
+                      decoration: BoxDecoration(
+                        borderRadius: const BorderRadius.vertical(top: Radius.circular(16)),
+                        image: DecorationImage(
+                          image: NetworkImage(product["image"]!),
+                          fit: BoxFit.cover,
+                        ),
+                      ),
+                    ),
+                    Positioned(
+                      top: 8,
+                      left: 8,
+                      child: Container(
+                        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                        decoration: BoxDecoration(
+                          color: Colors.redAccent,
+                          borderRadius: BorderRadius.circular(4),
+                        ),
+                        child: Text(
+                          product["discount"]!,
+                          style: const TextStyle(
+                            color: Colors.white,
+                            fontSize: 10,
+                            fontWeight: FontWeight.bold,
+                          ),
+                        ),
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+              Padding(
+                padding: const EdgeInsets.all(12.0),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Text(
+                      product["name"]!,
+                      maxLines: 1,
+                      overflow: TextOverflow.ellipsis,
+                      style: const TextStyle(
+                        fontWeight: FontWeight.w600,
+                        fontSize: 15,
+                        color: AppTheme.textDark,
+                      ),
+                    ),
+                    const SizedBox(height: 4),
+                    Row(
+                      children: [
+                        Text(
+                          product["price"]!,
+                          style: const TextStyle(
+                            fontWeight: FontWeight.bold,
+                            fontSize: 16,
+                            color: AppTheme.primaryGreen,
+                          ),
+                        ),
+                        const SizedBox(width: 6),
+                        Text(
+                          product["oldPrice"]!,
+                          style: const TextStyle(
+                            decoration: TextDecoration.lineThrough,
+                            color: Colors.grey,
+                            fontSize: 12,
+                          ),
+                        ),
+                      ],
+                    ),
+                    const SizedBox(height: 10),
+                    SizedBox(
+                      width: double.infinity,
+                      height: 36,
+                      child: ElevatedButton(
+                        onPressed: () {},
+                        style: ElevatedButton.styleFrom(
+                          backgroundColor: AppTheme.primaryGreen,
+                          padding: EdgeInsets.zero,
+                          shape: RoundedRectangleBorder(
+                            borderRadius: BorderRadius.circular(8),
+                          ),
+                        ),
+                        child: const Text(
+                          "+ Add",
+                          style: TextStyle(fontSize: 14),
+                        ),
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ],
+          ),
+        );
+      },
+    );
+  }
+}
+==================================================
+
+FILE: lib\features\orders\presentation\order_list_screen.dart
+--------------------------------------------------
+import 'package:flutter/material.dart';
+import 'package:go_router/go_router.dart';
+import 'package:intl/intl.dart';
+import '../../../../core/theme/app_theme.dart';
+
+class OrderListScreen extends StatefulWidget {
+  const OrderListScreen({super.key});
+
+  @override
+  State<OrderListScreen> createState() => _OrderListScreenState();
+}
+
+class _OrderListScreenState extends State<OrderListScreen> with SingleTickerProviderStateMixin {
+  late TabController _tabController;
+
+  final List<Map<String, dynamic>> _orders = [
+    {
+      "id": "#12345",
+      "date": DateTime.now().subtract(const Duration(hours: 2)),
+      "total": 46.50,
+      "status": "In Progress",
+      "items": "Organic Apples, Fresh Milk, Bread",
+      "statusColor": Colors.orange,
+    },
+    {
+      "id": "#12344",
+      "date": DateTime.now().subtract(const Duration(days: 1)),
+      "total": 120.00,
+      "status": "Delivered",
+      "items": "Vegetable Mix, Chicken, Eggs, Butter",
+      "statusColor": AppTheme.primaryGreen,
+    },
+    {
+      "id": "#12343",
+      "date": DateTime.now().subtract(const Duration(days: 3)),
+      "total": 15.75,
+      "status": "Cancelled",
+      "items": "Snacks, Soda",
+      "statusColor": Colors.red,
+    },
+  ];
+
+  @override
+  void initState() {
+    super.initState();
+    _tabController = TabController(length: 2, vsync: this);
+  }
+
+  @override
+  void dispose() {
+    _tabController.dispose();
+    super.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text("My Orders"),
+        bottom: TabBar(
+          controller: _tabController,
+          labelColor: AppTheme.primaryGreen,
+          unselectedLabelColor: Colors.grey,
+          indicatorColor: AppTheme.primaryGreen,
+          tabs: const [
+            Tab(text: "Active"),
+            Tab(text: "History"),
+          ],
+        ),
+      ),
+      body: TabBarView(
+        controller: _tabController,
+        children: [
+          _buildOrderList(isActive: true),
+          _buildOrderList(isActive: false),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildOrderList({required bool isActive}) {
+    final filteredOrders = _orders.where((order) {
+      final status = order['status'] as String;
+      return isActive 
+          ? (status == "In Progress" || status == "Shipped")
+          : (status == "Delivered" || status == "Cancelled");
+    }).toList();
+
+    if (filteredOrders.isEmpty) {
+      return Center(
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Icon(Icons.receipt_long, size: 80, color: Colors.grey[300]),
+            const SizedBox(height: 16),
+            Text(
+              isActive ? "No active orders" : "No past orders",
+              style: const TextStyle(color: Colors.grey, fontSize: 16),
+            ),
+          ],
+        ),
+      );
+    }
+
+    return ListView.separated(
+      padding: const EdgeInsets.all(16),
+      itemCount: filteredOrders.length,
+      separatorBuilder: (_, __) => const SizedBox(height: 16),
+      itemBuilder: (context, index) {
+        final order = filteredOrders[index];
+        return GestureDetector(
+          onTap: () {
+            context.push('/tracking/${order['id']}');
+          },
+          child: Container(
+            padding: const EdgeInsets.all(16),
+            decoration: BoxDecoration(
+              color: Colors.white,
+              borderRadius: BorderRadius.circular(16),
+              boxShadow: [
+                BoxShadow(
+                  color: Colors.grey.withOpacity(0.05),
+                  blurRadius: 10,
+                  offset: const Offset(0, 5),
+                ),
+              ],
+            ),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  children: [
+                    Text(
+                      "Order ${order['id']}",
+                      style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 16),
+                    ),
+                    Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+                      decoration: BoxDecoration(
+                        color: (order['statusColor'] as Color).withOpacity(0.1),
+                        borderRadius: BorderRadius.circular(8),
+                      ),
+                      child: Text(
+                        order['status'],
+                        style: TextStyle(
+                          color: order['statusColor'],
+                          fontWeight: FontWeight.bold,
+                          fontSize: 12,
+                        ),
+                      ),
+                    ),
+                  ],
+                ),
+                const SizedBox(height: 12),
+                Text(
+                  order['items'],
+                  style: const TextStyle(color: Colors.grey, fontSize: 14),
+                  maxLines: 1,
+                  overflow: TextOverflow.ellipsis,
+                ),
+                const SizedBox(height: 12),
+                const Divider(),
+                const SizedBox(height: 8),
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  children: [
+                    Text(
+                      DateFormat('MMM dd, yyyy').format(order['date']),
+                      style: const TextStyle(color: Colors.grey, fontSize: 12),
+                    ),
+                    Text(
+                      "\$${order['total'].toStringAsFixed(2)}",
+                      style: const TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 16,
+                        color: AppTheme.textDark,
+                      ),
+                    ),
+                  ],
+                ),
+                if (isActive) ...[
+                  const SizedBox(height: 16),
+                  SizedBox(
+                    width: double.infinity,
+                    child: OutlinedButton(
+                      onPressed: () {
+                        context.push('/tracking/${order['id']}');
+                      },
+                      style: OutlinedButton.styleFrom(
+                        side: const BorderSide(color: AppTheme.primaryGreen),
+                        foregroundColor: AppTheme.primaryGreen,
+                      ),
+                      child: const Text("Track Order"),
+                    ),
+                  ),
+                ],
+              ],
+            ),
+          ),
+        );
+      },
+    );
+  }
+}
+==================================================
+
+FILE: lib\features\orders\presentation\order_tracking_screen.dart
+--------------------------------------------------
+import 'package:flutter/material.dart';
+import 'package:go_router/go_router.dart';
+import '../../../../core/theme/app_theme.dart';
+
+class OrderTrackingScreen extends StatelessWidget {
+  final String orderId;
+
+  const OrderTrackingScreen({super.key, required this.orderId});
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      extendBodyBehindAppBar: true,
+      appBar: AppBar(
+        backgroundColor: Colors.transparent,
+        elevation: 0,
+        leading: CircleAvatar(
+          backgroundColor: Colors.white,
+          child: IconButton(
+            icon: const Icon(Icons.arrow_back, color: Colors.black),
+            onPressed: () => context.pop(),
+          ),
+        ),
+        title: Container(
+          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+          decoration: BoxDecoration(
+            color: Colors.white,
+            borderRadius: BorderRadius.circular(20),
+          ),
+          child: Text(
+            "Order $orderId",
+            style: const TextStyle(
+              color: Colors.black,
+              fontSize: 14,
+              fontWeight: FontWeight.bold,
+            ),
+          ),
+        ),
+        centerTitle: true,
+      ),
+      body: Stack(
+        children: [
+          // 1. Simulated Map Background
+          Container(
+            width: double.infinity,
+            height: MediaQuery.of(context).size.height * 0.6,
+            decoration: const BoxDecoration(
+              color: Color(0xFFE5E5E5), // Light Grey Map color
+              image: DecorationImage(
+                image: NetworkImage("https://img.freepik.com/free-vector/city-map-navigation-interface-design_1017-15494.jpg"),
+                fit: BoxFit.cover,
+                opacity: 0.8,
+              ),
+            ),
+            child: const Center(
+              child: Icon(Icons.location_on, color: AppTheme.primaryGreen, size: 48),
+            ),
+          ),
+
+          // 2. Tracking Sheet
+          Align(
+            alignment: Alignment.bottomCenter,
+            child: Container(
+              height: MediaQuery.of(context).size.height * 0.5,
+              padding: const EdgeInsets.all(24),
+              decoration: const BoxDecoration(
+                color: Colors.white,
+                borderRadius: BorderRadius.vertical(top: Radius.circular(30)),
+                boxShadow: [
+                  BoxShadow(
+                    color: Colors.black12,
+                    blurRadius: 20,
+                    offset: Offset(0, -5),
+                  ),
+                ],
+              ),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Center(
+                    child: Container(
+                      width: 50,
+                      height: 5,
+                      decoration: BoxDecoration(
+                        color: Colors.grey[300],
+                        borderRadius: BorderRadius.circular(10),
+                      ),
+                    ),
+                  ),
+                  const SizedBox(height: 24),
+                  const Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                    children: [
+                      Text(
+                        "Estimated Delivery",
+                        style: TextStyle(color: Colors.grey),
+                      ),
+                      Text(
+                        "30-45 Mins",
+                        style: TextStyle(fontWeight: FontWeight.bold),
+                      ),
+                    ],
+                  ),
+                  const SizedBox(height: 8),
+                  const Text(
+                    "On the way",
+                    style: TextStyle(
+                      fontSize: 24,
+                      fontWeight: FontWeight.bold,
+                      color: AppTheme.textDark,
+                    ),
+                  ),
+                  const SizedBox(height: 24),
+                  Expanded(
+                    child: ListView(
+                      padding: EdgeInsets.zero,
+                      children: [
+                        _buildTimelineStep(
+                          title: "Order Placed",
+                          time: "10:30 AM",
+                          isCompleted: true,
+                          isFirst: true,
+                        ),
+                        _buildTimelineStep(
+                          title: "Order Confirmed",
+                          time: "10:35 AM",
+                          isCompleted: true,
+                        ),
+                        _buildTimelineStep(
+                          title: "Order Prepared",
+                          time: "10:50 AM",
+                          isCompleted: true,
+                        ),
+                        _buildTimelineStep(
+                          title: "Out for Delivery",
+                          time: "11:05 AM",
+                          isCompleted: true,
+                          isActive: true,
+                        ),
+                        _buildTimelineStep(
+                          title: "Delivered",
+                          time: "Est. 11:20 AM",
+                          isCompleted: false,
+                          isLast: true,
+                        ),
+                      ],
+                    ),
+                  ),
+                  const SizedBox(height: 16),
+                  
+                  // Driver Info
+                  Row(
+                    children: [
+                      Container(
+                        width: 50,
+                        height: 50,
+                        decoration: BoxDecoration(
+                          color: Colors.grey[200],
+                          shape: BoxShape.circle,
+                          image: const DecorationImage(
+                            image: NetworkImage("https://img.freepik.com/free-photo/young-delivery-man-red-uniform-holding-box_144627-29357.jpg"),
+                            fit: BoxFit.cover,
+                          ),
+                        ),
+                      ),
+                      const SizedBox(width: 16),
+                      const Expanded(
+                        child: Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            Text(
+                              "Michael Smith",
+                              style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16),
+                            ),
+                            Text(
+                              "Delivery Partner",
+                              style: TextStyle(color: Colors.grey, fontSize: 12),
+                            ),
+                          ],
+                        ),
+                      ),
+                      CircleAvatar(
+                        backgroundColor: AppTheme.primaryGreen,
+                        child: IconButton(
+                          icon: const Icon(Icons.phone, color: Colors.white),
+                          onPressed: () {},
+                        ),
+                      ),
+                    ],
+                  ),
+                ],
+              ),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildTimelineStep({
+    required String title,
+    required String time,
+    required bool isCompleted,
+    bool isActive = false,
+    bool isFirst = false,
+    bool isLast = false,
+  }) {
+    return Row(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Column(
+          children: [
+            if (!isFirst)
+              Container(
+                width: 2,
+                height: 20,
+                color: isCompleted ? AppTheme.primaryGreen : Colors.grey[300],
+              ),
+            Container(
+              width: 16,
+              height: 16,
+              decoration: BoxDecoration(
+                color: isActive || isCompleted ? AppTheme.primaryGreen : Colors.white,
+                shape: BoxShape.circle,
+                border: Border.all(
+                  color: isActive || isCompleted ? AppTheme.primaryGreen : Colors.grey[300]!,
+                  width: 2,
+                ),
+              ),
+              child: isActive
+                  ? Center(
+                      child: Container(
+                        width: 6,
+                        height: 6,
+                        decoration: const BoxDecoration(
+                          color: Colors.white,
+                          shape: BoxShape.circle,
+                        ),
+                      ),
+                    )
+                  : null,
+            ),
+            if (!isLast)
+              Container(
+                width: 2,
+                height: 20,
+                color: isCompleted ? AppTheme.primaryGreen : Colors.grey[300],
+              ),
+          ],
+        ),
+        const SizedBox(width: 16),
+        Expanded(
+          child: Padding(
+            padding: const EdgeInsets.only(bottom: 16.0),
+            child: Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: [
+                Text(
+                  title,
+                  style: TextStyle(
+                    fontWeight: isCompleted || isActive ? FontWeight.bold : FontWeight.normal,
+                    color: isCompleted || isActive ? Colors.black : Colors.grey,
+                  ),
+                ),
+                Text(
+                  time,
+                  style: const TextStyle(color: Colors.grey, fontSize: 12),
+                ),
+              ],
+            ),
+          ),
+        ),
+      ],
+    );
+  }
+}
+==================================================
+
+FILE: lib\features\product_details\presentation\product_detail_screen.dart
+--------------------------------------------------
+import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:go_router/go_router.dart';
+import '../../../../core/theme/app_theme.dart';
+import '../../cart/domain/entities/cart_item.dart';
+import '../../cart/presentation/providers/cart_provider.dart';
+
+class ProductDetailScreen extends ConsumerStatefulWidget {
+  final Map<String, dynamic> product;
+
+  const ProductDetailScreen({super.key, required this.product});
+
+  @override
+  ConsumerState<ProductDetailScreen> createState() => _ProductDetailScreenState();
+}
+
+class _ProductDetailScreenState extends ConsumerState<ProductDetailScreen> {
+  int _quantity = 1;
+
+  void _addToCart() {
+    final priceString = widget.product['price'].toString().replaceAll('\$', '');
+    final price = double.tryParse(priceString) ?? 0.0;
+
+    final cartItem = CartItem(
+      productId: widget.product['name'], 
+      name: widget.product['name'],
+      price: price,
+      image: widget.product['image'],
+      quantity: _quantity,
+    );
+
+    ref.read(cartProvider.notifier).addItem(cartItem);
+
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(
+        content: Text("${widget.product['name']} added to cart"),
+        backgroundColor: AppTheme.primaryGreen,
+        behavior: SnackBarBehavior.floating,
+      ),
+    );
+    
+    context.pop();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      body: Stack(
+        children: [
+          Container(
+            height: MediaQuery.of(context).size.height * 0.45,
+            width: double.infinity,
+            decoration: BoxDecoration(
+              color: Colors.grey[100],
+              image: DecorationImage(
+                image: NetworkImage(widget.product['image']),
+                fit: BoxFit.cover,
+              ),
+            ),
+          ),
+          SafeArea(
+            child: Padding(
+              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                children: [
+                  CircleAvatar(
+                    backgroundColor: Colors.white,
+                    child: IconButton(
+                      icon: const Icon(Icons.arrow_back, color: Colors.black),
+                      onPressed: () => context.pop(),
+                    ),
+                  ),
+                  CircleAvatar(
+                    backgroundColor: Colors.white,
+                    child: IconButton(
+                      icon: const Icon(Icons.favorite_border, color: Colors.red),
+                      onPressed: () {},
+                    ),
+                  ),
+                ],
+              ),
+            ),
+          ),
+          Align(
+            alignment: Alignment.bottomCenter,
+            child: Container(
+              height: MediaQuery.of(context).size.height * 0.6,
+              padding: const EdgeInsets.all(24),
+              decoration: const BoxDecoration(
+                color: Colors.white,
+                borderRadius: BorderRadius.vertical(top: Radius.circular(32)),
+                boxShadow: [
+                  BoxShadow(
+                    color: Colors.black12,
+                    blurRadius: 20,
+                    offset: Offset(0, -5),
+                  ),
+                ],
+              ),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Center(
+                    child: Container(
+                      width: 50,
+                      height: 5,
+                      decoration: BoxDecoration(
+                        color: Colors.grey[300],
+                        borderRadius: BorderRadius.circular(10),
+                      ),
+                    ),
+                  ),
+                  const SizedBox(height: 24),
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                    children: [
+                      Container(
+                        padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
+                        decoration: BoxDecoration(
+                          color: AppTheme.primaryGreen.withOpacity(0.1),
+                          borderRadius: BorderRadius.circular(10),
+                        ),
+                        child: Text(
+                          widget.product['discount'] ?? "Best Value",
+                          style: const TextStyle(
+                            color: AppTheme.primaryGreen,
+                            fontWeight: FontWeight.bold,
+                            fontSize: 12,
+                          ),
+                        ),
+                      ),
+                      const Row(
+                        children: [
+                          Icon(Icons.star, color: Colors.amber, size: 20),
+                          SizedBox(width: 4),
+                          Text(
+                            "4.8",
+                            style: TextStyle(fontWeight: FontWeight.bold),
+                          ),
+                          Text(
+                            " (2.3k reviews)",
+                            style: TextStyle(color: Colors.grey, fontSize: 12),
+                          ),
+                        ],
+                      ),
+                    ],
+                  ),
+                  const SizedBox(height: 16),
+                  Text(
+                    widget.product['name'],
+                    style: Theme.of(context).textTheme.headlineMedium,
+                  ),
+                  const SizedBox(height: 8),
+                  const Text(
+                    "1kg, Price",
+                    style: TextStyle(color: Colors.grey, fontSize: 16),
+                  ),
+                  const SizedBox(height: 24),
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                    children: [
+                      Row(
+                        children: [
+                          Container(
+                            decoration: BoxDecoration(
+                              border: Border.all(color: Colors.grey[300]!),
+                              borderRadius: BorderRadius.circular(12),
+                            ),
+                            child: IconButton(
+                              icon: const Icon(Icons.remove),
+                              onPressed: () {
+                                if (_quantity > 1) {
+                                  setState(() => _quantity--);
+                                }
+                              },
+                            ),
+                          ),
+                          Padding(
+                            padding: const EdgeInsets.symmetric(horizontal: 20),
+                            child: Text(
+                              "$_quantity",
+                              style: const TextStyle(
+                                fontSize: 20,
+                                fontWeight: FontWeight.bold,
+                              ),
+                            ),
+                          ),
+                          Container(
+                            decoration: BoxDecoration(
+                              color: AppTheme.primaryGreen,
+                              borderRadius: BorderRadius.circular(12),
+                            ),
+                            child: IconButton(
+                              icon: const Icon(Icons.add, color: Colors.white),
+                              onPressed: () {
+                                setState(() => _quantity++);
+                              },
+                            ),
+                          ),
+                        ],
+                      ),
+                      Text(
+                        widget.product['price'],
+                        style: const TextStyle(
+                          fontSize: 28,
+                          fontWeight: FontWeight.bold,
+                          color: AppTheme.textDark,
+                        ),
+                      ),
+                    ],
+                  ),
+                  const SizedBox(height: 32),
+                  const Text(
+                    "Product Details",
+                    style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
+                  ),
+                  const SizedBox(height: 12),
+                  Expanded(
+                    child: SingleChildScrollView(
+                      child: Text(
+                        "Organic and fresh ${widget.product['name']} sourced directly from local farmers. "
+                        "Rich in vitamins and minerals, perfect for your daily healthy diet. "
+                        "Grown without synthetic pesticides or fertilizers.",
+                        style: const TextStyle(color: Colors.grey, height: 1.6),
+                      ),
+                    ),
+                  ),
+                  const SizedBox(height: 16),
+                  SizedBox(
+                    width: double.infinity,
+                    height: 56,
+                    child: ElevatedButton(
+                      onPressed: _addToCart,
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: AppTheme.primaryGreen,
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(16),
+                        ),
+                      ),
+                      child: const Text(
+                        "Add To Cart",
+                        style: TextStyle(
+                          fontSize: 18,
+                          fontWeight: FontWeight.bold,
+                          color: Colors.white,
+                        ),
+                      ),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+}
+==================================================
+
+FILE: lib\features\profile\presentation\profile_screen.dart
+--------------------------------------------------
+import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:go_router/go_router.dart';
+import '../../../../core/theme/app_theme.dart';
+import '../../auth/presentation/providers/auth_provider.dart';
+
+class ProfileScreen extends ConsumerWidget {
+  const ProfileScreen({super.key});
+
+  @override
+  Widget build(BuildContext context, WidgetRef ref) {
+    // Safely get user data or default to Guest
+    final authState = ref.watch(authProvider);
+    final user = authState.user;
+    final name = user != null ? user['name'] : "Guest User";
+    final email = user != null ? user['email'] : "guest@freshmart.com";
+
+    return Scaffold(
+      appBar: AppBar(title: const Text("My Profile")),
+      body: SingleChildScrollView(
+        padding: const EdgeInsets.all(16),
+        child: Column(
+          children: [
+            const SizedBox(height: 20),
+            Center(
+              child: Stack(
+                children: [
+                  const CircleAvatar(
+                    radius: 50,
+                    backgroundColor: AppTheme.primaryGreen,
+                    child: Icon(Icons.person, size: 50, color: Colors.white),
+                  ),
+                  Positioned(
+                    bottom: 0,
+                    right: 0,
+                    child: Container(
+                      padding: const EdgeInsets.all(4),
+                      decoration: const BoxDecoration(
+                        color: Colors.white,
+                        shape: BoxShape.circle,
+                      ),
+                      child: const Icon(Icons.edit, color: AppTheme.primaryGreen, size: 20),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+            const SizedBox(height: 16),
+            Text(
+              "$name",
+              style: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+            ),
+            Text(
+              "$email",
+              style: const TextStyle(color: Colors.grey),
+            ),
+            const SizedBox(height: 32),
+            _buildProfileItem(context, icon: Icons.person_outline, title: "Edit Profile", onTap: () {}),
+            _buildProfileItem(context, icon: Icons.location_on_outlined, title: "Shipping Address", onTap: () {}),
+            _buildProfileItem(context, icon: Icons.history, title: "Order History", onTap: () => context.push('/orders')),
+            const Divider(height: 32),
+            _buildProfileItem(
+              context, 
+              icon: Icons.logout, 
+              title: "Log Out", 
+              color: Colors.red,
+              onTap: () {
+                // Logout Logic
+                context.go('/login');
+              },
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+
+  Widget _buildProfileItem(BuildContext context, {required IconData icon, required String title, required VoidCallback onTap, Color color = Colors.black87}) {
+    return ListTile(
+      leading: Container(
+        padding: const EdgeInsets.all(8),
+        decoration: BoxDecoration(
+          color: color.withOpacity(0.1),
+          borderRadius: BorderRadius.circular(8),
+        ),
+        child: Icon(icon, color: color),
+      ),
+      title: Text(title, style: TextStyle(fontWeight: FontWeight.w500, color: color)),
+      trailing: const Icon(Icons.arrow_forward_ios, size: 16, color: Colors.grey),
+      onTap: onTap,
+      contentPadding: const EdgeInsets.symmetric(vertical: 4),
+    );
+  }
+}
+==================================================
+

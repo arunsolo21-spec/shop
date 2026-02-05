@@ -1,0 +1,186 @@
+🛒 Project Master Plan: Grocery Delivery Platform
+1. Executive Summary & Strategic Vision
+Goal: To build a high-performance, cost-effective grocery delivery ecosystem tailored specifically for the Indian market and emerging economies. Core Philosophy: "Premium Experience, Minimal Cost." The system is engineered to run on low-cost infrastructure (operational cost target: $0–$5/month) while delivering a top-tier user experience.
+
+Target Market Strategy
+Region: India (Tier 1, 2, & 3 cities).
+
+
+Payment Culture: Deep integration of Cash on Delivery (COD) alongside digital payments, acknowledging local preferences.
+
+
+Performance: Optimized for varying internet speeds using lightweight assets and efficient API calls.
+
+2. Technology Stack (The "Vibe Coder" Setup)
+A. Mobile Application (Customer Facing)
+
+Framework: Flutter (Dart) for cross-platform (Android & iOS) from a single codebase.
+
+
+Performance: Targets 60fps animations for a fluid feel.
+
+State Management: Riverpod (for robust, testable state handling).
+
+Local Storage: Hive (for caching cart items and auth tokens offline).
+
+B. Backend API ( The Brain)
+Framework: NestJS (Node.js). Selected for its modular architecture, strict typing (TypeScript), and scalability.
+
+
+Architecture: Monolithic architecture with modular domain separation (Auth, Products, Orders) for easy maintenance.
+
+Validation: Global validation pipes to ensure data integrity before it reaches the database.
+
+C. Database & Infrastructure
+Primary Database: PostgreSQL. Chosen for reliability and built-in features like Full-Text Search (saving the cost of external search engines).
+
+Caching & Queues: Redis. Used for caching frequent API responses and managing background jobs (like order processing).
+
+Containerization: Docker. The entire stack (DB, Redis, API) runs in containers for consistent deployment.
+
+D. External Services (The "Premium" Layer)
+Image Hosting: Cloudinary (Free Tier). Auto-optimizes images for faster loading on mobile networks.
+
+Notifications: Firebase Cloud Messaging (FCM). Free, reliable push notifications for order updates.
+
+Payments: Razorpay. Specialized for Indian payment methods (UPI, Wallets, Cards) with low transaction fees.
+
+3. System Architecture & Data Flow
+1. The Request Flow
+User Action: Customer clicks "Buy Apple" on the Mobile App.
+
+API Call: App sends a secure HTTP request to the NestJS Backend.
+
+
+Security Layer: JwtGuard intercepts the request to verify the user is logged in.
+
+Processing:
+
+OrdersController receives the request.
+
+OrdersService calculates the total price and checks stock.
+
+Data Storage: The order is saved to PostgreSQL.
+
+
+Background Job: An event is pushed to the Redis Queue to handle "post-order" tasks (sending emails, updating inventory) without slowing down the app.
+
+Response: The app receives a "Success" message and updates the UI.
+
+2. The Admin Flow
+Admins use the Flutter Web Dashboard to view these orders in real-time.
+
+They can update status (e.g., "Shipped"), which triggers an FCM Notification to the user's phone.
+
+4. Application Features
+Customer App Features
+Authentication: Phone/Email Login with secure Token management.
+
+Home Dashboard:
+
+Global Search Bar (Text & Voice).
+
+Promotional Banners ("Fresh Grocery Sale").
+
+Category Browsing (Fruits, Veg, Dairy).
+
+
+Smart Cart: Real-time total calculation and local persistence (cart survives app restart).
+
+Checkout:
+
+Address Management (Save multiple delivery addresses).
+
+Payment Selection (Razorpay vs. COD).
+
+Order Tracking: Visual timeline of order status (Confirmed -> Shipped -> Delivered) with Map integration.
+
+Admin Panel Features
+Dashboard: High-level stats (Total Sales, Active Orders).
+
+Inventory Management: Create, Update, and Delete products. Upload images directly to Cloudinary.
+
+
+Order Management: View incoming orders, print invoices, and change delivery status.
+
+5. UI/UX Design Strategy
+Visual Identity: "Fresh & Organic"
+
+Primary Color: Forest Green (#2E7D32) - Symbolizing freshness and nature.
+
+Background: Clean White/Light Grey (#FAFAFA) - To make colorful product images pop.
+
+Typography: Google Fonts (Poppins) - Modern, geometric, and easy to read.
+
+Key UI Patterns:
+
+
+Grid Layouts: Used for products to maximize browsing efficiency.
+
+Bottom Navigation: Easy thumb-reach access to Home, Categories, Cart, and Profile.
+
+Badges: " salami" or "20% OFF" tags in bright red to drive sales.
+
+6. Database Schema (Key Entities)
+1. User Entity
+Stores: Name, Email, Password (Hashed), Phone, Role (Customer/Admin).
+
+Relations: Has many Orders, has many Addresses.
+
+2. Product Entity
+Stores: Name, Description, Price, Discounted Price, Stock Quantity, Image URL, Category ID.
+
+Relations: Belongs to Category.
+
+3. Order Entity
+Stores: Total Amount, Payment Status (Paid/Pending), Order Status (Pending/Delivered), Payment Method (COD/Online).
+
+Relations: Belongs to User, contains multiple OrderItems.
+
+4. OrderItem Entity
+Stores: Product ID, Quantity, Price at time of purchase.
+
+Purpose: Ensures historical record accuracy even if product prices change later.
+
+7. Security & Scalability Protocols
+Security Layers
+JWT Authentication: Stateless login system. Tokens are signed and verified on every request.
+
+
+Role-Based Access Control (RBAC): RolesGuard ensures only Admins can access inventory management or sensitive stats.
+
+
+Environment Validation: The app refuses to start if critical security keys (like API secrets) are missing, preventing accidental leaks.
+
+Scalability Layers
+
+Job Queues: Heavy tasks (like sending 10,000 notifications) are offloaded to background processors so the API remains fast for users.
+
+
+Dockerized: The entire system is packaged in containers, making it easy to deploy to any cloud provider (AWS, DigitalOcean, Azure) without compatibility issues.
+
+8. Finalized Directory Structure
+This structure is designed for Domain-Driven Design (DDD), keeping features isolated and organized.
+
+Backend (NestJS)
+src/common/: Shared logic (Guards, Interceptors, Constants).
+
+src/config/: App configuration and validation.
+
+src/modules/: Feature logic (Auth, Users, Products, Orders).
+
+src/jobs/: Background task processing.
+
+Mobile App (Flutter)
+lib/core/: Global utilities (Network client, Theme, Routing).
+
+lib/features/: Functional modules (Auth, Home, Cart), split into:
+
+data: API calls and models.
+
+domain: Pure business logic and entities.
+
+presentation: UI Screens and State Management.
+
+Admin Panel (Flutter Web)
+lib/features/: Simplified structure focusing on Dashboard tables and Forms.

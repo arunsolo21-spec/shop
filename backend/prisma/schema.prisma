@@ -1,0 +1,177 @@
+// ---------------------------------------------------------
+// 1. CONFIGURATION
+// ---------------------------------------------------------
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// ---------------------------------------------------------
+// 2. USER & AUTH (Identity)
+// ---------------------------------------------------------
+
+model User {
+  id        Int      @id @default(autoincrement())
+  email     String   @unique
+  password  String   // Hashed (Bcrypt)
+  name      String
+
+  // Tamil Nadu Context: Phone is critical for delivery drivers.
+  // Optional at signup, required for checkout.
+  phone     String?  
+
+  role      Role     @default(USER)
+  otp       String?
+
+  // One user can have multiple saved addresses (Home, Work, Native)
+  addresses Address[]
+  
+  // Relations
+  orders    Order[]
+  reviews   Review[]
+  cart      Cart?    // User has only one active cart
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Address {
+  id        Int     @id @default(autoincrement())
+  userId    Int
+  user      User    @relation(fields: [userId], references: [id])
+
+  // Address Fields customized for Indian context
+  street    String  // e.g., "12/4, Gandhi Road, Anna Nagar"
+  city      String  // e.g., "Madurai"
+  district  String? // e.g., "Madurai District"
+  state     String  @default("Tamil Nadu")
+  pincode   String  // e.g., "625020"
+  
+  isDefault Boolean @default(false)
+}
+
+enum Role {
+  USER
+  ADMIN
+}
+
+// ---------------------------------------------------------
+// 3. PRODUCT & INVENTORY
+// ---------------------------------------------------------
+
+model Product {
+  id          Int      @id @default(autoincrement())
+  
+  // The 5 Columns from our JSON
+  name        String   // "Bovonto 1.5 Ltr"
+  category    String   // "Beverages"
+  mrp         Float    // 90.0
+  size        Float    // 1.5
+  unit        String   // "Ltr"
+
+  // Essential for Frontend (We will set a default for now)
+  isAvailable Boolean  @default(true)
+
+  items       OrderItem[]
+  reviews     Review[]
+  cartItems   CartItem[] // Assuming you have a CartItem model linked
+
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+// ---------------------------------------------------------
+// 4. SHOPPING CART (Offline Sync)
+// ---------------------------------------------------------
+
+model Cart {
+  id        Int        @id @default(autoincrement())
+  userId    Int        @unique
+  user      User       @relation(fields: [userId], references: [id])
+  items     CartItem[]
+  updatedAt DateTime   @updatedAt
+}
+
+model CartItem {
+  id        Int     @id @default(autoincrement())
+  cartId    Int
+  cart      Cart    @relation(fields: [cartId], references: [id])
+  
+  productId Int
+  product   Product @relation(fields: [productId], references: [id])
+  
+  quantity  Int     @default(1)
+}
+
+// ---------------------------------------------------------
+// 5. ORDERS & PAYMENTS (Transactions)
+// ---------------------------------------------------------
+
+model Order {
+  id            Int         @id @default(autoincrement())
+  userId        Int
+  user          User        @relation(fields: [userId], references: [id])
+  
+  // Money
+  totalAmount   Float
+  deliveryFee   Float       @default(0.0)
+  
+  // Status Tracking
+  status        OrderStatus @default(PENDING)
+  
+  // Payment Logic
+  paymentMethod String      // "COD" or "RAZORPAY"
+  paymentStatus String      @default("PENDING") // PAID, PENDING, FAILED
+  razorpayId    String?     // For online tracking
+  
+  // Snapshot of address at time of order (Safe historical record)
+  shippingAddr  String      // Full address string
+  contactPhone  String      // Phone number for delivery driver
+
+  items         OrderItem[]
+  createdAt     DateTime    @default(now())
+  updatedAt     DateTime    @updatedAt
+}
+
+model OrderItem {
+  id        Int     @id @default(autoincrement())
+  orderId   Int
+  order     Order   @relation(fields: [orderId], references: [id])
+  
+  productId Int
+  product   Product @relation(fields: [productId], references: [id])
+  
+  // Snapshot of price at purchase time (Crucial for accounting)
+  price     Float   
+  quantity  Int
+}
+
+enum OrderStatus {
+  PENDING
+  CONFIRMED
+  SHIPPED   // "Out for Delivery"
+  DELIVERED
+  CANCELLED
+}
+
+// ---------------------------------------------------------
+// 6. REVIEWS & RATINGS
+// ---------------------------------------------------------
+
+model Review {
+  id        Int      @id @default(autoincrement())
+  rating    Int      // e.g. 1 to 5
+  comment   String?  // Optional text
+  
+  userId    Int
+  user      User     @relation(fields: [userId], references: [id])
+  
+  productId Int
+  product   Product  @relation(fields: [productId], references: [id])
+
+  createdAt DateTime @default(now())
+}

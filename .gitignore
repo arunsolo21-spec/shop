@@ -1,0 +1,16 @@
+# Dependency directories
+node_modules/
+backend/node_modules/
+
+# Build outputs
+dist/
+build/
+mobile_app/build/
+
+# Environment variables (Security risk if pushed!)
+.env
+backend/.env
+
+# System files
+.DS_Store
+Thumbs.db
