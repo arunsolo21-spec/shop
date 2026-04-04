@@ -1,0 +1,115 @@
+{
+  "Grocery & Staples": {
+    "Rice & Grains": [
+      "Rice & Grains",
+      "Rice & Rice Products"
+    ],
+    "Dals & Pulses": [
+      "Dals & Pulses"
+    ],
+    "Edible Oils & Ghee": [
+      "Cooking Oils",
+      "Ghee",
+      "Oils & Ghee"
+    ],
+    "Spices & Masalas": [
+      "Spices & Masalas",
+      "Cooking Pastes"
+    ],
+    "Atta & Flours": [
+      "Atta & Flours"
+    ],
+    "Salt & Sugar": [
+      "Salt & Sugar"
+    ],
+    "Dry Fruits & Nuts": [
+      "Dry Fruits & Nuts",
+      "Dry Fruits"
+    ]
+  },
+  "Dairy & Fresh": {
+    "Dairy & Ice Creams": [
+      "Dairy & Fresh",
+      "Ice Creams"
+    ],
+    "Breads & Bakery": [
+      "Breads & Cakes"
+    ]
+  },
+  "Snacks & Drinks": {
+    "Biscuits & Cookies": [
+      "Biscuits & Cookies"
+    ],
+    "Chips & Namkeens": [
+      "Chips & Snacks",
+      "Snacks & Chocolates",
+      "Mouth Freshener"
+    ],
+    "Chocolates & Sweets": [
+      "Chocolates & Candies"
+    ],
+    "Beverages & Health Drinks": [
+      "Beverages",
+      "Health Drinks"
+    ],
+    "Noodles & Pasta": [
+      "Noodles & Pasta"
+    ],
+    "Sauces & Spreads": [
+      "Sauces & Spreads"
+    ]
+  },
+  "Personal & Baby": {
+    "Bath & Body": [
+      "Bath & Body",
+      "Skin Care",
+      "Men's Grooming",
+      "Personal Care"
+    ],
+    "Hair Care": [
+      "Hair Care"
+    ],
+    "Oral Care": [
+      "Oral Care"
+    ],
+    "Baby Care": [
+      "Baby Care"
+    ],
+    "Feminine Hygiene": [
+      "Feminine Hygiene"
+    ],
+    "Health & Wellness": [
+      "Health & Medical"
+    ]
+  },
+  "Household Needs": {
+    "Laundry & Dishwashing": [
+      "Laundry Care",
+      "Dishwashing"
+    ],
+    "Home Cleaning": [
+      "Household & Cleaning",
+      "Household Essentials",
+      "Toilet & Floor Cleaners"
+    ],
+    "Repellents & Fresheners": [
+      "Repellents & Fresheners"
+    ],
+    "Pooja Needs": [
+      "Pooja Needs"
+    ]
+  },
+  "General Store": {
+    "Stationery & School": [
+      "Stationery",
+      "Stationery & Others"
+    ],
+    "Kitchen & Electricals": [
+      "Electricals"
+    ],
+    "General Items": [
+      "Others",
+      "Tobacco"
+    ]
+  }
+}

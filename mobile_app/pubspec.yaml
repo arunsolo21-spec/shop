@@ -1,0 +1,49 @@
+# pubspec.yaml
+name: freshmart
+description: FreshMart Grocery Delivery App
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  flutter_riverpod: ^2.4.9
+  go_router: ^13.2.0
+  dio: ^5.4.0
+  flutter_secure_storage: ^9.0.0
+  hive_flutter: ^1.1.0
+  cached_network_image: ^3.3.1
+  shimmer: ^3.0.0
+  google_fonts: ^6.1.0
+  intl: ^0.19.0
+  equatable: ^2.0.5
+  fpdart: ^1.1.0
+  url_launcher: ^6.2.4
+  image_picker: ^1.0.7
+  carousel_slider: ^5.0.0
+  # Firebase - Use compatible versions to avoid web interop issues
+  firebase_core: ^2.31.0
+  firebase_messaging: ^14.9.4
+  # For web: firebase_messaging_web is resolved automatically by pub
+  # Do NOT specify firebase_messaging_web explicitly unless you need a specific version
+  
+  # Android-specific intent for UPI
+  #android_intent_plus: ^3.1.9 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/images/categories/
+    - assets/images/subcategories/
+    - assets/images/products/
+    - assets/icons/

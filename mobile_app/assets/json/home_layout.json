@@ -1,0 +1,78 @@
+{
+  "banners": [
+    {
+      "id": 1,
+      "image_url": "assets/images/banners/banner_grocery_sale.png",
+      "action": "category",
+      "target": "Grocery & Staples"
+    },
+    {
+      "id": 2,
+      "image_url": "assets/images/banners/banner_dairy_fresh.png",
+      "action": "category",
+      "target": "Dairy & Fresh"
+    },
+    {
+      "id": 3,
+      "image_url": "assets/images/banners/banner_snacks.png",
+      "action": "category",
+      "target": "Snacks & Drinks"
+    }
+  ],
+  "category_strip": [
+    {
+      "name": "Grocery & Staples",
+      "icon": "assets/images/subcategories/rice_grains.png"
+    },
+    {
+      "name": "Dairy & Fresh",
+      "icon": "assets/images/subcategories/dairy_ice_creams.png"
+    },
+    {
+      "name": "Snacks & Drinks",
+      "icon": "assets/images/subcategories/chips_namkeens.png"
+    },
+    {
+      "name": "Personal & Baby",
+      "icon": "assets/images/subcategories/bath_body.png"
+    },
+    {
+      "name": "Household Needs",
+      "icon": "assets/images/subcategories/laundry_dishwashing.png"
+    },
+    {
+      "name": "General Store",
+      "icon": "assets/images/subcategories/stationery_school.png"
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec_essentials",
+      "title": "Daily Essentials (Arisi & Paruppu)",
+      "type": "horizontal_list",
+      "filter_category": "Grocery & Staples",
+      "filter_subcategory": "Rice & Grains"
+    },
+    {
+      "id": "sec_dairy",
+      "title": "Fresh Milk & Curd",
+      "type": "grid_2_col",
+      "filter_category": "Dairy & Fresh",
+      "filter_subcategory": "Dairy & Ice Creams"
+    },
+    {
+      "id": "sec_snacks",
+      "title": "Tea Time Snacks",
+      "type": "horizontal_list",
+      "filter_category": "Snacks & Drinks",
+      "filter_subcategory": "Biscuits & Cookies"
+    },
+    {
+      "id": "sec_cleaning",
+      "title": "Cleaning & Household",
+      "type": "grid_2_col",
+      "filter_category": "Household Needs",
+      "filter_subcategory": "Home Cleaning"
+    }
+  ]
+}
