@@ -1,0 +1,4417 @@
+[
+     {
+        "original_name": "more milaga Rs.5",
+        "clean_name": "More Milaga",
+        "brand": "More",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+     {
+        "original_name": "more milaga kg",
+        "clean_name": "More Milaga Kg",
+        "brand": "More",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 250.0
+    },
+    {
+        "original_name": "manjal thool",
+        "clean_name": "Manjal Thool",
+        "brand": "Manjal",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 380.0
+    },
+    {
+        "original_name": "chikkan masala50gm",
+        "clean_name": "Chikkan Masala",
+        "brand": "Chikkan",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 34.5
+    },
+    {
+        "original_name": "chikkan masala50g",
+        "clean_name": "Chikkan Masala",
+        "brand": "Chikkan",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 28.0
+    },
+    {
+        "original_name": "meen kuzhampu masala 50g",
+        "clean_name": "Meen Kuzhampu Masala",
+        "brand": "Meen",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 28.0
+    },
+    {
+        "original_name": "meen varuval masala 50g",
+        "clean_name": "Meen Varuval Masala",
+        "brand": "Meen",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 33.0
+    },
+
+    {
+        "original_name": "kari masala50g",
+        "clean_name": "Kari Masala",
+        "brand": "Kari",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 31.0
+    },
+    {
+        "original_name": "milagai thool 50g",
+        "clean_name": "Milagai Thool",
+        "brand": "Milagai",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 27.5
+    },
+    {
+        "original_name": "malli thool 5og",
+        "clean_name": "Malli Thool 5Og",
+        "brand": "Malli",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 18.0
+    },
+    {
+        "original_name": "sannnaa masala 50g",
+        "clean_name": "Sannnaa Masala",
+        "brand": "Sannnaa",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 30.0
+    },
+  
+    {
+        "original_name": "manjal thool 50g",
+        "clean_name": "Manjal Thool",
+        "brand": "Manjal",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "milagu 1kg",
+        "clean_name": "Milagu",
+        "brand": "Milagu",
+        "size": 1.0,
+        "unit": "kg",
+        "category": "Spices & Masala",
+        "mrp": 700.0
+    },
+    {
+        "original_name": "soampu",
+        "clean_name": "Soampu",
+        "brand": "Soampu",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "sivappu Rs.2",
+        "clean_name": "Sivappu",
+        "brand": "Sivappu",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 2.0
+    },
+    {
+        "original_name": "perumkayam lg 50G",
+        "clean_name": "Perumkayam Lg",
+        "brand": "Perumkayam",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 78.0
+    },
+    {
+        "original_name": "perumkaya powder lg 50g",
+        "clean_name": "Perumkaya Powder Lg",
+        "brand": "Perumkaya",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 92.0
+    },
+    {
+        "original_name": "perumkayam aachi powder ",
+        "clean_name": "Perumkayam Aachi Powder",
+        "brand": "Perumkayam",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 79.0
+    },
+    {
+        "original_name": "perumkayam ptc 50g",
+        "clean_name": "Perumkayam Ptc",
+        "brand": "Perumkayam",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "inji poondu paste Rs.5",
+        "clean_name": "Inji Poondu Paste",
+        "brand": "Inji",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+
+    {
+        "original_name": "chik egg white Rs.1 ",
+        "clean_name": "Chik Egg White",
+        "brand": "Chik",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 1.0
+    },
+    {
+        "original_name": "salt uppu thool",
+        "clean_name": "Salt Uppu Thool",
+        "brand": "Salt",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 22.0
+    },
+    {
+        "original_name": "peruciragam ",
+        "clean_name": "Peruciragam",
+        "brand": "Peruciragam",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 180.0
+    },
+
+    {
+        "original_name": "milagu thul 50g",
+        "clean_name": "Milagu Thul",
+        "brand": "Milagu",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 65.0
+    },
+    {
+        "original_name": "milagai thool 500g",
+        "clean_name": "Milagai Thool",
+        "brand": "Milagai",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 275.0
+    },
+    {
+        "original_name": "kasthuri manjal.50g",
+        "clean_name": "Kasthuri Manjal",
+        "brand": "Kasthuri",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "kasthuri manjal.100g",
+        "clean_name": "Kasthuri Manjal",
+        "brand": "Kasthuri",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 56.0
+    },
+    {
+        "original_name": "sambrani Thool TPRG 50g",
+        "clean_name": "Sambrani Thool Tprg",
+        "brand": "Sambrani",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 38.0
+    },
+    {
+        "original_name": "chilli sauce 1.pkt (100pcs)",
+        "clean_name": "Chilli Sauce 1Pkt",
+        "brand": "Chilli",
+        "size": 100.0,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "bru Rs.5",
+        "clean_name": "Bru",
+        "brand": "Bru",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "bru Rs.10",
+        "clean_name": "Bru",
+        "brand": "Bru",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "perungayathool Rs.1",
+        "clean_name": "Perungayathool",
+        "brand": "Perungayathool",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "kari masala50g saram",
+        "clean_name": "Kari Masala Saram",
+        "brand": "Kari",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 310.0
+    },
+    {
+        "original_name": "chikkan masala50gm saram",
+        "clean_name": "Chikkan Masala Saram",
+        "brand": "Chikkan",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 280.0
+    },
+  
+    {
+        "original_name": "poondu ",
+        "clean_name": "Poondu",
+        "brand": "Poondu",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "puli ",
+        "clean_name": "Puli",
+        "brand": "Puli",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 140.0
+    },
+    {
+        "original_name": "siraga thool 50g",
+        "clean_name": "Siraga Thool",
+        "brand": "Siraga",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 46.0
+    },
+    {
+        "original_name": "idli podi Rs.2 saram",
+        "clean_name": "Idli Podi Saram",
+        "brand": "Idli",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 24.0
+    },
+    {
+        "original_name": "idli podi 50g",
+        "clean_name": "Idli Podi",
+        "brand": "Idli",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 21.0
+    },
+    {
+        "original_name": "biriyani masala 50g",
+        "clean_name": "Biriyani Masala",
+        "brand": "Biriyani",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "idli podi Rs.5",
+        "clean_name": "Idli Podi",
+        "brand": "Idli",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "idli podiRs.5.saram",
+        "clean_name": "Idli PodiSaram",
+        "brand": "Idli",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "idli podi Rs.10 saram",
+        "clean_name": "Idli Podi Saram",
+        "brand": "Idli",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "chikkan masala Rs.5 saram",
+        "clean_name": "Chikkan Masala Saram",
+        "brand": "Chikkan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "chikkan masala Rs.5 ",
+        "clean_name": "Chikkan Masala",
+        "brand": "Chikkan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "chicken masala Rs.5 ",
+        "clean_name": "Chicken Masala",
+        "brand": "Chicken",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "rasa podi Rs.5",
+        "clean_name": "Rasa Podi",
+        "brand": "Rasa",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "rasa podi Rs.5 saram",
+        "clean_name": "Rasa Podi Saram",
+        "brand": "Rasa",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "chilli chikkan masala50gm",
+        "clean_name": "Chilli Chikkan Masala",
+        "brand": "Chilli",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 34.5
+    },
+    {
+        "original_name": "perumkayam lg katti 50G",
+        "clean_name": "Perumkayam Lg Katti",
+        "brand": "Perumkayam",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 78.0
+    },
+    {
+        "original_name": "imayam masala 100g Rs.32",
+        "clean_name": "Imayam Masala",
+        "brand": "Imayam",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 32.0
+    },
+    {
+        "original_name": "imayam masala ",
+        "clean_name": "Imayam Masala",
+        "brand": "Imayam",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 320.0
+    },
+    {
+        "original_name": "bru tripti 200g",
+        "clean_name": "Bru Tripti",
+        "brand": "Bru",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 190.0
+    },
+    {
+        "original_name": "manjal thool Rs.5 saram ",
+        "clean_name": "Manjal Thool Saram",
+        "brand": "Manjal",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "manjal thool Rs.10 saram ",
+        "clean_name": "Manjal Thool Saram",
+        "brand": "Manjal",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "kannan (garlic pickle) 1saram",
+        "clean_name": "Kannan Garlic Pickle",
+        "brand": "Kannan",
+        "size": 1.0,
+        "unit": "pack",
+        "category": "Spices & Masala",
+        "mrp": 16.0
+    },
+    {
+        "original_name": "kannan (ginger pickle) 1saram",
+        "clean_name": "Kannan Ginger Pickle",
+        "brand": "Kannan",
+        "size": 1.0,
+        "unit": "pack",
+        "category": "Spices & Masala",
+        "mrp": 16.0
+    },
+    {
+        "original_name": "biriyani masala Rs.5 saram",
+        "clean_name": "Biriyani Masala Saram",
+        "brand": "Biriyani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "yelakkai paakku Rs.1(pkt)",
+        "clean_name": "Yelakkai Paakku Pkt",
+        "brand": "Yelakkai",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 148.0
+    },
+    {
+        "original_name": "perunkayathool Rs.1 saram",
+        "clean_name": "Perunkayathool Saram",
+        "brand": "Perunkayathool",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "milaguthool Rs.6 saram",
+        "clean_name": "Milaguthool Saram",
+        "brand": "Milaguthool",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "meen ku.masala Rs.5 saram",
+        "clean_name": "Meen KuMasala Saram",
+        "brand": "Meen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "kari masala Rs.5",
+        "clean_name": "Kari Masala",
+        "brand": "Kari",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "kari masala Rs.5 saram",
+        "clean_name": "Kari Masala Saram",
+        "brand": "Kari",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "meen varuval masala Rs.5 saram",
+        "clean_name": "Meen Varuval Masala Saram",
+        "brand": "Meen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "mallithool Rs.5 saram",
+        "clean_name": "Mallithool Saram",
+        "brand": "Mallithool",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "karam masala Rs.5 saram",
+        "clean_name": "Karam Masala Saram",
+        "brand": "Karam",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "karam \u0bae\u0b9a\u0bbe\u0bb2\u0bbe Rs.5 ",
+        "clean_name": "Karam",
+        "brand": "Karam",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "briyani masala Rs.10",
+        "clean_name": "Briyani Masala",
+        "brand": "Briyani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "chicken masala Rs.10 saram",
+        "clean_name": "Chicken Masala Saram",
+        "brand": "Chicken",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "chicken 65 masala saram Rs.10 ",
+        "clean_name": "Chicken 65 Masala Saram",
+        "brand": "Chicken",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "kari masala Rs.10saram",
+        "clean_name": "Kari Masala Saram",
+        "brand": "Kari",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "puli mark seekaie 10g(10ps)",
+        "clean_name": "Puli Mark Seekaie 10Ps",
+        "brand": "Puli",
+        "size": 10.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "puli mark seekaie 50g",
+        "clean_name": "Puli Mark Seekaie",
+        "brand": "Puli",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 14.0
+    },
+    {
+        "original_name": "vatththi pulimark sandal Rs.10",
+        "clean_name": "Vatththi Pulimark Sandal",
+        "brand": "Vatththi",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "thani milagai thool 100g",
+        "clean_name": "Thani Milagai Thool",
+        "brand": "Thani",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "thani milagu thool 50g",
+        "clean_name": "Thani Milagu Thool",
+        "brand": "Thani",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 65.0
+    },
+    {
+        "original_name": "thani milagai thool 50g",
+        "clean_name": "Thani Milagai Thool",
+        "brand": "Thani",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "vicco turmeric 15g ",
+        "clean_name": "Vicco Turmeric",
+        "brand": "Vicco",
+        "size": 15.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 77.0
+    },
+    {
+        "original_name": "biriyani masala Rs.10 saram",
+        "clean_name": "Biriyani Masala Saram",
+        "brand": "Biriyani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "chikkan masala Rs.10",
+        "clean_name": "Chikkan Masala",
+        "brand": "Chikkan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "biriyani masala Rs.15",
+        "clean_name": "Biriyani Masala",
+        "brand": "Biriyani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "manjal thool kasthuri Rs.56",
+        "clean_name": "Manjal Thool Kasthuri",
+        "brand": "Manjal",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 56.0
+    },
+    {
+        "original_name": "Egg masala Rs.10",
+        "clean_name": "Egg Masala",
+        "brand": "Egg",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "muttai masala Rs.10 saram",
+        "clean_name": "Muttai Masala Saram",
+        "brand": "Muttai",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "sombu.",
+        "clean_name": "Sombu",
+        "brand": "Sombu.",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "imayam RS.32 100g 65 masala",
+        "clean_name": "Imayam  65 Masala",
+        "brand": "Imayam",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 32.0
+    },
+    {
+        "original_name": "perunkayathool SM 10g",
+        "clean_name": "Perunkayathool Sm",
+        "brand": "Perunkayathool",
+        "size": 10.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "perungayathool SM 10g pkt(10ps)",
+        "clean_name": "Perungayathool Sm  Pkt10Ps",
+        "brand": "Perungayathool",
+        "size": 10.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "perungayathool SM 25g ",
+        "clean_name": "Perungayathool Sm",
+        "brand": "Perungayathool",
+        "size": 25.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "perungayam katti 25g pkt(10ps)",
+        "clean_name": "Perungayam Katti  Pkt10Ps",
+        "brand": "Perungayam",
+        "size": 25.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 350.0
+    },
+    {
+        "original_name": "perumkayam katti (SM) Rs.40",
+        "clean_name": "Perumkayam Katti Sm",
+        "brand": "Perumkayam",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "milaguthool 50g",
+        "clean_name": "Milaguthool",
+        "brand": "Milaguthool",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 65.0
+    },
+    {
+        "original_name": "milagai thool 100g ",
+        "clean_name": "Milagai Thool",
+        "brand": "Milagai",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "idli podi Rs10",
+        "clean_name": "Idli Podi",
+        "brand": "Idli",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "thani milagaithool Rs.10",
+        "clean_name": "Thani Milagaithool",
+        "brand": "Thani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "idli podi Rs.5 saram (rasathi)",
+        "clean_name": "Idli Podi Saram Rasathi",
+        "brand": "Idli",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "perumkaya thool(aram)Rs.2 saram",
+        "clean_name": "Perumkaya ThoolAram Saram",
+        "brand": "Perumkaya",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "milaguthool Rs.10 saram(rasathi)",
+        "clean_name": "Milaguthool SaramRasathi",
+        "brand": "Milaguthool",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "arasan soap Rs.13 box",
+        "clean_name": "Arasan Box",
+        "brand": "Arasan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 780.0
+    },
+    {
+        "original_name": "arasan soap Rs.20 box",
+        "clean_name": "Arasan Box",
+        "brand": "Arasan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 1200.0
+    },
+    {
+        "original_name": "cinthol (lime)Rs.10",
+        "clean_name": "Cinthol Lime",
+        "brand": "Cinthol",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "karunjiragam 100g",
+        "clean_name": "Karunjiragam",
+        "brand": "Karunjiragam",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "chikkan masala Rs10 saram",
+        "clean_name": "Chikkan Masala Saram",
+        "brand": "Chikkan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "curry cup 100ps",
+        "clean_name": "Curry Cup",
+        "brand": "Curry",
+        "size": 100.0,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "thani milagai thool Rs.5 saram",
+        "clean_name": "Thani Milagai Thool Saram",
+        "brand": "Thani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "meen varuval masala Rs10 saram",
+        "clean_name": "Meen Varuval Masala Saram",
+        "brand": "Meen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "meen kuzhampu masala 10 saram",
+        "clean_name": "Meen Kuzhampu Masala",
+        "brand": "Meen",
+        "size": 10.0,
+        "unit": "pack",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "malli thool Rs.10 saram",
+        "clean_name": "Malli Thool Saram",
+        "brand": "Malli",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "karam \u0bae\u0b9a\u0bbe\u0bb2\u0bbe Rs.10 saram",
+        "clean_name": "Karam  Saram",
+        "brand": "Karam",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "rasa podi Rs.10 SARAM",
+        "clean_name": "Rasa Podi Saram",
+        "brand": "Rasa",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "karam \u0bae\u0b9a\u0bbe\u0bb2\u0bbe Rs.10 ",
+        "clean_name": "Karam",
+        "brand": "Karam",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "rasa podi Rs.10",
+        "clean_name": "Rasa Podi",
+        "brand": "Rasa",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "manjal thool Rs.10",
+        "clean_name": "Manjal Thool",
+        "brand": "Manjal",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "manjalthool Rs.5",
+        "clean_name": "Manjalthool",
+        "brand": "Manjalthool",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "ginger garlic paste Rs.5",
+        "clean_name": "Ginger Garlic Paste",
+        "brand": "Ginger",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "idli podi aachi 500g",
+        "clean_name": "Idli Podi Aachi",
+        "brand": "Idli",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 140.0
+    },
+    {
+        "original_name": "athurasam pkt",
+        "clean_name": "Athurasam Pkt",
+        "brand": "Athurasam",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "inji poondu paste Rs.5 saram",
+        "clean_name": "Inji Poondu Paste Saram",
+        "brand": "Inji",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "sombu thool 50g ",
+        "clean_name": "Sombu Thool",
+        "brand": "Sombu",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 32.0
+    },
+    {
+        "original_name": "kuzhampu \u0bae\u0bbf.\u0ba4\u0bc2\u0bb3\u0bcd Rs.10",
+        "clean_name": "Kuzhampu",
+        "brand": "Kuzhampu",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "poondu periyathu",
+        "clean_name": "Poondu Periyathu",
+        "brand": "Poondu",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "pepper 999(500g)",
+        "clean_name": "Pepper 999",
+        "brand": "Pepper",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "poondu (sinnathu)",
+        "clean_name": "Poondu Sinnathu",
+        "brand": "Poondu",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "kuzhampu \u0bae\u0bbf.\u0ba4\u0bc2\u0bb3\u0bcd Rs.10\u0b9a\u0bb0\u0bae\u0bcd",
+        "clean_name": "Kuzhampu",
+        "brand": "Kuzhampu",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "idli podi Rs.10 achi saram",
+        "clean_name": "Idli Podi Achi Saram",
+        "brand": "Idli",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "perungayathool Rs.2 saram",
+        "clean_name": "Perungayathool Saram",
+        "brand": "Perungayathool",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "perungayathool(LDS) 10g",
+        "clean_name": "PerungayathoolLds",
+        "brand": "Perungayathool(Lds)",
+        "size": 10.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 12.0
+    },
+    {
+        "original_name": "perungayathool(LDS)10g kattu",
+        "clean_name": "PerungayathoolLds Kattu",
+        "brand": "Perungayathool(Lds)",
+        "size": 10.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "perungayathool(LDS) 20g",
+        "clean_name": "PerungayathoolLds",
+        "brand": "Perungayathool(Lds)",
+        "size": 20.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 27.0
+    },
+    {
+        "original_name": "kuzhampu \u0bae\u0bbf.\u0ba4\u0bc2\u0bb3\u0bcd 50g saram",
+        "clean_name": "Kuzhampu   Saram",
+        "brand": "Kuzhampu",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 180.0
+    },
+    {
+        "original_name": "biriyani masala Rs.15 saram",
+        "clean_name": "Biriyani Masala Saram",
+        "brand": "Biriyani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "siraka thool 50g saram",
+        "clean_name": "Siraka Thool  Saram",
+        "brand": "Siraka",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "imayam masala 500g",
+        "clean_name": "Imayam Masala",
+        "brand": "Imayam",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 170.0
+    },
+    {
+        "original_name": "imayam masala 100g saram.",
+        "clean_name": "Imayam Masala  Saram",
+        "brand": "Imayam",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "perungayathool TT 50g",
+        "clean_name": "Perungayathool Tt",
+        "brand": "Perungayathool",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "milagai thool no.1(250g) ",
+        "clean_name": "Milagai Thool No1",
+        "brand": "Milagai",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "gopal palpodi Rs.10",
+        "clean_name": "Gopal Palpodi",
+        "brand": "Gopal",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "gopal palpodi Rs.10(10pcs)",
+        "clean_name": "Gopal Palpodi",
+        "brand": "Gopal",
+        "size": 10.0,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "masala Rs.5",
+        "clean_name": "Masala",
+        "brand": "Masala",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "gopal palpodi Rs.15",
+        "clean_name": "Gopal Palpodi",
+        "brand": "Gopal",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "thani milagai thool Rs.10 saram",
+        "clean_name": "Thani Milagai Thool Saram",
+        "brand": "Thani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "arasan soap Rs.26",
+        "clean_name": "Arasan",
+        "brand": "Arasan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 26.0
+    },
+    {
+        "original_name": "arasan soap Rs.25(dozen)",
+        "clean_name": "Arasan Dozen",
+        "brand": "Arasan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 312.0
+    },
+    {
+        "original_name": "pepar thool white 500g",
+        "clean_name": "Pepar Thool White",
+        "brand": "Pepar",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "arasan soap Rs.26(dozen)",
+        "clean_name": "Arasan Dozen",
+        "brand": "Arasan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 312.0
+    },
+    {
+        "original_name": "meen varuval masala Rs.10",
+        "clean_name": "Meen Varuval Masala",
+        "brand": "Meen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "malli thool Rs.10.",
+        "clean_name": "Malli Thool",
+        "brand": "Malli",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "muttai masala Rs.5 saram",
+        "clean_name": "Muttai Masala Saram",
+        "brand": "Muttai",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "idli podi iraal 50gm",
+        "clean_name": "Idli Podi Iraal",
+        "brand": "Idli",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "pepper black suriya 500g",
+        "clean_name": "Pepper Black Suriya",
+        "brand": "Pepper",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "arasan soap Rs.26 box",
+        "clean_name": "Arasan Box",
+        "brand": "Arasan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 1560.0
+    },
+    {
+        "original_name": "levista coffee Rs.10",
+        "clean_name": "Levista Coffee",
+        "brand": "Levista",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "thani milagai thool 50g saram",
+        "clean_name": "Thani Milagai Thool  Saram",
+        "brand": "Thani",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 500.0
+    },
+    {
+        "original_name": "malli thool 5og saram",
+        "clean_name": "Malli Thool 5Og Saram",
+        "brand": "Malli",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 180.0
+    },
+    {
+        "original_name": "salt uppu(sowmya(1/2)sippam",
+        "clean_name": "Salt UppuSowmya12Sippam",
+        "brand": "Salt",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "meen varuval Rs.5",
+        "clean_name": "Meen Varuval",
+        "brand": "Meen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "imali pall Rs.1 jar MRP.125",
+        "clean_name": "Imali Pall Jar 125",
+        "brand": "Imali",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 125.0
+    },
+    {
+        "original_name": "biriyani cup 1box",
+        "clean_name": "Biriyani Cup",
+        "brand": "Biriyani",
+        "size": 1.0,
+        "unit": "box",
+        "category": "Spices & Masala",
+        "mrp": 400.0
+    },
+    {
+        "original_name": "bru Rs.2",
+        "clean_name": "Bru",
+        "brand": "Bru",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 2.0
+    },
+    {
+        "original_name": "chikkan masala 100gm",
+        "clean_name": "Chikkan Masala",
+        "brand": "Chikkan",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "kuliyal manjal kg",
+        "clean_name": "Kuliyal Manjal Kg",
+        "brand": "Kuliyal",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "manjal thool 50g saram",
+        "clean_name": "Manjal Thool  Saram",
+        "brand": "Manjal",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "milaguthool arumai 50g",
+        "clean_name": "Milaguthool Arumai",
+        "brand": "Milaguthool",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 52.0
+    },
+    {
+        "original_name": "chaat masala Rs.65",
+        "clean_name": "Chaat Masala",
+        "brand": "Chaat",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 65.0
+    },
+    {
+        "original_name": "milaguthool Rs.6 ps",
+        "clean_name": "Milaguthool Ps",
+        "brand": "Milaguthool",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 6.0
+    },
+    {
+        "original_name": "perumkayam lg 100G",
+        "clean_name": "Perumkayam Lg",
+        "brand": "Perumkayam",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 154.0
+    },
+    {
+        "original_name": "perumkayam lg katti 100gm",
+        "clean_name": "Perumkayam Lg Katti",
+        "brand": "Perumkayam",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 180.0
+    },
+    {
+        "original_name": "perumkayam thool lg 100g",
+        "clean_name": "Perumkayam Thool Lg",
+        "brand": "Perumkayam",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 165.0
+    },
+    {
+        "original_name": "arasan soap Rs.16 box",
+        "clean_name": "Arasan Box",
+        "brand": "Arasan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 960.0
+    },
+    {
+        "original_name": "patti urukai garlic Rs.2saram",
+        "clean_name": "Patti Urukai Garlic Saram",
+        "brand": "Patti",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "patti urukai ginger Rs.2saram",
+        "clean_name": "Patti Urukai Ginger Saram",
+        "brand": "Patti",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "patti picle chilli Rs.2saram",
+        "clean_name": "Patti Picle Chilli Saram",
+        "brand": "Patti",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "milaguthool Rs.12",
+        "clean_name": "Milaguthool",
+        "brand": "Milaguthool",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 12.0
+    },
+    {
+        "original_name": "thani milagai thool Rs.5",
+        "clean_name": "Thani Milagai Thool",
+        "brand": "Thani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "puliyothara podi Rs.10",
+        "clean_name": "Puliyothara Podi",
+        "brand": "Puliyothara",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "milagai naattu kg",
+        "clean_name": "Milagai Naattu Kg",
+        "brand": "Milagai",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 260.0
+    },
+    {
+        "original_name": "milagai \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0bbf\u0bb3\u0b95\u0bbe\u0baf\u0bcd kg",
+        "clean_name": "Milagai   Kg",
+        "brand": "Milagai",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 260.0
+    },
+    {
+        "original_name": "manjal thool 200g",
+        "clean_name": "Manjal Thool",
+        "brand": "Manjal",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 68.0
+    },
+    {
+        "original_name": "arasan soap Rs.16",
+        "clean_name": "Arasan",
+        "brand": "Arasan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 16.0
+    },
+    {
+        "original_name": "chik egg white 80ml Rs.55 ",
+        "clean_name": "Chik Egg White",
+        "brand": "Chik",
+        "size": 80.0,
+        "unit": "ml",
+        "category": "Spices & Masala",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "thani milagai thool 100g saram(1kg)",
+        "clean_name": "Thani Milagai Thool  Saram1Kg",
+        "brand": "Thani",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 500.0
+    },
+    {
+        "original_name": "thiraviya podi 100g",
+        "clean_name": "Thiraviya Podi",
+        "brand": "Thiraviya",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "perungayathool 25gm 10ps kattu",
+        "clean_name": "Perungayathool  10Ps Kattu",
+        "brand": "Perungayathool",
+        "size": 25.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 370.0
+    },
+    {
+        "original_name": "salt uppu 1/2kg",
+        "clean_name": "Salt Uppu 1",
+        "brand": "Salt",
+        "size": 2.0,
+        "unit": "kg",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "sombu sweet",
+        "clean_name": "Sombu Sweet",
+        "brand": "Sombu",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 180.0
+    },
+    {
+        "original_name": "kuzhampu \u0bae\u0bbf.\u0ba4\u0bc2\u0bb3\u0bcd 100g saram",
+        "clean_name": "Kuzhampu   Saram",
+        "brand": "Kuzhampu",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 320.0
+    },
+    {
+        "original_name": "pulip mittaiye pkt",
+        "clean_name": "Pulip Mittaiye Pkt",
+        "brand": "Pulip",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "milagai no.2",
+        "clean_name": "Milagai No2",
+        "brand": "Milagai",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "pepper thool white 500g",
+        "clean_name": "Pepper Thool White",
+        "brand": "Pepper",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "milaguthool sakthi 50g",
+        "clean_name": "Milaguthool Sakthi",
+        "brand": "Milaguthool",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 65.0
+    },
+    {
+        "original_name": "milaguthool Rs.10 saram",
+        "clean_name": "Milaguthool Saram",
+        "brand": "Milaguthool",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "milaguthool aatchi Rs.10 saram",
+        "clean_name": "Milaguthool Aatchi Saram",
+        "brand": "Milaguthool",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "pepper xxx(500g)",
+        "clean_name": "Pepper Xxx",
+        "brand": "Pepper",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "power soap Rs.10.yellow",
+        "clean_name": "Power Yellow",
+        "brand": "Power",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "chakravrthi soap Rs.10(y)",
+        "clean_name": "Chakravrthi Y",
+        "brand": "Chakravrthi",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "perungayathool(LDS) 20g kattu",
+        "clean_name": "PerungayathoolLds  Kattu",
+        "brand": "Perungayathool(Lds)",
+        "size": 20.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 270.0
+    },
+    {
+        "original_name": "chikkan masala Rs10",
+        "clean_name": "Chikkan Masala",
+        "brand": "Chikkan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "meen ku.masala Rs.5",
+        "clean_name": "Meen KuMasala",
+        "brand": "Meen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "meen kuzhampu masala Rs.10",
+        "clean_name": "Meen Kuzhampu Masala",
+        "brand": "Meen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "muttai masala Rs.5",
+        "clean_name": "Muttai Masala",
+        "brand": "Muttai",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "muttai masala Rs.10",
+        "clean_name": "Muttai Masala",
+        "brand": "Muttai",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "biriyani masala Rs.5",
+        "clean_name": "Biriyani Masala",
+        "brand": "Biriyani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "milaguthool Rs.6",
+        "clean_name": "Milaguthool",
+        "brand": "Milaguthool",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 6.0
+    },
+    {
+        "original_name": "milaguthool aatchi Rs.10",
+        "clean_name": "Milaguthool Aatchi",
+        "brand": "Milaguthool",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "mallithool Rs.5",
+        "clean_name": "Mallithool",
+        "brand": "Mallithool",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "kari masala Rs.10",
+        "clean_name": "Kari Masala",
+        "brand": "Kari",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "cinthol (lime)\u0bae\u0b9e\u0bcd\u0b9a\u0bb3\u0bcdRs.10",
+        "clean_name": "Cinthol Lime",
+        "brand": "Cinthol",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "abi milagaithool 50g saram",
+        "clean_name": "Abi Milagaithool  Saram",
+        "brand": "Abi",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "idli podi kannan Rs.2 saram",
+        "clean_name": "Idli Podi Kannan Saram",
+        "brand": "Idli",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "idli podi kannan Rs.5.saram",
+        "clean_name": "Idli Podi Kannan Saram",
+        "brand": "Idli",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "idli podi aachi Rs.10",
+        "clean_name": "Idli Podi Aachi",
+        "brand": "Idli",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "idli podi kannan Rs.10",
+        "clean_name": "Idli Podi Kannan",
+        "brand": "Idli",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "biriyani kurcure Rs.5(12ps)saram ",
+        "clean_name": "Biriyani Kurcure Saram",
+        "brand": "Biriyani",
+        "size": 12.0,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "bb bingo \u0bae\u0b9e\u0bcd\u0b9a\u0bb3\u0bcd Rs.5",
+        "clean_name": "Bb Bingo",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "levista coffee Rs.2",
+        "clean_name": "Levista Coffee",
+        "brand": "Levista",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 48.0
+    },
+    {
+        "original_name": "vedi poondu Rs.500",
+        "clean_name": "Vedi Poondu",
+        "brand": "Vedi",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 500.0
+    },
+    {
+        "original_name": "kasthuri manjal puli mark.40g",
+        "clean_name": "Kasthuri Manjal Puli Mark",
+        "brand": "Kasthuri",
+        "size": 40.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 34.0
+    },
+    {
+        "original_name": "kasthuri manjal mukkudal.50g",
+        "clean_name": "Kasthuri Manjal Mukkudal",
+        "brand": "Kasthuri",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "Rasakulla Tin 500g R.110",
+        "clean_name": "Rasakulla Tin  R110",
+        "brand": "Rasakulla",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "manakadu masala 100g",
+        "clean_name": "Manakadu Masala",
+        "brand": "Manakadu",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "manakadu masala 500g",
+        "clean_name": "Manakadu Masala",
+        "brand": "Manakadu",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "agni tea 100gm",
+        "clean_name": "Agni Tea",
+        "brand": "Agni",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 28.0
+    },
+    {
+        "original_name": "agni tea 250gm",
+        "clean_name": "Agni Tea",
+        "brand": "Agni",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "pepper arumai 500g",
+        "clean_name": "Pepper Arumai",
+        "brand": "Pepper",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "imayam masala 100g ",
+        "clean_name": "Imayam Masala",
+        "brand": "Imayam",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 34.0
+    },
+    {
+        "original_name": "bru 50g Rs.100",
+        "clean_name": "Bru",
+        "brand": "Bru",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "tajmahal 100g Rs.95",
+        "clean_name": "Tajmahal",
+        "brand": "Tajmahal",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "milagai thool ag 1kg",
+        "clean_name": "Milagai Thool Ag",
+        "brand": "Milagai",
+        "size": 1.0,
+        "unit": "kg",
+        "category": "Spices & Masala",
+        "mrp": 190.0
+    },
+    {
+        "original_name": "perungayathool AVM 25g ",
+        "clean_name": "Perungayathool Avm",
+        "brand": "Perungayathool",
+        "size": 25.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "perungayathool STS 10g pkt(12ps)",
+        "clean_name": "Perungayathool Sts  Pkt12Ps",
+        "brand": "Perungayathool",
+        "size": 10.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "inji poondu paste Rs.5 MK",
+        "clean_name": "Inji Poondu Paste Mk",
+        "brand": "Inji",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "malli thool arumai 500g",
+        "clean_name": "Malli Thool Arumai",
+        "brand": "Malli",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 135.0
+    },
+    {
+        "original_name": "perungayathool STS 10g ",
+        "clean_name": "Perungayathool Sts",
+        "brand": "Perungayathool",
+        "size": 10.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "perunkayam thool lg 100g",
+        "clean_name": "Perunkayam Thool Lg",
+        "brand": "Perunkayam",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 182.0
+    },
+    {
+        "original_name": "perunkaya powder lg 50g",
+        "clean_name": "Perunkaya Powder Lg",
+        "brand": "Perunkaya",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 92.0
+    },
+    {
+        "original_name": "perunkayam aachi powder ",
+        "clean_name": "Perunkayam Aachi Powder",
+        "brand": "Perunkayam",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 79.0
+    },
+    {
+        "original_name": "perunkaya thool(aram)Rs.2 saram",
+        "clean_name": "Perunkaya ThoolAram Saram",
+        "brand": "Perunkaya",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "chicken 65 masala ",
+        "clean_name": "Chicken 65 Masala",
+        "brand": "Chicken",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "chikken 65 masala ",
+        "clean_name": "Chikken 65 Masala",
+        "brand": "Chikken",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "inji poondu paste aatchi Rs.5",
+        "clean_name": "Inji Poondu Paste Aatchi",
+        "brand": "Inji",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "milagai thool ag 50g saram",
+        "clean_name": "Milagai Thool Ag  Saram",
+        "brand": "Milagai",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "chikken 65 masala Rs.10",
+        "clean_name": "Chikken 65 Masala",
+        "brand": "Chikken",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "chikkan masala 65 50gm",
+        "clean_name": "Chikkan Masala 65",
+        "brand": "Chikkan",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 34.5
+    },
+    {
+        "original_name": "chik egg white Rs.15 ",
+        "clean_name": "Chik Egg White",
+        "brand": "Chik",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "milaguthool xxx(500g)",
+        "clean_name": "Milaguthool Xxx",
+        "brand": "Milaguthool",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "Nabati Rs.10 yellow",
+        "clean_name": "Nabati Yellow",
+        "brand": "Nabati",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "chicken masala Rs.10 darling",
+        "clean_name": "Chicken Masala Darling",
+        "brand": "Chicken",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "karam \u0bae\u0b9a\u0bbe\u0bb2\u0bbe Rs.10 darling",
+        "clean_name": "Karam  Darling",
+        "brand": "Karam",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "meen varuval masala Rs10 darling",
+        "clean_name": "Meen Varuval Masala Darling",
+        "brand": "Meen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "meen kuzhampu masala 10 darling",
+        "clean_name": "Meen Kuzhampu Masala 10 Darling",
+        "brand": "Meen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "thani milagai thool Rs.10 darling",
+        "clean_name": "Thani Milagai Thool Darling",
+        "brand": "Thani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "chicken masala 50g aachi",
+        "clean_name": "Chicken Masala  Aachi",
+        "brand": "Chicken",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 28.0
+    },
+    {
+        "original_name": "biriyani masala 50g aachi",
+        "clean_name": "Biriyani Masala  Aachi",
+        "brand": "Biriyani",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "kari masala 50g aachi",
+        "clean_name": "Kari Masala  Aachi",
+        "brand": "Kari",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 27.0
+    },
+    {
+        "original_name": "karam masala 50g aachi",
+        "clean_name": "Karam Masala  Aachi",
+        "brand": "Karam",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 39.0
+    },
+    {
+        "original_name": "manjal thool 50g aachi",
+        "clean_name": "Manjal Thool  Aachi",
+        "brand": "Manjal",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "thani milagai thool 50g aachi",
+        "clean_name": "Thani Milagai Thool  Aachi",
+        "brand": "Thani",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "rasa podi 50g aachi ",
+        "clean_name": "Rasa Podi  Aachi",
+        "brand": "Rasa",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 38.0
+    },
+    {
+        "original_name": "idli podi aachi 50g",
+        "clean_name": "Idli Podi Aachi",
+        "brand": "Idli",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 22.0
+    },
+    {
+        "original_name": "manjal thool 100g aachi",
+        "clean_name": "Manjal Thool  Aachi",
+        "brand": "Manjal",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 29.0
+    },
+    {
+        "original_name": "thani milagai thool 100g aachi",
+        "clean_name": "Thani Milagai Thool  Aachi",
+        "brand": "Thani",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 48.0
+    },
+    {
+        "original_name": "thani milagai thool 500g aachi",
+        "clean_name": "Thani Milagai Thool  Aachi",
+        "brand": "Thani",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 380.0
+    },
+    {
+        "original_name": "nijam pakku.yellow Rs.2 pkt",
+        "clean_name": "Nijam PakkuYellow Pkt",
+        "brand": "Nijam",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "puli mark seekaie 10g",
+        "clean_name": "Puli Mark Seekaie",
+        "brand": "Puli",
+        "size": 10.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 2.0
+    },
+    {
+        "original_name": "puli mark seekaie 25g",
+        "clean_name": "Puli Mark Seekaie",
+        "brand": "Puli",
+        "size": 25.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 7.0
+    },
+    {
+        "original_name": "perungayathool TT 100g",
+        "clean_name": "Perungayathool Tt",
+        "brand": "Perungayathool",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 165.0
+    },
+    {
+        "original_name": "puliyothara podi 50g ",
+        "clean_name": "Puliyothara Podi",
+        "brand": "Puliyothara",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 28.0
+    },
+    {
+        "original_name": "lemon mix powder 50g",
+        "clean_name": "Lemon Mix Powder",
+        "brand": "Lemon",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 22.0
+    },
+    {
+        "original_name": "bb biriyani kurcure Rs.5(12ps)saram ",
+        "clean_name": "Bb Biriyani Kurcure Saram",
+        "brand": "Bb",
+        "size": 12.0,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "kuliyal manjal Rs.10",
+        "clean_name": "Kuliyal Manjal",
+        "brand": "Kuliyal",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "bb fulltoss masala Rs.5",
+        "clean_name": "Bb Fulltoss Masala",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "chikkan masala 50g aachi",
+        "clean_name": "Chikkan Masala  Aachi",
+        "brand": "Chikkan",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 23.0
+    },
+    {
+        "original_name": "chikkan masala Rs.10 darling",
+        "clean_name": "Chikkan Masala Darling",
+        "brand": "Chikkan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "perungayathool Aachi Rs.2 saram ",
+        "clean_name": "Perungayathool Aachi Saram",
+        "brand": "Perungayathool",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "bru 50g Rs.105",
+        "clean_name": "Bru",
+        "brand": "Bru",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 105.0
+    },
+    {
+        "original_name": "salt uppu cristal 1kg",
+        "clean_name": "Salt Uppu Cristal",
+        "brand": "Salt",
+        "size": 1.0,
+        "unit": "kg",
+        "category": "Spices & Masala",
+        "mrp": 26.0
+    },
+    {
+        "original_name": "perungayathool 10g ",
+        "clean_name": "Perungayathool",
+        "brand": "Perungayathool",
+        "size": 10.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 12.0
+    },
+    {
+        "original_name": "milaguthool akilan 500g",
+        "clean_name": "Milaguthool Akilan",
+        "brand": "Milaguthool",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "perumkaya thool(balaji)Rs.2 saram",
+        "clean_name": "Perumkaya ThoolBalaji Saram",
+        "brand": "Perumkaya",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "happy egg mittaiye jar",
+        "clean_name": "Happy Egg Mittaiye Jar",
+        "brand": "Happy",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "cinthol lime set 75g",
+        "clean_name": "Cinthol Lime Set",
+        "brand": "Cinthol",
+        "size": 75.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 109.0
+    },
+    {
+        "original_name": "A2B ompodi",
+        "clean_name": "A2B Ompodi",
+        "brand": "A2B",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "A2B masalapeanut",
+        "clean_name": "A2B Masalapeanut",
+        "brand": "A2B",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "milaguthool kalinga 50g",
+        "clean_name": "Milaguthool Kalinga",
+        "brand": "Milaguthool",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "idli podi kannan Rs.10 saram",
+        "clean_name": "Idli Podi Kannan Saram",
+        "brand": "Idli",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "milaguthool arumai 500g",
+        "clean_name": "Milaguthool Arumai",
+        "brand": "Milaguthool",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "himalaya neem turmeric (s)125g",
+        "clean_name": "Himalaya Neem Turmeric S",
+        "brand": "Himalaya",
+        "size": 125.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 56.0
+    },
+    {
+        "original_name": "patti picle ginger 200g (1+1)",
+        "clean_name": "Patti Picle Ginger  11",
+        "brand": "Patti",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "patti idlli potti 200g",
+        "clean_name": "Patti Idlli Potti",
+        "brand": "Patti",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "paatti pickle ginger 200g (1+1)",
+        "clean_name": "Paatti Pickle Ginger  11",
+        "brand": "Paatti",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "paatti idlli potti 200g",
+        "clean_name": "Paatti Idlli Potti",
+        "brand": "Paatti",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "perunkayam aachi powder 50G",
+        "clean_name": "Perunkayam Aachi Powder",
+        "brand": "Perunkayam",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "him neem turmeric (s)125g",
+        "clean_name": "Him Neem Turmeric S",
+        "brand": "Him",
+        "size": 125.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 56.0
+    },
+    {
+        "original_name": "tea thool.500g",
+        "clean_name": "Tea Thool",
+        "brand": "Tea",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 190.0
+    },
+    {
+        "original_name": "paatti idlli potti 100g",
+        "clean_name": "Paatti Idlli Potti",
+        "brand": "Paatti",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "yelakkai 5rs",
+        "clean_name": "Yelakkai 5Rs",
+        "brand": "Yelakkai",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "soan papti Rs.1 jar",
+        "clean_name": "Soan Papti Jar",
+        "brand": "Soan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "gopal palpodi 25g",
+        "clean_name": "Gopal Palpodi",
+        "brand": "Gopal",
+        "size": 25.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "manjal thool vazhai 50g",
+        "clean_name": "Manjal Thool Vazhai",
+        "brand": "Manjal",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 16.0
+    },
+    {
+        "original_name": "Nool manjal Rs.10",
+        "clean_name": "Nool Manjal",
+        "brand": "Nool",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "milaguthool pest Rs.5 saram20ps",
+        "clean_name": "Milaguthool Pest Saram",
+        "brand": "Milaguthool",
+        "size": 20.0,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "pasumai sangamam thooya malli sippam",
+        "clean_name": "Pasumai Sangamam Thooya Malli Sippam",
+        "brand": "Pasumai",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "perumkayam katti aasai 25g ",
+        "clean_name": "Perumkayam Katti Aasai",
+        "brand": "Perumkayam",
+        "size": 25.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "perumkayam katti aasai 10g",
+        "clean_name": "Perumkayam Katti Aasai",
+        "brand": "Perumkayam",
+        "size": 10.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "him neem turmeric soap 125g",
+        "clean_name": "Him Neem Turmeric",
+        "brand": "Him",
+        "size": 125.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 58.0
+    },
+    {
+        "original_name": "biriyani masala Rs.12",
+        "clean_name": "Biriyani Masala",
+        "brand": "Biriyani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 12.0
+    },
+    {
+        "original_name": "kannan (garlic pickle) 2saram",
+        "clean_name": "Kannan Garlic Pickle",
+        "brand": "Kannan",
+        "size": 2.0,
+        "unit": "pack",
+        "category": "Spices & Masala",
+        "mrp": 16.0
+    },
+    {
+        "original_name": "bb grvy chips masala Rs.5",
+        "clean_name": "Bb Grvy Chips Masala",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "bb timepass grvy chips masala Rs.5",
+        "clean_name": "Bb Timepass Grvy Chips Masala",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "puli jam jar",
+        "clean_name": "Puli Jam Jar",
+        "brand": "Puli",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "thani milagai thool 50g vazhai",
+        "clean_name": "Thani Milagai Thool  Vazhai",
+        "brand": "Thani",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 28.0
+    },
+    {
+        "original_name": "chikkan masala50g vazhai",
+        "clean_name": "Chikkan Masala Vazhai",
+        "brand": "Chikkan",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 28.0
+    },
+    {
+        "original_name": "nool kandu (m) Rs.5 pkt",
+        "clean_name": "Nool Kandu M Pkt",
+        "brand": "Nool",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "bb biriyani kurcure Rs.5(14ps)saram ",
+        "clean_name": "Bb Biriyani Kurcure Saram",
+        "brand": "Bb",
+        "size": 14.0,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "agni tea 500g",
+        "clean_name": "Agni Tea",
+        "brand": "Agni",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "chat masala 50g",
+        "clean_name": "Chat Masala",
+        "brand": "Chat",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 26.0
+    },
+    {
+        "original_name": "bb fulltoss masala Rs.5 saram",
+        "clean_name": "Bb Fulltoss Masala Saram",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "paatti idlli potti 500g",
+        "clean_name": "Paatti Idlli Potti",
+        "brand": "Paatti",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 170.0
+    },
+    {
+        "original_name": "karam masala Rs.12",
+        "clean_name": "Karam Masala",
+        "brand": "Karam",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 12.0
+    },
+    {
+        "original_name": "idli podi aachi Rs.5 saram",
+        "clean_name": "Idli Podi Aachi Saram",
+        "brand": "Idli",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "arasan liquid 1ltr",
+        "clean_name": "Arasan Liquid",
+        "brand": "Arasan",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Spices & Masala",
+        "mrp": 130.0
+    },
+    {
+        "original_name": "manakadu masala 50g",
+        "clean_name": "Manakadu Masala",
+        "brand": "Manakadu",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "pt TT thool 100g",
+        "clean_name": "Pt Tt Thool",
+        "brand": "Pt",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 182.0
+    },
+    {
+        "original_name": "pt LG thool 100g",
+        "clean_name": "Pt Lg Thool",
+        "brand": "Pt",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "pt TT thool 50g",
+        "clean_name": "Pt Tt Thool",
+        "brand": "Pt",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 92.0
+    },
+    {
+        "original_name": "pt aram thool Rs.2 saram",
+        "clean_name": "Pt Aram Thool Saram",
+        "brand": "Pt",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "pt AVM thool 25g",
+        "clean_name": "Pt Avm Thool",
+        "brand": "Pt",
+        "size": 25.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "pt balaji thool Rs.2 saram",
+        "clean_name": "Pt Balaji Thool Saram",
+        "brand": "Pt",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "pt Aachi thool Rs.2 saram ",
+        "clean_name": "Pt Aachi Thool Saram",
+        "brand": "Pt",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "pt aachi powder 50G",
+        "clean_name": "Pt Aachi Powder",
+        "brand": "Pt",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "pt LG powder 50g",
+        "clean_name": "Pt Lg Powder",
+        "brand": "Pt",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 102.0
+    },
+    {
+        "original_name": "pt perungayathool(LDS) 20g kattu",
+        "clean_name": "Pt PerungayathoolLds  Kattu",
+        "brand": "Pt",
+        "size": 20.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 270.0
+    },
+    {
+        "original_name": "pt perumkayam katti (SM) Rs.40",
+        "clean_name": "Pt Perumkayam Katti Sm",
+        "brand": "Pt",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "pt perungayathool 10g ",
+        "clean_name": "Pt Perungayathool",
+        "brand": "Pt",
+        "size": 10.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 12.0
+    },
+    {
+        "original_name": "pt perunkayathool SM 10g",
+        "clean_name": "Pt Perunkayathool Sm",
+        "brand": "Pt",
+        "size": 10.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "pt perumkayam lg katti 100gm",
+        "clean_name": "Pt Perumkayam Lg Katti",
+        "brand": "Pt",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 180.0
+    },
+    {
+        "original_name": "pt perumkayam ptc 50g",
+        "clean_name": "Pt Perumkayam Ptc",
+        "brand": "Pt",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "pt aachi thool 5g",
+        "clean_name": "Pt Aachi Thool",
+        "brand": "Pt",
+        "size": 5.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "pt TT thool 10g",
+        "clean_name": "Pt Tt Thool",
+        "brand": "Pt",
+        "size": 10.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "tea thool 1kg",
+        "clean_name": "Tea Thool",
+        "brand": "Tea",
+        "size": 1.0,
+        "unit": "kg",
+        "category": "Spices & Masala",
+        "mrp": 550.0
+    },
+    {
+        "original_name": "chikkan 65 masala 100g aachi",
+        "clean_name": "Chikkan 65 Masala  Aachi",
+        "brand": "Chikkan",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 66.0
+    },
+    {
+        "original_name": "biriyani masala manakadu 50g",
+        "clean_name": "Biriyani Masala Manakadu",
+        "brand": "Biriyani",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "idli podi valai Rs.10",
+        "clean_name": "Idli Podi Valai",
+        "brand": "Idli",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "idli podi vazhi Rs.10",
+        "clean_name": "Idli Podi Vazhi",
+        "brand": "Idli",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "kashmiri chilli Rs.12",
+        "clean_name": "Kashmiri Chilli",
+        "brand": "Kashmiri",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "yelakkai paakku Rs.1(pkt) mrp 130",
+        "clean_name": "Yelakkai Paakku Pkt 130",
+        "brand": "Yelakkai",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 130.0
+    },
+    {
+        "original_name": "kungumam meenakshi 50g",
+        "clean_name": "Kungumam Meenakshi",
+        "brand": "Kungumam",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "poondu vedi Rs.500",
+        "clean_name": "Poondu Vedi",
+        "brand": "Poondu",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 500.0
+    },
+    {
+        "original_name": "ruchi garlic pickle Rs.1 saram",
+        "clean_name": "Ruchi Garlic Pickle Saram",
+        "brand": "Ruchi",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "idli podi vazhi Rs.5",
+        "clean_name": "Idli Podi Vazhi",
+        "brand": "Idli",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "oral b clove 3's pkt Rs.80 ",
+        "clean_name": "Oral B Clove 3S Pkt",
+        "brand": "Oral",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "milagu thul amma 500g",
+        "clean_name": "Milagu Thul Amma",
+        "brand": "Milagu",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "milagu thool amma 500g",
+        "clean_name": "Milagu Thool Amma",
+        "brand": "Milagu",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "ruchi tomato garlic pickle Rs.1",
+        "clean_name": "Ruchi Tomato Garlic Pickle",
+        "brand": "Ruchi",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "Elanthai podi Rs.1 jar",
+        "clean_name": "Elanthai Podi Jar",
+        "brand": "Elanthai",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "paani poori masala 50g ",
+        "clean_name": "Paani Poori Masala",
+        "brand": "Paani",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "tajmahal 250g Rs235",
+        "clean_name": "Tajmahal",
+        "brand": "Tajmahal",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 235.0
+    },
+    {
+        "original_name": "manjal thool cycle 50g",
+        "clean_name": "Manjal Thool Cycle",
+        "brand": "Manjal",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "Rasakulla Rs.2 jar",
+        "clean_name": "Rasakulla Jar",
+        "brand": "Rasakulla",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "chilli sauce red 90g",
+        "clean_name": "Chilli Sauce Red",
+        "brand": "Chilli",
+        "size": 90.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "chilli sauce green 90g",
+        "clean_name": "Chilli Sauce Green",
+        "brand": "Chilli",
+        "size": 90.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "bb chikkan 65 (12) saram",
+        "clean_name": "Bb Chikkan 65 12 Saram",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "kuzhampu Apt \u0bae\u0bbf.\u0ba4\u0bc2\u0bb3\u0bcd50g",
+        "clean_name": "Kuzhampu Apt",
+        "brand": "Kuzhampu",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "Rs.5 chikkan 65 masala aachi",
+        "clean_name": "Chikkan 65 Masala Aachi",
+        "brand": "Chikkan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "paatti idlli potti 250g",
+        "clean_name": "Paatti Idlli Potti",
+        "brand": "Paatti",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "chikkan 65 masala Rs.5 aachi",
+        "clean_name": "Chikkan 65 Masala Aachi",
+        "brand": "Chikkan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "paatti idli potti 250g",
+        "clean_name": "Paatti Idli Potti",
+        "brand": "Paatti",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "bb bingo masala Rs.5",
+        "clean_name": "Bb Bingo Masala",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "bb bingo salt Rs.5",
+        "clean_name": "Bb Bingo Salt",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "bb bingo tomato chilli Rs.5",
+        "clean_name": "Bb Bingo Tomato Chilli",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "idli podi sakthi 50g",
+        "clean_name": "Idli Podi Sakthi",
+        "brand": "Idli",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 21.0
+    },
+    {
+        "original_name": "kuzhampu \u0bae\u0bbf.\u0ba4\u0bc2\u0bb3\u0bcd 1kg",
+        "clean_name": "Kuzhampu",
+        "brand": "Kuzhampu",
+        "size": 1.0,
+        "unit": "kg",
+        "category": "Spices & Masala",
+        "mrp": 395.0
+    },
+    {
+        "original_name": "bb bingo chilli Rs.5",
+        "clean_name": "Bb Bingo Chilli",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "lifebuoy turmeric 100g Rs.38",
+        "clean_name": "Lifebuoy Turmeric",
+        "brand": "Lifebuoy",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 38.0
+    },
+    {
+        "original_name": "manjal thool Rs.12",
+        "clean_name": "Manjal Thool",
+        "brand": "Manjal",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 12.0
+    },
+    {
+        "original_name": "kuzhampu Apt \u0bae\u0bbf.\u0ba4\u0bc2\u0bb3\u0bcd 200g",
+        "clean_name": "Kuzhampu Apt",
+        "brand": "Kuzhampu",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 78.0
+    },
+    {
+        "original_name": "kuzhampu Apt \u0bae\u0bbf.\u0ba4\u0bc2\u0bb3\u0bcd 500g",
+        "clean_name": "Kuzhampu Apt",
+        "brand": "Kuzhampu",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 190.0
+    },
+    {
+        "original_name": "paatti pickle curry leaves 200g",
+        "clean_name": "Paatti Pickle Curry Leaves",
+        "brand": "Paatti",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "imli jam Rs.1 pkt ",
+        "clean_name": "Imli Jam Pkt",
+        "brand": "Imli",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "kannan (ginger pickle) Rs.2 saram",
+        "clean_name": "Kannan Ginger Pickle Saram",
+        "brand": "Kannan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 16.0
+    },
+    {
+        "original_name": "kannan (garlic pickle) Rs.2 saram",
+        "clean_name": "Kannan Garlic Pickle Saram",
+        "brand": "Kannan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 16.0
+    },
+    {
+        "original_name": "pt aachi powder 50G Rs.92",
+        "clean_name": "Pt Aachi Powder",
+        "brand": "Pt",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 92.0
+    },
+    {
+        "original_name": "bb Masala buff saram(12)",
+        "clean_name": "Bb Masala Buff Saram12",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "bb bingo tomato chilli (\u0b86\u0bb0\u0b9e\u0bcd\u0b9a\u0bc1) Rs.5",
+        "clean_name": "Bb Bingo Tomato Chilli",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "bb bingo masala (\u0ba8\u0bc0\u0bb2\u0bae\u0bcd) Rs.5",
+        "clean_name": "Bb Bingo Masala",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "bb bingo salt (\u0bae\u0b9e\u0bcd\u0b9a\u0bb3\u0bcd) Rs.5",
+        "clean_name": "Bb Bingo Salt",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "bb bingo chilli (\u0bb0\u0bc6\u0b9f\u0bcd \u0b9a\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf) Rs.5",
+        "clean_name": "Bb Bingo Chilli",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "pt LG powder 200g",
+        "clean_name": "Pt Lg Powder",
+        "brand": "Pt",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 356.0
+    },
+    {
+        "original_name": "pt LG powder 500g",
+        "clean_name": "Pt Lg Powder",
+        "brand": "Pt",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 935.0
+    },
+    {
+        "original_name": "bb tedhe medhe masala pink Rs.5",
+        "clean_name": "Bb Tedhe Medhe Masala Pink",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "bread UNIUARASAL Rs.25",
+        "clean_name": "Bread Uniuarasal",
+        "brand": "Bread",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "pt ns powder 5g",
+        "clean_name": "Pt Ns Powder",
+        "brand": "Pt",
+        "size": 5.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "pt ns powder 20g",
+        "clean_name": "Pt Ns Powder",
+        "brand": "Pt",
+        "size": 20.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 38.0
+    },
+    {
+        "original_name": "pt ns powder 50g",
+        "clean_name": "Pt Ns Powder",
+        "brand": "Pt",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 91.0
+    },
+    {
+        "original_name": "manjal thool bhuvanai Rs.10",
+        "clean_name": "Manjal Thool Bhuvanai",
+        "brand": "Manjal",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "puro rock salt 1Kg Rs.110",
+        "clean_name": "Puro Rock Salt",
+        "brand": "Puro",
+        "size": 1.0,
+        "unit": "kg",
+        "category": "Spices & Masala",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "puro rock salt 500g Rs.59",
+        "clean_name": "Puro Rock Salt",
+        "brand": "Puro",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 59.0
+    },
+    {
+        "original_name": "kasthuri manjal 40g",
+        "clean_name": "Kasthuri Manjal",
+        "brand": "Kasthuri",
+        "size": 40.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 34.0
+    },
+    {
+        "original_name": "siraga thool achi 50g",
+        "clean_name": "Siraga Thool Achi",
+        "brand": "Siraga",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 65.0
+    },
+    {
+        "original_name": "meen varuval masala achi 50g",
+        "clean_name": "Meen Varuval Masala Achi",
+        "brand": "Meen",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 34.0
+    },
+    {
+        "original_name": "meen varuval masala achi 100g",
+        "clean_name": "Meen Varuval Masala Achi",
+        "brand": "Meen",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 66.0
+    },
+    {
+        "original_name": "thani milagai thool 500g tastee",
+        "clean_name": "Thani Milagai Thool  Tastee",
+        "brand": "Thani",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 197.0
+    },
+    {
+        "original_name": "manjal thool lg 50g",
+        "clean_name": "Manjal Thool Lg",
+        "brand": "Manjal",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "chikkan masala sakthi 50g",
+        "clean_name": "Chikkan Masala Sakthi",
+        "brand": "Chikkan",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 28.0
+    },
+    {
+        "original_name": "karam \u0bae\u0b9a\u0bbe\u0bb2\u0bbe sakthi 50g",
+        "clean_name": "Karam  Sakthi",
+        "brand": "Karam",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 38.0
+    },
+    {
+        "original_name": "malli thool sakthi 5og",
+        "clean_name": "Malli Thool Sakthi 5Og",
+        "brand": "Malli",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 18.0
+    },
+    {
+        "original_name": "biriyani masala sakthi 50g",
+        "clean_name": "Biriyani Masala Sakthi",
+        "brand": "Biriyani",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "chikkan masala sakthi 100g",
+        "clean_name": "Chikkan Masala Sakthi",
+        "brand": "Chikkan",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "kannan (garlic pickle) Rs.5 saram",
+        "clean_name": "Kannan Garlic Pickle Saram",
+        "brand": "Kannan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "kannan (vathal kulambu paste) Rs.5 saram",
+        "clean_name": "Kannan Vathal Kulambu Paste Saram",
+        "brand": "Kannan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "vicco turmeric skincream 15g ",
+        "clean_name": "Vicco Turmeric Skincream",
+        "brand": "Vicco",
+        "size": 15.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "vicco turmeric skincream 30g ",
+        "clean_name": "Vicco Turmeric Skincream",
+        "brand": "Vicco",
+        "size": 30.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 140.0
+    },
+    {
+        "original_name": "bb kolo masala puff Rs.5",
+        "clean_name": "Bb Kolo Masala Puff",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "chilli sauce gold 650gml bottle",
+        "clean_name": "Chilli Sauce Gold 650Gml Bottle",
+        "brand": "Chilli",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "chikkan super masala 65 50gm",
+        "clean_name": "Chikkan Super Masala 65",
+        "brand": "Chikkan",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "bb maxvita masala miracle (green) 14p ",
+        "clean_name": "Bb Maxvita Masala Miracle Green 14P",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "bb maxvita masala miracle (blue) 14p ",
+        "clean_name": "Bb Maxvita Masala Miracle Blue 14P",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "cd ginger soda (1k)",
+        "clean_name": "Ginger Soda 1K",
+        "brand": "Ginger",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "oral b clove 3's pkt Rs.99",
+        "clean_name": "Oral B Clove 3S Pkt",
+        "brand": "Oral",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 99.0
+    },
+    {
+        "original_name": "chilli sauce chellam bottle 700g Rs.70",
+        "clean_name": "Chilli Sauce Chellam Bottle",
+        "brand": "Chilli",
+        "size": 700.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "chikkan masala sakthi 20g Rs.12",
+        "clean_name": "Chikkan Masala Sakthi",
+        "brand": "Chikkan",
+        "size": 20.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 12.0
+    },
+    {
+        "original_name": "chilli sauce red knorr 200g Rs.60",
+        "clean_name": "Chilli Sauce Red Knorr",
+        "brand": "Chilli",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "chilli sauce green krorr 200g Rs.60",
+        "clean_name": "Chilli Sauce Green Krorr",
+        "brand": "Chilli",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "vathaL kulambu paste Rs.5",
+        "clean_name": "Vathal Kulambu Paste",
+        "brand": "Vathal",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "kannan vathal kulambu paste Rs.5",
+        "clean_name": "Kannan Vathal Kulambu Paste",
+        "brand": "Kannan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "kashmiri chilli 20g Rs.20",
+        "clean_name": "Kashmiri Chilli",
+        "brand": "Kashmiri",
+        "size": 20.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "hamam soap turmeric 100g Rs.45",
+        "clean_name": "Hamam Turmeric",
+        "brand": "Hamam",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "manjal thool nayagi 50g",
+        "clean_name": "Manjal Thool Nayagi",
+        "brand": "Manjal",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 18.0
+    },
+    {
+        "original_name": "manjal thool nayagi 100g",
+        "clean_name": "Manjal Thool Nayagi",
+        "brand": "Manjal",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "maggi masala rs.5",
+        "clean_name": "Maggi Masala",
+        "brand": "Maggi",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "puli mark seekaie 100g",
+        "clean_name": "Puli Mark Seekaie",
+        "brand": "Puli",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 43.0
+    },
+    {
+        "original_name": "gopal palpodi Rs40",
+        "clean_name": "Gopal Palpodi",
+        "brand": "Gopal",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "chikkan masala Rs12",
+        "clean_name": "Chikkan Masala",
+        "brand": "Chikkan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 12.0
+    },
+    {
+        "original_name": "inji poondu paste smith & jones Rs.5",
+        "clean_name": "Inji Poondu Paste Smith  Jones",
+        "brand": "Inji",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "clinic+ egg sampoo Rs.1",
+        "clean_name": "Clinic Egg Sampoo",
+        "brand": "Clinic+",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 16.0
+    },
+    {
+        "original_name": "siva garlic pickle Rs.1",
+        "clean_name": "Siva Garlic Pickle",
+        "brand": "Siva",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "super egg milk rs.10",
+        "clean_name": "Super Egg Milk",
+        "brand": "Super",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "gopura kungumam manjal pkt rs.70",
+        "clean_name": "Gopura Kungumam Manjal Pkt",
+        "brand": "Gopura",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "kashmiri chilli lg 50g Rs.65",
+        "clean_name": "Kashmiri Chilli Lg",
+        "brand": "Kashmiri",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 65.0
+    },
+    {
+        "original_name": "sivappu sigaram rs.2 saram",
+        "clean_name": "Sivappu Sigaram Saram",
+        "brand": "Sivappu",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 2.0
+    },
+    {
+        "original_name": "sivappu sigaram rs.2",
+        "clean_name": "Sivappu Sigaram",
+        "brand": "Sivappu",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 2.0
+    },
+    {
+        "original_name": "bb kuram kuram Rs.5 saram 14ps",
+        "clean_name": "Bb Kuram Kuram Saram",
+        "brand": "Bb",
+        "size": 14.0,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "tajmahal teathool 500g ",
+        "clean_name": "Tajmahal Teathool",
+        "brand": "Tajmahal",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 470.0
+    },
+    {
+        "original_name": "candyman tadka masala jelly jar Rs.100 ",
+        "clean_name": "Candyman Tadka Masala Jelly Jar",
+        "brand": "Candyman",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "manjal thool MYL Rs.5 saram",
+        "clean_name": "Manjal Thool Myl Saram",
+        "brand": "Manjal",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "pt ns powder10g",
+        "clean_name": "Pt Ns Powder",
+        "brand": "Pt",
+        "size": 10.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 22.0
+    },
+    {
+        "original_name": "sivappu saram Rs.2",
+        "clean_name": "Sivappu Saram",
+        "brand": "Sivappu",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "manjal thool Meiyal Rs.5 saram",
+        "clean_name": "Manjal Thool Meiyal Saram",
+        "brand": "Manjal",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "thani milagai thool meiyal Rs.5 saram",
+        "clean_name": "Thani Milagai Thool Meiyal Saram",
+        "brand": "Thani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "chikkan masala meiyal Rs.5 saram",
+        "clean_name": "Chikkan Masala Meiyal Saram",
+        "brand": "Chikkan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "karam masala meiyal Rs.5 saram",
+        "clean_name": "Karam Masala Meiyal Saram",
+        "brand": "Karam",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "manjal thool Meiyal Rs.10 saram",
+        "clean_name": "Manjal Thool Meiyal Saram",
+        "brand": "Manjal",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "chikkan masala meiyal Rs.10 saram",
+        "clean_name": "Chikkan Masala Meiyal Saram",
+        "brand": "Chikkan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "thani milagai thool meiyal Rs.10 saram",
+        "clean_name": "Thani Milagai Thool Meiyal Saram",
+        "brand": "Thani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "malli thool meiyal Rs.10 saram",
+        "clean_name": "Malli Thool Meiyal Saram",
+        "brand": "Malli",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "karam masala meiyal Rs.10 saram",
+        "clean_name": "Karam Masala Meiyal Saram",
+        "brand": "Karam",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "kari masala meiyal Rs.10 saram",
+        "clean_name": "Kari Masala Meiyal Saram",
+        "brand": "Kari",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "kuzhampu \u0bae\u0bbf.\u0ba4\u0bc2\u0bb3\u0bcd meiyal  Rs.10",
+        "clean_name": "Kuzhampu  Meiyal",
+        "brand": "Kuzhampu",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "kuzhampu \u0bae\u0bbf.\u0ba4\u0bc2\u0bb3\u0bcd meiyal  Rs.10 saram",
+        "clean_name": "Kuzhampu  Meiyal Saram",
+        "brand": "Kuzhampu",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "chat masala sakthi 50g",
+        "clean_name": "Chat Masala Sakthi",
+        "brand": "Chat",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 26.0
+    },
+    {
+        "original_name": "chaat masala everest 100g",
+        "clean_name": "Chaat Masala Everest",
+        "brand": "Chaat",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "pt mtr thool 50g",
+        "clean_name": "Pt Mtr Thool",
+        "brand": "Pt",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "Elanthai podi saram Rs.1 ",
+        "clean_name": "Elanthai Podi Saram",
+        "brand": "Elanthai",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "soan papti Rs.2 jar",
+        "clean_name": "Soan Papti Jar",
+        "brand": "Soan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "chat masala everest 100g",
+        "clean_name": "Chat Masala Everest",
+        "brand": "Chat",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "salt uppu kristal 1/2kg",
+        "clean_name": "Salt Uppu Kristal 1",
+        "brand": "Salt",
+        "size": 2.0,
+        "unit": "kg",
+        "category": "Spices & Masala",
+        "mrp": 14.0
+    },
+    {
+        "original_name": "pt ss thool 50g",
+        "clean_name": "Pt Ss Thool",
+        "brand": "Pt",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "pt ss thool 25g",
+        "clean_name": "Pt Ss Thool",
+        "brand": "Pt",
+        "size": 25.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "manjal thool sakthi 50g",
+        "clean_name": "Manjal Thool Sakthi",
+        "brand": "Manjal",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 18.0
+    },
+    {
+        "original_name": "manjal thool Rakal 50g",
+        "clean_name": "Manjal Thool Rakal",
+        "brand": "Manjal",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "karam \u0bae\u0b9a\u0bbe\u0bb2\u0bbe Rs.5  saram+",
+        "clean_name": "Karam  Saram",
+        "brand": "Karam",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "clinic+ egg sampoo saram Rs.1",
+        "clean_name": "Clinic Egg Sampoo Saram",
+        "brand": "Clinic+",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 16.0
+    },
+    {
+        "original_name": "pt TT thool 2.5g rs.2",
+        "clean_name": "Pt Tt Thool",
+        "brand": "Pt",
+        "size": 2.5,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "karam \u0bae\u0b9a\u0bbe\u0bb2\u0bbe Rs.5  saram",
+        "clean_name": "Karam  Saram",
+        "brand": "Karam",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "app rasathi 100g",
+        "clean_name": "App Rasathi",
+        "brand": "App",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 12.0
+    },
+    {
+        "original_name": "app rasathi applam 100g",
+        "clean_name": "App Rasathi Applam",
+        "brand": "App",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "muttai masala aachi 50g",
+        "clean_name": "Muttai Masala Aachi",
+        "brand": "Muttai",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "AK inji poondu paste Rs.5",
+        "clean_name": "Ak Inji Poondu Paste",
+        "brand": "Ak",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 2.2
+    },
+    {
+        "original_name": "idli podi kannan 200g Jar Rs.80",
+        "clean_name": "Idli Podi Kannan  Jar",
+        "brand": "Idli",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "pt p.t.c thool 50g",
+        "clean_name": "Pt PTC Thool",
+        "brand": "Pt",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "manakadu masala 1kg",
+        "clean_name": "Manakadu Masala",
+        "brand": "Manakadu",
+        "size": 1.0,
+        "unit": "kg",
+        "category": "Spices & Masala",
+        "mrp": 400.0
+    },
+    {
+        "original_name": "bru 25g",
+        "clean_name": "Bru",
+        "brand": "Bru",
+        "size": 25.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "athurasam aachi pkt",
+        "clean_name": "Athurasam Aachi Pkt",
+        "brand": "Athurasam",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "theethapodi pkt rs.30 ",
+        "clean_name": "Theethapodi Pkt",
+        "brand": "Theethapodi",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "power soap Rs.20.yellow",
+        "clean_name": "Power Yellow",
+        "brand": "Power",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "Insta coffee 200g pkt",
+        "clean_name": "Insta Coffee  Pkt",
+        "brand": "Insta",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 206.0
+    },
+    {
+        "original_name": "chithi karuveppilai satha podi ",
+        "clean_name": "Chithi Karuveppilai Satha Podi",
+        "brand": "Chithi",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Spices & Masala",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "pt JJ powder 10g",
+        "clean_name": "Pt Jj Powder",
+        "brand": "Pt",
+        "size": 10.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "pt jj powder 20g",
+        "clean_name": "Pt Jj Powder",
+        "brand": "Pt",
+        "size": 20.0,
+        "unit": "g",
+        "category": "Spices & Masala",
+        "mrp": 20.0
+    }
+]

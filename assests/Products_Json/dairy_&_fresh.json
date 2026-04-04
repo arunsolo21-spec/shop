@@ -1,0 +1,1381 @@
+[
+    {
+        "original_name": "dairymilk Rs40",
+        "clean_name": "Dairymilk",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 40.0
+    },
+     {
+        "original_name": "cerelac wht,app,carr 300g Rs.265",
+        "clean_name": "Cerelac WhtAppCarr",
+        "brand": "Cerelac",
+        "size": 300.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 265.0
+    },
+    {
+        "original_name": "cerelac wht,apple 300g Rs.260",
+        "clean_name": "Cerelac WhtApple",
+        "brand": "Cerelac",
+        "size": 300.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 260.0
+    },
+    {
+        "original_name": "cerelac wheat 300g Rs.250",
+        "clean_name": "Cerelac Wheat",
+        "brand": "Cerelac",
+        "size": 300.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 250.0
+    },
+    {
+        "original_name": "cerelac wht,apple,cherr 300g Rs.295",
+        "clean_name": "Cerelac WhtAppleCherr",
+        "brand": "Cerelac",
+        "size": 300.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 295.0
+    },
+    {
+        "original_name": "cerelac ragi apple 300g Rs.310",
+        "clean_name": "Cerelac Ragi Apple",
+        "brand": "Cerelac",
+        "size": 300.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 310.0
+    },
+    {
+        "original_name": "cerelac grains & fruit 300g Rs.329",
+        "clean_name": "Cerelac Grains  Fruit",
+        "brand": "Cerelac",
+        "size": 300.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 329.0
+    },
+    {
+        "original_name": "cerelac multigrain & fruits 300g Rs.322",
+        "clean_name": "Cerelac Multigrain  Fruits",
+        "brand": "Cerelac",
+        "size": 300.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 322.0
+    },
+    {
+        "original_name": "dp pampers (L) Rs.30",
+        "clean_name": "Dp Pampers L",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 30.0
+    },
+      {
+        "original_name": "cerelac grains & fruit 300g Rs.322",
+        "clean_name": "Cerelac Grains  Fruit",
+        "brand": "Cerelac",
+        "size": 300.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 322.0
+    },
+    {
+        "original_name": "cerelac grains & veg 300g Rs.329",
+        "clean_name": "Cerelac Grains  Veg",
+        "brand": "Cerelac",
+        "size": 300.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 329.0
+    },
+    {
+        "original_name": "dairymilk Rs40 (1box)",
+        "clean_name": "Dairymilk",
+        "brand": "Dairymilk",
+        "size": 1.0,
+        "unit": "box",
+        "category": "Dairy & Fresh",
+        "mrp": 1200.0
+    },
+    {
+        "original_name": "dairymilk Rs10",
+        "clean_name": "Dairymilk",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "dairymilk Rs10(box)",
+        "clean_name": "Dairymilk Box",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 720.0
+    },
+    {
+        "original_name": "milk maid tin",
+        "clean_name": "Milk Maid Tin",
+        "brand": "Milk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 144.0
+    },
+    {
+        "original_name": "DD S.cone butterscotch 65ml",
+        "clean_name": "Dd SCone Butterscotch",
+        "brand": "Dd",
+        "size": 65.0,
+        "unit": "ml",
+        "category": "Dairy & Fresh",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "DD L.cone buttersc 120ml",
+        "clean_name": "Dd LCone Buttersc",
+        "brand": "Dd",
+        "size": 120.0,
+        "unit": "ml",
+        "category": "Dairy & Fresh",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "DD vanilla milky 50ml",
+        "clean_name": "Dd Vanilla Milky",
+        "brand": "Dd",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Dairy & Fresh",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "DD pineapple milky 50ml",
+        "clean_name": "Dd Pineapple Milky",
+        "brand": "Dd",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Dairy & Fresh",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "milkybar Rs.10ps 1box",
+        "clean_name": "Milkybar Ps",
+        "brand": "Milkybar",
+        "size": 1.0,
+        "unit": "box",
+        "category": "Dairy & Fresh",
+        "mrp": 240.0
+    },
+    {
+        "original_name": "DD S.cup buttersc 60ml",
+        "clean_name": "Dd SCup Buttersc",
+        "brand": "Dd",
+        "size": 60.0,
+        "unit": "ml",
+        "category": "Dairy & Fresh",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "DD Butterscotch 500ml",
+        "clean_name": "Dd Butterscotch",
+        "brand": "Dd",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Dairy & Fresh",
+        "mrp": 140.0
+    },
+    {
+        "original_name": "DD Buy1get1 (buttersc 700ml)",
+        "clean_name": "Dd Buy1Get1 Buttersc",
+        "brand": "Dd",
+        "size": 700.0,
+        "unit": "ml",
+        "category": "Dairy & Fresh",
+        "mrp": 250.0
+    },
+    {
+        "original_name": "dairymilk Rs.5",
+        "clean_name": "Dairymilk",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "dairymilk Rs.5(72ps)box",
+        "clean_name": "Dairymilk Box",
+        "brand": "Dairymilk",
+        "size": 72.0,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 380.0
+    },
+    {
+        "original_name": "dairymilk Rs.20",
+        "clean_name": "Dairymilk",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "milkybar Rs.10",
+        "clean_name": "Milkybar",
+        "brand": "Milkybar",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "milkybar Rs.5 (1box)",
+        "clean_name": "Milkybar",
+        "brand": "Milkybar",
+        "size": 1.0,
+        "unit": "box",
+        "category": "Dairy & Fresh",
+        "mrp": 140.0
+    },
+    {
+        "original_name": "milkybar Rs.5ps",
+        "clean_name": "Milkybar Ps",
+        "brand": "Milkybar",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "nescafe classic 50g",
+        "clean_name": "Nescafe Classic",
+        "brand": "Nescafe",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "pediasure 200g",
+        "clean_name": "Pediasure",
+        "brand": "Pediasure",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 350.0
+    },
+    {
+        "original_name": "pediasure 200g jar",
+        "clean_name": "Pediasure  Jar",
+        "brand": "Pediasure",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 350.0
+    },
+    {
+        "original_name": "Ensure 400g rifil",
+        "clean_name": "Ensure  Rifil",
+        "brand": "Ensure",
+        "size": 400.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 580.0
+    },
+    {
+        "original_name": "Ensure 200g rifil",
+        "clean_name": "Ensure  Rifil",
+        "brand": "Ensure",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "Ensure choco 400g rifil",
+        "clean_name": "Ensure Choco  Rifil",
+        "brand": "Ensure",
+        "size": 400.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 580.0
+    },
+    {
+        "original_name": "Ensure vannila 200g rifil",
+        "clean_name": "Ensure Vannila  Rifil",
+        "brand": "Ensure",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "Ensure choco 200g rifil",
+        "clean_name": "Ensure Choco  Rifil",
+        "brand": "Ensure",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "Ensure vannila 400g rifil",
+        "clean_name": "Ensure Vannila  Rifil",
+        "brand": "Ensure",
+        "size": 400.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 590.0
+    },
+    {
+        "original_name": "pediasure choco 200g jar",
+        "clean_name": "Pediasure Choco  Jar",
+        "brand": "Pediasure",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 330.0
+    },
+    {
+        "original_name": "pediasure choco 400g jar",
+        "clean_name": "Pediasure Choco  Jar",
+        "brand": "Pediasure",
+        "size": 400.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 610.0
+    },
+    {
+        "original_name": "pediasure choco200g rifil",
+        "clean_name": "Pediasure Choco Rifil",
+        "brand": "Pediasure",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 320.0
+    },
+    {
+        "original_name": "pediasure vannila 200g rifil",
+        "clean_name": "Pediasure Vannila  Rifil",
+        "brand": "Pediasure",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 650.0
+    },
+    {
+        "original_name": "pediasure vannila 400g rifil",
+        "clean_name": "Pediasure Vannila  Rifil",
+        "brand": "Pediasure",
+        "size": 400.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 590.0
+    },
+    {
+        "original_name": "pediasure vannila 200g jar",
+        "clean_name": "Pediasure Vannila  Jar",
+        "brand": "Pediasure",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 350.0
+    },
+    {
+        "original_name": "dairymilk Rs.40(box)",
+        "clean_name": "Dairymilk Box",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 1200.0
+    },
+    {
+        "original_name": "dairymilk Rs.160",
+        "clean_name": "Dairymilk",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "dairymilk Rs.100",
+        "clean_name": "Dairymilk",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "dairymilk Rs.90",
+        "clean_name": "Dairymilk",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "daimilk Rs.90 box",
+        "clean_name": "Daimilk Box",
+        "brand": "Daimilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 1350.0
+    },
+    {
+        "original_name": "dairymilk Rs.45",
+        "clean_name": "Dairymilk",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "dairymilk Rs.20 box",
+        "clean_name": "Dairymilk Box",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 800.0
+    },
+    {
+        "original_name": "milk SHAKE",
+        "clean_name": "Milk Shake",
+        "brand": "Milk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "milk bikis clasic Rs.10 dozen",
+        "clean_name": "Milk Bikis Clasic Dozen",
+        "brand": "Milk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "milkybar Rs.20 1box",
+        "clean_name": "Milkybar",
+        "brand": "Milkybar",
+        "size": 1.0,
+        "unit": "box",
+        "category": "Dairy & Fresh",
+        "mrp": 480.0
+    },
+   
+    {
+        "original_name": "milkybar Rs.20 ps",
+        "clean_name": "Milkybar Ps",
+        "brand": "Milkybar",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "vivo balls mittaiye pkt",
+        "clean_name": "Vivo Balls Mittaiye Pkt",
+        "brand": "Vivo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "milkybar Rs.5",
+        "clean_name": "Milkybar",
+        "brand": "Milkybar",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "milkybar Rs.20",
+        "clean_name": "Milkybar",
+        "brand": "Milkybar",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "sunfeast super milk",
+        "clean_name": "Sunfeast Super Milk",
+        "brand": "Sunfeast",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "sunfeast super milk rs.5",
+        "clean_name": "Sunfeast Super Milk",
+        "brand": "Sunfeast",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "kalimark badam milk",
+        "clean_name": "Kalimark Badam Milk",
+        "brand": "Kalimark",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "kalimark cho milk",
+        "clean_name": "Kalimark Cho Milk",
+        "brand": "Kalimark",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 30.0
+    },
+    {
+        "original_name": " super milk rs.5",
+        "clean_name": "Super Milk",
+        "brand": "Super",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "super milk rs.5",
+        "clean_name": "Super Milk",
+        "brand": "Super",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "sunfeast super milk 10RS",
+        "clean_name": "Sunfeast Super Milk 10Rs",
+        "brand": "Sunfeast",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "super milk 10RS",
+        "clean_name": "Super Milk 10Rs",
+        "brand": "Super",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 9.0
+    },
+    {
+        "original_name": "dairymilk silk RS 185",
+        "clean_name": "Dairymilk Silk",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 185.0
+    },
+    {
+        "original_name": "sunfeast milk shake",
+        "clean_name": "Sunfeast Milk Shake",
+        "brand": "Sunfeast",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "milk CLASSIC RS20",
+        "clean_name": "Milk Classic",
+        "brand": "Milk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "pal cova jar.Rs.60",
+        "clean_name": "Pal Cova Jar",
+        "brand": "Pal",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "gulab jamun 1+1 milky mist",
+        "clean_name": "Gulab Jamun 11 Milky Mist",
+        "brand": "Gulab",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 130.0
+    },
+    {
+        "original_name": "kaju butter toffee",
+        "clean_name": "Kaju Butter Toffee",
+        "brand": "Kaju",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "jelly butterfly Rs.5 jar",
+        "clean_name": "Jelly Butterfly Jar",
+        "brand": "Jelly",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "pen Rs.10 cello butterflow ",
+        "clean_name": "Pen Cello Butterflow",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "Flair Inky classic pen Rs.50",
+        "clean_name": "Flair Inky Classic Pen",
+        "brand": "Flair",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "milk maid tin 400g",
+        "clean_name": "Milk Maid Tin",
+        "brand": "Milk",
+        "size": 400.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 126.0
+    },
+    {
+        "original_name": "ux M pen classic Rs.75",
+        "clean_name": "Ux M Pen Classic",
+        "brand": "Ux",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "pal cova jar Rs.1",
+        "clean_name": "Pal Cova Jar",
+        "brand": "Pal",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "pal cova jar mani mark Rs.1",
+        "clean_name": "Pal Cova Jar Mani Mark",
+        "brand": "Pal",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "dairymilk silk Rs 175",
+        "clean_name": "Dairymilk Silk",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 175.0
+    },
+    {
+        "original_name": "dairymilk silk RS 85",
+        "clean_name": "Dairymilk Silk",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "pal cova box Rs.5",
+        "clean_name": "Pal Cova Box",
+        "brand": "Pal",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "dairymilk silk 250g RS.335",
+        "clean_name": "Dairymilk Silk",
+        "brand": "Dairymilk",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 335.0
+    },
+    {
+        "original_name": "dairymilk Rs.100 (box)",
+        "clean_name": "Dairymilk Box",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "dairymilk Rs.150 (box)",
+        "clean_name": "Dairymilk Box",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "milk maid amul tin 400g Rs.126",
+        "clean_name": "Milk Maid Amul Tin",
+        "brand": "Milk",
+        "size": 400.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 126.0
+    },
+    {
+        "original_name": "dairymilk silk Rs.195",
+        "clean_name": "Dairymilk Silk",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 195.0
+    },
+    {
+        "original_name": "milk shake sunfeast",
+        "clean_name": "Milk Shake Sunfeast",
+        "brand": "Milk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "milk shake winkin cow",
+        "clean_name": "Milk Shake Winkin Cow",
+        "brand": "Milk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "dairymilk  fuse Rs.20",
+        "clean_name": "Dairymilk Fuse",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "milk maid tin Rs.147",
+        "clean_name": "Milk Maid Tin",
+        "brand": "Milk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 149.0
+    },
+    {
+        "original_name": "dairymilk silk heart blush Rs.180",
+        "clean_name": "Dairymilk Silk Heart Blush",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 180.0
+    },
+    {
+        "original_name": "dairymilk crispello Rs.30",
+        "clean_name": "Dairymilk Crispello",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 35.0
+    },
+
+    {
+        "original_name": "pal cova jar Rs.5",
+        "clean_name": "Pal Cova Jar",
+        "brand": "Pal",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "kissan peanut butter 100gm",
+        "clean_name": "Kissan Peanut Butter",
+        "brand": "Kissan",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "kissan penut butter 350gm",
+        "clean_name": "Kissan Penut Butter",
+        "brand": "Kissan",
+        "size": 350.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 175.0
+    },
+    {
+        "original_name": "sweet milk box rs.5",
+        "clean_name": "Sweet Milk Box",
+        "brand": "Sweet",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "dairymilk crispello Rs.35",
+        "clean_name": "Dairymilk Crispello",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "nestle classic Rs.10",
+        "clean_name": "Nestle Classic",
+        "brand": "Nestle",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "dairymilk Rs.60",
+        "clean_name": "Dairymilk",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "dairymilk Rs.140",
+        "clean_name": "Dairymilk",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 140.0
+    },
+    {
+        "original_name": "milky mist paneer 200g",
+        "clean_name": "Milky Mist Paneer",
+        "brand": "Milky",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 125.0
+    },
+    {
+        "original_name": "milky mist paneer cub 200g",
+        "clean_name": "Milky Mist Paneer Cub",
+        "brand": "Milky",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 115.0
+    },
+    {
+        "original_name": "milky mist butter 100g",
+        "clean_name": "Milky Mist Butter",
+        "brand": "Milky",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "milky mist butter cooking 100g",
+        "clean_name": "Milky Mist Butter Cooking",
+        "brand": "Milky",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "milky mist butter cooking 200g",
+        "clean_name": "Milky Mist Butter Cooking",
+        "brand": "Milky",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 138.0
+    },
+    {
+        "original_name": "milky mist butter table 100g",
+        "clean_name": "Milky Mist Butter Table",
+        "brand": "Milky",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 68.0
+    },
+    {
+        "original_name": "milky mist mozzarella cheese 200g",
+        "clean_name": "Milky Mist Mozzarella Cheese",
+        "brand": "Milky",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 165.0
+    },
+    {
+        "original_name": "milky mist butter chiplet table 100g",
+        "clean_name": "Milky Mist Butter Chiplet Table",
+        "brand": "Milky",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "super milk rs.35 (with free)",
+        "clean_name": "Super Milk With Free",
+        "brand": "Super",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "mil paneer cubes 1kg",
+        "clean_name": "Mil Paneer Cubes",
+        "brand": "Mil",
+        "size": 1.0,
+        "unit": "kg",
+        "category": "Dairy & Fresh",
+        "mrp": 520.0
+    },
+    {
+        "original_name": "mil milk shake 220ml",
+        "clean_name": "Mil Milk Shake",
+        "brand": "Mil",
+        "size": 220.0,
+        "unit": "ml",
+        "category": "Dairy & Fresh",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "mil curd pkt 135ml",
+        "clean_name": "Mil Curd Pkt",
+        "brand": "Mil",
+        "size": 135.0,
+        "unit": "ml",
+        "category": "Dairy & Fresh",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "mil curd pkt 400g",
+        "clean_name": "Mil Curd Pkt",
+        "brand": "Mil",
+        "size": 400.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 42.0
+    },
+    {
+        "original_name": "mil butter cooking 100g",
+        "clean_name": "Mil Butter Cooking",
+        "brand": "Mil",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "mil butter cooking 200g",
+        "clean_name": "Mil Butter Cooking",
+        "brand": "Mil",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 148.0
+    },
+    {
+        "original_name": "mil paneer cub 200g",
+        "clean_name": "Mil Paneer Cub",
+        "brand": "Mil",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 115.0
+    },
+    {
+        "original_name": "mil mozzarella cheese 200g",
+        "clean_name": "Mil Mozzarella Cheese",
+        "brand": "Mil",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 165.0
+    },
+    {
+        "original_name": "mil butter chiplet table 100g",
+        "clean_name": "Mil Butter Chiplet Table",
+        "brand": "Mil",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "mil butter table 100g",
+        "clean_name": "Mil Butter Table",
+        "brand": "Mil",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 68.0
+    },
+    {
+        "original_name": "mil paneer 200g",
+        "clean_name": "Mil Paneer",
+        "brand": "Mil",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 125.0
+    },
+    {
+        "original_name": "milk maid tin Rs.149",
+        "clean_name": "Milk Maid Tin",
+        "brand": "Milk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 145.0
+    },
+    {
+        "original_name": "mil butter cooking 500g",
+        "clean_name": "Mil Butter Cooking",
+        "brand": "Mil",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 335.0
+    },
+    {
+        "original_name": "mil cheese cubs 200g",
+        "clean_name": "Mil Cheese Cubs",
+        "brand": "Mil",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "dairymilk silk 250g RS.355",
+        "clean_name": "Dairymilk Silk",
+        "brand": "Dairymilk",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 355.0
+    },
+    {
+        "original_name": "dairymilk Mocha Almond Rs.50",
+        "clean_name": "Dairymilk Mocha Almond",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "dairymilk fuse Rs.45",
+        "clean_name": "Dairymilk Fuse",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "mil butter milk 200ml",
+        "clean_name": "Mil Butter Milk",
+        "brand": "Mil",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Dairy & Fresh",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "milku Rs.250",
+        "clean_name": "Milku",
+        "brand": "Milku",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 250.0
+    },
+    {
+        "original_name": "dairymilk Lolipop Rs.5",
+        "clean_name": "Dairymilk Lolipop",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "more light liq jar 5ltr Rs.349",
+        "clean_name": "More Light Jar",
+        "brand": "More",
+        "size": 5.0,
+        "unit": "Ltr",
+        "category": "Dairy & Fresh",
+        "mrp": 360.0
+    },
+    {
+        "original_name": "milk maid milky mist tin 395g",
+        "clean_name": "Milk Maid Milky Mist Tin",
+        "brand": "Milk",
+        "size": 395.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 145.0
+    },
+    {
+        "original_name": "merymilk Rs.2",
+        "clean_name": "Merymilk",
+        "brand": "Merymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "milk maid pkt  Rs.89",
+        "clean_name": "Milk Maid Pkt",
+        "brand": "Milk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 89.0
+    },
+    {
+        "original_name": "Ecalrs MILK  Rs.50",
+        "clean_name": "Ecalrs Milk",
+        "brand": "Ecalrs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "dairymilk Lolipop Rs.5 pai",
+        "clean_name": "Dairymilk Lolipop Pai",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 240.0
+    },
+    {
+        "original_name": "winkin cow lassi rs.25",
+        "clean_name": "Winkin Cow Lassi",
+        "brand": "Winkin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "paneer hatsun 200g rs.130",
+        "clean_name": "Paneer Hatsun",
+        "brand": "Paneer",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Dairy & Fresh",
+        "mrp": 130.0
+    },
+    {
+        "original_name": "Ecalrs MILK  Rs.100",
+        "clean_name": "Ecalrs Milk",
+        "brand": "Ecalrs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "dairymilk Rs.55",
+        "clean_name": "Dairymilk",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "dairymilk Rs.30",
+        "clean_name": "Dairymilk",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "dairymilk Rs.50",
+        "clean_name": "Dairymilk",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "more light liq jar 5ltr Rs.360",
+        "clean_name": "More Light Jar",
+        "brand": "More",
+        "size": 5.0,
+        "unit": "Ltr",
+        "category": "Dairy & Fresh",
+        "mrp": 360.0
+    },
+    {
+        "original_name": "super milk rs.5 (24pcs)",
+        "clean_name": "Super Milk",
+        "brand": "Super",
+        "size": 24.0,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "super milk 9.RS",
+        "clean_name": "Super Milk 9",
+        "brand": "Super",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 9.0
+    },
+    {
+        "original_name": "Nyra milk jar Rs.2",
+        "clean_name": "Nyra Milk Jar",
+        "brand": "Nyra",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "pal cova jar.Rs.75",
+        "clean_name": "Pal Cova Jar",
+        "brand": "Pal",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "super milk rs.4.50 (24pcs)",
+        "clean_name": "Super Milk",
+        "brand": "Super",
+        "size": 24.0,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 108.0
+    },
+    {
+        "original_name": "super milk rs.18",
+        "clean_name": "Super Milk",
+        "brand": "Super",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 18.0
+    },
+    {
+        "original_name": "CL jelly butterfly Rs.5 jar",
+        "clean_name": "Jelly Butterfly Jar",
+        "brand": "Jelly",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "CL jelly mittaiye Rs.5 jar",
+        "clean_name": "Jelly Mittaiye Jar",
+        "brand": "Jelly",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "CL pal cova jar.Rs.60",
+        "clean_name": "Pal Cova Jar",
+        "brand": "Pal",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "CL milku Rs.250",
+        "clean_name": "Milku",
+        "brand": "Milku",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dairy & Fresh",
+        "mrp": 250.0
+    }
+]

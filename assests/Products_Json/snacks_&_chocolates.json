@@ -1,0 +1,4646 @@
+[
+    {
+        "original_name": "kopiko jar ",
+        "clean_name": "Kopiko Jar",
+        "brand": "Kopiko",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 230.0
+    },
+    {
+        "original_name": "mysore soap Rs.40",
+        "clean_name": "Mysore",
+        "brand": "Mysore",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "milk biscuit Rs.10 box",
+        "clean_name": "Milk Biscuit Box",
+        "brand": "Milk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 1200.0
+    },
+    {
+        "original_name": "milk biscuit Rs.5 box",
+        "clean_name": "Milk Biscuit Box",
+        "brand": "Milk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 900.0
+    },
+    {
+        "original_name": "milk biscuit Rs.10 (12pcs)",
+        "clean_name": "Milk Biscuit",
+        "brand": "Milk",
+        "size": 12.0,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "milk biscuit Rs.5 (30pcs)",
+        "clean_name": "Milk Biscuit",
+        "brand": "Milk",
+        "size": 30.0,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "50-50 biscuit Rs.10",
+        "clean_name": "5050 Biscuit",
+        "brand": "50-50",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "50-50 biscuit Rs.10 (12pcs)",
+        "clean_name": "5050 Biscuit",
+        "brand": "50-50",
+        "size": 12.0,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "50-50 biscuit Rs.5(12ps)",
+        "clean_name": "5050 Biscuit",
+        "brand": "50-50",
+        "size": 12.0,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "tiger cream biscuit Rs.5",
+        "clean_name": "Tiger Cream Biscuit",
+        "brand": "Tiger",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "50-50 biscuit Rs.5",
+        "clean_name": "5050 Biscuit",
+        "brand": "50-50",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "milk biscuit Rs.10",
+        "clean_name": "Milk Biscuit",
+        "brand": "Milk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "milk biscuit Rs.5",
+        "clean_name": "Milk Biscuit",
+        "brand": "Milk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "milk biscuit Rs.28",
+        "clean_name": "Milk Biscuit",
+        "brand": "Milk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 28.0
+    },
+    {
+        "original_name": "melody choc RS.50",
+        "clean_name": "Melody Choc",
+        "brand": "Melody",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "seeval nice Rs.10 bundle",
+        "clean_name": "Seeval Nice Bundle",
+        "brand": "Seeval",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "seeval nice Rs.5.bundle",
+        "clean_name": "Seeval Nice Bundle",
+        "brand": "Seeval",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "seeval satha Rs.10 bandal",
+        "clean_name": "Seeval Satha Bandal",
+        "brand": "Seeval",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "badham 1kg",
+        "clean_name": "Badham",
+        "brand": "Badham",
+        "size": 1.0,
+        "unit": "kg",
+        "category": "Snacks & Chocolates",
+        "mrp": 700.0
+    },
+    {
+        "original_name": "rusk britanniya Rs.10",
+        "clean_name": "Rusk Britanniya",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "oreo Rs.10",
+        "clean_name": "Oreo",
+        "brand": "Oreo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "oreo Rs.10 (1pai)",
+        "clean_name": "Oreo 1Pai",
+        "brand": "Oreo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "bingo Rs.5 saram",
+        "clean_name": "Bingo Saram",
+        "brand": "Bingo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "jothi appalam 250g ",
+        "clean_name": "Jothi Appalam",
+        "brand": "Jothi",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 65.0
+    },
+    {
+        "original_name": "happy happy cakes 1ps",
+        "clean_name": "Happy Happy Cakes",
+        "brand": "Happy",
+        "size": 1.0,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "seeval saatha Rs.5 bandal",
+        "clean_name": "Seeval Saatha Bandal",
+        "brand": "Seeval",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "mysore soap125g Rs.65",
+        "clean_name": "Mysore Soap",
+        "brand": "Mysore",
+        "size": 125.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 69.0
+    },
+    {
+        "original_name": "mysore sandal 150g soap",
+        "clean_name": "Mysore Sandal",
+        "brand": "Mysore",
+        "size": 150.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 78.0
+    },
+    {
+        "original_name": "mysore sandal 450g 1.box",
+        "clean_name": "Mysore Sandal  1Box",
+        "brand": "Mysore",
+        "size": 450.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 243.0
+    },
+    {
+        "original_name": "pasta",
+        "clean_name": "Pasta",
+        "brand": "Pasta",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "pasta spiral 500g",
+        "clean_name": "Pasta Spiral",
+        "brand": "Pasta",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 53.0
+    },
+    {
+        "original_name": "sangu pasta 500g",
+        "clean_name": "Sangu Pasta",
+        "brand": "Sangu",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "murukku Rs.10 ",
+        "clean_name": "Murukku",
+        "brand": "Murukku",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "michar Rs.5 ",
+        "clean_name": "Michar",
+        "brand": "Michar",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "michar Rs.6",
+        "clean_name": "Michar",
+        "brand": "Michar",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "pori michar Rs.6",
+        "clean_name": "Pori Michar",
+        "brand": "Pori",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "michar Rs.10",
+        "clean_name": "Michar",
+        "brand": "Michar",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "michar 1kg ",
+        "clean_name": "Michar",
+        "brand": "Michar",
+        "size": 1.0,
+        "unit": "kg",
+        "category": "Snacks & Chocolates",
+        "mrp": 135.0
+    },
+    {
+        "original_name": "DD pista kulfi 50ml",
+        "clean_name": "Dd Pista Kulfi",
+        "brand": "Dd",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Snacks & Chocolates",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "DD Spinno fruitreat 80ml ",
+        "clean_name": "Dd Spinno Fruitreat",
+        "brand": "Dd",
+        "size": 80.0,
+        "unit": "ml",
+        "category": "Snacks & Chocolates",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "rusk milk (elite) Rs.35",
+        "clean_name": "Rusk Milk Elite",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "rusk elaichi(elite) Rs.35",
+        "clean_name": "Rusk ElaichiElite",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "ruck classic(elite) Rs.20",
+        "clean_name": "Ruck ClassicElite",
+        "brand": "Ruck",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "rusk elaichi (elite) Rs.10 bai",
+        "clean_name": "Rusk Elaichi Elite Bai",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "jothi appalam 150g ",
+        "clean_name": "Jothi Appalam",
+        "brand": "Jothi",
+        "size": 150.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "kalla mittai Rs.20",
+        "clean_name": "Kalla Mittai",
+        "brand": "Kalla",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "appalam 100g",
+        "clean_name": "Appalam",
+        "brand": "Appalam",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "pasta (sangu) 500g",
+        "clean_name": "Pasta Sangu",
+        "brand": "Pasta",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 53.0
+    },
+    {
+        "original_name": "pasta (macaroni)500g",
+        "clean_name": "Pasta Macaroni",
+        "brand": "Pasta",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "pasta (elbo) 500g",
+        "clean_name": "Pasta Elbo",
+        "brand": "Pasta",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 53.0
+    },
+    {
+        "original_name": "jothi appalam 100g",
+        "clean_name": "Jothi Appalam",
+        "brand": "Jothi",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "jothi appalam 50g ",
+        "clean_name": "Jothi Appalam",
+        "brand": "Jothi",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "jothi appalam 75g ",
+        "clean_name": "Jothi Appalam",
+        "brand": "Jothi",
+        "size": 75.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "rusk britanniya Rs.10(box)",
+        "clean_name": "Rusk Britanniya Box",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 700.0
+    },
+    {
+        "original_name": "lion dates 500g",
+        "clean_name": "Lion Dates",
+        "brand": "Lion",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 114.0
+    },
+    {
+        "original_name": "lion dates desert king 500g",
+        "clean_name": "Lion Dates Desert King",
+        "brand": "Lion",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 279.0
+    },
+    {
+        "original_name": "bingo Rs.5",
+        "clean_name": "Bingo",
+        "brand": "Bingo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "ragam nuts&fruits 200g",
+        "clean_name": "Ragam NutsFruits",
+        "brand": "Ragam",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 252.0
+    },
+    {
+        "original_name": "kalla mittai Rs.10",
+        "clean_name": "Kalla Mittai",
+        "brand": "Kalla",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "kuchi mittai Rs.10",
+        "clean_name": "Kuchi Mittai",
+        "brand": "Kuchi",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "Eclairs candyman Rs.110",
+        "clean_name": "Eclairs Candyman",
+        "brand": "Eclairs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "candyman eclairs Rs.110",
+        "clean_name": "Candyman Eclairs",
+        "brand": "Candyman",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "candyman(c) lacto Rs.110",
+        "clean_name": "CandymanC Lacto",
+        "brand": "Candyman(C)",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "candyman eclairs Rs.50",
+        "clean_name": "Candyman Eclairs",
+        "brand": "Candyman",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "candyman (c)double Rs.110",
+        "clean_name": "Candyman CDouble",
+        "brand": "Candyman",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "Eclairs 2in1",
+        "clean_name": "Eclaiin1",
+        "brand": "Eclaiin1",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "con chips box",
+        "clean_name": "Con Chips Box",
+        "brand": "Con",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 850.0
+    },
+    {
+        "original_name": "maha laddu Rs.50",
+        "clean_name": "Maha Laddu",
+        "brand": "Maha",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "paani poori cup 100ps",
+        "clean_name": "Paani Poori Cup",
+        "brand": "Paani",
+        "size": 100.0,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "kalla mittai Rs.5(jar)",
+        "clean_name": "Kalla Mittai Jar",
+        "brand": "Kalla",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "bread (full size)",
+        "clean_name": "Bread Full Size",
+        "brand": "Bread",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "rusk britanniya Rs.35",
+        "clean_name": "Rusk Britanniya",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "ragam nuts&fruits 500g",
+        "clean_name": "Ragam NutsFruits",
+        "brand": "Ragam",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 350.0
+    },
+    {
+        "original_name": "tiger cream biscuit Rs.5(dazon)",
+        "clean_name": "Tiger Cream Biscuit Dazon",
+        "brand": "Tiger",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "spoon paani poori 100ps",
+        "clean_name": "Spoon Paani Poori",
+        "brand": "Spoon",
+        "size": 100.0,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "soan papti 250g",
+        "clean_name": "Soan Papti",
+        "brand": "Soan",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 65.0
+    },
+    {
+        "original_name": "soan papti 100g",
+        "clean_name": "Soan Papti",
+        "brand": "Soan",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "paani poori kit Rs.60",
+        "clean_name": "Paani Poori Kit",
+        "brand": "Paani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "paani poori kit Rs.40",
+        "clean_name": "Paani Poori Kit",
+        "brand": "Paani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "bingo Rs.10 saram",
+        "clean_name": "Bingo Saram",
+        "brand": "Bingo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "bingo Rs.10 ",
+        "clean_name": "Bingo",
+        "brand": "Bingo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "michar murukku Rs.10 bundle",
+        "clean_name": "Michar Murukku Bundle",
+        "brand": "Michar",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "paani poori vaththal 1kg",
+        "clean_name": "Paani Poori Vaththal",
+        "brand": "Paani",
+        "size": 1.0,
+        "unit": "kg",
+        "category": "Snacks & Chocolates",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "badham mass 200g",
+        "clean_name": "Badham Mass",
+        "brand": "Badham",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "annai dates200g(1+1)",
+        "clean_name": "Annai Dates11",
+        "brand": "Annai",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 84.0
+    },
+    {
+        "original_name": "annai dates black200g",
+        "clean_name": "Annai Dates Black",
+        "brand": "Annai",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 133.0
+    },
+    {
+        "original_name": "annai dates 750g jar",
+        "clean_name": "Annai Dates  Jar",
+        "brand": "Annai",
+        "size": 750.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "bread Rs.25",
+        "clean_name": "Bread",
+        "brand": "Bread",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "bun Rs.25",
+        "clean_name": "Bun",
+        "brand": "Bun",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "alvaa Rs.65",
+        "clean_name": "Alvaa",
+        "brand": "Alvaa",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 65.0
+    },
+    {
+        "original_name": "jothi appalam 200g ",
+        "clean_name": "Jothi Appalam",
+        "brand": "Jothi",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "paani poori cup 50ps",
+        "clean_name": "Paani Poori Cup",
+        "brand": "Paani",
+        "size": 50.0,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "jothi appalam Rs.10",
+        "clean_name": "Jothi Appalam",
+        "brand": "Jothi",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 13.0
+    },
+    {
+        "original_name": "treat choco Rs.5 jar",
+        "clean_name": "Treat Choco Jar",
+        "brand": "Treat",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "treat staberry Rs.5 jar",
+        "clean_name": "Treat Staberry Jar",
+        "brand": "Treat",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "tiger krunch Rs.5(dazon)",
+        "clean_name": "Tiger Krunch Dazon",
+        "brand": "Tiger",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "wonder cake Rs.35",
+        "clean_name": "Wonder Cake",
+        "brand": "Wonder",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "milk biscuit Rs.30",
+        "clean_name": "Milk Biscuit",
+        "brand": "Milk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "nice cake Rs.60",
+        "clean_name": "Nice Cake",
+        "brand": "Nice",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "alvaa Rs.60 dappa",
+        "clean_name": "Alvaa Dappa",
+        "brand": "Alvaa",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "mysore cake Rs.150 jar ",
+        "clean_name": "Mysore Cake Jar",
+        "brand": "Mysore",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "alvaa Rs.65 pkt",
+        "clean_name": "Alvaa Pkt",
+        "brand": "Alvaa",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "alvaa Rs.200 jar",
+        "clean_name": "Alvaa Jar",
+        "brand": "Alvaa",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "candyman jar Rs.200",
+        "clean_name": "Candyman Jar",
+        "brand": "Candyman",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "bun Rs.60",
+        "clean_name": "Bun",
+        "brand": "Bun",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "annai dates black250g",
+        "clean_name": "Annai Dates Black",
+        "brand": "Annai",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 133.0
+    },
+    {
+        "original_name": "michar Rs.5 pkt",
+        "clean_name": "Michar Pkt",
+        "brand": "Michar",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "britannia cake Rs.10",
+        "clean_name": "Britannia Cake",
+        "brand": "Britannia",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "britannia cake Rs.10 saram",
+        "clean_name": "Britannia Cake Saram",
+        "brand": "Britannia",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "palcova Rs.75 jar",
+        "clean_name": "Palcova Jar",
+        "brand": "Palcova",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "rusk rose Rs.10",
+        "clean_name": "Rusk Rose",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 22.0
+    },
+    {
+        "original_name": "rusk rose Rs.10 (1.dozen)",
+        "clean_name": "Rusk Rose 1Dozen",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "rusk classic(elite) Rs.20",
+        "clean_name": "Rusk ClassicElite",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "paani poori cup periyathu",
+        "clean_name": "Paani Poori Cup Periyathu",
+        "brand": "Paani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "kopiko big jar Rs.650",
+        "clean_name": "Kopiko Big Jar",
+        "brand": "Kopiko",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 650.0
+    },
+    {
+        "original_name": "michar 1.kg \u0b93\u0bb2\u0bc8\u0baa\u0b95\u0bb5\u0b9f\u0bbe",
+        "clean_name": "Michar 1Kg",
+        "brand": "Michar",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 135.0
+    },
+    {
+        "original_name": "michar 350g \u0bb0\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bc1\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
+        "clean_name": "Michar",
+        "brand": "Michar",
+        "size": 350.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 65.0
+    },
+    {
+        "original_name": "rusk milk (1.dozen)",
+        "clean_name": "Rusk Milk 1Dozen",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "bun univercel big Rs.75",
+        "clean_name": "Bun Univercel Big",
+        "brand": "Bun",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "annai dates500g(1+1)",
+        "clean_name": "Annai Dates11",
+        "brand": "Annai",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 180.0
+    },
+    {
+        "original_name": "annai dates black 500g box",
+        "clean_name": "Annai Dates Black  Box",
+        "brand": "Annai",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 255.0
+    },
+    {
+        "original_name": "annai dates sl 250g box Rs.78",
+        "clean_name": "Annai Dates Sl  Box",
+        "brand": "Annai",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 78.0
+    },
+    {
+        "original_name": "annai dates s.l 500g box Rs.148",
+        "clean_name": "Annai Dates SL  Box",
+        "brand": "Annai",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 148.0
+    },
+    {
+        "original_name": "annai dates 100g pkt",
+        "clean_name": "Annai Dates  Pkt",
+        "brand": "Annai",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "annai dates200g pkt",
+        "clean_name": "Annai Dates Pkt",
+        "brand": "Annai",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "annai dates b.(1+1)125g",
+        "clean_name": "Annai Dates B11",
+        "brand": "Annai",
+        "size": 125.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 130.0
+    },
+    {
+        "original_name": "annai inimia dates500g box",
+        "clean_name": "Annai Inimia Dates Box",
+        "brand": "Annai",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 275.0
+    },
+    {
+        "original_name": "annai dates500g pkt Rs.100",
+        "clean_name": "Annai Dates Pkt",
+        "brand": "Annai",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "rate cake (get out) saram",
+        "clean_name": "Rate Cake Get Out Saram",
+        "brand": "Rate",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 324.0
+    },
+    {
+        "original_name": "bread (master) Rs.30",
+        "clean_name": "Bread Master",
+        "brand": "Bread",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "bread (master) Rs.25",
+        "clean_name": "Bread Master",
+        "brand": "Bread",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "bun master (5.Pcs)Rs.25",
+        "clean_name": "Bun Master 5Pcs",
+        "brand": "Bun",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "rusk (master)Rs.30",
+        "clean_name": "Rusk Master",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "unibic biscuit Rs.10",
+        "clean_name": "Unibic Biscuit",
+        "brand": "Unibic",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "unibic biscuit Rs.10 dozen",
+        "clean_name": "Unibic Biscuit Dozen",
+        "brand": "Unibic",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "unibic biscuit Rs.5",
+        "clean_name": "Unibic Biscuit",
+        "brand": "Unibic",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "unibic biscuit Rs.5 dozen",
+        "clean_name": "Unibic Biscuit Dozen",
+        "brand": "Unibic",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "mysore cake Rs.200 jar ",
+        "clean_name": "Mysore Cake Jar",
+        "brand": "Mysore",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "ragam badham 100g jar",
+        "clean_name": "Ragam Badham  Jar",
+        "brand": "Ragam",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "ragam pista 100g jar",
+        "clean_name": "Ragam Pista  Jar",
+        "brand": "Ragam",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 186.0
+    },
+    {
+        "original_name": "galaxy 5d steel nice broom ",
+        "clean_name": "Galaxy 5D Steel Nice Broom",
+        "brand": "Galaxy",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 195.0
+    },
+    {
+        "original_name": "rusk britanniya Rs.10 dozen",
+        "clean_name": "Rusk Britanniya Dozen",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "palcova Rs.60 jar",
+        "clean_name": "Palcova Jar",
+        "brand": "Palcova",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "kopiko pkt Rs.115",
+        "clean_name": "Kopiko Pkt",
+        "brand": "Kopiko",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 105.0
+    },
+    {
+        "original_name": "seeval 10ps",
+        "clean_name": "Seeval",
+        "brand": "Seeval",
+        "size": 10.0,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "mat nice box",
+        "clean_name": "Mat Nice Box",
+        "brand": "Mat",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 65.0
+    },
+    {
+        "original_name": "milk biscuit Rs.35",
+        "clean_name": "Milk Biscuit",
+        "brand": "Milk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "milk bikis clasic Rs.10",
+        "clean_name": "Milk Bikis Clasic",
+        "brand": "Milk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "oreo Rs.5 ps",
+        "clean_name": "Oreo Ps",
+        "brand": "Oreo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "kalla mittai Rs.2 jar",
+        "clean_name": "Kalla Mittai Jar",
+        "brand": "Kalla",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "mysore soap Rs.42",
+        "clean_name": "Mysore",
+        "brand": "Mysore",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 42.0
+    },
+    {
+        "original_name": "mysore cake Rs.150 ",
+        "clean_name": "Mysore Cake",
+        "brand": "Mysore",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "popcorn 5 pkt",
+        "clean_name": "Popcorn",
+        "brand": "Popcorn",
+        "size": 5.0,
+        "unit": "pkt",
+        "category": "Snacks & Chocolates",
+        "mrp": 125.0
+    },
+    {
+        "original_name": "then mittai rs 12",
+        "clean_name": "Then Mittai",
+        "brand": "Then",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 12.0
+    },
+    {
+        "original_name": "lion dates 500g Rs.149",
+        "clean_name": "Lion Dates",
+        "brand": "Lion",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 144.0
+    },
+    {
+        "original_name": "badham Rs.10 saram",
+        "clean_name": "Badham Saram",
+        "brand": "Badham",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 240.0
+    },
+    {
+        "original_name": "lion dates 100g",
+        "clean_name": "Lion Dates",
+        "brand": "Lion",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "michar pori Rs.5.pkt",
+        "clean_name": "Michar Pori Pkt",
+        "brand": "Michar",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "seeval nice Rs.20 bundle",
+        "clean_name": "Seeval Nice Bundle",
+        "brand": "Seeval",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "seeval satha Rs.20 bandal",
+        "clean_name": "Seeval Satha Bandal",
+        "brand": "Seeval",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "rusk parle 5 pai",
+        "clean_name": "Rusk Parle 5 Pai",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "rusk mario Rs.10",
+        "clean_name": "Rusk Mario",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "paani poori cup periyathu 50ps",
+        "clean_name": "Paani Poori Cup Periyathu",
+        "brand": "Paani",
+        "size": 50.0,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "paani poori cup periyathu 100ps",
+        "clean_name": "Paani Poori Cup Periyathu",
+        "brand": "Paani",
+        "size": 100.0,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "thenga perichai cake jar",
+        "clean_name": "Thenga Perichai Cake Jar",
+        "brand": "Thenga",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "bun Rs.24",
+        "clean_name": "Bun",
+        "brand": "Bun",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 24.0
+    },
+    {
+        "original_name": "kurkure 1rs pkt",
+        "clean_name": "Kurkure 1Rs Pkt",
+        "brand": "Kurkure",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "moon chips 12ps",
+        "clean_name": "Moon Chips",
+        "brand": "Moon",
+        "size": 12.0,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "unibic wafer box 24ps",
+        "clean_name": "Unibic Wafer Box",
+        "brand": "Unibic",
+        "size": 24.0,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "rusk elite Rs.25",
+        "clean_name": "Rusk Elite",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "thenga perichai cake 5ps",
+        "clean_name": "Thenga Perichai Cake",
+        "brand": "Thenga",
+        "size": 5.0,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "gokulam dates 500g (1+1)",
+        "clean_name": "Gokulam Dates  11",
+        "brand": "Gokulam",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 180.0
+    },
+    {
+        "original_name": "paani poori cup 100ps sinnathu",
+        "clean_name": "Paani Poori Cup  Sinnathu",
+        "brand": "Paani",
+        "size": 100.0,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "gokulam black dates 200g Rs.145",
+        "clean_name": "Gokulam Black Dates",
+        "brand": "Gokulam",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 145.0
+    },
+    {
+        "original_name": "paani poori cup sinnathu 50ps",
+        "clean_name": "Paani Poori Cup Sinnathu",
+        "brand": "Paani",
+        "size": 50.0,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "milk biscuit Rs.55",
+        "clean_name": "Milk Biscuit",
+        "brand": "Milk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "gokulam dates 250g (1+1) Rs.102",
+        "clean_name": "Gokulam Dates  11",
+        "brand": "Gokulam",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 102.0
+    },
+    {
+        "original_name": "mP nice michar Rs.5 pkt",
+        "clean_name": "Mp Nice Michar Pkt",
+        "brand": "Mp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "mP kundu michar Rs.5",
+        "clean_name": "Mp Kundu Michar",
+        "brand": "Mp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "mm nice michar Rs.5 pkt",
+        "clean_name": "Mm Nice Michar Pkt",
+        "brand": "Mm",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "mm kundu michar Rs.5",
+        "clean_name": "Mm Kundu Michar",
+        "brand": "Mm",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "annai dates 250g S.L Rs.78",
+        "clean_name": "Annai Dates  SL",
+        "brand": "Annai",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 78.0
+    },
+    {
+        "original_name": "bb bingo \u0ba8\u0bc0\u0bb2\u0bae\u0bcd Rs.5",
+        "clean_name": "Bb Bingo",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "bb bingo \u0baa\u0b9a\u0bcd\u0b9a\u0bc8 Rs.5",
+        "clean_name": "Bb Bingo",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "bb bingo \u0bae\u0bc6\u0bb0\u0bc1\u0ba9\u0bcd Rs.5",
+        "clean_name": "Bb Bingo",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "bb bingo \u0bb0\u0bc6\u0b9f\u0bcd \u0b9f\u0bcb\u0bae\u0bca\u0b9f\u0bcb Rs.5",
+        "clean_name": "Bb Bingo",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "bb bingo \u0b86\u0bb0\u0b9e\u0bcd\u0b9a\u0bc1 Rs.5",
+        "clean_name": "Bb Bingo",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "broom safar tulsi nice(9)Rs.225 ",
+        "clean_name": "Broom Safar Tulsi Nice9",
+        "brand": "Broom",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 225.0
+    },
+    {
+        "original_name": "broom safar tulsi nice(10)Rs.225 ",
+        "clean_name": "Broom Safar Tulsi Nice10",
+        "brand": "Broom",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 225.0
+    },
+    {
+        "original_name": "gokulam black dates 500g Rs.261",
+        "clean_name": "Gokulam Black Dates",
+        "brand": "Gokulam",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 261.0
+    },
+    {
+        "original_name": "seeval nice Rs.10ps",
+        "clean_name": "Seeval Nice Ps",
+        "brand": "Seeval",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 103.0
+    },
+    {
+        "original_name": "tiger Rs.3(1pai",
+        "clean_name": "Tiger 1Pai",
+        "brand": "Tiger",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 72.0
+    },
+    {
+        "original_name": "oreo Rs.30",
+        "clean_name": "Oreo",
+        "brand": "Oreo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "gokulam black dates 500g Rs.272",
+        "clean_name": "Gokulam Black Dates",
+        "brand": "Gokulam",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 272.0
+    },
+    {
+        "original_name": "mysore soap125g Rs.69",
+        "clean_name": "Mysore Soap",
+        "brand": "Mysore",
+        "size": 125.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 69.0
+    },
+    {
+        "original_name": "bb bingo kurkure Rs.5",
+        "clean_name": "Bb Bingo Kurkure",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "pal bun Rs.5 jar",
+        "clean_name": "Pal Bun Jar",
+        "brand": "Pal",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "pal bun Rs.1 pkt",
+        "clean_name": "Pal Bun Pkt",
+        "brand": "Pal",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 24.0
+    },
+    {
+        "original_name": "universal rusk Rs.35",
+        "clean_name": "Universal Rusk",
+        "brand": "Universal",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "RRS appalam 50g",
+        "clean_name": "Rrs Appalam",
+        "brand": "Rrs",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "RRS appalam 100g",
+        "clean_name": "Rrs Appalam",
+        "brand": "Rrs",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "rusk univercel Rs.35",
+        "clean_name": "Rusk Univercel",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "rusk britanniya Rs.30",
+        "clean_name": "Rusk Britanniya",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "gokulam black dates 500g. Rs.227  ",
+        "clean_name": "Gokulam Black Dates",
+        "brand": "Gokulam",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 227.0
+    },
+    {
+        "original_name": "bread (half size)",
+        "clean_name": "Bread Half Size",
+        "brand": "Bread",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "bb bingo red chilly",
+        "clean_name": "Bb Bingo Red Chilly",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "gogulam dates 500g",
+        "clean_name": "Gogulam Dates",
+        "brand": "Gogulam",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 140.0
+    },
+    {
+        "original_name": "raagam muscat black dates 500g",
+        "clean_name": "Raagam Muscat Black Dates",
+        "brand": "Raagam",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 228.0
+    },
+    {
+        "original_name": "ragam muscat black dates 500g",
+        "clean_name": "Ragam Muscat Black Dates",
+        "brand": "Ragam",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 228.0
+    },
+    {
+        "original_name": "seeval satha Rs.5 bandal",
+        "clean_name": "Seeval Satha Bandal",
+        "brand": "Seeval",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "oreo Rs.5",
+        "clean_name": "Oreo",
+        "brand": "Oreo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "rusk univercel Rs.45",
+        "clean_name": "Rusk Univercel",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "kimia dates 400g Rs.310",
+        "clean_name": "Kimia Dates",
+        "brand": "Kimia",
+        "size": 400.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 310.0
+    },
+    {
+        "original_name": "zahdi seedless dates 500g",
+        "clean_name": "Zahdi Seedless Dates",
+        "brand": "Zahdi",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 140.0
+    },
+    {
+        "original_name": "soan papti Rs.5 jar",
+        "clean_name": "Soan Papti Jar",
+        "brand": "Soan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "lion dates 250g(1+1)",
+        "clean_name": "Lion Dates 11",
+        "brand": "Lion",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 95.0
+    },
+    {
+        "original_name": "lion dates desert king 250g",
+        "clean_name": "Lion Dates Desert King",
+        "brand": "Lion",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 145.0
+    },
+    {
+        "original_name": "michar 400g heart biscute",
+        "clean_name": "Michar  Heart Biscute",
+        "brand": "Michar",
+        "size": 400.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 65.0
+    },
+    {
+        "original_name": "kalla mittai Rs.6(jar) KAMARAJ",
+        "clean_name": "Kalla Mittai Jar Kamaraj",
+        "brand": "Kalla",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 240.0
+    },
+    {
+        "original_name": "kalla mittai.Rs.2 jar KAMARAJ",
+        "clean_name": "Kalla Mittai Jar Kamaraj",
+        "brand": "Kalla",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 250.0
+    },
+    {
+        "original_name": "kalla mittai.Rs.2.5 jar KAMARAJ",
+        "clean_name": "Kalla Mittai Jar Kamaraj",
+        "brand": "Kalla",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 250.0
+    },
+    {
+        "original_name": "HH camlin SWC cake box rd-12-jr",
+        "clean_name": "Camlin Swc Cake Box Rd12Jr",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "HH camlin SWC cake box rd-15-jr",
+        "clean_name": "Camlin Swc Cake Box Rd15Jr",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "HH camlin SWC cake box rd-12-jr ovel",
+        "clean_name": "Camlin Swc Cake Box Rd12Jr Ovel",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "HH camlin SWC cake box rd-12'-PL",
+        "clean_name": "Camlin Swc Cake Box Rd12Pl",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "bb con kurkure",
+        "clean_name": "Bb Con Kurkure",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "unibic cookies RS.60",
+        "clean_name": "Unibic Cookies",
+        "brand": "Unibic",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "bb kurkure 1rs pkt",
+        "clean_name": "Bb Kurkure 1Rs Pkt",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "palcova jar",
+        "clean_name": "Palcova Jar",
+        "brand": "Palcova",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "raagam muscat black dates 250g",
+        "clean_name": "Raagam Muscat Black Dates",
+        "brand": "Raagam",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "ragam muscat black dates 250g",
+        "clean_name": "Ragam Muscat Black Dates",
+        "brand": "Ragam",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "D'Lite black dates 500g",
+        "clean_name": "DLite Black Dates",
+        "brand": "D'Lite",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 235.0
+    },
+    {
+        "original_name": "D Lite black dates 500g",
+        "clean_name": "D Lite Black Dates",
+        "brand": "D",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 235.0
+    },
+    {
+        "original_name": "bread (full size) kothumai",
+        "clean_name": "Bread Full Size Kothumai",
+        "brand": "Bread",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "lion dates seedless box 250g Rs.",
+        "clean_name": "Lion Dates Seedless Box",
+        "brand": "Lion",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "lion dates seedless box 500g Rs.149",
+        "clean_name": "Lion Dates Seedless Box",
+        "brand": "Lion",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 149.0
+    },
+    {
+        "original_name": "lion dates 500g Rs.144",
+        "clean_name": "Lion Dates",
+        "brand": "Lion",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 144.0
+    },
+    {
+        "original_name": "rusk milk univercel ",
+        "clean_name": "Rusk Milk Univercel",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 22.0
+    },
+    {
+        "original_name": "cake fruit Rs.5jar",
+        "clean_name": "Cake Fruit Jar",
+        "brand": "Cake",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 240.0
+    },
+    {
+        "original_name": "candyman choco double Rs.50",
+        "clean_name": "Candyman Choco Double",
+        "brand": "Candyman",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "then mittai rs 24",
+        "clean_name": "Then Mittai",
+        "brand": "Then",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "pasta (elbo) 100g",
+        "clean_name": "Pasta Elbo",
+        "brand": "Pasta",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 12.0
+    },
+    {
+        "original_name": "rusk kothuma Rs.45",
+        "clean_name": "Rusk Kothuma",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "treat  Rs.5 jar",
+        "clean_name": "Treat Jar",
+        "brand": "Treat",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "lion dates 500g Rs.146",
+        "clean_name": "Lion Dates",
+        "brand": "Lion",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 146.0
+    },
+    {
+        "original_name": "lion dates 200 GM MRP 56",
+        "clean_name": "Lion Dates  56",
+        "brand": "Lion",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 56.0
+    },
+    {
+        "original_name": "mudichi cholate",
+        "clean_name": "Mudichi Cholate",
+        "brand": "Mudichi",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 350.0
+    },
+    {
+        "original_name": "pasta penne 500g",
+        "clean_name": "Pasta Penne",
+        "brand": "Pasta",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "lion dates seedless box 250g Rs.82",
+        "clean_name": "Lion Dates Seedless Box",
+        "brand": "Lion",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 82.0
+    },
+    {
+        "original_name": "lion dates seedless box 500g",
+        "clean_name": "Lion Dates Seedless Box",
+        "brand": "Lion",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "lion dates seedless box 250g",
+        "clean_name": "Lion Dates Seedless Box",
+        "brand": "Lion",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 78.0
+    },
+    {
+        "original_name": "oreo Rs 35",
+        "clean_name": "Oreo",
+        "brand": "Oreo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "mm murukku pkt 50",
+        "clean_name": "Mm Murukku Pkt 50",
+        "brand": "Mm",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "Eclairs rich center filled mrp 100",
+        "clean_name": "Eclairs Rich Center Filled 100",
+        "brand": "Eclairs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "Eclairs  milk filled mrp 100",
+        "clean_name": "Eclairs Milk Filled 100",
+        "brand": "Eclairs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "murukku (MAYIL) ",
+        "clean_name": "Murukku Mayil",
+        "brand": "Murukku",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "rusk britanniya Rs35",
+        "clean_name": "Rusk Britanniya",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "milk biscuit classic Rs.20",
+        "clean_name": "Milk Biscuit Classic",
+        "brand": "Milk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "then mittai Rs.20",
+        "clean_name": "Then Mittai",
+        "brand": "Then",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "rusk kolo premium rusk rs.10",
+        "clean_name": "Rusk Kolo Premium Rusk",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "Eclairs  milk flavored mrp 100",
+        "clean_name": "Eclairs Milk Flavored 100",
+        "brand": "Eclairs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "Eclairs svs Rs.100 pkt",
+        "clean_name": "Eclairs Svs Pkt",
+        "brand": "Eclairs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "Eclairs harsh Rs.50",
+        "clean_name": "Eclairs Harsh",
+        "brand": "Eclairs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "then mittai Rs.24",
+        "clean_name": "Then Mittai",
+        "brand": "Then",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 24.0
+    },
+    {
+        "original_name": "Eclairs heart giftbox Rs.100 ",
+        "clean_name": "Eclairs Heart Giftbox",
+        "brand": "Eclairs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "Eclairs oval giftbox Rs.100 ",
+        "clean_name": "Eclairs Oval Giftbox",
+        "brand": "Eclairs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "Eclairs ruby giftbox Rs.100 ",
+        "clean_name": "Eclairs Ruby Giftbox",
+        "brand": "Eclairs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "kudai chocolate 5rs jar",
+        "clean_name": "Kudai Chocolate 5Rs Jar",
+        "brand": "Kudai",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 250.0
+    },
+    {
+        "original_name": "50-50 biscute Rs.10.golmaal",
+        "clean_name": "5050 Biscute Golmaal",
+        "brand": "50-50",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "bb grvy chips tomato Rs.5",
+        "clean_name": "Bb Grvy Chips Tomato",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "bb timepass grvy chips tomato Rs.5",
+        "clean_name": "Bb Timepass Grvy Chips Tomato",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "Royal appalam 50g ",
+        "clean_name": "Royal Appalam",
+        "brand": "Royal",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "bb ATM chips Rs.5.saram",
+        "clean_name": "Bb Atm Chips Saram",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "bb kurkure Rs.2 pkt",
+        "clean_name": "Bb Kurkure Pkt",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 24.0
+    },
+    {
+        "original_name": "rusk salwa rs.15",
+        "clean_name": "Rusk Salwa",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "Eclairs harsh Rs.50 (0.50p)",
+        "clean_name": "Eclairs Harsh 050P",
+        "brand": "Eclairs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "rusk britanniya Rs.50",
+        "clean_name": "Rusk Britanniya",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "rusk britanniya Rs.20",
+        "clean_name": "Rusk Britanniya",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "vanilla bun cake jar",
+        "clean_name": "Vanilla Bun Cake Jar",
+        "brand": "Vanilla",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 250.0
+    },
+    {
+        "original_name": "paste savorit 500g",
+        "clean_name": "Paste Savorit",
+        "brand": "Paste",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "treat jim jim pops",
+        "clean_name": "Treat Jim Jim Pops",
+        "brand": "Treat",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "then mittai jar rs.2",
+        "clean_name": "Then Mittai Jar",
+        "brand": "Then",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "lion dates Qyno 250g",
+        "clean_name": "Lion Dates Qyno",
+        "brand": "Lion",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 102.0
+    },
+    {
+        "original_name": "lion dates Qyno 500g",
+        "clean_name": "Lion Dates Qyno",
+        "brand": "Lion",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 185.0
+    },
+    {
+        "original_name": "20-20 Rs.5 pai",
+        "clean_name": "2020 Pai",
+        "brand": "20-20",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "aachi achu murukku mavu 500g  ",
+        "clean_name": "Aachi Achu Murukku Mavu",
+        "brand": "Aachi",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "bun cake choco jar",
+        "clean_name": "Bun Cake Choco Jar",
+        "brand": "Bun",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 250.0
+    },
+    {
+        "original_name": "treat jim jom pops",
+        "clean_name": "Treat Jim Jom Pops",
+        "brand": "Treat",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "treat jim jam pops",
+        "clean_name": "Treat Jim Jam Pops",
+        "brand": "Treat",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "mysore sandal gold soap rs.90",
+        "clean_name": "Mysore Sandal Gold",
+        "brand": "Mysore",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "bb mad angal Rs.5",
+        "clean_name": "Bb Mad Angal",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "candyman (c)double (120p)",
+        "clean_name": "Candyman CDouble 120P",
+        "brand": "Candyman",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "michar 1kg \u0bb0\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bc1\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
+        "clean_name": "Michar",
+        "brand": "Michar",
+        "size": 1.0,
+        "unit": "kg",
+        "category": "Snacks & Chocolates",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "murukku Rs.20",
+        "clean_name": "Murukku",
+        "brand": "Murukku",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "paste spiral true 500g",
+        "clean_name": "Paste Spiral True",
+        "brand": "Paste",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "Eclairs Allwin Rs.100",
+        "clean_name": "Eclairs Allwin",
+        "brand": "Eclairs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "murukku Rs.2 JAR",
+        "clean_name": "Murukku Jar",
+        "brand": "Murukku",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "sowdambigaa chips,muruku Rs.45",
+        "clean_name": "Sowdambigaa ChipsMuruku",
+        "brand": "Sowdambigaa",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "lion dates desert king 250g cup ",
+        "clean_name": "Lion Dates Desert King  Cup",
+        "brand": "Lion",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 142.0
+    },
+    {
+        "original_name": "lion dates desert king 500g pkt",
+        "clean_name": "Lion Dates Desert King  Pkt",
+        "brand": "Lion",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 247.0
+    },
+    {
+        "original_name": "Eclairs Rs.100 pkt",
+        "clean_name": "Eclairs Pkt",
+        "brand": "Eclairs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "michar munthiri biscute 500g",
+        "clean_name": "Michar Munthiri Biscute",
+        "brand": "Michar",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "bb con kurkure chips",
+        "clean_name": "Bb Con Kurkure Chips",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "michar 250g \u0b92\u0bb2\u0bc8\u0baa\u0b95\u0bcd\u0b95\u0bcb\u0b9f\u0bbe",
+        "clean_name": "Michar",
+        "brand": "Michar",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "treat jim jim pops Rs.20",
+        "clean_name": "Treat Jim Jim Pops",
+        "brand": "Treat",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "treat jim jam pops Rs.10",
+        "clean_name": "Treat Jim Jam Pops",
+        "brand": "Treat",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "treat wafers Rs.10",
+        "clean_name": "Treat Wafers",
+        "brand": "Treat",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "50-50 golmaal Rs.20",
+        "clean_name": "5050 Golmaal",
+        "brand": "50-50",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "kalla mittai Rs.5 jar manimark",
+        "clean_name": "Kalla Mittai Jar Manimark",
+        "brand": "Kalla",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 400.0
+    },
+    {
+        "original_name": "kalla mittai Rs.3 jar manimark",
+        "clean_name": "Kalla Mittai Jar Manimark",
+        "brand": "Kalla",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "kimia dates 400g",
+        "clean_name": "Kimia Dates",
+        "brand": "Kimia",
+        "size": 400.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 310.0
+    },
+    {
+        "original_name": "then mittai pkt rs.1",
+        "clean_name": "Then Mittai Pkt",
+        "brand": "Then",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "mm nice michar mani mark Rs.5",
+        "clean_name": "Mm Nice Michar Mani Mark",
+        "brand": "Mm",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "mm kundu michar mani mark Rs.5 saram",
+        "clean_name": "Mm Kundu Michar Mani Mark Saram",
+        "brand": "Mm",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "kalla mittai Rs.5 jar sweet bites",
+        "clean_name": "Kalla Mittai Jar Sweet Bites",
+        "brand": "Kalla",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "caramilk eclairs Rs.100 pkt",
+        "clean_name": "Caramilk Eclairs Pkt",
+        "brand": "Caramilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "lotte eclairs Rs.50",
+        "clean_name": "Lotte Eclairs",
+        "brand": "Lotte",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "paste spiral savorit 500g",
+        "clean_name": "Paste Spiral Savorit",
+        "brand": "Paste",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "pasta elbo savorit 500g",
+        "clean_name": "Pasta Elbo Savorit",
+        "brand": "Pasta",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "pasta spiral balian 500g",
+        "clean_name": "Pasta Spiral Balian",
+        "brand": "Pasta",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 53.0
+    },
+    {
+        "original_name": "pasta sangu balian 500g",
+        "clean_name": "Pasta Sangu Balian",
+        "brand": "Pasta",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 53.0
+    },
+    {
+        "original_name": "pasta elbo balian 500g",
+        "clean_name": "Pasta Elbo Balian",
+        "brand": "Pasta",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 53.0
+    },
+    {
+        "original_name": "pasta penne savorit 500g",
+        "clean_name": "Pasta Penne Savorit",
+        "brand": "Pasta",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "pasta sangu savarit 500g",
+        "clean_name": "Pasta Sangu Savarit",
+        "brand": "Pasta",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "pasta sangu savorit 500g",
+        "clean_name": "Pasta Sangu Savorit",
+        "brand": "Pasta",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "pasta spiral savorit 500g",
+        "clean_name": "Pasta Spiral Savorit",
+        "brand": "Pasta",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "bb bingo onion Rs.5",
+        "clean_name": "Bb Bingo Onion",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "bb bingo tomato Rs.5",
+        "clean_name": "Bb Bingo Tomato",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "bb bingo red chill Rs.5",
+        "clean_name": "Bb Bingo Red Chill",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "meera shampoo badham 180ml",
+        "clean_name": "Meera Shampoo Badham",
+        "brand": "Meera",
+        "size": 180.0,
+        "unit": "ml",
+        "category": "Snacks & Chocolates",
+        "mrp": 170.0
+    },
+    {
+        "original_name": "oreo Rs.35",
+        "clean_name": "Oreo",
+        "brand": "Oreo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "Eclairs lafiya Rs.100 pkt",
+        "clean_name": "Eclairs Lafiya Pkt",
+        "brand": "Eclairs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "Eclairs cintu Rs.200",
+        "clean_name": "Eclairs Cintu",
+        "brand": "Eclairs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "lion dates seedless box 250g Rs.72",
+        "clean_name": "Lion Dates Seedless Box",
+        "brand": "Lion",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 72.0
+    },
+    {
+        "original_name": "lion dates Qyno 250g (1+1) Rs.92",
+        "clean_name": "Lion Dates Qyno  11",
+        "brand": "Lion",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 99.0
+    },
+    {
+        "original_name": "mysore soap 75g Rs.42",
+        "clean_name": "Mysore",
+        "brand": "Mysore",
+        "size": 75.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 38.0
+    },
+    {
+        "original_name": "bb pasta sauce (12) saram",
+        "clean_name": "Bb Pasta Sauce 12 Saram",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "cerelac wheat honey dates 300g Rs.314",
+        "clean_name": "Cerelac Wheat Honey Dates",
+        "brand": "Cerelac",
+        "size": 300.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 314.0
+    },
+    {
+        "original_name": "kalla mittai mixer cake Rs.5",
+        "clean_name": "Kalla Mittai Mixer Cake",
+        "brand": "Kalla",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 250.0
+    },
+    {
+        "original_name": "bb bingo onion (\u0baa\u0b9a\u0bcd\u0b9a\u0bc8) Rs.5",
+        "clean_name": "Bb Bingo Onion",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "murukku Rs.1 JAR",
+        "clean_name": "Murukku Jar",
+        "brand": "Murukku",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "bun (10P) Rs.50",
+        "clean_name": "Bun 10P",
+        "brand": "Bun",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "bun (10P) Rs.50 pkt",
+        "clean_name": "Bun 10P Pkt",
+        "brand": "Bun",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "bread univercel Rs.25",
+        "clean_name": "Bread Univercel",
+        "brand": "Bread",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "bread full size univercel Rs.37",
+        "clean_name": "Bread Full Size Univercel",
+        "brand": "Bread",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 37.0
+    },
+    {
+        "original_name": "bread mini univercel Rs.15",
+        "clean_name": "Bread Mini Univercel",
+        "brand": "Bread",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "kalla mittai ps jar Rs.5",
+        "clean_name": "Kalla Mittai Ps Jar",
+        "brand": "Kalla",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "kalla mittai Rs.30",
+        "clean_name": "Kalla Mittai",
+        "brand": "Kalla",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "dairymilk bournville Rs.110",
+        "clean_name": "Dairymilk Bournville",
+        "brand": "Dairymilk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "eclairs lotte Rs.50",
+        "clean_name": "Eclairs Lotte",
+        "brand": "Eclairs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "candyman choco double (120p)",
+        "clean_name": "Candyman Choco Double 120P",
+        "brand": "Candyman",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "choclairs eclairs Rs.1 pkt",
+        "clean_name": "Choclairs Eclairs Pkt",
+        "brand": "Choclairs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "kalla mittai ps Rs.20",
+        "clean_name": "Kalla Mittai Ps",
+        "brand": "Kalla",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "seeval balaji Rs.10 bundle",
+        "clean_name": "Seeval Balaji Bundle",
+        "brand": "Seeval",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "bb kurkure Rs.2 saram",
+        "clean_name": "Bb Kurkure Saram",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 24.0
+    },
+    {
+        "original_name": "cup CAKE Rs.200",
+        "clean_name": "Cup Cake",
+        "brand": "Cup",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "rusk kolo premium rusk Rs.35",
+        "clean_name": "Rusk Kolo Premium Rusk",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "mm murukku Rs.5 pkt",
+        "clean_name": "Mm Murukku Pkt",
+        "brand": "Mm",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "pasta elbo savorit 250g",
+        "clean_name": "Pasta Elbo Savorit",
+        "brand": "Pasta",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "lion dates Qyno 250g (1+1) Rs.94",
+        "clean_name": "Lion Dates Qyno  11",
+        "brand": "Lion",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 94.0
+    },
+    {
+        "original_name": "lion dates Qyno 500g (1+1) Rs.175",
+        "clean_name": "Lion Dates Qyno  11",
+        "brand": "Lion",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 175.0
+    },
+    {
+        "original_name": "kalla mittai ps Rs.2 jar",
+        "clean_name": "Kalla Mittai Ps Jar",
+        "brand": "Kalla",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 140.0
+    },
+    {
+        "original_name": "treat wafer Rs.5 box",
+        "clean_name": "Treat Wafer Box",
+        "brand": "Treat",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "kalla mittai ps Rs.30",
+        "clean_name": "Kalla Mittai Ps",
+        "brand": "Kalla",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "eclairs lotte Rs.100",
+        "clean_name": "Eclairs Lotte",
+        "brand": "Eclairs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "lion dates Qyno cup 500g Rs.149",
+        "clean_name": "Lion Dates Qyno Cup",
+        "brand": "Lion",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 149.0
+    },
+    {
+        "original_name": "lion dates Qyno cup 250g Rs.75",
+        "clean_name": "Lion Dates Qyno Cup",
+        "brand": "Lion",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "bun cake box Rs.2",
+        "clean_name": "Bun Cake Box",
+        "brand": "Bun",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "salt biscuit pkt Rs.20",
+        "clean_name": "Salt Biscuit Pkt",
+        "brand": "Salt",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "salt biscuit jar Rs.5",
+        "clean_name": "Salt Biscuit Jar",
+        "brand": "Salt",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "bb tedhe medhe chatpata orange Rs.5",
+        "clean_name": "Bb Tedhe Medhe Chatpata Orange",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "mysore sandal 450g combo",
+        "clean_name": "Mysore Sandal  Combo",
+        "brand": "Mysore",
+        "size": 450.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 243.0
+    },
+    {
+        "original_name": "bb pinzo pasta (14p) Rs.5",
+        "clean_name": "Bb Pinzo Pasta 14P",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "kalla mittai jar vct Rs.2 ",
+        "clean_name": "Kalla Mittai Jar Vct",
+        "brand": "Kalla",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "popcorn Rs.5 saram (12p)",
+        "clean_name": "Popcorn Saram 12P",
+        "brand": "Popcorn",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "mysore pak jar Rs.5",
+        "clean_name": "Mysore Pak Jar",
+        "brand": "Mysore",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "bb popcorn Rs.5 saram (12p)",
+        "clean_name": "Bb Popcorn Saram 12P",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "cup cake britannia saram Rs.5",
+        "clean_name": "Cup Cake Britannia Saram",
+        "brand": "Cup",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "atm chips saram Rs.5",
+        "clean_name": "Atm Chips Saram",
+        "brand": "Atm",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "bb atm chips saram Rs.5",
+        "clean_name": "Bb Atm Chips Saram",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "rose rollcake box Rs.5",
+        "clean_name": "Rose Rollcake Box",
+        "brand": "Rose",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "then mittai box rs.35",
+        "clean_name": "Then Mittai Box",
+        "brand": "Then",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "Eclairs milk jar Rs.1",
+        "clean_name": "Eclairs Milk Jar",
+        "brand": "Eclairs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "Eclairs yawin Rs.100 pkt",
+        "clean_name": "Eclairs Yawin Pkt",
+        "brand": "Eclairs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "jothi appalam poo 100g",
+        "clean_name": "Jothi Appalam Poo",
+        "brand": "Jothi",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "cup cake jar Rs.5",
+        "clean_name": "Cup Cake Jar",
+        "brand": "Cup",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "biscuit nuts box Rs.5",
+        "clean_name": "Biscuit Nuts Box",
+        "brand": "Biscuit",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "paani poori kit 155g Rs.49",
+        "clean_name": "Paani Poori Kit",
+        "brand": "Paani",
+        "size": 155.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 49.0
+    },
+    {
+        "original_name": "candyman choco eclairs Rs.50",
+        "clean_name": "Candyman Choco Eclairs",
+        "brand": "Candyman",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "candyman choco couble 350g Rs.100",
+        "clean_name": "Candyman Choco Couble",
+        "brand": "Candyman",
+        "size": 350.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "lion dates Qyno 250g (1+1) Rs.99",
+        "clean_name": "Lion Dates Qyno  11",
+        "brand": "Lion",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 94.0
+    },
+    {
+        "original_name": "nice cake box Rs.5",
+        "clean_name": "Nice Cake Box",
+        "brand": "Nice",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "kinder joy chaturam box Rs.5",
+        "clean_name": "Kinder Joy Chaturam Box",
+        "brand": "Kinder",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "alpenliebe eclairs jar Rs.202",
+        "clean_name": "Alpenliebe Eclairs Jar",
+        "brand": "Alpenliebe",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 202.0
+    },
+    {
+        "original_name": " CADBURY choclairs RS 1 MRP 60",
+        "clean_name": "Cadbury Choclairs 60",
+        "brand": "Cadbury",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "mm snacks Rs.5 pkt",
+        "clean_name": "Mm Snacks Pkt",
+        "brand": "Mm",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "bb kenty's popcorn Rs.5 saram",
+        "clean_name": "Bb KentyS Popcorn Saram",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "bb kenty's chips Rs.5 saram",
+        "clean_name": "Bb KentyS Chips Saram",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "bb kenty's paani pori Rs.5 saram",
+        "clean_name": "Bb KentyS Paani Pori Saram",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "lion dates Qyno 250g (1+1)Rs.94",
+        "clean_name": "Lion Dates Qyno  11",
+        "brand": "Lion",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 94.0
+    },
+    {
+        "original_name": "bb kenty's noodels Rs.5 saram",
+        "clean_name": "Bb KentyS Noodels Saram",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "Eclairs Yawin Rs.50 (0.50p)",
+        "clean_name": "Eclairs Yawin 050P",
+        "brand": "Eclairs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "kimia dates ",
+        "clean_name": "Kimia Dates",
+        "brand": "Kimia",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 275.0
+    },
+    {
+        "original_name": "rusk marino Rs.10",
+        "clean_name": "Rusk Marino",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "rusk marino Rs.35",
+        "clean_name": "Rusk Marino",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "rusk marino pkt Rs.5",
+        "clean_name": "Rusk Marino Pkt",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "lion dates Qyno 250g (1+1)Rs.99",
+        "clean_name": "Lion Dates Qyno  11",
+        "brand": "Lion",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 105.0
+    },
+    {
+        "original_name": "lion dates Qyno cup 250g Rs.78",
+        "clean_name": "Lion Dates Qyno Cup",
+        "brand": "Lion",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 76.0
+    },
+    {
+        "original_name": "lion dates Qyno cup 500g Rs.156",
+        "clean_name": "Lion Dates Qyno Cup",
+        "brand": "Lion",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 154.0
+    },
+    {
+        "original_name": "Eclairs otter pkt Rs.100",
+        "clean_name": "Eclairs Otter Pkt",
+        "brand": "Eclairs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "candyman choco double 120rs",
+        "clean_name": "Candyman Choco Double 120Rs",
+        "brand": "Candyman",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "candyman choco double Rs.360.jar",
+        "clean_name": "Candyman Choco Double Jar",
+        "brand": "Candyman",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 325.0
+    },
+    {
+        "original_name": "candyman toffichoo Rs.50.pkt",
+        "clean_name": "Candyman Toffichoo Pkt",
+        "brand": "Candyman",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "annai dates black250g queen cup",
+        "clean_name": "Annai Dates Black Queen Cup",
+        "brand": "Annai",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 140.0
+    },
+    {
+        "original_name": "annai dates seedless500g box ",
+        "clean_name": "Annai Dates Seedless Box",
+        "brand": "Annai",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 156.0
+    },
+    {
+        "original_name": "annai dates seedless250g box ",
+        "clean_name": "Annai Dates Seedless Box",
+        "brand": "Annai",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 81.0
+    },
+    {
+        "original_name": "annai dates black250g box",
+        "clean_name": "Annai Dates Black Box",
+        "brand": "Annai",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 155.0
+    },
+    {
+        "original_name": "annai dates seeded 500g 1+1)pkt",
+        "clean_name": "Annai Dates Seeded  11Pkt",
+        "brand": "Annai",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 185.0
+    },
+    {
+        "original_name": "annai dates seeded 200g 1+1)pkt",
+        "clean_name": "Annai Dates Seeded  11Pkt",
+        "brand": "Annai",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 99.0
+    },
+    {
+        "original_name": "annai dates black 125g.1+1)pkt",
+        "clean_name": "Annai Dates Black 11Pkt",
+        "brand": "Annai",
+        "size": 125.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 145.0
+    },
+    {
+        "original_name": "annai inimia dates400g1+1)box",
+        "clean_name": "Annai Inimia Dates400G11Box",
+        "brand": "Annai",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 340.0
+    },
+    {
+        "original_name": "annai inimia dates250g box",
+        "clean_name": "Annai Inimia Dates Box",
+        "brand": "Annai",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "bb pasta Rs.5 saram 14ps",
+        "clean_name": "Bb Pasta Saram",
+        "brand": "Bb",
+        "size": 14.0,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "bun mini Rs.30",
+        "clean_name": "Bun Mini",
+        "brand": "Bun",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "Eclairs Anjeer box rs.1",
+        "clean_name": "Eclairs Anjeer Box",
+        "brand": "Eclairs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "Eclairs kaju box Rs.1",
+        "clean_name": "Eclairs Kaju Box",
+        "brand": "Eclairs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "Eclairs din din jar Rs.220 ",
+        "clean_name": "Eclairs Din Din Jar",
+        "brand": "Eclairs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 220.0
+    },
+    {
+        "original_name": "unibic biscuit Rs.55",
+        "clean_name": "Unibic Biscuit",
+        "brand": "Unibic",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "tiger glucose pai 24ps",
+        "clean_name": "Tiger Glucose Pai",
+        "brand": "Tiger",
+        "size": 24.0,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 72.0
+    },
+    {
+        "original_name": "candyman paan jar Rs.170",
+        "clean_name": "Candyman Paan Jar",
+        "brand": "Candyman",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 170.0
+    },
+    {
+        "original_name": "kamarkattu chocolate jar Rs2",
+        "clean_name": "Kamarkattu Chocolate Jar",
+        "brand": "Kamarkattu",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "Eclairs din din plus jar Rs.150",
+        "clean_name": "Eclairs Din Din Plus Jar",
+        "brand": "Eclairs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "Eclairs cintu Rs.100",
+        "clean_name": "Eclairs Cintu",
+        "brand": "Eclairs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "app TT 30g Rs.10",
+        "clean_name": "App Tt",
+        "brand": "App",
+        "size": 30.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "app TT applam 100g Rs.55",
+        "clean_name": "App Tt Applam",
+        "brand": "App",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "app TT applam 150g Rs.80",
+        "clean_name": "App Tt Applam",
+        "brand": "App",
+        "size": 150.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "app TT applam 250g Rs.125",
+        "clean_name": "App Tt Applam",
+        "brand": "App",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 125.0
+    },
+    {
+        "original_name": "app TT applam 30g Rs.10",
+        "clean_name": "App Tt Applam",
+        "brand": "App",
+        "size": 30.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "app jothi appalam poo 100g",
+        "clean_name": "App Jothi Appalam Poo",
+        "brand": "App",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "app jothi appalam Rs.10",
+        "clean_name": "App Jothi Appalam",
+        "brand": "App",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "app jothi appalam 200g ",
+        "clean_name": "App Jothi Appalam",
+        "brand": "App",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "app jothi appalam 75g ",
+        "clean_name": "App Jothi Appalam",
+        "brand": "App",
+        "size": 75.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "app jothi appalam 150g ",
+        "clean_name": "App Jothi Appalam",
+        "brand": "App",
+        "size": 150.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "app jothi appalam 250g ",
+        "clean_name": "App Jothi Appalam",
+        "brand": "App",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 65.0
+    },
+    {
+        "original_name": "lion dates 200g rs.57",
+        "clean_name": "Lion Dates",
+        "brand": "Lion",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 58.0
+    },
+    {
+        "original_name": "milk biscuit Rs.45",
+        "clean_name": "Milk Biscuit",
+        "brand": "Milk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "rusk sobisco Rs.10",
+        "clean_name": "Rusk Sobisco",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "bb pinzo noodals (14p) Rs.5",
+        "clean_name": "Bb Pinzo Noodals 14P",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "lion dates Qyno 500g (1+1)",
+        "clean_name": "Lion Dates Qyno  11",
+        "brand": "Lion",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 186.0
+    },
+    {
+        "original_name": "vathi bansuri Rs.15 ",
+        "clean_name": "Vathi Bansuri",
+        "brand": "Vathi",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "vathi bansuri Rs.10",
+        "clean_name": "Vathi Bansuri",
+        "brand": "Vathi",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "rusk milk master Rs.40",
+        "clean_name": "Rusk Milk Master",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "kopiko pkt Rs.105",
+        "clean_name": "Kopiko Pkt",
+        "brand": "Kopiko",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "bun Rs.30",
+        "clean_name": "Bun",
+        "brand": "Bun",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "candyman fruitee Rs.100",
+        "clean_name": "Candyman Fruitee",
+        "brand": "Candyman",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "rusk anil rs.10",
+        "clean_name": "Rusk Anil",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "star Murukku jar Rs.2",
+        "clean_name": "Star Murukku Jar",
+        "brand": "Star",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "lion dates 200g rs.58",
+        "clean_name": "Lion Dates",
+        "brand": "Lion",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 58.0
+    },
+    {
+        "original_name": "lion dates desert king 250g pkt",
+        "clean_name": "Lion Dates Desert King  Pkt",
+        "brand": "Lion",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 142.0
+    },
+    {
+        "original_name": "milk biscuit Rs.50",
+        "clean_name": "Milk Biscuit",
+        "brand": "Milk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "chips Rs.1",
+        "clean_name": "Chips",
+        "brand": "Chips",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "unibic CHOCOKISS BISCUIT",
+        "clean_name": "Unibic Chocokiss Biscuit",
+        "brand": "Unibic",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "unibic wafer box 12ps",
+        "clean_name": "Unibic Wafer Box",
+        "brand": "Unibic",
+        "size": 12.0,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "malkist biscuit rs.50",
+        "clean_name": "Malkist Biscuit",
+        "brand": "Malkist",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "salted biscuit",
+        "clean_name": "Salted Biscuit",
+        "brand": "Salted",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "Eclairs harsh+ Rs.50 (0.50p)",
+        "clean_name": "Eclairs Harsh 050P",
+        "brand": "Eclairs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "bun cake jar rs.250",
+        "clean_name": "Bun Cake Jar",
+        "brand": "Bun",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 250.0
+    },
+    {
+        "original_name": "rusk elite milk Rs.10",
+        "clean_name": "Rusk Elite Milk",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "kimia dates 500g rs.310",
+        "clean_name": "Kimia Dates",
+        "brand": "Kimia",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 310.0
+    },
+    {
+        "original_name": "lion dates desert king 500g cup",
+        "clean_name": "Lion Dates Desert King  Cup",
+        "brand": "Lion",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 299.0
+    },
+    {
+        "original_name": "dubai candy Rs.1",
+        "clean_name": "Dubai Candy",
+        "brand": "Dubai",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "oreo pai Rs.5",
+        "clean_name": "Oreo Pai",
+        "brand": "Oreo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 240.0
+    },
+    {
+        "original_name": "Nabati unibic wafer yellow Rs.10",
+        "clean_name": "Nabati Unibic Wafer Yellow",
+        "brand": "Nabati",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "Nabati unibic cho Rs.10",
+        "clean_name": "Nabati Unibic Cho",
+        "brand": "Nabati",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "Nabati unibic pink Rs.10",
+        "clean_name": "Nabati Unibic Pink",
+        "brand": "Nabati",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "Rico chocolate Rs.2",
+        "clean_name": "Rico Chocolate",
+        "brand": "Rico",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "tiger Rs.3(1pai)",
+        "clean_name": "Tiger 1Pai",
+        "brand": "Tiger",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 72.0
+    },
+    {
+        "original_name": "rusk britanniya Rs.40",
+        "clean_name": "Rusk Britanniya",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "cup cake sobisco saram Rs.5",
+        "clean_name": "Cup Cake Sobisco Saram",
+        "brand": "Cup",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "Eclairs creame Rs.50",
+        "clean_name": "Eclairs Creame",
+        "brand": "Eclairs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "sowdambigaa chips,muruku Rs.50",
+        "clean_name": "Sowdambigaa ChipsMuruku",
+        "brand": "Sowdambigaa",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "badham yessan",
+        "clean_name": "Badham Yessan",
+        "brand": "Badham",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "kopiko pkt Rs.100",
+        "clean_name": "Kopiko Pkt",
+        "brand": "Kopiko",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "app ANNAM 100G NO.6",
+        "clean_name": "App Annam  No6",
+        "brand": "App",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "app ANNAM 50G NO.6",
+        "clean_name": "App Annam  No6",
+        "brand": "App",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "bb bingo saram Rs.5",
+        "clean_name": "Bb Bingo Saram",
+        "brand": "Bb",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "Eclairs milk pkt Rs.100",
+        "clean_name": "Eclairs Milk Pkt",
+        "brand": "Eclairs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "wonder throw",
+        "clean_name": "Wonder Throw",
+        "brand": "Wonder",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "soan papti Rs.5 jar Rs.300",
+        "clean_name": "Soan Papti Jar",
+        "brand": "Soan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "milk biscuit Rs.9",
+        "clean_name": "Milk Biscuit",
+        "brand": "Milk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 9.0
+    },
+    {
+        "original_name": "milk biscuit Rs.4.50 (30pcs)",
+        "clean_name": "Milk Biscuit",
+        "brand": "Milk",
+        "size": 30.0,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 135.0
+    },
+    {
+        "original_name": "50-50 biscuit Rs.4.50(12ps)",
+        "clean_name": "5050 Biscuit",
+        "brand": "50-50",
+        "size": 12.0,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 54.0
+    },
+    {
+        "original_name": "50-50 biscuit Rs.9",
+        "clean_name": "5050 Biscuit",
+        "brand": "50-50",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 9.0
+    },
+    {
+        "original_name": "milk biscuit classic Rs.18",
+        "clean_name": "Milk Biscuit Classic",
+        "brand": "Milk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 18.0
+    },
+    {
+        "original_name": "lion dates Qyno 250g (1+1)Rs.98",
+        "clean_name": "Lion Dates Qyno  11",
+        "brand": "Lion",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 98.0
+    },
+    {
+        "original_name": "mysore soap 75g Rs.38",
+        "clean_name": "Mysore",
+        "brand": "Mysore",
+        "size": 75.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 38.0
+    },
+    {
+        "original_name": "treat jim jam pops Rs.9",
+        "clean_name": "Treat Jim Jam Pops",
+        "brand": "Treat",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 9.0
+    },
+    {
+        "original_name": "kimia dates 500g.",
+        "clean_name": "Kimia Dates",
+        "brand": "Kimia",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Snacks & Chocolates",
+        "mrp": 320.0
+    },
+    {
+        "original_name": "tiger cream biscuit Rs.4.50(dazon)",
+        "clean_name": "Tiger Cream Biscuit Dazon",
+        "brand": "Tiger",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 54.0
+    },
+    {
+        "original_name": "milk bikis clasic Rs.9",
+        "clean_name": "Milk Bikis Clasic",
+        "brand": "Milk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 9.0
+    },
+    {
+        "original_name": "biscuit osmania pkt rs.72",
+        "clean_name": "Biscuit Osmania Pkt",
+        "brand": "Biscuit",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 72.0
+    },
+    {
+        "original_name": "biscuit salt osmania pkt rs.72",
+        "clean_name": "Biscuit Salt Osmania Pkt",
+        "brand": "Biscuit",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 72.0
+    },
+    {
+        "original_name": "rusk elite milk Rs.20",
+        "clean_name": "Rusk Elite Milk",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "rusk elite milk Rs.35",
+        "clean_name": "Rusk Elite Milk",
+        "brand": "Rusk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "kalla mittai ps Rs.50",
+        "clean_name": "Kalla Mittai Ps",
+        "brand": "Kalla",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "milk biscuit cream Rs.30",
+        "clean_name": "Milk Biscuit Cream",
+        "brand": "Milk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "bun Rs.50",
+        "clean_name": "Bun",
+        "brand": "Bun",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "CL nice cake Rs.60",
+        "clean_name": "Nice Cake",
+        "brand": "Nice",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "milk biscuit cream Rs.10",
+        "clean_name": "Milk Biscuit Cream",
+        "brand": "Milk",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "mm sow michar Rs.5 pkt",
+        "clean_name": "Mm Sow Michar Pkt",
+        "brand": "Mm",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "mm sow kundu michar Rs.5",
+        "clean_name": "Mm Sow Kundu Michar",
+        "brand": "Mm",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "murukku sow pkt Rs.10 ",
+        "clean_name": "Murukku Sow Pkt",
+        "brand": "Murukku",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "CL soan papti Rs.5 jar Rs.300",
+        "clean_name": "Soan Papti Jar",
+        "brand": "Soan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "CL alpenliebe eclairs jar Rs.1",
+        "clean_name": "Alpenliebe Eclairs Jar",
+        "brand": "Alpenliebe",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 210.0
+    },
+    {
+        "original_name": "CL kopiko jar ",
+        "clean_name": "Kopiko Jar",
+        "brand": "Kopiko",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 230.0
+    },
+    {
+        "original_name": "CL kopiko pkt Rs.100",
+        "clean_name": "Kopiko Pkt",
+        "brand": "Kopiko",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Snacks & Chocolates",
+        "mrp": 100.0
+    }
+]

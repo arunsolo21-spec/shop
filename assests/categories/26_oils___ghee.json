@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Expelz Toilet Clean *2",
+    "description": "Premium Expelz Toilet Clean *2.",
+    "brand": "Generic",
+    "category": "Oils & Ghee",
+    "variant": "500 ml",
+    "price": 109,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/oils_ghee/expelz_toilet_clean_2.png",
+    "search_tags": [
+      "generic",
+      "oil",
+      "oils & ghee",
+      "expelz toilet clean *2"
+    ],
+    "subCategory": "General",
+    "mrp": 120,
+    "discount": 9
+  }
+]

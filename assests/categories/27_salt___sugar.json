@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Table Salt (Nool Uppu)",
+    "description": "Premium quality Table Salt (Nool Uppu).",
+    "brand": "Generic",
+    "category": "Salt & Sugar",
+    "variant": "1 pcs",
+    "price": 22,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/salt_sugar/table_salt_nool_uppu.png",
+    "search_tags": [
+      "table salt (nool uppu)",
+      "தூள் உப்பு",
+      "nool uppu",
+      "salt & sugar",
+      "generic"
+    ],
+    "subCategory": "General",
+    "mrp": 24,
+    "discount": 8
+  },
+  {
+    "name": "Table Salt (Nool Uppu)",
+    "description": "Premium quality Table Salt (Nool Uppu).",
+    "brand": "Generic",
+    "category": "Salt & Sugar",
+    "variant": "1 pcs",
+    "price": 300,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/salt_sugar/table_salt_nool_uppu.png",
+    "search_tags": [
+      "table salt (nool uppu)",
+      "தூள் உப்பு",
+      "nool uppu",
+      "salt & sugar",
+      "generic"
+    ],
+    "subCategory": "General",
+    "mrp": 330,
+    "discount": 9
+  },
+  {
+    "name": "Table Salt (Nool Uppu)",
+    "description": "Premium quality Table Salt (Nool Uppu).",
+    "brand": "Generic",
+    "category": "Salt & Sugar",
+    "variant": "2 kg",
+    "price": 10,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/salt_sugar/table_salt_nool_uppu.png",
+    "search_tags": [
+      "table salt (nool uppu)",
+      "தூள் உப்பு",
+      "nool uppu",
+      "salt & sugar",
+      "generic"
+    ],
+    "subCategory": "General",
+    "mrp": 11,
+    "discount": 9
+  },
+  {
+    "name": "Table Salt (Nool Uppu)",
+    "description": "Premium quality Table Salt (Nool Uppu).",
+    "brand": "Generic",
+    "category": "Salt & Sugar",
+    "variant": "1 kg",
+    "price": 26,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/salt_sugar/table_salt_nool_uppu.png",
+    "search_tags": [
+      "table salt (nool uppu)",
+      "தூள் உப்பு",
+      "nool uppu",
+      "salt & sugar",
+      "generic"
+    ],
+    "subCategory": "General",
+    "mrp": 29,
+    "discount": 10
+  },
+  {
+    "name": "Table Salt (Nool Uppu)",
+    "description": "Premium quality Table Salt (Nool Uppu).",
+    "brand": "Generic",
+    "category": "Salt & Sugar",
+    "variant": "1 pcs",
+    "price": 5,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/salt_sugar/table_salt_nool_uppu.png",
+    "search_tags": [
+      "table salt (nool uppu)",
+      "தூள் உப்பு",
+      "nool uppu",
+      "salt & sugar",
+      "generic"
+    ],
+    "subCategory": "General",
+    "mrp": 6,
+    "discount": 17
+  },
+  {
+    "name": "Table Salt (Nool Uppu)",
+    "description": "Premium quality Table Salt (Nool Uppu).",
+    "brand": "Generic",
+    "category": "Salt & Sugar",
+    "variant": "1 kg",
+    "price": 110,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/salt_sugar/table_salt_nool_uppu.png",
+    "search_tags": [
+      "table salt (nool uppu)",
+      "தூள் உப்பு",
+      "nool uppu",
+      "salt & sugar",
+      "generic"
+    ],
+    "subCategory": "General",
+    "mrp": 121,
+    "discount": 9
+  },
+  {
+    "name": "Table Salt (Nool Uppu)",
+    "description": "Premium quality Table Salt (Nool Uppu).",
+    "brand": "Generic",
+    "category": "Salt & Sugar",
+    "variant": "500 g",
+    "price": 59,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/salt_sugar/table_salt_nool_uppu.png",
+    "search_tags": [
+      "table salt (nool uppu)",
+      "தூள் உப்பு",
+      "nool uppu",
+      "salt & sugar",
+      "generic"
+    ],
+    "subCategory": "General",
+    "mrp": 65,
+    "discount": 9
+  },
+  {
+    "name": "Table Salt (Nool Uppu)",
+    "description": "Premium quality Table Salt (Nool Uppu).",
+    "brand": "Generic",
+    "category": "Salt & Sugar",
+    "variant": "2 kg",
+    "price": 14,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/salt_sugar/table_salt_nool_uppu.png",
+    "search_tags": [
+      "table salt (nool uppu)",
+      "தூள் உப்பு",
+      "nool uppu",
+      "salt & sugar",
+      "generic"
+    ],
+    "subCategory": "General",
+    "mrp": 15,
+    "discount": 7
+  }
+]

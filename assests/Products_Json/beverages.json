@@ -1,0 +1,4367 @@
+[
+    {
+        "original_name": "water box 300ml",
+        "clean_name": "Water Box",
+        "brand": "Water",
+        "size": 300.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 170.0
+    },
+    {
+        "original_name": "500ml waterbox",
+        "clean_name": "Waterbox",
+        "brand": "Waterbox",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "waterbox500ml",
+        "clean_name": "Waterbox",
+        "brand": "Waterbox",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "waterbox1ltr",
+        "clean_name": "Waterbox",
+        "brand": "Waterbox",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "cd Rs10 localbrand 200ml",
+        "clean_name": "Localbrand",
+        "brand": "Localbrand",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "cd bovonto1.5ltr",
+        "clean_name": "Bovonto",
+        "brand": "Bovonto",
+        "size": 1.5,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 850.0
+    },
+    {
+        "original_name": "cd bovonto500ml",
+        "clean_name": "Bovonto",
+        "brand": "Bovonto",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 800.0
+    },
+    {
+        "original_name": "cd 7up2.250ltr",
+        "clean_name": "7Up",
+        "brand": "7Up",
+        "size": 2.25,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 900.0
+    },
+    {
+        "original_name": "cd silce1.250ltr",
+        "clean_name": "Silce",
+        "brand": "Silce",
+        "size": 1.25,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 780.0
+    },
+    {
+        "original_name": "cd 7up750ml",
+        "clean_name": "7Up",
+        "brand": "7Up",
+        "size": 750.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 912.0
+    },
+    {
+        "original_name": "cd 7up1.25ltr",
+        "clean_name": "7Up",
+        "brand": "7Up",
+        "size": 1.25,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 584.0
+    },
+    {
+        "original_name": "cd 250ml 7up box",
+        "clean_name": "7Up Box",
+        "brand": "7Up",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 700.0
+    },
+    {
+        "original_name": "cd 250ml pepsi 1k",
+        "clean_name": "Pepsi 1K",
+        "brand": "Pepsi",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 600.0
+    },
+    {
+        "original_name": "cd 250ml 7up kase",
+        "clean_name": "7Up Kase",
+        "brand": "7Up",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 600.0
+    },
+    {
+        "original_name": "cd slice10Rs tin box",
+        "clean_name": "Slice10Rs Tin Box",
+        "brand": "Slice10Rs",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 400.0
+    },
+    {
+        "original_name": "cd slice600ml kase",
+        "clean_name": "Slice Kase",
+        "brand": "Slice",
+        "size": 600.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 960.0
+    },
+    {
+        "original_name": "cd cavinsmilkshake Rs30 1 box",
+        "clean_name": "Cavinsmilkshake",
+        "brand": "Cavinsmilkshake",
+        "size": 1.0,
+        "unit": "box",
+        "category": "Beverages",
+        "mrp": 900.0
+    },
+    {
+        "original_name": "cd vibro500ml",
+        "clean_name": "Vibro",
+        "brand": "Vibro",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 800.0
+    },
+    {
+        "original_name": "cd 250ml 7up tinbox",
+        "clean_name": "7Up Tinbox",
+        "brand": "7Up",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 700.0
+    },
+    {
+        "original_name": "horlicks Rs.5",
+        "clean_name": "Horlicks",
+        "brand": "Horlicks",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "horlicks Rs.5 saram",
+        "clean_name": "Horlicks Saram",
+        "brand": "Horlicks",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "boost Rs.5",
+        "clean_name": "Boost",
+        "brand": "Boost",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "horlicks 200g",
+        "clean_name": "Horlicks",
+        "brand": "Horlicks",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 114.0
+    },
+    {
+        "original_name": "boost Rs.5 saram",
+        "clean_name": "Boost Saram",
+        "brand": "Boost",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "boost  200g",
+        "clean_name": "Boost",
+        "brand": "Boost",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 114.0
+    },
+    {
+        "original_name": "boost  200g jar",
+        "clean_name": "Boost  Jar",
+        "brand": "Boost",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 114.0
+    },
+    {
+        "original_name": "horlicks 200g jar",
+        "clean_name": "Horlicks  Jar",
+        "brand": "Horlicks",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 105.0
+    },
+    {
+        "original_name": "boost 500G JAR",
+        "clean_name": "Boost  Jar",
+        "brand": "Boost",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 240.0
+    },
+    {
+        "original_name": "horlicks 500G JAR",
+        "clean_name": "Horlicks  Jar",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 259.0
+    },
+    {
+        "original_name": "horlicks 500G REFIL",
+        "clean_name": "Horlicks  Refil",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 260.0
+    },
+    {
+        "original_name": "complan refill 500g",
+        "clean_name": "Complan Refill",
+        "brand": "Complan",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 289.0
+    },
+    {
+        "original_name": "complan jar 500g",
+        "clean_name": "Complan Jar",
+        "brand": "Complan",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 315.0
+    },
+    {
+        "original_name": "boost 500g.box",
+        "clean_name": "Boost Box",
+        "brand": "Boost",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 244.0
+    },
+    {
+        "original_name": "boost 200g jar",
+        "clean_name": "Boost  Jar",
+        "brand": "Boost",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "horlicks lite 500g jar",
+        "clean_name": "Horlicks Lite  Jar",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 345.0
+    },
+    {
+        "original_name": "horlicks women+ 500g jar",
+        "clean_name": "Horlicks Women  Jar",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 310.0
+    },
+    {
+        "original_name": "horlicks mother+500g rifill",
+        "clean_name": "Horlicks Mother Rifill",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 540.0
+    },
+    {
+        "original_name": "horlicks mother+200g rifil",
+        "clean_name": "Horlicks Mother Rifil",
+        "brand": "Horlicks",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 295.0
+    },
+    {
+        "original_name": "horlicks junior 500g",
+        "clean_name": "Horlicks Junior",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 290.0
+    },
+    {
+        "original_name": "oma water 6ps(1pai)",
+        "clean_name": "Oma Water 1Pai",
+        "brand": "Oma",
+        "size": 6.0,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "oma water 1ps",
+        "clean_name": "Oma Water",
+        "brand": "Oma",
+        "size": 1.0,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "horlicks 500G pkt",
+        "clean_name": "Horlicks  Pkt",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 199.0
+    },
+    {
+        "original_name": "boost 200g pkt",
+        "clean_name": "Boost  Pkt",
+        "brand": "Boost",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 99.0
+    },
+    {
+        "original_name": "levista coffee 50g1+1",
+        "clean_name": "Levista Coffee 50G11",
+        "brand": "Levista",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 95.0
+    },
+    {
+        "original_name": "taaza gold(tea) 500g",
+        "clean_name": "Taaza GoldTea",
+        "brand": "Taaza",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 147.5
+    },
+    {
+        "original_name": "avt  tea 500g",
+        "clean_name": "Avt Tea",
+        "brand": "Avt",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "horlicks women+ 400g jar",
+        "clean_name": "Horlicks Women  Jar",
+        "brand": "Horlicks",
+        "size": 400.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 345.0
+    },
+    {
+        "original_name": "boost 500g.rifil",
+        "clean_name": "Boost Rifil",
+        "brand": "Boost",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 244.0
+    },
+    {
+        "original_name": "boost 500g pkt",
+        "clean_name": "Boost  Pkt",
+        "brand": "Boost",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 245.0
+    },
+    {
+        "original_name": "cd localbrand Rs.10(1k)",
+        "clean_name": "Localbrand 1K",
+        "brand": "Localbrand",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "cd 7up750ml(1k)",
+        "clean_name": "7Up1K",
+        "brand": "7Up(1K)",
+        "size": 750.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 912.0
+    },
+    {
+        "original_name": "cd 7up1.25ltr(1k)",
+        "clean_name": "7Up1K",
+        "brand": "7Up(1K)",
+        "size": 1.25,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 584.0
+    },
+    {
+        "original_name": "cd pepsi 250ml(1k)",
+        "clean_name": "Pepsi 1K",
+        "brand": "Pepsi",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 600.0
+    },
+    {
+        "original_name": "cd 7up 250ml (1k)",
+        "clean_name": "7Up  1K",
+        "brand": "7Up",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 600.0
+    },
+    {
+        "original_name": "cd 7up 250ml tinbox",
+        "clean_name": "7Up  Tinbox",
+        "brand": "7Up",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 700.0
+    },
+    {
+        "original_name": "tripti blend coffee bru 200g",
+        "clean_name": "Tripti Blend Coffee Bru",
+        "brand": "Tripti",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 167.0
+    },
+    {
+        "original_name": "levista coffee 100g+50g pkt",
+        "clean_name": "Levista Coffee 50G Pkt",
+        "brand": "Levista",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 170.0
+    },
+    {
+        "original_name": "levista coffee 100g(1+1)strong",
+        "clean_name": "Levista Coffee 11Strong",
+        "brand": "Levista",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 175.0
+    },
+    {
+        "original_name": "levista coffee 50g1+1 strong",
+        "clean_name": "Levista Coffee 50G11 Strong",
+        "brand": "Levista",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 95.0
+    },
+    {
+        "original_name": "levista coffee 50g premium",
+        "clean_name": "Levista Coffee  Premium",
+        "brand": "Levista",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "levista coffee 100g jar(1+1)strong",
+        "clean_name": "Levista Coffee  Jar11Strong",
+        "brand": "Levista",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 175.0
+    },
+    {
+        "original_name": "levista coffee 200g filter(pkt)",
+        "clean_name": "Levista Coffee  FilterPkt",
+        "brand": "Levista",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "levista coffee 200g filter60%(pkt)",
+        "clean_name": "Levista Coffee  Filter60Pkt",
+        "brand": "Levista",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "levista coffee 500g filter",
+        "clean_name": "Levista Coffee  Filter",
+        "brand": "Levista",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 215.0
+    },
+    {
+        "original_name": "levista coffee 100g+50g jar premium",
+        "clean_name": "Levista Coffee 50G Jar Premium",
+        "brand": "Levista",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 185.0
+    },
+    {
+        "original_name": "levista coffee 100g+50g strong",
+        "clean_name": "Levista Coffee 50G Strong",
+        "brand": "Levista",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 175.0
+    },
+    {
+        "original_name": "levista coffee 50g pkt(1+1)strong",
+        "clean_name": "Levista Coffee  Pkt11Strong",
+        "brand": "Levista",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "levista coffee 1.2kg e.strong",
+        "clean_name": "Levista Coffee  EStrong",
+        "brand": "Levista",
+        "size": 1.2,
+        "unit": "kg",
+        "category": "Beverages",
+        "mrp": 650.0
+    },
+    {
+        "original_name": "horlicks lite 500g lite jar",
+        "clean_name": "Horlicks Lite  Lite Jar",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 310.0
+    },
+    {
+        "original_name": "dark fantasty choco falls Rs.35",
+        "clean_name": "Dark Fantasty Choco Falls",
+        "brand": "Dark",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "dark fantasy choco fills Rs.10",
+        "clean_name": "Dark Fantasy Choco Fills",
+        "brand": "Dark",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "dark fantasty bourbon Rs.10 bai",
+        "clean_name": "Dark Fantasty Bourbon Bai",
+        "brand": "Dark",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "dark fantasty bourbon Rs.35",
+        "clean_name": "Dark Fantasty Bourbon",
+        "brand": "Dark",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "complan Rs.5 saram",
+        "clean_name": "Complan Saram",
+        "brand": "Complan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "complan Rs.5(1pai)",
+        "clean_name": "Complan 1Pai",
+        "brand": "Complan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "complan Rs.5",
+        "clean_name": "Complan",
+        "brand": "Complan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "tata tea 500g",
+        "clean_name": "Tata Tea",
+        "brand": "Tata",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 315.0
+    },
+    {
+        "original_name": "water cup 1.saram",
+        "clean_name": "Water Cup 1Saram",
+        "brand": "Water",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "badham drink mix 200g",
+        "clean_name": "Badham Drink Mix",
+        "brand": "Badham",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "dark fantasty bourbon Rs.20",
+        "clean_name": "Dark Fantasty Bourbon",
+        "brand": "Dark",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "dark fantasty.vannila Rs.10",
+        "clean_name": "Dark FantastyVannila",
+        "brand": "Dark",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "slice 1.25ltr",
+        "clean_name": "Slice",
+        "brand": "Slice",
+        "size": 1.25,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "bovonto 1.25ltr",
+        "clean_name": "Bovonto",
+        "brand": "Bovonto",
+        "size": 1.25,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "bovonto 1.50ltr",
+        "clean_name": "Bovonto",
+        "brand": "Bovonto",
+        "size": 1.5,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "water 1.use cup saram",
+        "clean_name": "Water 1Use Cup Saram",
+        "brand": "Water",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "water 1.use cup saram 210ml",
+        "clean_name": "Water 1Use Cup Saram",
+        "brand": "Water",
+        "size": 210.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "7up 2.25ltr",
+        "clean_name": "7Up",
+        "brand": "7Up",
+        "size": 2.25,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 99.0
+    },
+    {
+        "original_name": "7up 1.25ltr",
+        "clean_name": "7Up",
+        "brand": "7Up",
+        "size": 1.25,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "slice 600ml",
+        "clean_name": "Slice",
+        "brand": "Slice",
+        "size": 600.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "bovonto 600ml",
+        "clean_name": "Bovonto",
+        "brand": "Bovonto",
+        "size": 600.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "mountain dew Rs.30",
+        "clean_name": "Mountain Dew",
+        "brand": "Mountain",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "pepsi 2.25ltr",
+        "clean_name": "Pepsi",
+        "brand": "Pepsi",
+        "size": 2.25,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 99.0
+    },
+    {
+        "original_name": "pepsi 750ml",
+        "clean_name": "Pepsi",
+        "brand": "Pepsi",
+        "size": 750.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "pepsi 1.25ltr",
+        "clean_name": "Pepsi",
+        "brand": "Pepsi",
+        "size": 1.25,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "mirinda 750ml",
+        "clean_name": "Mirinda",
+        "brand": "Mirinda",
+        "size": 750.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "bovonto 1.5ltr",
+        "clean_name": "Bovonto",
+        "brand": "Bovonto",
+        "size": 1.5,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "mirinda 250ml",
+        "clean_name": "Mirinda",
+        "brand": "Mirinda",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "mirinda 2.25ml ",
+        "clean_name": "Mirinda",
+        "brand": "Mirinda",
+        "size": 2.25,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 99.0
+    },
+    {
+        "original_name": "7up 750ml",
+        "clean_name": "7Up",
+        "brand": "7Up",
+        "size": 750.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "water 1.ltr box ",
+        "clean_name": "Water 1Ltr Box",
+        "brand": "Water",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 240.0
+    },
+    {
+        "original_name": "levista coffee Rs.2 SARAM",
+        "clean_name": "Levista Coffee Saram",
+        "brand": "Levista",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 24.0
+    },
+    {
+        "original_name": "cd b natural (ornge)180ml 1ps",
+        "clean_name": "B Natural Ornge 1Ps",
+        "brand": "B",
+        "size": 180.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "cd b natural orange180ml(1kase)",
+        "clean_name": "B Natural Orange1Kase",
+        "brand": "B",
+        "size": 180.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 400.0
+    },
+    {
+        "original_name": "water box 500ml box",
+        "clean_name": "Water Box  Box",
+        "brand": "Water",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "slice Rs.10 ",
+        "clean_name": "Slice",
+        "brand": "Slice",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "nannari sarpath bottel",
+        "clean_name": "Nannari Sarpath Bottel",
+        "brand": "Nannari",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "cd Rs10 localbrand mango 200ml",
+        "clean_name": "Localbrand Mango",
+        "brand": "Localbrand",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "cooldrings Rs.10",
+        "clean_name": "Cooldrings",
+        "brand": "Cooldrings",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "pepsi 250ml",
+        "clean_name": "Pepsi",
+        "brand": "Pepsi",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "7up 250ml",
+        "clean_name": "7Up",
+        "brand": "7Up",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "7up 250ml tin",
+        "clean_name": "7Up  Tin",
+        "brand": "7Up",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "pepsi 250ml tin",
+        "clean_name": "Pepsi  Tin",
+        "brand": "Pepsi",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "mirinda 250ml tin",
+        "clean_name": "Mirinda  Tin",
+        "brand": "Mirinda",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "cd pepsi 250ml tin kase",
+        "clean_name": "Pepsi  Tin Kase",
+        "brand": "Pepsi",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 700.0
+    },
+    {
+        "original_name": "cd mirinda 250ml tin kase",
+        "clean_name": "Mirinda  Tin Kase",
+        "brand": "Mirinda",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 700.0
+    },
+    {
+        "original_name": "horlicks mother 200g",
+        "clean_name": "Horlicks Mother",
+        "brand": "Horlicks",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 210.0
+    },
+    {
+        "original_name": "boost Rs.2 saram",
+        "clean_name": "Boost Saram",
+        "brand": "Boost",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 24.0
+    },
+    {
+        "original_name": "vibro 500ml",
+        "clean_name": "Vibro",
+        "brand": "Vibro",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "complan clasic 500g jar",
+        "clean_name": "Complan Clasic  Jar",
+        "brand": "Complan",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 319.0
+    },
+    {
+        "original_name": "water gane",
+        "clean_name": "Water Gane",
+        "brand": "Water",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "boost Rs.2ps",
+        "clean_name": "Boost Ps",
+        "brand": "Boost",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 2.0
+    },
+    {
+        "original_name": "kanan devan tea 250g",
+        "clean_name": "Kanan Devan Tea",
+        "brand": "Kanan",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 64.0
+    },
+    {
+        "original_name": "rose water Rs.15",
+        "clean_name": "Rose Water",
+        "brand": "Rose",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "sprite 2.25ltr",
+        "clean_name": "Sprite",
+        "brand": "Sprite",
+        "size": 2.25,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "sprite 750ml",
+        "clean_name": "Sprite",
+        "brand": "Sprite",
+        "size": 750.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "sprite 250ml",
+        "clean_name": "Sprite",
+        "brand": "Sprite",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "sprite 300ml tin",
+        "clean_name": "Sprite  Tin",
+        "brand": "Sprite",
+        "size": 300.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "fanta 300ml tin",
+        "clean_name": "Fanta  Tin",
+        "brand": "Fanta",
+        "size": 300.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "fanta 2.25ltr",
+        "clean_name": "Fanta",
+        "brand": "Fanta",
+        "size": 2.25,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 99.0
+    },
+    {
+        "original_name": "maaza 250ml",
+        "clean_name": "Maaza",
+        "brand": "Maaza",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "maaza 600ml",
+        "clean_name": "Maaza",
+        "brand": "Maaza",
+        "size": 600.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 42.0
+    },
+    {
+        "original_name": "kinly soda 750ml",
+        "clean_name": "Kinly Soda",
+        "brand": "Kinly",
+        "size": 750.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "limca 250ml",
+        "clean_name": "Limca",
+        "brand": "Limca",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "cocacola 300ml tin",
+        "clean_name": "Cocacola  Tin",
+        "brand": "Cocacola",
+        "size": 300.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "cocacola 250ml",
+        "clean_name": "Cocacola",
+        "brand": "Cocacola",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "cocacola 750ml",
+        "clean_name": "Cocacola",
+        "brand": "Cocacola",
+        "size": 750.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "kinly water 1ltr",
+        "clean_name": "Kinly Water",
+        "brand": "Kinly",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "bovonto1.5ltr (1k)",
+        "clean_name": "Bovonto 1K",
+        "brand": "Bovonto",
+        "size": 1.5,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 850.0
+    },
+    {
+        "original_name": "bovonto500ml (1.k)",
+        "clean_name": "Bovonto 1K",
+        "brand": "Bovonto",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 960.0
+    },
+    {
+        "original_name": "7up 2.250ltr (1.k)",
+        "clean_name": "7Up  1K",
+        "brand": "7Up",
+        "size": 2.25,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 900.0
+    },
+    {
+        "original_name": "7up 250ml tin (1.box)",
+        "clean_name": "7Up  Tin 1Box",
+        "brand": "7Up",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 700.0
+    },
+    {
+        "original_name": "pepsi 250ml(1k)",
+        "clean_name": "Pepsi 1K",
+        "brand": "Pepsi",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 600.0
+    },
+    {
+        "original_name": "7up 250ml (1k)",
+        "clean_name": "7Up  1K",
+        "brand": "7Up",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 600.0
+    },
+    {
+        "original_name": "slice Rs.10 tin (1.box)",
+        "clean_name": "Slice Tin 1Box",
+        "brand": "Slice",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 400.0
+    },
+    {
+        "original_name": "slice 600ml (1.kase)",
+        "clean_name": "Slice  1Kase",
+        "brand": "Slice",
+        "size": 600.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 960.0
+    },
+    {
+        "original_name": "cavinsmilkshake Rs30 (1.box)",
+        "clean_name": "Cavinsmilkshake 1Box",
+        "brand": "Cavinsmilkshake",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 900.0
+    },
+    {
+        "original_name": "vibro500ml (1.k)",
+        "clean_name": "Vibro 1K",
+        "brand": "Vibro",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 800.0
+    },
+    {
+        "original_name": "pepsi 250ml tin (1.k)",
+        "clean_name": "Pepsi  Tin 1K",
+        "brand": "Pepsi",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 700.0
+    },
+    {
+        "original_name": "mirinda 250ml tin (1.k)",
+        "clean_name": "Mirinda  Tin 1K",
+        "brand": "Mirinda",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 700.0
+    },
+    {
+        "original_name": "b natural orange180ml(1.k)",
+        "clean_name": "B Natural Orange1K",
+        "brand": "B",
+        "size": 180.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 400.0
+    },
+    {
+        "original_name": "b natural (ornge) 180ml 1ps",
+        "clean_name": "B Natural Ornge  1Ps",
+        "brand": "B",
+        "size": 180.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "kinly water1.ltr (1.K)",
+        "clean_name": "Kinly Water1Ltr 1K",
+        "brand": "Kinly",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "horlicks Rs.2 saram",
+        "clean_name": "Horlicks Saram",
+        "brand": "Horlicks",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 24.0
+    },
+    {
+        "original_name": "tea rose 500g",
+        "clean_name": "Tea Rose",
+        "brand": "Tea",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 170.0
+    },
+    {
+        "original_name": "fanta  750ml Rs.40",
+        "clean_name": "Fanta",
+        "brand": "Fanta",
+        "size": 750.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "levista coffee 50g premium tin",
+        "clean_name": "Levista Coffee  Premium Tin",
+        "brand": "Levista",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "levista coffee strong50g tin",
+        "clean_name": "Levista Coffee Strong Tin",
+        "brand": "Levista",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "levista coffee premium 50g pkt",
+        "clean_name": "Levista Coffee Premium  Pkt",
+        "brand": "Levista",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 69.0
+    },
+    {
+        "original_name": "cd localbrand Rs.10(1k)orange",
+        "clean_name": "Localbrand 1KOrange",
+        "brand": "Localbrand",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "cd localbrand Rs.10(1k)black",
+        "clean_name": "Localbrand 1KBlack",
+        "brand": "Localbrand",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "panneer soda Rs.10 (1k)",
+        "clean_name": "Panneer Soda 1K",
+        "brand": "Panneer",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "cd soda Rs.10(1k) ",
+        "clean_name": "Soda 1K",
+        "brand": "Soda",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 240.0
+    },
+    {
+        "original_name": "cd localbrand Rs.10(1k)green",
+        "clean_name": "Localbrand 1KGreen",
+        "brand": "Localbrand",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "bovonto 300ML",
+        "clean_name": "Bovonto",
+        "brand": "Bovonto",
+        "size": 300.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "bovonto 300ML (1K)",
+        "clean_name": "Bovonto  1K",
+        "brand": "Bovonto",
+        "size": 300.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 480.0
+    },
+    {
+        "original_name": "bovonto 180ML",
+        "clean_name": "Bovonto",
+        "brand": "Bovonto",
+        "size": 180.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 12.0
+    },
+    {
+        "original_name": "bovonto 180ML(1k)",
+        "clean_name": "Bovonto 1K",
+        "brand": "Bovonto",
+        "size": 180.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 360.0
+    },
+    {
+        "original_name": "levista coffee 200g 80%filter",
+        "clean_name": "Levista Coffee  80Filter",
+        "brand": "Levista",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 105.0
+    },
+    {
+        "original_name": "levista classic 100g i.coffee",
+        "clean_name": "Levista Classic  ICoffee",
+        "brand": "Levista",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 180.0
+    },
+    {
+        "original_name": "levista classic 50g i.coffee",
+        "clean_name": "Levista Classic  ICoffee",
+        "brand": "Levista",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 99.0
+    },
+    {
+        "original_name": "levista coffee Rs.5 saram",
+        "clean_name": "Levista Coffee Saram",
+        "brand": "Levista",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "levista coffee Rs.10 saram",
+        "clean_name": "Levista Coffee Saram",
+        "brand": "Levista",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "mirinda 1.25",
+        "clean_name": "Mirinda 125",
+        "brand": "Mirinda",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "badham milk cooldrings",
+        "clean_name": "Badham Milk Cooldrings",
+        "brand": "Badham",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 28.0
+    },
+    {
+        "original_name": "badham milk cooldrings(1k)",
+        "clean_name": "Badham Milk Cooldrings1K",
+        "brand": "Badham",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 750.0
+    },
+    {
+        "original_name": "complan 200jar choco",
+        "clean_name": "Complan  Choco",
+        "brand": "Complan",
+        "size": 200.0,
+        "unit": "jar",
+        "category": "Beverages",
+        "mrp": 135.0
+    },
+    {
+        "original_name": "water box 300ml 40ps",
+        "clean_name": "Water Box  40Ps",
+        "brand": "Water",
+        "size": 300.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "water box 500ml 24ps 1box",
+        "clean_name": "Water Box  24Ps 1Box",
+        "brand": "Water",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 240.0
+    },
+    {
+        "original_name": "water 1.ltr 12ps box ",
+        "clean_name": "Water 1Ltr  Box",
+        "brand": "Water",
+        "size": 12.0,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 240.0
+    },
+    {
+        "original_name": "water 2ltr 9ps 1box",
+        "clean_name": "Water  9Ps 1Box",
+        "brand": "Water",
+        "size": 2.0,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "sprite 750ml (1k)",
+        "clean_name": "Sprite  1K",
+        "brand": "Sprite",
+        "size": 750.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 960.0
+    },
+    {
+        "original_name": "thums up 250ml",
+        "clean_name": "Thums Up",
+        "brand": "Thums",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "mountain dew Rs.20",
+        "clean_name": "Mountain Dew",
+        "brand": "Mountain",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "mountain dew Rs.35 tin",
+        "clean_name": "Mountain Dew Tin",
+        "brand": "Mountain",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "oma water 5ps(1pai)",
+        "clean_name": "Oma Water 1Pai",
+        "brand": "Oma",
+        "size": 5.0,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "bovonto 500ml",
+        "clean_name": "Bovonto",
+        "brand": "Bovonto",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "slice 250ml",
+        "clean_name": "Slice",
+        "brand": "Slice",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "slice 250ml 15rs",
+        "clean_name": "Slice  15Rs",
+        "brand": "Slice",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "kannan devan tea 250g",
+        "clean_name": "Kannan Devan Tea",
+        "brand": "Kannan",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 83.75
+    },
+    {
+        "original_name": "maaza 1.25ltr",
+        "clean_name": "Maaza",
+        "brand": "Maaza",
+        "size": 1.25,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "limca 750ml Rs.40",
+        "clean_name": "Limca",
+        "brand": "Limca",
+        "size": 750.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "fanta 750ml Rs.40",
+        "clean_name": "Fanta",
+        "brand": "Fanta",
+        "size": 750.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "cocacola 1.25ml",
+        "clean_name": "Cocacola",
+        "brand": "Cocacola",
+        "size": 1.25,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 65.0
+    },
+    {
+        "original_name": "sprite 1.25",
+        "clean_name": "Sprite 125",
+        "brand": "Sprite",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 65.0
+    },
+    {
+        "original_name": "water box 500ml 30ps 1box",
+        "clean_name": "Water Box  30Ps 1Box",
+        "brand": "Water",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "water 2ltr ",
+        "clean_name": "Water",
+        "brand": "Water",
+        "size": 2.0,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "candyman fantastik Rs.200",
+        "clean_name": "Candyman Fantastik",
+        "brand": "Candyman",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "lion syrup Rs.107",
+        "clean_name": "Lion Syrup",
+        "brand": "Lion",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 107.0
+    },
+    {
+        "original_name": "avt green tea 100g 1",
+        "clean_name": "Avt Green Tea  1",
+        "brand": "Avt",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 145.0
+    },
+    {
+        "original_name": "avt green tea 100g (1+1)",
+        "clean_name": "Avt Green Tea  11",
+        "brand": "Avt",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 145.0
+    },
+    {
+        "original_name": "avt premium filter coffee 200g",
+        "clean_name": "Avt Premium Filter Coffee",
+        "brand": "Avt",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 72.0
+    },
+    {
+        "original_name": "horlicks junior vannila 500g Rs.299",
+        "clean_name": "Horlicks Junior Vannila",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 299.0
+    },
+    {
+        "original_name": "horlicks junior vannila 500g Rs.315",
+        "clean_name": "Horlicks Junior Vannila",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 315.0
+    },
+    {
+        "original_name": "horlicks junior choco 500g.Rs.290",
+        "clean_name": "Horlicks Junior Choco",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 290.0
+    },
+    {
+        "original_name": "badham drink mix (1+1) 200g",
+        "clean_name": "Badham Drink Mix 11",
+        "brand": "Badham",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "horlicks 200g pkt Rs.95",
+        "clean_name": "Horlicks  Pkt",
+        "brand": "Horlicks",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 109.0
+    },
+    {
+        "original_name": "boost 200g jar Rs.129",
+        "clean_name": "Boost  Jar",
+        "brand": "Boost",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 129.0
+    },
+    {
+        "original_name": "boost 500G rifil R.264",
+        "clean_name": "Boost  Rifil R264",
+        "brand": "Boost",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 264.0
+    },
+    {
+        "original_name": "complan 200g choco rifil Rs.120",
+        "clean_name": "Complan  Choco Rifil",
+        "brand": "Complan",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "cd local brand Rs.10(1k) apple",
+        "clean_name": "Local Brand 1K Apple",
+        "brand": "Local",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "cd local brand Rs.10 (1k)panner soda",
+        "clean_name": "Local Brand 1KPanner Soda",
+        "brand": "Local",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "cd local brand Rs.10(1k)\u0b86\u0baa\u0bcd\u0baa\u0bbf\u0bb3\u0bcd",
+        "clean_name": "Local Brand 1K",
+        "brand": "Local",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "cd local brand Rs.10 (1k)\u0baa\u0ba9\u0bcd\u0ba9\u0bbf\u0bb0\u0bcd \u0b9a\u0bcb\u0b9f\u0bbe",
+        "clean_name": "Local Brand 1K",
+        "brand": "Local",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "horlicks lite 500g jar Rs.340",
+        "clean_name": "Horlicks Lite  Jar",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 349.0
+    },
+    {
+        "original_name": "horlicks lite 500g jar Rs.325",
+        "clean_name": "Horlicks Lite  Jar",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 325.0
+    },
+    {
+        "original_name": "boost 500G rifil R.250",
+        "clean_name": "Boost  Rifil R250",
+        "brand": "Boost",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 250.0
+    },
+    {
+        "original_name": "horlicks mother+500g rifill Rs.595",
+        "clean_name": "Horlicks Mother Rifill",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 650.0
+    },
+    {
+        "original_name": "horlicks mother+200g rifill Rs.235",
+        "clean_name": "Horlicks Mother Rifill",
+        "brand": "Horlicks",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 245.0
+    },
+    {
+        "original_name": "dark fantasty choco falls Rs.40",
+        "clean_name": "Dark Fantasty Choco Falls",
+        "brand": "Dark",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "levista instant coffee strong Rs.112",
+        "clean_name": "Levista Instant Coffee Strong",
+        "brand": "Levista",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 112.0
+    },
+    {
+        "original_name": "dark fantasty bourbon Rs.10",
+        "clean_name": "Dark Fantasty Bourbon",
+        "brand": "Dark",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "horlicks Rs.2",
+        "clean_name": "Horlicks",
+        "brand": "Horlicks",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 24.0
+    },
+    {
+        "original_name": "levista ins.coffee classic jar Rs.105",
+        "clean_name": "Levista InsCoffee Classic Jar",
+        "brand": "Levista",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 105.0
+    },
+    {
+        "original_name": "levista ins.coffee classic jar Rs.190",
+        "clean_name": "Levista InsCoffee Classic Jar",
+        "brand": "Levista",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 190.0
+    },
+    {
+        "original_name": "boost Rs.2",
+        "clean_name": "Boost",
+        "brand": "Boost",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 2.0
+    },
+    {
+        "original_name": "boost 500G JAR Rs.279",
+        "clean_name": "Boost  Jar",
+        "brand": "Boost",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 299.0
+    },
+    {
+        "original_name": "boost 200g jar Rs.135",
+        "clean_name": "Boost  Jar",
+        "brand": "Boost",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 135.0
+    },
+    {
+        "original_name": "horlicks lite 500g lite jar Rs.310",
+        "clean_name": "Horlicks Lite  Lite Jar",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 310.0
+    },
+    {
+        "original_name": "sarpath pkt",
+        "clean_name": "Sarpath Pkt",
+        "brand": "Sarpath",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "abisega panneer 150ml Rs.15",
+        "clean_name": "Abisega Panneer",
+        "brand": "Abisega",
+        "size": 150.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "abisega panneer 150ml Rs.20",
+        "clean_name": "Abisega Panneer",
+        "brand": "Abisega",
+        "size": 150.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "boost 500g Rs.219",
+        "clean_name": "Boost",
+        "brand": "Boost",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 239.0
+    },
+    {
+        "original_name": "boost 500g pkt Rs.219",
+        "clean_name": "Boost  Pkt",
+        "brand": "Boost",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 245.0
+    },
+    {
+        "original_name": "horlicks junior 500g Rs.330(vannia)",
+        "clean_name": "Horlicks Junior  Vannia",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 330.0
+    },
+    {
+        "original_name": "horlicks 200g jarRs.114",
+        "clean_name": "Horlicks  Jar",
+        "brand": "Horlicks",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 114.0
+    },
+    {
+        "original_name": "water 500ml",
+        "clean_name": "Water",
+        "brand": "Water",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "water 300 ml",
+        "clean_name": "Water",
+        "brand": "Water",
+        "size": 300.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 6.0
+    },
+    {
+        "original_name": "horlicks 200g pkt Rs.99",
+        "clean_name": "Horlicks  Pkt",
+        "brand": "Horlicks",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 99.0
+    },
+    {
+        "original_name": "horlicks 500g Rifill Rs.275",
+        "clean_name": "Horlicks  Rifill",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 294.0
+    },
+    {
+        "original_name": "mountain dew Rs.15",
+        "clean_name": "Mountain Dew",
+        "brand": "Mountain",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "water cane 5Ltr",
+        "clean_name": "Water Cane",
+        "brand": "Water",
+        "size": 5.0,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "horlicks junior 450G POUCH",
+        "clean_name": "Horlicks Junior  Pouch",
+        "brand": "Horlicks",
+        "size": 450.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 330.0
+    },
+    {
+        "original_name": "horlicks junior 500G POUCH",
+        "clean_name": "Horlicks Junior  Pouch",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 330.0
+    },
+    {
+        "original_name": "horlicks women+ 400g jar Rs.325",
+        "clean_name": "Horlicks Women  Jar",
+        "brand": "Horlicks",
+        "size": 400.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 325.0
+    },
+    {
+        "original_name": "boost 500g pkt Rs.245",
+        "clean_name": "Boost  Pkt",
+        "brand": "Boost",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 295.0
+    },
+    {
+        "original_name": "lion syrup 250g",
+        "clean_name": "Lion Syrup",
+        "brand": "Lion",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 107.0
+    },
+    {
+        "original_name": "HH camlin CD-DVD marker pen black",
+        "clean_name": "Camlin Dvd Marker Pen Black",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "HH camlin CD-DVD marker pen green",
+        "clean_name": "Camlin Dvd Marker Pen Green",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "HH camlin CD-DVD marker pen blue",
+        "clean_name": "Camlin Dvd Marker Pen Blue",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "HH camlin CD-DVD marker pen red",
+        "clean_name": "Camlin Dvd Marker Pen Red",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "boost 200G",
+        "clean_name": "Boost",
+        "brand": "Boost",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 109.0
+    },
+    {
+        "original_name": "boost pkt 200G",
+        "clean_name": "Boost Pkt",
+        "brand": "Boost",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 109.0
+    },
+    {
+        "original_name": "horlicks 200g jar choco Rs.119",
+        "clean_name": "Horlicks  Jar Choco",
+        "brand": "Horlicks",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 119.0
+    },
+    {
+        "original_name": "water gane 5ltr",
+        "clean_name": "Water Gane",
+        "brand": "Water",
+        "size": 5.0,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "water 5ltr",
+        "clean_name": "Water",
+        "brand": "Water",
+        "size": 5.0,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "oma water 4ps(1pai)",
+        "clean_name": "Oma Water 1Pai",
+        "brand": "Oma",
+        "size": 4.0,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "horlicks 450G POUCH",
+        "clean_name": "Horlicks  Pouch",
+        "brand": "Horlicks",
+        "size": 450.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 219.0
+    },
+    {
+        "original_name": "cd kalimark soda 300ml",
+        "clean_name": "Kalimark Soda",
+        "brand": "Kalimark",
+        "size": 300.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 240.0
+    },
+    {
+        "original_name": "cd kalimark soda 750ml",
+        "clean_name": "Kalimark Soda",
+        "brand": "Kalimark",
+        "size": 750.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "cd kalimark cho milk",
+        "clean_name": "Kalimark Cho Milk",
+        "brand": "Kalimark",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "cd kalimark badam milk",
+        "clean_name": "Kalimark Badam Milk",
+        "brand": "Kalimark",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "oma water sarvathaya 200ml",
+        "clean_name": "Oma Water Sarvathaya",
+        "brand": "Oma",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "chakra gold tea Rs.1 pai",
+        "clean_name": "Chakra Gold Tea Pai",
+        "brand": "Chakra",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "kannan devan tea classic 500g",
+        "clean_name": "Kannan Devan Tea Classic",
+        "brand": "Kannan",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 167.5
+    },
+    {
+        "original_name": "horlicks women+ 500g rifil.Rs.320",
+        "clean_name": "Horlicks Women  Rifil",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 320.0
+    },
+    {
+        "original_name": "vibro 300ml",
+        "clean_name": "Vibro",
+        "brand": "Vibro",
+        "size": 300.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "avt green tea bag",
+        "clean_name": "Avt Green Tea Bag",
+        "brand": "Avt",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 65.0
+    },
+    {
+        "original_name": "dark fantasty bourbon Rs.25",
+        "clean_name": "Dark Fantasty Bourbon",
+        "brand": "Dark",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "sprite 1 L MRP 55",
+        "clean_name": "Sprite  55",
+        "brand": "Sprite",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "boost 500g pkt Rs.299",
+        "clean_name": "Boost  Pkt",
+        "brand": "Boost",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 299.0
+    },
+    {
+        "original_name": "boost 500G rifil R.299",
+        "clean_name": "Boost  Rifil R299",
+        "brand": "Boost",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 299.0
+    },
+    {
+        "original_name": "boost 500g.rifil Rs.295",
+        "clean_name": "Boost Rifil",
+        "brand": "Boost",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 295.0
+    },
+    {
+        "original_name": "cd litchi fruit 125ml",
+        "clean_name": "Litchi Fruit",
+        "brand": "Litchi",
+        "size": 125.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "horlicks 200g pkt Rs.109",
+        "clean_name": "Horlicks  Pkt",
+        "brand": "Horlicks",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 109.0
+    },
+    {
+        "original_name": "mirinda 2.25 ltr",
+        "clean_name": "Mirinda",
+        "brand": "Mirinda",
+        "size": 2.25,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 99.0
+    },
+    {
+        "original_name": "horlicks biscuit Rs.10",
+        "clean_name": "Horlicks Biscuit",
+        "brand": "Horlicks",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "cd Rose milk",
+        "clean_name": "Rose Milk",
+        "brand": "Rose",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "b natural cooldrink",
+        "clean_name": "B Natural Cooldrink",
+        "brand": "B",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "boost 200g pkt 114",
+        "clean_name": "Boost  Pkt 114",
+        "brand": "Boost",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 114.0
+    },
+    {
+        "original_name": "boost 200gm pkt",
+        "clean_name": "Boost  Pkt",
+        "brand": "Boost",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 89.0
+    },
+    {
+        "original_name": "boost 500Gm pkt",
+        "clean_name": "Boost  Pkt",
+        "brand": "Boost",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 249.0
+    },
+    {
+        "original_name": "HORLICKS 450GM  MRP 229hamam MRP 39",
+        "clean_name": "Horlicks  229Hamam 39",
+        "brand": "Horlicks",
+        "size": 450.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 229.0
+    },
+    {
+        "original_name": "HORLICKS 500GM  JAR MRP 294",
+        "clean_name": "Horlicks  Jar 294",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 294.0
+    },
+    {
+        "original_name": "cocacola 2.250 l",
+        "clean_name": "Cocacola",
+        "brand": "Cocacola",
+        "size": 2.25,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "fanta 1l",
+        "clean_name": "Fanta",
+        "brand": "Fanta",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "maaza 750ml",
+        "clean_name": "Maaza",
+        "brand": "Maaza",
+        "size": 750.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "horlicks 200gm jar",
+        "clean_name": "Horlicks  Jar",
+        "brand": "Horlicks",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 134.0
+    },
+    {
+        "original_name": "mother horlicks 200gm",
+        "clean_name": "Mother Horlicks",
+        "brand": "Mother",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 295.0
+    },
+    {
+        "original_name": "cd Rs 10",
+        "clean_name": "cd Rs 10",
+        "brand": "Generic",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "oma water 12ps(1pai)",
+        "clean_name": "Oma Water 1Pai",
+        "brand": "Oma",
+        "size": 12.0,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "cd localbrand Rs.10(1k)mango",
+        "clean_name": "Localbrand 1KMango",
+        "brand": "Localbrand",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "7up nimbooz 125ml",
+        "clean_name": "7Up Nimbooz",
+        "brand": "7Up",
+        "size": 125.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "boost 500g rifil",
+        "clean_name": "Boost  Rifil",
+        "brand": "Boost",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 295.0
+    },
+    {
+        "original_name": "HORLICKS 450GM  MRP 229",
+        "clean_name": "Horlicks  229",
+        "brand": "Horlicks",
+        "size": 450.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 229.0
+    },
+    {
+        "original_name": "water box 300ml 50ps",
+        "clean_name": "Water Box  50Ps",
+        "brand": "Water",
+        "size": 300.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "water 300ml 40ps\u0bb5\u0bbe\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd \u0baa\u0bbe\u0b95\u0bcd\u0bb8\u0bcd",
+        "clean_name": "Water  40Ps",
+        "brand": "Water",
+        "size": 300.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 240.0
+    },
+    {
+        "original_name": "boost 200g jar Rs.139",
+        "clean_name": "Boost  Jar",
+        "brand": "Boost",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 135.0
+    },
+    {
+        "original_name": "levista filiter coffee 200g ",
+        "clean_name": "Levista Filiter Coffee",
+        "brand": "Levista",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 130.0
+    },
+    {
+        "original_name": "maaza 1.5ltr",
+        "clean_name": "Maaza",
+        "brand": "Maaza",
+        "size": 1.5,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "boost 500G JAR Rs.299",
+        "clean_name": "Boost  Jar",
+        "brand": "Boost",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 299.0
+    },
+    {
+        "original_name": "horlicks mother+200g rifill Rs.245",
+        "clean_name": "Horlicks Mother Rifill",
+        "brand": "Horlicks",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 245.0
+    },
+    {
+        "original_name": "horlicks women+ 400g jar Rs.345",
+        "clean_name": "Horlicks Women  Jar",
+        "brand": "Horlicks",
+        "size": 400.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 345.0
+    },
+    {
+        "original_name": "horlicks women+ 400g jar Rs.355",
+        "clean_name": "Horlicks Women  Jar",
+        "brand": "Horlicks",
+        "size": 400.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 355.0
+    },
+    {
+        "original_name": "horlicks lite 500g jar Rs.349",
+        "clean_name": "Horlicks Lite  Jar",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 349.0
+    },
+    {
+        "original_name": "horlicks junior 500g Rs.330",
+        "clean_name": "Horlicks Junior",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 330.0
+    },
+    {
+        "original_name": "horlicks junior 500g Rs.330 Rifil",
+        "clean_name": "Horlicks Junior  Rifil",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 330.0
+    },
+    {
+        "original_name": "horlicks junior 500g Rs.330 jar",
+        "clean_name": "Horlicks Junior  Jar",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 330.0
+    },
+    {
+        "original_name": "horlicks mother plus 500g Rs.620",
+        "clean_name": "Horlicks Mother Plus",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 620.0
+    },
+    {
+        "original_name": "packing Soda KG",
+        "clean_name": "Packing Soda Kg",
+        "brand": "Packing",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "tea filder Rs.10",
+        "clean_name": "Tea Filder",
+        "brand": "Tea",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "horlicks 500g Rifill Rs.294",
+        "clean_name": "Horlicks  Rifill",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 294.0
+    },
+    {
+        "original_name": "horlicks 500g jar Rs.294",
+        "clean_name": "Horlicks  Jar",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 259.0
+    },
+    {
+        "original_name": "fanta 250ml",
+        "clean_name": "Fanta",
+        "brand": "Fanta",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "fanta 1ltr",
+        "clean_name": "Fanta",
+        "brand": "Fanta",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "limca 750ml",
+        "clean_name": "Limca",
+        "brand": "Limca",
+        "size": 750.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "gulabari rose water 250ml",
+        "clean_name": "Gulabari Rose Water",
+        "brand": "Gulabari",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 92.0
+    },
+    {
+        "original_name": "cocacola 2.250 ml",
+        "clean_name": "Cocacola",
+        "brand": "Cocacola",
+        "size": 2.25,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "gulabari rose water 120ml",
+        "clean_name": "Gulabari Rose Water",
+        "brand": "Gulabari",
+        "size": 120.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 54.0
+    },
+    {
+        "original_name": "gulabari rose water 59ml",
+        "clean_name": "Gulabari Rose Water",
+        "brand": "Gulabari",
+        "size": 59.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "badham drink mix (1+1) 200g aachi",
+        "clean_name": "Badham Drink Mix 11  Aachi",
+        "brand": "Badham",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "badham MTR drink mix 200g",
+        "clean_name": "Badham Mtr Drink Mix",
+        "brand": "Badham",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 125.0
+    },
+    {
+        "original_name": "cd lemon soda Rs.10(1k) ",
+        "clean_name": "Lemon Soda 1K",
+        "brand": "Lemon",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "lion syrup 500g",
+        "clean_name": "Lion Syrup",
+        "brand": "Lion",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 206.0
+    },
+    {
+        "original_name": "horlicks 200g pkt Rs.115",
+        "clean_name": "Horlicks  Pkt",
+        "brand": "Horlicks",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 115.0
+    },
+    {
+        "original_name": "cd spinner 200ml tin",
+        "clean_name": "Spinner  Tin",
+        "brand": "Spinner",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "horlicks lite 450g jar Rs.349",
+        "clean_name": "Horlicks Lite  Jar",
+        "brand": "Horlicks",
+        "size": 450.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 349.0
+    },
+    {
+        "original_name": "soda candy Rs.60 pkt",
+        "clean_name": "Soda Candy Pkt",
+        "brand": "Soda",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "lipton greentea Rs.70",
+        "clean_name": "Lipton Greentea",
+        "brand": "Lipton",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "tea cup 90ml (80p)",
+        "clean_name": "Tea Cup  80P",
+        "brand": "Tea",
+        "size": 90.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "cd Strawberry cooldring Rs.10",
+        "clean_name": "Strawberry Cooldring",
+        "brand": "Strawberry",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "horlicks women+ 400g rifil.Rs.320",
+        "clean_name": "Horlicks Women  Rifil",
+        "brand": "Horlicks",
+        "size": 400.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 320.0
+    },
+    {
+        "original_name": "woodwards grib water 130ml",
+        "clean_name": "Woodwards Grib Water",
+        "brand": "Woodwards",
+        "size": 130.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 62.0
+    },
+    {
+        "original_name": "woodwards grib water 200ml",
+        "clean_name": "Woodwards Grib Water",
+        "brand": "Woodwards",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "cd kinly soda 750ml",
+        "clean_name": "Kinly Soda",
+        "brand": "Kinly",
+        "size": 750.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "oma water senthil 200ml",
+        "clean_name": "Oma Water Senthil",
+        "brand": "Oma",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "badham drink mix (1+1) 200g Rs.175 aachi",
+        "clean_name": "Badham Drink Mix 11  Aachi",
+        "brand": "Badham",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 155.0
+    },
+    {
+        "original_name": "tata coffee grand 200g Rs.205",
+        "clean_name": "Tata Coffee Grand",
+        "brand": "Tata",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 205.0
+    },
+    {
+        "original_name": "horlicks women+ 500g jar Rs.365",
+        "clean_name": "Horlicks Women  Jar",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 365.0
+    },
+    {
+        "original_name": "fanta 600ml Rs.40",
+        "clean_name": "Fanta",
+        "brand": "Fanta",
+        "size": 600.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "limca 600ml",
+        "clean_name": "Limca",
+        "brand": "Limca",
+        "size": 600.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "cd localbrand Rs.10(1k)guava6",
+        "clean_name": "Localbrand 1KGuava6",
+        "brand": "Localbrand",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "AVT whole leaf 1kg",
+        "clean_name": "Avt Whole Leaf",
+        "brand": "Avt",
+        "size": 1.0,
+        "unit": "kg",
+        "category": "Beverages",
+        "mrp": 360.0
+    },
+    {
+        "original_name": "sprite 1L Rs.55",
+        "clean_name": "Sprite",
+        "brand": "Sprite",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "oma water happy 200ml",
+        "clean_name": "Oma Water Happy",
+        "brand": "Oma",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "cd localbrand Rs.10(1k)guava",
+        "clean_name": "Localbrand 1KGuava",
+        "brand": "Localbrand",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "maaza 135ml Rs.10",
+        "clean_name": "Maaza",
+        "brand": "Maaza",
+        "size": 135.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "kannan devan tea classic 250g",
+        "clean_name": "Kannan Devan Tea Classic",
+        "brand": "Kannan",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "cocacola 600ml",
+        "clean_name": "Cocacola",
+        "brand": "Cocacola",
+        "size": 600.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "baby water sippy cup",
+        "clean_name": "Baby Water Sippy Cup",
+        "brand": "Baby",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 259.0
+    },
+    {
+        "original_name": "sprite 2.25 Rs.100",
+        "clean_name": "Sprite 225",
+        "brand": "Sprite",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "cocacola 1L",
+        "clean_name": "Cocacola",
+        "brand": "Cocacola",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "maaza 250ml Rs.20",
+        "clean_name": "Maaza",
+        "brand": "Maaza",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "sprite 20ml Bottle",
+        "clean_name": "Sprite  Bottle",
+        "brand": "Sprite",
+        "size": 20.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "sprite 200ml Bottle",
+        "clean_name": "Sprite  Bottle",
+        "brand": "Sprite",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "cd local brand Strawberry cooldring Rs.10",
+        "clean_name": "Local Brand Strawberry Cooldring",
+        "brand": "Local",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 288.0
+    },
+    {
+        "original_name": "bru 50g pkt",
+        "clean_name": "Bru  Pkt",
+        "brand": "Bru",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 155.0
+    },
+    {
+        "original_name": "cool drinks straw Rs.25",
+        "clean_name": "Cool Drinks Straw",
+        "brand": "Cool",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 28.0
+    },
+    {
+        "original_name": "cool drinks straw Rs.30",
+        "clean_name": "Cool Drinks Straw",
+        "brand": "Cool",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "sunfeast fantastik chocolate Rs.10",
+        "clean_name": "Sunfeast Fantastik Chocolate",
+        "brand": "Sunfeast",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "green tea tetley 100g Rs.155",
+        "clean_name": "Green Tea Tetley",
+        "brand": "Green",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 155.0
+    },
+    {
+        "original_name": "green tea tetley (10p) Rs.70",
+        "clean_name": "Green Tea Tetley 10P",
+        "brand": "Green",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "green tea tetley gin,mint,lem (10p) Rs.70",
+        "clean_name": "Green Tea Tetley GinMintLem 10P",
+        "brand": "Green",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "green tea tetley lemon & honey (10p) Rs.70",
+        "clean_name": "Green Tea Tetley Lemon  Honey 10P",
+        "brand": "Green",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "cd local brand Rs.10 (1k) pineapple ",
+        "clean_name": "Local Brand 1K Pineapple",
+        "brand": "Local",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "cd local brand Rs.10(1k) 888 beer",
+        "clean_name": "Local Brand 1K 888 Beer",
+        "brand": "Local",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 625.0
+    },
+    {
+        "original_name": "cd local brand Rs.10 (1k) apple fizzy ",
+        "clean_name": "Local Brand 1K Apple Fizzy",
+        "brand": "Local",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 480.0
+    },
+    {
+        "original_name": "cd local brand Rs.10 (1k) bolt red energy  ",
+        "clean_name": "Local Brand 1K Bolt Red Energy",
+        "brand": "Local",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 480.0
+    },
+    {
+        "original_name": "cd local brand Rs.25 (1k) 888 beer",
+        "clean_name": "Local Brand 1K 888 Beer",
+        "brand": "Local",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 625.0
+    },
+    {
+        "original_name": "cd local brand Rs.20 (1k) bolt red energy  ",
+        "clean_name": "Local Brand 1K Bolt Red Energy",
+        "brand": "Local",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "cd local brand bolt red energy Rs.20 ",
+        "clean_name": "Local Brand Bolt Red Energy",
+        "brand": "Local",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "cd local brand 888 beer Rs.25",
+        "clean_name": "Local Brand 888 Beer",
+        "brand": "Local",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "cd lemon salt Rs.10 (1k) ",
+        "clean_name": "Lemon Salt 1K",
+        "brand": "Lemon",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 288.0
+    },
+    {
+        "original_name": "horlicks junior 400g Rs.235 Pouch",
+        "clean_name": "Horlicks Junior  Pouch",
+        "brand": "Horlicks",
+        "size": 400.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 235.0
+    },
+    {
+        "original_name": "sprite 600ml",
+        "clean_name": "Sprite",
+        "brand": "Sprite",
+        "size": 600.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "maaza 200ml Rs.20",
+        "clean_name": "Maaza",
+        "brand": "Maaza",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "cd paper boat 250ml Rs.20",
+        "clean_name": "Paper Boat",
+        "brand": "Paper",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "cd paper boat 125ml Rs.10",
+        "clean_name": "Paper Boat",
+        "brand": "Paper",
+        "size": 125.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "cd b natural 980ml Rs.100",
+        "clean_name": "B Natural",
+        "brand": "B",
+        "size": 980.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "boost rifil 500g Rs.255 ",
+        "clean_name": "Boost Rifil",
+        "brand": "Boost",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 255.0
+    },
+    {
+        "original_name": "cd paper boat 600ml Rs.40",
+        "clean_name": "Paper Boat",
+        "brand": "Paper",
+        "size": 600.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "cd kalimark rose milk",
+        "clean_name": "Kalimark Rose Milk",
+        "brand": "Kalimark",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "coffee kumbakonam degree 250g ",
+        "clean_name": "Coffee Kumbakonam Degree",
+        "brand": "Coffee",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 275.0
+    },
+    {
+        "original_name": "nannari sarpath bottel Rs.110",
+        "clean_name": "Nannari Sarpath Bottel",
+        "brand": "Nannari",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "water 300ml 30ps\u0bb5\u0bbe\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd \u0baa\u0bbe\u0b95\u0bcd\u0bb8\u0bcd",
+        "clean_name": "Water  30Ps",
+        "brand": "Water",
+        "size": 300.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 240.0
+    },
+    {
+        "original_name": "taaza gold tea shop 500g",
+        "clean_name": "Taaza Gold Tea Shop",
+        "brand": "Taaza",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 285.0
+    },
+    {
+        "original_name": "water 1.ltr 15ps box ",
+        "clean_name": "Water 1Ltr  Box",
+        "brand": "Water",
+        "size": 15.0,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 240.0
+    },
+    {
+        "original_name": "water 1ltr biswind 15ps box",
+        "clean_name": "Water  Biswind 15Ps Box",
+        "brand": "Water",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "taaza gold (tea) 500g Rs.135",
+        "clean_name": "Taaza Gold Tea",
+        "brand": "Taaza",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 135.0
+    },
+    {
+        "original_name": "complan 200g choco jar Rs.149",
+        "clean_name": "Complan  Choco Jar",
+        "brand": "Complan",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 146.0
+    },
+    {
+        "original_name": "cd kalimark golisoda 250ml",
+        "clean_name": "Kalimark Golisoda",
+        "brand": "Kalimark",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "sen brush Rs.35",
+        "clean_name": "Sen Brush",
+        "brand": "Sen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "horlicks lite jar 450g Rs.349",
+        "clean_name": "Horlicks Lite Jar",
+        "brand": "Horlicks",
+        "size": 450.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 310.0
+    },
+    {
+        "original_name": "horlicks junior jar 500g Rs.330",
+        "clean_name": "Horlicks Junior Jar",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 345.0
+    },
+    {
+        "original_name": "horlicks junior jar 400g Rs.330",
+        "clean_name": "Horlicks Junior Jar",
+        "brand": "Horlicks",
+        "size": 400.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 330.0
+    },
+    {
+        "original_name": "boost Rs.3",
+        "clean_name": "Boost",
+        "brand": "Boost",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 3.0
+    },
+    {
+        "original_name": "tea biscut jar rs 200",
+        "clean_name": "Tea Biscut Jar",
+        "brand": "Tea",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "bru 50gm Rs135",
+        "clean_name": "Bru",
+        "brand": "Bru",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 135.0
+    },
+    {
+        "original_name": "cd localbrand Rs.10(1k)\u0b86\u0baa\u0bcd\u0baa\u0bbf\u0bb3\u0bcd",
+        "clean_name": "Localbrand 1K",
+        "brand": "Localbrand",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "cd localbrand Rs.10 (1k) pineapple ",
+        "clean_name": "Localbrand 1K Pineapple",
+        "brand": "Localbrand",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 288.0
+    },
+    {
+        "original_name": "cd localbrand Rs.10 (1k)\u0baa\u0ba9\u0bcd\u0ba9\u0bbf\u0bb0\u0bcd \u0b9a\u0bcb\u0b9f\u0bbe",
+        "clean_name": "Localbrand 1K",
+        "brand": "Localbrand",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "coffee kumbakonam degree 100g ",
+        "clean_name": "Coffee Kumbakonam Degree",
+        "brand": "Coffee",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "bru 50g pkt Rs.135",
+        "clean_name": "Bru  Pkt",
+        "brand": "Bru",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "badham drink mix daily 200g",
+        "clean_name": "Badham Drink Mix Daily",
+        "brand": "Badham",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "sprite 1L Rs.50",
+        "clean_name": "Sprite",
+        "brand": "Sprite",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Beverages",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "boost Rs.10",
+        "clean_name": "Boost",
+        "brand": "Boost",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "horlicks Rs.10",
+        "clean_name": "Horlicks",
+        "brand": "Horlicks",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "cd localbrand Rs.12(1k)green",
+        "clean_name": "Localbrand 1KGreen",
+        "brand": "Localbrand",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "tea biscut jar",
+        "clean_name": "Tea Biscut Jar",
+        "brand": "Tea",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "thazhampoo keora water250ml",
+        "clean_name": "Thazhampoo Keora Water",
+        "brand": "Thazhampoo",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 65.0
+    },
+    {
+        "original_name": "tata tea gold 500g rs.300",
+        "clean_name": "Tata Tea Gold",
+        "brand": "Tata",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "horlicks pkt 450g rs.235",
+        "clean_name": "Horlicks Pkt",
+        "brand": "Horlicks",
+        "size": 450.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 235.0
+    },
+    {
+        "original_name": "horlicks 200g pkt Rs.114",
+        "clean_name": "Horlicks  Pkt",
+        "brand": "Horlicks",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 114.0
+    },
+    {
+        "original_name": "cd local lemon salt Rs.10 (1k) ",
+        "clean_name": "Local Lemon Salt 1K",
+        "brand": "Local",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 360.0
+    },
+    {
+        "original_name": "cd local soda Rs.10(1k) ",
+        "clean_name": "Local Soda 1K",
+        "brand": "Local",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 240.0
+    },
+    {
+        "original_name": "boost 500g Rs.255 ",
+        "clean_name": "Boost",
+        "brand": "Boost",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 239.0
+    },
+    {
+        "original_name": "horlicks Rs.3",
+        "clean_name": "Horlicks",
+        "brand": "Horlicks",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 36.0
+    },
+    {
+        "original_name": "horlicks Rs.3 saram",
+        "clean_name": "Horlicks Saram",
+        "brand": "Horlicks",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 36.0
+    },
+    {
+        "original_name": "tajmahal tea bag 200p rs.325 ",
+        "clean_name": "Tajmahal Tea Bag 200P",
+        "brand": "Tajmahal",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 325.0
+    },
+    {
+        "original_name": "milky mist cheese slice 100g",
+        "clean_name": "Milky Mist Cheese Slice",
+        "brand": "Milky",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "agni tea 500gm",
+        "clean_name": "Agni Tea",
+        "brand": "Agni",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 140.0
+    },
+    {
+        "original_name": "mil cheese slice 100g",
+        "clean_name": "Mil Cheese Slice",
+        "brand": "Mil",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "cd localbrand Rs.10 (1k) lemon salt bro",
+        "clean_name": "Localbrand 1K Lemon Salt Bro",
+        "brand": "Localbrand",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 240.0
+    },
+    {
+        "original_name": "cd localbrand Rs.12 (1k) lemon salt bro",
+        "clean_name": "Localbrand 1K Lemon Salt Bro",
+        "brand": "Localbrand",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 288.0
+    },
+    {
+        "original_name": "avt tea 500kg",
+        "clean_name": "Avt Tea",
+        "brand": "Avt",
+        "size": 500.0,
+        "unit": "kg",
+        "category": "Beverages",
+        "mrp": 158.0
+    },
+    {
+        "original_name": "lipton green tea Rs.75",
+        "clean_name": "Lipton Green Tea",
+        "brand": "Lipton",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "cd lemon salt bro Rs.10 (1k) ",
+        "clean_name": "Lemon Salt Bro 1K",
+        "brand": "Lemon",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 360.0
+    },
+    {
+        "original_name": "cd local soda bro Rs.10(1k) ",
+        "clean_name": "Local Soda Bro 1K",
+        "brand": "Local",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 240.0
+    },
+    {
+        "original_name": "boost 500g Rs.239",
+        "clean_name": "Boost",
+        "brand": "Boost",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 214.0
+    },
+    {
+        "original_name": "cocacola 1Lt",
+        "clean_name": "Cocacola 1Lt",
+        "brand": "Cocacola",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "cold coffee",
+        "clean_name": "Cold Coffee",
+        "brand": "Cold",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "cd green bro 600ml",
+        "clean_name": "Green Bro",
+        "brand": "Green",
+        "size": 600.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "cd black bro 600ml",
+        "clean_name": "Black Bro",
+        "brand": "Black",
+        "size": 600.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "cd mango bro 600ml",
+        "clean_name": "Mango Bro",
+        "brand": "Mango",
+        "size": 600.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "badham MTR drink mix Rs.5 saram",
+        "clean_name": "Badham Mtr Drink Mix Saram",
+        "brand": "Badham",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "amul cool drinks",
+        "clean_name": "Amul Cool Drinks",
+        "brand": "Amul",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "dark fantasty Milkshake Rs.30",
+        "clean_name": "Dark Fantasty Milkshake",
+        "brand": "Dark",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "cd orange bro 600ml",
+        "clean_name": "Orange Bro",
+        "brand": "Orange",
+        "size": 600.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "mother horlicks 500g",
+        "clean_name": "Mother Horlicks",
+        "brand": "Mother",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 620.0
+    },
+    {
+        "original_name": "cocacola 400ml",
+        "clean_name": "Cocacola",
+        "brand": "Cocacola",
+        "size": 400.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "complan pouch 400g",
+        "clean_name": "Complan Pouch",
+        "brand": "Complan",
+        "size": 400.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 249.0
+    },
+    {
+        "original_name": "cd bro energy drink Rs.12",
+        "clean_name": "Bro Energy Drink",
+        "brand": "Bro",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 240.0
+    },
+    {
+        "original_name": "cd energy drink Rs.12",
+        "clean_name": "Energy Drink",
+        "brand": "Energy",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 240.0
+    },
+    {
+        "original_name": "cd apple bro rs.10 (1k)",
+        "clean_name": "Apple Bro 1K",
+        "brand": "Apple",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "cd pineapple bro rs.10 (1k) ",
+        "clean_name": "Pineapple Bro 1K",
+        "brand": "Pineapple",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 360.0
+    },
+    {
+        "original_name": "cd litchi bro rs.12 (24p)",
+        "clean_name": "Litchi Bro 24P",
+        "brand": "Litchi",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 288.0
+    },
+    {
+        "original_name": "cd lemon salt Rs.10 (24p) ",
+        "clean_name": "Lemon Salt 24P",
+        "brand": "Lemon",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 288.0
+    },
+    {
+        "original_name": "milk shake cavins 170ml rs.40",
+        "clean_name": "Milk Shake Cavins",
+        "brand": "Milk",
+        "size": 170.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "juice Rs.1 pkt",
+        "clean_name": "Juice Pkt",
+        "brand": "Juice",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "kanan devan tea classic 250g",
+        "clean_name": "Kanan Devan Tea Classic",
+        "brand": "Kanan",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 105.0
+    },
+    {
+        "original_name": "taaza gold tea shop 1kg",
+        "clean_name": "Taaza Gold Tea Shop",
+        "brand": "Taaza",
+        "size": 1.0,
+        "unit": "kg",
+        "category": "Beverages",
+        "mrp": 285.0
+    },
+    {
+        "original_name": "water 300ml 35p",
+        "clean_name": "Water  35P",
+        "brand": "Water",
+        "size": 300.0,
+        "unit": "ml",
+        "category": "Beverages",
+        "mrp": 180.0
+    },
+    {
+        "original_name": "horlicks junior jar 500g Rs.345",
+        "clean_name": "Horlicks Junior Jar",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 305.0
+    },
+    {
+        "original_name": "winkin cow growmilkshake",
+        "clean_name": "Winkin Cow Growmilkshake",
+        "brand": "Winkin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "winkin cow growmilkshake Rs.20",
+        "clean_name": "Winkin Cow Growmilkshake",
+        "brand": "Winkin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "taaza gold (tea) 500g Rs.140",
+        "clean_name": "Taaza Gold Tea",
+        "brand": "Taaza",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 140.0
+    },
+    {
+        "original_name": "kannan devan tea Red 100g",
+        "clean_name": "Kannan Devan Tea Red",
+        "brand": "Kannan",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 42.0
+    },
+    {
+        "original_name": "kannan devan tea Green 100g",
+        "clean_name": "Kannan Devan Tea Green",
+        "brand": "Kannan",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 42.0
+    },
+    {
+        "original_name": "bru jar 40g Rs.150",
+        "clean_name": "Bru Jar",
+        "brand": "Bru",
+        "size": 40.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "cd panner soda bro Rs.10 (1k)",
+        "clean_name": "Panner Soda Bro 1K",
+        "brand": "Panner",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "cd balck bro Rs.10 (1k)",
+        "clean_name": "Balck Bro 1K",
+        "brand": "Balck",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "cd orange bro Rs.10 (1k)",
+        "clean_name": "Orange Bro 1K",
+        "brand": "Orange",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "cd mango bro Rs.10 (1k)",
+        "clean_name": "Mango Bro 1K",
+        "brand": "Mango",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "cd green bro Rs.10 (1k)",
+        "clean_name": "Green Bro 1K",
+        "brand": "Green",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "cd guava bro Rs.10 (1k)",
+        "clean_name": "Guava Bro 1K",
+        "brand": "Guava",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "women HORLICKS 200g",
+        "clean_name": "Women Horlicks",
+        "brand": "Women",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 170.0
+    },
+    {
+        "original_name": "women HORLICKS 400g",
+        "clean_name": "Women Horlicks",
+        "brand": "Women",
+        "size": 400.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 284.0
+    },
+    {
+        "original_name": "kannan devan tea classic 250g rs.105",
+        "clean_name": "Kannan Devan Tea Classic",
+        "brand": "Kannan",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 105.0
+    },
+    {
+        "original_name": "kannan devan strong tea 250g",
+        "clean_name": "Kannan Devan Strong Tea",
+        "brand": "Kannan",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 105.0
+    },
+    {
+        "original_name": "cd apple FIZZ RS.10",
+        "clean_name": "Apple Fizz",
+        "brand": "Apple",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "avt tea premium 500g",
+        "clean_name": "Avt Tea Premium",
+        "brand": "Avt",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 158.0
+    },
+    {
+        "original_name": "horlicks 200g jarRs.99",
+        "clean_name": "Horlicks  Jar",
+        "brand": "Horlicks",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 99.0
+    },
+    {
+        "original_name": "horlicks pouch 500g",
+        "clean_name": "Horlicks Pouch",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 249.0
+    },
+    {
+        "original_name": "boost 500G JAR Rs.260",
+        "clean_name": "Boost  Jar",
+        "brand": "Boost",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 260.0
+    },
+    {
+        "original_name": "horlicks 200g Rs.99",
+        "clean_name": "Horlicks",
+        "brand": "Horlicks",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 99.0
+    },
+    {
+        "original_name": "horlicks lite jar 450g.",
+        "clean_name": "Horlicks Lite Jar",
+        "brand": "Horlicks",
+        "size": 450.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 310.0
+    },
+    {
+        "original_name": "kannan devan tea classic 1KG",
+        "clean_name": "Kannan Devan Tea Classic",
+        "brand": "Kannan",
+        "size": 1.0,
+        "unit": "kg",
+        "category": "Beverages",
+        "mrp": 335.0
+    },
+    {
+        "original_name": "horlicks biscuit Rs.5",
+        "clean_name": "Horlicks Biscuit",
+        "brand": "Horlicks",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "lipton green tea Rs.190",
+        "clean_name": "Lipton Green Tea",
+        "brand": "Lipton",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 190.0
+    },
+    {
+        "original_name": "badham Aachi drink mix Rs.10",
+        "clean_name": "Badham Aachi Drink Mix",
+        "brand": "Badham",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "dark fantasty chocofill Rs.20",
+        "clean_name": "Dark Fantasty Chocofill",
+        "brand": "Dark",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Beverages",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "boost 500g pkt Rs.214",
+        "clean_name": "Boost  Pkt",
+        "brand": "Boost",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 214.0
+    },
+    {
+        "original_name": "horlicks women 200g",
+        "clean_name": "Horlicks Women",
+        "brand": "Horlicks",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 170.0
+    },
+    {
+        "original_name": "horlicks women 400g",
+        "clean_name": "Horlicks Women",
+        "brand": "Horlicks",
+        "size": 400.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 284.0
+    },
+    {
+        "original_name": "horlicks mother 500g",
+        "clean_name": "Horlicks Mother",
+        "brand": "Horlicks",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 620.0
+    },
+    {
+        "original_name": "horlicks mother 200gm",
+        "clean_name": "Horlicks Mother",
+        "brand": "Horlicks",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Beverages",
+        "mrp": 295.0
+    }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "name": "Chilli Sauce 1",
+    "description": "Premium quality Chilli Sauce 1. ().",
+    "brand": "Generic",
+    "category": "Sauces & Spreads",
+    "variant": "100 pcs",
+    "price": 200,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/sauces_spreads/chilli_sauce_1.png",
+    "search_tags": [
+      "சாஸ்",
+      "chilli sauce",
+      "sauces & spreads",
+      "chilli sauce 1. ()",
+      "generic"
+    ],
+    "subCategory": "General",
+    "mrp": 220,
+    "discount": 9
+  },
+  {
+    "name": "Chilli Sauce Red",
+    "description": "Premium quality Chilli Sauce Red.",
+    "brand": "Generic",
+    "category": "Sauces & Spreads",
+    "variant": "90 g",
+    "price": 15,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/sauces_spreads/chilli_sauce_red.png",
+    "search_tags": [
+      "சாஸ்",
+      "chilli sauce",
+      "sauces & spreads",
+      "chilli sauce red",
+      "generic"
+    ],
+    "subCategory": "General",
+    "mrp": 17,
+    "discount": 12
+  },
+  {
+    "name": "Chilli Sauce Green",
+    "description": "Premium quality Chilli Sauce Green.",
+    "brand": "Generic",
+    "category": "Sauces & Spreads",
+    "variant": "90 g",
+    "price": 15,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/sauces_spreads/chilli_sauce_green.png",
+    "search_tags": [
+      "சாஸ்",
+      "chilli sauce",
+      "chilli sauce green",
+      "sauces & spreads",
+      "generic"
+    ],
+    "subCategory": "General",
+    "mrp": 17,
+    "discount": 12
+  },
+  {
+    "name": "Chilli Sauce Gold Ml Bottle",
+    "description": "Premium quality Chilli Sauce Gold Ml Bottle.",
+    "brand": "Generic",
+    "category": "Sauces & Spreads",
+    "variant": "1 pcs",
+    "price": 55,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/sauces_spreads/chilli_sauce_gold_ml_bottle.png",
+    "search_tags": [
+      "சாஸ்",
+      "chilli sauce gold ml bottle",
+      "chilli sauce",
+      "sauces & spreads",
+      "generic"
+    ],
+    "subCategory": "General",
+    "mrp": 61,
+    "discount": 10
+  },
+  {
+    "name": "Chilli Sauce Chellam Bottle",
+    "description": "Premium quality Chilli Sauce Chellam Bottle.",
+    "brand": "Generic",
+    "category": "Sauces & Spreads",
+    "variant": "700 g",
+    "price": 70,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/sauces_spreads/chilli_sauce_chellam_bottle.png",
+    "search_tags": [
+      "சாஸ்",
+      "chilli sauce",
+      "sauces & spreads",
+      "chilli sauce chellam bottle",
+      "generic"
+    ],
+    "subCategory": "General",
+    "mrp": 77,
+    "discount": 9
+  },
+  {
+    "name": "Chilli Sauce Red Knorr",
+    "description": "Premium quality Chilli Sauce Red Knorr.",
+    "brand": "Generic",
+    "category": "Sauces & Spreads",
+    "variant": "200 g",
+    "price": 60,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/sauces_spreads/chilli_sauce_red_knorr.png",
+    "search_tags": [
+      "சாஸ்",
+      "chilli sauce",
+      "sauces & spreads",
+      "generic",
+      "chilli sauce red knorr"
+    ],
+    "subCategory": "General",
+    "mrp": 66,
+    "discount": 9
+  },
+  {
+    "name": "Chilli Sauce Green Krorr",
+    "description": "Premium quality Chilli Sauce Green Krorr.",
+    "brand": "Generic",
+    "category": "Sauces & Spreads",
+    "variant": "200 g",
+    "price": 60,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/sauces_spreads/chilli_sauce_green_krorr.png",
+    "search_tags": [
+      "சாஸ்",
+      "chilli sauce",
+      "sauces & spreads",
+      "chilli sauce green krorr",
+      "generic"
+    ],
+    "subCategory": "General",
+    "mrp": 66,
+    "discount": 9
+  }
+]

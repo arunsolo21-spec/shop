@@ -1,0 +1,7111 @@
+[
+  {
+    "name": "Gold Winner Sunflower Oil",
+    "description": "Healthy Gold Winner Sunflower Oil, perfect for your daily cooking needs.",
+    "brand": "Gold Winner",
+    "category": "Cooking Oils",
+    "variant": "2 Ltr",
+    "price": 2100,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gold_winner_sunflower_oil.png",
+    "search_tags": [
+      "refined oil",
+      "cooking oils",
+      "gold winner sunflower oil",
+      "gold winner",
+      "சூரியகாந்தி எண்ணெய்",
+      "sunflower oil"
+    ]
+  },
+  {
+    "name": "Ghee .()",
+    "description": "Healthy Ghee .(), perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "25 pcs",
+    "price": 250,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee.png",
+    "search_tags": [
+      "ghee .()",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Udhayakishna 50.Jar",
+    "description": "Healthy Ghee Udhayakishna 50.Jar, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 43,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_udhayakishna_50_jar.png",
+    "search_tags": [
+      "ghee udhayakishna 50.jar",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Udhaya Krishna Ghee",
+    "description": "Aromatic and traditional Udhaya Krishna Ghee with rich taste.",
+    "brand": "Udhaya Krishna",
+    "category": "Ghee",
+    "variant": "100 jar",
+    "price": 80,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/ghee/udhaya_krishna_ghee.png",
+    "search_tags": [
+      "udhaya krishna ghee",
+      "உதயகிருஷ்ணா",
+      "நெய்",
+      "ghee",
+      "pure ghee",
+      "nei",
+      "udhaya krishna"
+    ]
+  },
+  {
+    "name": "Vilakennai",
+    "description": "Healthy Vilakennai, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 20,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vilakennai.png",
+    "search_tags": [
+      "vilakennai",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Vilakkennai",
+    "description": "Healthy Vilakkennai, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 120,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vilakkennai.png",
+    "search_tags": [
+      "cooking oils",
+      "vilakkennai",
+      "generic"
+    ]
+  },
+  {
+    "name": "Sastha Refined Oil",
+    "description": "Healthy Sastha Refined Oil, perfect for your daily cooking needs.",
+    "brand": "Sastha",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 160,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/sastha_refined_oil.png",
+    "search_tags": [
+      "sastha refined oil",
+      "cooking oils",
+      "sastha"
+    ]
+  },
+  {
+    "name": "Sastha Refined Oil",
+    "description": "Healthy Sastha Refined Oil, perfect for your daily cooking needs.",
+    "brand": "Sastha",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 180,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/sastha_refined_oil.png",
+    "search_tags": [
+      "sastha refined oil",
+      "cooking oils",
+      "sastha"
+    ]
+  },
+  {
+    "name": "Sastha Refined Oil",
+    "description": "Healthy Sastha Refined Oil, perfect for your daily cooking needs.",
+    "brand": "Sastha",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 1700,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/sastha_refined_oil.png",
+    "search_tags": [
+      "sastha refined oil",
+      "cooking oils",
+      "sastha"
+    ]
+  },
+  {
+    "name": "Kanapathi 1 L",
+    "description": "Healthy Kanapathi 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 1800,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/kanapathi_1_l.png",
+    "search_tags": [
+      "cooking oils",
+      "kanapathi 1 l",
+      "generic"
+    ]
+  },
+  {
+    "name": "Kanapathi",
+    "description": "Healthy Kanapathi, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 1800,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/kanapathi.png",
+    "search_tags": [
+      "cooking oils",
+      "kanapathi",
+      "generic"
+    ]
+  },
+  {
+    "name": "Dabur Amla Hair Oil",
+    "description": "Nourishing Dabur Amla Hair Oil for strong and healthy hair.",
+    "brand": "Dabur Amla",
+    "category": "Hair Care",
+    "variant": "275 ml",
+    "price": 138,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/dabur_amla_hair_oil.png",
+    "search_tags": [
+      "dabur amla hair oil",
+      "நெல்லிக்காய் எண்ணெய்",
+      "hair care",
+      "dabur amla",
+      "hair oil",
+      "amla oil"
+    ]
+  },
+  {
+    "name": "Dabur Amla Hair Oil",
+    "description": "Nourishing Dabur Amla Hair Oil for strong and healthy hair.",
+    "brand": "Dabur Amla",
+    "category": "Hair Care",
+    "variant": "180 ml",
+    "price": 105,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/dabur_amla_hair_oil.png",
+    "search_tags": [
+      "dabur amla hair oil",
+      "நெல்லிக்காய் எண்ணெய்",
+      "hair care",
+      "dabur amla",
+      "hair oil",
+      "amla oil"
+    ]
+  },
+  {
+    "name": "Dabur Amla Hair Oil",
+    "description": "Nourishing Dabur Amla Hair Oil for strong and healthy hair.",
+    "brand": "Dabur Amla",
+    "category": "Hair Care",
+    "variant": "110 ml",
+    "price": 52,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/dabur_amla_hair_oil.png",
+    "search_tags": [
+      "dabur amla hair oil",
+      "நெல்லிக்காய் எண்ணெய்",
+      "hair care",
+      "dabur amla",
+      "hair oil",
+      "amla oil"
+    ]
+  },
+  {
+    "name": "Vasmol Hair Oil",
+    "description": "Nourishing Vasmol Hair Oil for strong and healthy hair.",
+    "brand": "Vasmol",
+    "category": "Hair Care",
+    "variant": "50 ml",
+    "price": 35,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/vasmol_hair_oil.png",
+    "search_tags": [
+      "vasmol",
+      "vasmol hair oil",
+      "black hair",
+      "hair care",
+      "வாஸ்மோல்",
+      "hair oil"
+    ]
+  },
+  {
+    "name": "Vasmol Hair Oil",
+    "description": "Nourishing Vasmol Hair Oil for strong and healthy hair.",
+    "brand": "Vasmol",
+    "category": "Hair Care",
+    "variant": "100 ml",
+    "price": 48,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/vasmol_hair_oil.png",
+    "search_tags": [
+      "vasmol",
+      "vasmol hair oil",
+      "black hair",
+      "hair care",
+      "வாஸ்மோல்",
+      "hair oil"
+    ]
+  },
+  {
+    "name": "Deepam Lamp Oil",
+    "description": "Traditional Deepam Lamp Oil for a divine and peaceful pooja.",
+    "brand": "Deepam",
+    "category": "Pooja Needs",
+    "variant": "2 Ltr",
+    "price": 125,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/pooja_needs/deepam_lamp_oil.png",
+    "search_tags": [
+      "தீபம்",
+      "vilakku ennai",
+      "விளக்கு எண்ணெய்",
+      "deepam lamp oil",
+      "pooja oil",
+      "pooja needs",
+      "deepam",
+      "lamp oil"
+    ]
+  },
+  {
+    "name": "Deepam Lamp Oil",
+    "description": "Traditional Deepam Lamp Oil for a divine and peaceful pooja.",
+    "brand": "Deepam",
+    "category": "Pooja Needs",
+    "variant": "2 Ltr",
+    "price": 120,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/pooja_needs/deepam_lamp_oil.png",
+    "search_tags": [
+      "தீபம்",
+      "vilakku ennai",
+      "விளக்கு எண்ணெய்",
+      "deepam lamp oil",
+      "pooja oil",
+      "pooja needs",
+      "deepam",
+      "lamp oil"
+    ]
+  },
+  {
+    "name": "Deepam Lamp Oil",
+    "description": "Traditional Deepam Lamp Oil for a divine and peaceful pooja.",
+    "brand": "Deepam",
+    "category": "Pooja Needs",
+    "variant": "1 pcs",
+    "price": 230,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/pooja_needs/deepam_lamp_oil.png",
+    "search_tags": [
+      "தீபம்",
+      "vilakku ennai",
+      "விளக்கு எண்ணெய்",
+      "deepam lamp oil",
+      "pooja oil",
+      "pooja needs",
+      "deepam",
+      "lamp oil"
+    ]
+  },
+  {
+    "name": "Vvd Gold Coconut Oil",
+    "description": "Healthy Vvd Gold Coconut Oil, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 210,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_gold_coconut_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "vvd gold coconut oil",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil"
+    ]
+  },
+  {
+    "name": "Vvd Gold Coconut Oil",
+    "description": "Healthy Vvd Gold Coconut Oil, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "250 ml",
+    "price": 105,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_gold_coconut_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "vvd gold coconut oil",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil"
+    ]
+  },
+  {
+    "name": "Vvd Gold Coconut Oil",
+    "description": "Healthy Vvd Gold Coconut Oil, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 60,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_gold_coconut_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "vvd gold coconut oil",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil"
+    ]
+  },
+  {
+    "name": "Vvd Gold Coconut Oil (1",
+    "description": "Healthy Vvd Gold Coconut Oil (1, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 150,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_gold_coconut_oil_1.png",
+    "search_tags": [
+      "cooking oils",
+      "vvd gold coconut oil (1",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil"
+    ]
+  },
+  {
+    "name": "Vvd Gold Coconut Oil",
+    "description": "Healthy Vvd Gold Coconut Oil, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 10,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_gold_coconut_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "vvd gold coconut oil",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil"
+    ]
+  },
+  {
+    "name": "Vvd Gold Coconut Oil",
+    "description": "Healthy Vvd Gold Coconut Oil, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 10,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_gold_coconut_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "vvd gold coconut oil",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil"
+    ]
+  },
+  {
+    "name": "Deepam Lamp Oil",
+    "description": "Traditional Deepam Lamp Oil for a divine and peaceful pooja.",
+    "brand": "Deepam",
+    "category": "Pooja Needs",
+    "variant": "2 Ltr",
+    "price": 110,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/pooja_needs/deepam_lamp_oil.png",
+    "search_tags": [
+      "தீபம்",
+      "vilakku ennai",
+      "விளக்கு எண்ணெய்",
+      "deepam lamp oil",
+      "pooja oil",
+      "pooja needs",
+      "deepam",
+      "lamp oil"
+    ]
+  },
+  {
+    "name": "Gold Winner Sunflower Oil",
+    "description": "Healthy Gold Winner Sunflower Oil, perfect for your daily cooking needs.",
+    "brand": "Gold Winner",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 190,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gold_winner_sunflower_oil.png",
+    "search_tags": [
+      "refined oil",
+      "cooking oils",
+      "gold winner sunflower oil",
+      "gold winner",
+      "சூரியகாந்தி எண்ணெய்",
+      "sunflower oil"
+    ]
+  },
+  {
+    "name": "Deepam Lamp Oil",
+    "description": "Traditional Deepam Lamp Oil for a divine and peaceful pooja.",
+    "brand": "Deepam",
+    "category": "Pooja Needs",
+    "variant": "1 pcs",
+    "price": 20,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/pooja_needs/deepam_lamp_oil.png",
+    "search_tags": [
+      "தீபம்",
+      "vilakku ennai",
+      "விளக்கு எண்ணெய்",
+      "deepam lamp oil",
+      "pooja oil",
+      "pooja needs",
+      "deepam",
+      "lamp oil"
+    ]
+  },
+  {
+    "name": "Sastha Gingelly Oil",
+    "description": "Healthy Sastha Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Sastha",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 16,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/sastha_gingelly_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்",
+      "sastha",
+      "sastha gingelly oil"
+    ]
+  },
+  {
+    "name": "Vvd Coconut",
+    "description": "Healthy Vvd Coconut, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 145,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_coconut.png",
+    "search_tags": [
+      "cooking oils",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil",
+      "vvd coconut"
+    ]
+  },
+  {
+    "name": "Meera Coco Oil",
+    "description": "Healthy Meera Coco Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 1,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/meera_coco_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "meera coco oil",
+      "generic"
+    ]
+  },
+  {
+    "name": "Meera Coco Oil",
+    "description": "Healthy Meera Coco Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 40,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/meera_coco_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "meera coco oil",
+      "generic"
+    ]
+  },
+  {
+    "name": "Gems.Gold(Sf) 1 L",
+    "description": "Healthy Gems.Gold(Sf) 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 223,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gems_gold_sf_1_l.png",
+    "search_tags": [
+      "cooking oils",
+      "gems.gold(sf) 1 l",
+      "generic"
+    ]
+  },
+  {
+    "name": "Gems.Gold",
+    "description": "Healthy Gems.Gold, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 83,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gems_gold.png",
+    "search_tags": [
+      "cooking oils",
+      "gems.gold",
+      "generic"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 45,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 17,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Karthika Hair Oil",
+    "description": "Healthy Karthika Hair Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 35,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/karthika_hair_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "karthika hair oil",
+      "generic"
+    ]
+  },
+  {
+    "name": "Karthika Hair Oil",
+    "description": "Healthy Karthika Hair Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 69,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/karthika_hair_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "karthika hair oil",
+      "generic"
+    ]
+  },
+  {
+    "name": "Johnsons Baby Oil",
+    "description": "Healthy Johnsons Baby Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 140,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/johnsons_baby_oil.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "johnsons baby oil"
+    ]
+  },
+  {
+    "name": "Johnson Baby Oil",
+    "description": "Healthy Johnson Baby Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 62,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/johnson_baby_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "johnson baby oil",
+      "generic"
+    ]
+  },
+  {
+    "name": "Gold Winner Sunflower Oil",
+    "description": "Healthy Gold Winner Sunflower Oil, perfect for your daily cooking needs.",
+    "brand": "Gold Winner",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 84,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gold_winner_sunflower_oil.png",
+    "search_tags": [
+      "refined oil",
+      "cooking oils",
+      "gold winner sunflower oil",
+      "gold winner",
+      "சூரியகாந்தி எண்ணெய்",
+      "sunflower oil"
+    ]
+  },
+  {
+    "name": "Ghee Aachi 1 L",
+    "description": "Healthy Ghee Aachi 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 896,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_aachi_1_l.png",
+    "search_tags": [
+      "ghee aachi 1 l",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Vanaspathi(Abi) Dalda",
+    "description": "Healthy Vanaspathi(Abi) Dalda, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 160,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vanaspathi_abi_dalda.png",
+    "search_tags": [
+      "cooking oils",
+      "vanaspathi(abi) dalda",
+      "generic"
+    ]
+  },
+  {
+    "name": "Vanaspathi(Abi) Dalda 1 L",
+    "description": "Healthy Vanaspathi(Abi) Dalda 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 300,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vanaspathi_abi_dalda_1_l.png",
+    "search_tags": [
+      "vanaspathi(abi) dalda 1 l",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Vanaspathi(Abi)Dalda",
+    "description": "Healthy Vanaspathi(Abi)Dalda, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "200 ml",
+    "price": 60,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vanaspathi_abi_dalda.png",
+    "search_tags": [
+      "vanaspathi(abi)dalda",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Muyal Vilakkenna",
+    "description": "Healthy Muyal Vilakkenna, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 35,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/muyal_vilakkenna.png",
+    "search_tags": [
+      "cooking oils",
+      "muyal vilakkenna",
+      "generic"
+    ]
+  },
+  {
+    "name": "Vanaspathi(Abi) Dalda",
+    "description": "Healthy Vanaspathi(Abi) Dalda, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 50,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vanaspathi_abi_dalda.png",
+    "search_tags": [
+      "cooking oils",
+      "vanaspathi(abi) dalda",
+      "generic"
+    ]
+  },
+  {
+    "name": "Vanaspathi(Abi) Dalda",
+    "description": "Healthy Vanaspathi(Abi) Dalda, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 15,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vanaspathi_abi_dalda.png",
+    "search_tags": [
+      "cooking oils",
+      "vanaspathi(abi) dalda",
+      "generic"
+    ]
+  },
+  {
+    "name": "Vanaspathi(Gold.W)Dalda",
+    "description": "Healthy Vanaspathi(Gold.W)Dalda, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 163,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vanaspathi_gold_w_dalda.png",
+    "search_tags": [
+      "vanaspathi(gold.w)dalda",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Vanaspathi(Gold.W)Dalda1/2Kg",
+    "description": "Healthy Vanaspathi(Gold.W)Dalda1/2Kg, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "2 kg",
+    "price": 100,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vanaspathi_gold_w_dalda1_2kg.png",
+    "search_tags": [
+      "cooking oils",
+      "vanaspathi(gold.w)dalda1/2kg",
+      "generic"
+    ]
+  },
+  {
+    "name": "Udhaya Krishna Ghee",
+    "description": "Aromatic and traditional Udhaya Krishna Ghee with rich taste.",
+    "brand": "Udhaya Krishna",
+    "category": "Ghee",
+    "variant": "1 pcs",
+    "price": 10,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/ghee/udhaya_krishna_ghee.png",
+    "search_tags": [
+      "udhaya krishna ghee",
+      "உதயகிருஷ்ணா",
+      "நெய்",
+      "ghee",
+      "pure ghee",
+      "nei",
+      "udhaya krishna"
+    ]
+  },
+  {
+    "name": "Ghee Aachi",
+    "description": "Healthy Ghee Aachi, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 10,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_aachi.png",
+    "search_tags": [
+      "cooking oils",
+      "ghee aachi",
+      "generic"
+    ]
+  },
+  {
+    "name": "Gold Winner Sunflower Oil",
+    "description": "Healthy Gold Winner Sunflower Oil, perfect for your daily cooking needs.",
+    "brand": "Gold Winner",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 94,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gold_winner_sunflower_oil.png",
+    "search_tags": [
+      "refined oil",
+      "cooking oils",
+      "gold winner sunflower oil",
+      "gold winner",
+      "சூரியகாந்தி எண்ணெய்",
+      "sunflower oil"
+    ]
+  },
+  {
+    "name": "Gold Winner Sunflower Oil",
+    "description": "Healthy Gold Winner Sunflower Oil, perfect for your daily cooking needs.",
+    "brand": "Gold Winner",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 2100,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gold_winner_sunflower_oil.png",
+    "search_tags": [
+      "refined oil",
+      "cooking oils",
+      "gold winner sunflower oil",
+      "gold winner",
+      "சூரியகாந்தி எண்ணெய்",
+      "sunflower oil"
+    ]
+  },
+  {
+    "name": "Vilakkennai Muyal",
+    "description": "Healthy Vilakkennai Muyal, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 120,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vilakkennai_muyal.png",
+    "search_tags": [
+      "cooking oils",
+      "vilakkennai muyal",
+      "generic"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "200 ml",
+    "price": 85,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 492,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 225,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Palmolein 15Ltr(Tin)",
+    "description": "Healthy Palmolein 15Ltr(Tin), perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "15 Ltr",
+    "price": 2700,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/palmolein_15ltr_tin.png",
+    "search_tags": [
+      "cooking oils",
+      "palmolein 15ltr(tin)",
+      "generic"
+    ]
+  },
+  {
+    "name": "Vvd Pouch",
+    "description": "Healthy Vvd Pouch, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 205,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_pouch.png",
+    "search_tags": [
+      "vvd pouch",
+      "cooking oils",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil"
+    ]
+  },
+  {
+    "name": "Gold King",
+    "description": "Healthy Gold King, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 100,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gold_king.png",
+    "search_tags": [
+      "gold king",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Gold King",
+    "description": "Healthy Gold King, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 100,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gold_king.png",
+    "search_tags": [
+      "gold king",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Aachi Gee",
+    "description": "Healthy Ghee Aachi Gee, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 100,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_aachi_gee.png",
+    "search_tags": [
+      "cooking oils",
+      "ghee aachi gee",
+      "generic"
+    ]
+  },
+  {
+    "name": "Saffola 1 L",
+    "description": "Healthy Saffola 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 170,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/saffola_1_l.png",
+    "search_tags": [
+      "cooking oils",
+      "saffola 1 l",
+      "generic"
+    ]
+  },
+  {
+    "name": "Samayal",
+    "description": "Healthy Samayal, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 200,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/samayal.png",
+    "search_tags": [
+      "samayal",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Vennai",
+    "description": "Healthy Vennai, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 700,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vennai.png",
+    "search_tags": [
+      "vennai",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Navarathina Oil",
+    "description": "Healthy Navarathina Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 24,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/navarathina_oil.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "navarathina oil"
+    ]
+  },
+  {
+    "name": "Deepa Yennai",
+    "description": "Healthy Deepa Yennai, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "400 ml",
+    "price": 120,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/deepa_yennai.png",
+    "search_tags": [
+      "cooking oils",
+      "deepa yennai",
+      "generic"
+    ]
+  },
+  {
+    "name": "Vvd Gold",
+    "description": "Healthy Vvd Gold, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "175 ml",
+    "price": 75,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_gold.png",
+    "search_tags": [
+      "cooking oils",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil",
+      "vvd gold"
+    ]
+  },
+  {
+    "name": "Gems",
+    "description": "Healthy Gems, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 5,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gems.png",
+    "search_tags": [
+      "cooking oils",
+      "gems",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Aachi",
+    "description": "Healthy Ghee Aachi, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "200 ml",
+    "price": 192,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_aachi.png",
+    "search_tags": [
+      "cooking oils",
+      "ghee aachi",
+      "generic"
+    ]
+  },
+  {
+    "name": "Deepam Lamp Oil",
+    "description": "Traditional Deepam Lamp Oil for a divine and peaceful pooja.",
+    "brand": "Deepam",
+    "category": "Pooja Needs",
+    "variant": "50 ml",
+    "price": 10,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/pooja_needs/deepam_lamp_oil.png",
+    "search_tags": [
+      "தீபம்",
+      "vilakku ennai",
+      "விளக்கு எண்ணெய்",
+      "deepam lamp oil",
+      "pooja oil",
+      "pooja needs",
+      "deepam",
+      "lamp oil"
+    ]
+  },
+  {
+    "name": "Vanaspathi(Gold.W)Dalda 1 L",
+    "description": "Healthy Vanaspathi(Gold.W)Dalda 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 163,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vanaspathi_gold_w_dalda_1_l.png",
+    "search_tags": [
+      "cooking oils",
+      "vanaspathi(gold.w)dalda 1 l",
+      "generic"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 387,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Muyal Vilakenai",
+    "description": "Healthy Muyal Vilakenai, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 20,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/muyal_vilakenai.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "muyal vilakenai"
+    ]
+  },
+  {
+    "name": "R",
+    "description": "Healthy R, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 1400,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/r.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "r"
+    ]
+  },
+  {
+    "name": "R",
+    "description": "Healthy R, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 1400,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/r.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "r"
+    ]
+  },
+  {
+    "name": "Deepam Lamp Oil",
+    "description": "Traditional Deepam Lamp Oil for a divine and peaceful pooja.",
+    "brand": "Deepam",
+    "category": "Pooja Needs",
+    "variant": "200 ml",
+    "price": 55,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/pooja_needs/deepam_lamp_oil.png",
+    "search_tags": [
+      "தீபம்",
+      "vilakku ennai",
+      "விளக்கு எண்ணெய்",
+      "deepam lamp oil",
+      "pooja oil",
+      "pooja needs",
+      "deepam",
+      "lamp oil"
+    ]
+  },
+  {
+    "name": "Vasmol Hair Oil",
+    "description": "Nourishing Vasmol Hair Oil for strong and healthy hair.",
+    "brand": "Vasmol",
+    "category": "Hair Care",
+    "variant": "200 ml",
+    "price": 90,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/vasmol_hair_oil.png",
+    "search_tags": [
+      "vasmol",
+      "vasmol hair oil",
+      "black hair",
+      "hair care",
+      "வாஸ்மோல்",
+      "hair oil"
+    ]
+  },
+  {
+    "name": "Muyal Vilakenai",
+    "description": "Healthy Muyal Vilakenai, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 250,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/muyal_vilakenai.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "muyal vilakenai"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 160,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Muyal Vilakenai",
+    "description": "Healthy Muyal Vilakenai, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 25,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/muyal_vilakenai.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "muyal vilakenai"
+    ]
+  },
+  {
+    "name": "Muyal Vilakkenna",
+    "description": "Healthy Muyal Vilakkenna, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 400,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/muyal_vilakkenna.png",
+    "search_tags": [
+      "cooking oils",
+      "muyal vilakkenna",
+      "generic"
+    ]
+  },
+  {
+    "name": "Muyal Vilakkenai",
+    "description": "Healthy Muyal Vilakkenai, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 135,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/muyal_vilakkenai.png",
+    "search_tags": [
+      "cooking oils",
+      "muyal vilakkenai",
+      "generic"
+    ]
+  },
+  {
+    "name": "Deepam Lamp Oil",
+    "description": "Traditional Deepam Lamp Oil for a divine and peaceful pooja.",
+    "brand": "Deepam",
+    "category": "Pooja Needs",
+    "variant": "1 pcs",
+    "price": 210,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/pooja_needs/deepam_lamp_oil.png",
+    "search_tags": [
+      "தீபம்",
+      "vilakku ennai",
+      "விளக்கு எண்ணெய்",
+      "deepam lamp oil",
+      "pooja oil",
+      "pooja needs",
+      "deepam",
+      "lamp oil"
+    ]
+  },
+  {
+    "name": "Deepam Lamp Oil",
+    "description": "Traditional Deepam Lamp Oil for a divine and peaceful pooja.",
+    "brand": "Deepam",
+    "category": "Pooja Needs",
+    "variant": "400 ml",
+    "price": 110,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/pooja_needs/deepam_lamp_oil.png",
+    "search_tags": [
+      "தீபம்",
+      "vilakku ennai",
+      "விளக்கு எண்ணெய்",
+      "deepam lamp oil",
+      "pooja oil",
+      "pooja needs",
+      "deepam",
+      "lamp oil"
+    ]
+  },
+  {
+    "name": "Gold Winner Sunflower Oil",
+    "description": "Healthy Gold Winner Sunflower Oil, perfect for your daily cooking needs.",
+    "brand": "Gold Winner",
+    "category": "Cooking Oils",
+    "variant": "200 ml",
+    "price": 40,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gold_winner_sunflower_oil.png",
+    "search_tags": [
+      "refined oil",
+      "cooking oils",
+      "gold winner sunflower oil",
+      "gold winner",
+      "சூரியகாந்தி எண்ணெய்",
+      "sunflower oil"
+    ]
+  },
+  {
+    "name": "Ghee Grb",
+    "description": "Aromatic and traditional Ghee Grb with rich taste.",
+    "brand": "GRB",
+    "category": "Ghee",
+    "variant": "500 ml",
+    "price": 489,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/ghee/ghee_grb.png",
+    "search_tags": [
+      "grb",
+      "நெய்",
+      "ghee",
+      "nei",
+      "ghee grb"
+    ]
+  },
+  {
+    "name": "Soan Papti Ghee",
+    "description": "Healthy Soan Papti Ghee, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "130 g",
+    "price": 39,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/soan_papti_ghee.png",
+    "search_tags": [
+      "cooking oils",
+      "soan papti ghee",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Grp Jar",
+    "description": "Healthy Ghee Grp Jar, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "200 ml",
+    "price": 182,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_grp_jar.png",
+    "search_tags": [
+      "ghee grp jar",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Sunfure 1 L",
+    "description": "Healthy Sunfure 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 165,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/sunfure_1_l.png",
+    "search_tags": [
+      "cooking oils",
+      "sunfure 1 l",
+      "generic"
+    ]
+  },
+  {
+    "name": "Gold King(Sf) 1 L",
+    "description": "Healthy Gold King(Sf) 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 170,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gold_king_sf_1_l.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "gold king(sf) 1 l"
+    ]
+  },
+  {
+    "name": "Sunlite 1 L",
+    "description": "Healthy Sunlite 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 199,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/sunlite_1_l.png",
+    "search_tags": [
+      "sunlite 1 l",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "G.O.S 1.",
+    "description": "Healthy G.O.S 1., perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 1500,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/g_o_s_1.png",
+    "search_tags": [
+      "cooking oils",
+      "g.o.s 1.",
+      "generic"
+    ]
+  },
+  {
+    "name": "Raja Gold 1.",
+    "description": "Healthy Raja Gold 1., perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 1400,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/raja_gold_1.png",
+    "search_tags": [
+      "cooking oils",
+      "raja gold 1.",
+      "generic"
+    ]
+  },
+  {
+    "name": "Tvm (S.F)1.",
+    "description": "Healthy Tvm (S.F)1., perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 1800,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/tvm_s_f_1.png",
+    "search_tags": [
+      "cooking oils",
+      "tvm (s.f)1.",
+      "generic"
+    ]
+  },
+  {
+    "name": "Tvm (S.F)1 L.1.",
+    "description": "Healthy Tvm (S.F)1 L.1., perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 1800,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/tvm_s_f_1_l_1.png",
+    "search_tags": [
+      "cooking oils",
+      "tvm (s.f)1 l.1.",
+      "generic"
+    ]
+  },
+  {
+    "name": "Tvm (S.F)1 L",
+    "description": "Healthy Tvm (S.F)1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 180,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/tvm_s_f_1_l.png",
+    "search_tags": [
+      "tvm (s.f)1 l",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Tvm (S.F)Tin",
+    "description": "Healthy Tvm (S.F)Tin, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 2800,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/tvm_s_f_tin.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "tvm (s.f)tin"
+    ]
+  },
+  {
+    "name": "Gold Winner Sunflower Oil",
+    "description": "Healthy Gold Winner Sunflower Oil, perfect for your daily cooking needs.",
+    "brand": "Gold Winner",
+    "category": "Cooking Oils",
+    "variant": "200 ml",
+    "price": 37,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gold_winner_sunflower_oil.png",
+    "search_tags": [
+      "refined oil",
+      "cooking oils",
+      "gold winner sunflower oil",
+      "gold winner",
+      "சூரியகாந்தி எண்ணெய்",
+      "sunflower oil"
+    ]
+  },
+  {
+    "name": "Deepam Lamp Oil",
+    "description": "Traditional Deepam Lamp Oil for a divine and peaceful pooja.",
+    "brand": "Deepam",
+    "category": "Pooja Needs",
+    "variant": "25 g",
+    "price": 20,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/pooja_needs/deepam_lamp_oil.png",
+    "search_tags": [
+      "தீபம்",
+      "vilakku ennai",
+      "விளக்கு எண்ணெய்",
+      "deepam lamp oil",
+      "pooja oil",
+      "pooja needs",
+      "deepam",
+      "lamp oil"
+    ]
+  },
+  {
+    "name": "R.O.S 1.",
+    "description": "Healthy R.O.S 1., perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 1500,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/r_o_s_1.png",
+    "search_tags": [
+      "r.o.s 1.",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Gems.Gold",
+    "description": "Healthy Gems.Gold, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 50,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gems_gold.png",
+    "search_tags": [
+      "cooking oils",
+      "gems.gold",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ros 1 L",
+    "description": "Healthy Ros 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 150,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ros_1_l.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "ros 1 l"
+    ]
+  },
+  {
+    "name": "Ghee Aachi",
+    "description": "Healthy Ghee Aachi, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 103,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_aachi.png",
+    "search_tags": [
+      "cooking oils",
+      "ghee aachi",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Grp",
+    "description": "Healthy Ghee Grp, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 437,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_grp.png",
+    "search_tags": [
+      "cooking oils",
+      "ghee grp",
+      "generic"
+    ]
+  },
+  {
+    "name": "Gold Winner Sunflower Oil",
+    "description": "Healthy Gold Winner Sunflower Oil, perfect for your daily cooking needs.",
+    "brand": "Gold Winner",
+    "category": "Cooking Oils",
+    "variant": "200 ml",
+    "price": 37,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gold_winner_sunflower_oil.png",
+    "search_tags": [
+      "refined oil",
+      "cooking oils",
+      "gold winner sunflower oil",
+      "gold winner",
+      "சூரியகாந்தி எண்ணெய்",
+      "sunflower oil"
+    ]
+  },
+  {
+    "name": "P.K.Orthoherp Oil",
+    "description": "Healthy P.K.Orthoherp Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 110,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/p_k_orthoherp_oil.png",
+    "search_tags": [
+      "p.k.orthoherp oil",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Aachi",
+    "description": "Healthy Ghee Aachi, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 52,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_aachi.png",
+    "search_tags": [
+      "cooking oils",
+      "ghee aachi",
+      "generic"
+    ]
+  },
+  {
+    "name": "Vvd Gold Coconut Oil",
+    "description": "Healthy Vvd Gold Coconut Oil, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 55,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_gold_coconut_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "vvd gold coconut oil",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil"
+    ]
+  },
+  {
+    "name": "Tvm Sf",
+    "description": "Healthy Tvm Sf, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 1800,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/tvm_sf.png",
+    "search_tags": [
+      "cooking oils",
+      "tvm sf",
+      "generic"
+    ]
+  },
+  {
+    "name": "Tvm Sf",
+    "description": "Healthy Tvm Sf, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 100,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/tvm_sf.png",
+    "search_tags": [
+      "cooking oils",
+      "tvm sf",
+      "generic"
+    ]
+  },
+  {
+    "name": "Daya Palm 1 L",
+    "description": "Healthy Daya Palm 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 1600,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/daya_palm_1_l.png",
+    "search_tags": [
+      "daya palm 1 l",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Daya Palm 1 L",
+    "description": "Healthy Daya Palm 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 160,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/daya_palm_1_l.png",
+    "search_tags": [
+      "daya palm 1 l",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Zandu Palm",
+    "description": "Healthy Zandu Palm, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "8 ml",
+    "price": 50,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/zandu_palm.png",
+    "search_tags": [
+      "zandu palm",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Aac Ghee",
+    "description": "Healthy Aac Ghee, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 150,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/aac_ghee.png",
+    "search_tags": [
+      "cooking oils",
+      "aac ghee",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Aac",
+    "description": "Healthy Ghee Aac, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 10,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_aac.png",
+    "search_tags": [
+      "cooking oils",
+      "ghee aac",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Aac",
+    "description": "Healthy Ghee Aac, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 150,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_aac.png",
+    "search_tags": [
+      "cooking oils",
+      "ghee aac",
+      "generic"
+    ]
+  },
+  {
+    "name": "Iyarkai",
+    "description": "Healthy Iyarkai, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 15,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/iyarkai.png",
+    "search_tags": [
+      "iyarkai",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Iyarkai",
+    "description": "Healthy Iyarkai, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 150,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/iyarkai.png",
+    "search_tags": [
+      "iyarkai",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Oil Sunlite 500 Ml",
+    "description": "Healthy Oil Sunlite 500 Ml, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "2 Ltr",
+    "price": 100,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/oil_sunlite_500_ml.png",
+    "search_tags": [
+      "cooking oils",
+      "oil sunlite 500 ml",
+      "generic"
+    ]
+  },
+  {
+    "name": "Kuperan Palmolin",
+    "description": "Healthy Kuperan Palmolin, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "400 ml",
+    "price": 1200,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/kuperan_palmolin.png",
+    "search_tags": [
+      "kuperan palmolin",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Fortune 1 L",
+    "description": "Healthy Fortune 1 L, perfect for your daily cooking needs.",
+    "brand": "Fortune",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 140,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/fortune_1_l.png",
+    "search_tags": [
+      "cooking oils",
+      "fortune",
+      "fortune 1 l",
+      "சூரியகாந்தி எண்ணெய்",
+      "sunflower oil"
+    ]
+  },
+  {
+    "name": "Mat Padayapa",
+    "description": "Healthy Mat Padayapa, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 55,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/mat_padayapa.png",
+    "search_tags": [
+      "cooking oils",
+      "mat padayapa",
+      "generic"
+    ]
+  },
+  {
+    "name": "Sunland 5.Ltr Gane",
+    "description": "Healthy Sunland 5.Ltr Gane, perfect for your daily cooking needs.",
+    "brand": "Sunland",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 1094,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/sunland_5_ltr_gane.png",
+    "search_tags": [
+      "sunland",
+      "cooking oils",
+      "சூரியகாந்தி எண்ணெய்",
+      "sunland 5.ltr gane",
+      "sunflower oil"
+    ]
+  },
+  {
+    "name": "Gold King 1 L",
+    "description": "Healthy Gold King 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 2000,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gold_king_1_l.png",
+    "search_tags": [
+      "gold king 1 l",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Dabur Amla Hair Oil",
+    "description": "Nourishing Dabur Amla Hair Oil for strong and healthy hair.",
+    "brand": "Dabur Amla",
+    "category": "Hair Care",
+    "variant": "45 ml",
+    "price": 20,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/dabur_amla_hair_oil.png",
+    "search_tags": [
+      "dabur amla hair oil",
+      "நெல்லிக்காய் எண்ணெய்",
+      "hair care",
+      "dabur amla",
+      "hair oil",
+      "amla oil"
+    ]
+  },
+  {
+    "name": "Dabur Amla Hair Oil",
+    "description": "Nourishing Dabur Amla Hair Oil for strong and healthy hair.",
+    "brand": "Dabur Amla",
+    "category": "Hair Care",
+    "variant": "90 ml",
+    "price": 50,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/dabur_amla_hair_oil.png",
+    "search_tags": [
+      "dabur amla hair oil",
+      "நெல்லிக்காய் எண்ணெய்",
+      "hair care",
+      "dabur amla",
+      "hair oil",
+      "amla oil"
+    ]
+  },
+  {
+    "name": "Sunlite 500 Ml",
+    "description": "Healthy Sunlite 500 Ml, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "2 Ltr",
+    "price": 100,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/sunlite_500_ml.png",
+    "search_tags": [
+      "cooking oils",
+      "sunlite 500 ml",
+      "generic"
+    ]
+  },
+  {
+    "name": "Deepam Lamp Oil",
+    "description": "Traditional Deepam Lamp Oil for a divine and peaceful pooja.",
+    "brand": "Deepam",
+    "category": "Pooja Needs",
+    "variant": "2 Ltr",
+    "price": 95,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/pooja_needs/deepam_lamp_oil.png",
+    "search_tags": [
+      "தீபம்",
+      "vilakku ennai",
+      "விளக்கு எண்ணெய்",
+      "deepam lamp oil",
+      "pooja oil",
+      "pooja needs",
+      "deepam",
+      "lamp oil"
+    ]
+  },
+  {
+    "name": "Deepam Lamp Oil",
+    "description": "Traditional Deepam Lamp Oil for a divine and peaceful pooja.",
+    "brand": "Deepam",
+    "category": "Pooja Needs",
+    "variant": "500 ml",
+    "price": 110,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/pooja_needs/deepam_lamp_oil.png",
+    "search_tags": [
+      "தீபம்",
+      "vilakku ennai",
+      "விளக்கு எண்ணெய்",
+      "deepam lamp oil",
+      "pooja oil",
+      "pooja needs",
+      "deepam",
+      "lamp oil"
+    ]
+  },
+  {
+    "name": "Gems.Gold(Ka) 1 L",
+    "description": "Healthy Gems.Gold(Ka) 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 241,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gems_gold_ka_1_l.png",
+    "search_tags": [
+      "gems.gold(ka) 1 l",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Gems.Gold(Ka) 1 L",
+    "description": "Healthy Gems.Gold(Ka) 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 2410,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gems_gold_ka_1_l.png",
+    "search_tags": [
+      "gems.gold(ka) 1 l",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Grp",
+    "description": "Healthy Ghee Grp, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 109,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_grp.png",
+    "search_tags": [
+      "cooking oils",
+      "ghee grp",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Udhayakishna 1 L.Jar",
+    "description": "Healthy Ghee Udhayakishna 1 L.Jar, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 750,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_udhayakishna_1_l_jar.png",
+    "search_tags": [
+      "ghee udhayakishna 1 l.jar",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Vvd Gold Coconut Oil Jar",
+    "description": "Healthy Vvd Gold Coconut Oil Jar, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 215,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_gold_coconut_oil_jar.png",
+    "search_tags": [
+      "cooking oils",
+      "vvd gold coconut oil jar",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil"
+    ]
+  },
+  {
+    "name": "Vvd Priyam G.Nut Oil",
+    "description": "Healthy Vvd Priyam G.Nut Oil, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 270,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_priyam_g_nut_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "vvd priyam g.nut oil",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil"
+    ]
+  },
+  {
+    "name": "Ghee Vvd",
+    "description": "Healthy Ghee Vvd, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "100 g",
+    "price": 70,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_vvd.png",
+    "search_tags": [
+      "cooking oils",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil",
+      "ghee vvd"
+    ]
+  },
+  {
+    "name": "Himalaya Baby Hair Oil",
+    "description": "Healthy Himalaya Baby Hair Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 70,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/himalaya_baby_hair_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "himalaya baby hair oil",
+      "generic"
+    ]
+  },
+  {
+    "name": "Gold Winner Sunflower Oil",
+    "description": "Healthy Gold Winner Sunflower Oil, perfect for your daily cooking needs.",
+    "brand": "Gold Winner",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 900,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gold_winner_sunflower_oil.png",
+    "search_tags": [
+      "refined oil",
+      "cooking oils",
+      "gold winner sunflower oil",
+      "gold winner",
+      "சூரியகாந்தி எண்ணெய்",
+      "sunflower oil"
+    ]
+  },
+  {
+    "name": "Vasmol Hair Black Oil",
+    "description": "Nourishing Vasmol Hair Black Oil for strong and healthy hair.",
+    "brand": "Vasmol",
+    "category": "Hair Care",
+    "variant": "200 ml",
+    "price": 90,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/vasmol_hair_black_oil.png",
+    "search_tags": [
+      "vasmol",
+      "black hair",
+      "hair care",
+      "vasmol hair black oil",
+      "வாஸ்மோல்",
+      "hair oil"
+    ]
+  },
+  {
+    "name": "Vasmol Hair Black Oil",
+    "description": "Nourishing Vasmol Hair Black Oil for strong and healthy hair.",
+    "brand": "Vasmol",
+    "category": "Hair Care",
+    "variant": "100 ml",
+    "price": 48,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/vasmol_hair_black_oil.png",
+    "search_tags": [
+      "vasmol",
+      "black hair",
+      "hair care",
+      "vasmol hair black oil",
+      "வாஸ்மோல்",
+      "hair oil"
+    ]
+  },
+  {
+    "name": "Vasmol Hair Black Oil",
+    "description": "Nourishing Vasmol Hair Black Oil for strong and healthy hair.",
+    "brand": "Vasmol",
+    "category": "Hair Care",
+    "variant": "50 ml",
+    "price": 35,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/vasmol_hair_black_oil.png",
+    "search_tags": [
+      "vasmol",
+      "black hair",
+      "hair care",
+      "vasmol hair black oil",
+      "வாஸ்மோல்",
+      "hair oil"
+    ]
+  },
+  {
+    "name": "Ghee Aac",
+    "description": "Healthy Ghee Aac, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "200 ml",
+    "price": 155,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_aac.png",
+    "search_tags": [
+      "cooking oils",
+      "ghee aac",
+      "generic"
+    ]
+  },
+  {
+    "name": "Mr.Gold Coconut Oil 1 L",
+    "description": "Healthy Mr.Gold Coconut Oil 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 140,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/mr_gold_coconut_oil_1_l.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "mr.gold coconut oil 1 l"
+    ]
+  },
+  {
+    "name": "Mr.Gold Coconut Oil",
+    "description": "Healthy Mr.Gold Coconut Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 155,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/mr_gold_coconut_oil.png",
+    "search_tags": [
+      "mr.gold coconut oil",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Yadhum Groundnut Oil 1 L",
+    "description": "Healthy Yadhum Groundnut Oil 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 260,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/yadhum_groundnut_oil_1_l.png",
+    "search_tags": [
+      "cooking oils",
+      "yadhum groundnut oil 1 l",
+      "கடலை எண்ணெய்",
+      "generic",
+      "kadalai ennai",
+      "groundnut oil"
+    ]
+  },
+  {
+    "name": "Mathuram Nallenai",
+    "description": "Healthy Mathuram Nallenai, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 52,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/mathuram_nallenai.png",
+    "search_tags": [
+      "cooking oils",
+      "mathuram nallenai",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Skc",
+    "description": "Healthy Ghee Skc, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 100,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_skc.png",
+    "search_tags": [
+      "cooking oils",
+      "ghee skc",
+      "generic"
+    ]
+  },
+  {
+    "name": "Vvd Gold Coconut Oil Jar",
+    "description": "Healthy Vvd Gold Coconut Oil Jar, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 205,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_gold_coconut_oil_jar.png",
+    "search_tags": [
+      "cooking oils",
+      "vvd gold coconut oil jar",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil"
+    ]
+  },
+  {
+    "name": "Vvd Gold Coconut Oil Jar",
+    "description": "Healthy Vvd Gold Coconut Oil Jar, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "250 ml",
+    "price": 110,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_gold_coconut_oil_jar.png",
+    "search_tags": [
+      "cooking oils",
+      "vvd gold coconut oil jar",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil"
+    ]
+  },
+  {
+    "name": "Sambrani Sampradayam Cup",
+    "description": "Healthy Sambrani Sampradayam Cup, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 100,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/sambrani_sampradayam_cup.png",
+    "search_tags": [
+      "cooking oils",
+      "sambrani sampradayam cup",
+      "generic"
+    ]
+  },
+  {
+    "name": "Vvd Coconut Oil (40Ps)",
+    "description": "Healthy Vvd Coconut Oil (40Ps), perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "40 pcs",
+    "price": 40,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_coconut_oil_40ps.png",
+    "search_tags": [
+      "cooking oils",
+      "vvd coconut oil (40ps)",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil"
+    ]
+  },
+  {
+    "name": "Himalaya Baby Massage Oil",
+    "description": "Healthy Himalaya Baby Massage Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 115,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/himalaya_baby_massage_oil.png",
+    "search_tags": [
+      "himalaya baby massage oil",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "S Gold Sf 5Ltr",
+    "description": "Healthy S Gold Sf 5Ltr, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "5 Ltr",
+    "price": 900,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/s_gold_sf_5ltr.png",
+    "search_tags": [
+      "s gold sf 5ltr",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Vimal Gold 5Ltr",
+    "description": "Healthy Vimal Gold 5Ltr, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "5 Ltr",
+    "price": 900,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vimal_gold_5ltr.png",
+    "search_tags": [
+      "cooking oils",
+      "vimal gold 5ltr",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Skc",
+    "description": "Healthy Ghee Skc, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 10,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_skc.png",
+    "search_tags": [
+      "cooking oils",
+      "ghee skc",
+      "generic"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 19,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 24,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Himalaya Baby Massage Oil",
+    "description": "Healthy Himalaya Baby Massage Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 62,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/himalaya_baby_massage_oil.png",
+    "search_tags": [
+      "himalaya baby massage oil",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Skc",
+    "description": "Healthy Ghee Skc, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "200 ml",
+    "price": 180,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_skc.png",
+    "search_tags": [
+      "cooking oils",
+      "ghee skc",
+      "generic"
+    ]
+  },
+  {
+    "name": "Sambrani Sampradayam Cup",
+    "description": "Healthy Sambrani Sampradayam Cup, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 100,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/sambrani_sampradayam_cup.png",
+    "search_tags": [
+      "cooking oils",
+      "sambrani sampradayam cup",
+      "generic"
+    ]
+  },
+  {
+    "name": "Sambrani Cup Sampradayam",
+    "description": "Healthy Sambrani Cup Sampradayam, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 70,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/sambrani_cup_sampradayam.png",
+    "search_tags": [
+      "cooking oils",
+      "sambrani cup sampradayam",
+      "generic"
+    ]
+  },
+  {
+    "name": "Veppennai",
+    "description": "Healthy Veppennai, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 400,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/veppennai.png",
+    "search_tags": [
+      "cooking oils",
+      "veppennai",
+      "generic"
+    ]
+  },
+  {
+    "name": "Veppennai",
+    "description": "Healthy Veppennai, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 40,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/veppennai.png",
+    "search_tags": [
+      "cooking oils",
+      "veppennai",
+      "generic"
+    ]
+  },
+  {
+    "name": "Deepam Lamp Oil",
+    "description": "Traditional Deepam Lamp Oil for a divine and peaceful pooja.",
+    "brand": "Deepam",
+    "category": "Pooja Needs",
+    "variant": "1 Ltr",
+    "price": 210,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/pooja_needs/deepam_lamp_oil.png",
+    "search_tags": [
+      "தீபம்",
+      "vilakku ennai",
+      "விளக்கு எண்ணெய்",
+      "deepam lamp oil",
+      "pooja oil",
+      "pooja needs",
+      "deepam",
+      "lamp oil"
+    ]
+  },
+  {
+    "name": "Vom 1 L",
+    "description": "Healthy Vom 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 120,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vom_1_l.png",
+    "search_tags": [
+      "cooking oils",
+      "vom 1 l",
+      "generic"
+    ]
+  },
+  {
+    "name": "Vatika",
+    "description": "Nourishing Vatika for strong and healthy hair.",
+    "brand": "Vatika",
+    "category": "Hair Care",
+    "variant": "75 ml",
+    "price": 45,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/vatika.png",
+    "search_tags": [
+      "vatika",
+      "hair oil",
+      "வாடிகா",
+      "hair care"
+    ]
+  },
+  {
+    "name": "Vatika",
+    "description": "Nourishing Vatika for strong and healthy hair.",
+    "brand": "Vatika",
+    "category": "Hair Care",
+    "variant": "150 ml",
+    "price": 82,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/vatika.png",
+    "search_tags": [
+      "vatika",
+      "hair oil",
+      "வாடிகா",
+      "hair care"
+    ]
+  },
+  {
+    "name": "Vatika",
+    "description": "Nourishing Vatika for strong and healthy hair.",
+    "brand": "Vatika",
+    "category": "Hair Care",
+    "variant": "300 ml",
+    "price": 199,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/vatika.png",
+    "search_tags": [
+      "vatika",
+      "hair oil",
+      "வாடிகா",
+      "hair care"
+    ]
+  },
+  {
+    "name": "Dabur Amla Hair Oil",
+    "description": "Nourishing Dabur Amla Hair Oil for strong and healthy hair.",
+    "brand": "Dabur Amla",
+    "category": "Hair Care",
+    "variant": "300 ml",
+    "price": 145,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/dabur_amla_hair_oil.png",
+    "search_tags": [
+      "dabur amla hair oil",
+      "நெல்லிக்காய் எண்ணெய்",
+      "hair care",
+      "dabur amla",
+      "hair oil",
+      "amla oil"
+    ]
+  },
+  {
+    "name": "Himalaya Baby Hair Oil",
+    "description": "Healthy Himalaya Baby Hair Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 125,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/himalaya_baby_hair_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "himalaya baby hair oil",
+      "generic"
+    ]
+  },
+  {
+    "name": "Himalaya Baby Hair Oil",
+    "description": "Healthy Himalaya Baby Hair Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 70,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/himalaya_baby_hair_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "himalaya baby hair oil",
+      "generic"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 132,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Vvd Gold",
+    "description": "Healthy Vvd Gold, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "175 ml",
+    "price": 75,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_gold.png",
+    "search_tags": [
+      "cooking oils",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil",
+      "vvd gold"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 125,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Raja Palmonlien 1 L",
+    "description": "Healthy Raja Palmonlien 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 1500,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/raja_palmonlien_1_l.png",
+    "search_tags": [
+      "raja palmonlien 1 l",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Aroma .",
+    "description": "Healthy Ghee Aroma ., perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 50,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_aroma.png",
+    "search_tags": [
+      "ghee aroma .",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Aroma 100 Ml",
+    "description": "Healthy Ghee Aroma 100 Ml, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 90,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_aroma_100_ml.png",
+    "search_tags": [
+      "ghee aroma 100 ml",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Aroma",
+    "description": "Healthy Ghee Aroma, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 10,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_aroma.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "ghee aroma"
+    ]
+  },
+  {
+    "name": "Ghee Skc",
+    "description": "Healthy Ghee Skc, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 456,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_skc.png",
+    "search_tags": [
+      "cooking oils",
+      "ghee skc",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Skc 1 Ltr",
+    "description": "Healthy Ghee Skc 1 Ltr, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 925,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_skc_1_ltr.png",
+    "search_tags": [
+      "cooking oils",
+      "ghee skc 1 ltr",
+      "generic"
+    ]
+  },
+  {
+    "name": "Samayal",
+    "description": "Healthy Samayal, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 15,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/samayal.png",
+    "search_tags": [
+      "samayal",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil 1 L",
+    "description": "Healthy Idhayam Gingelly Oil 1 L, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 429,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil_1_l.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "idhayam gingelly oil 1 l",
+      "இதயம்",
+      "idhayam",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 190,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Ghee Grb 1 L Tin",
+    "description": "Aromatic and traditional Ghee Grb 1 L Tin with rich taste.",
+    "brand": "GRB",
+    "category": "Ghee",
+    "variant": "1 pcs",
+    "price": 913,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/ghee/ghee_grb_1_l_tin.png",
+    "search_tags": [
+      "grb",
+      "நெய்",
+      "ghee",
+      "ghee grb 1 l tin",
+      "nei"
+    ]
+  },
+  {
+    "name": "Sekku Argri Ma Ennai 1 L",
+    "description": "Healthy Sekku Argri Ma Ennai 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 350,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/sekku_argri_ma_ennai_1_l.png",
+    "search_tags": [
+      "cooking oils",
+      "sekku argri ma ennai 1 l",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Aroma 1 L",
+    "description": "Healthy Ghee Aroma 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 800,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_aroma_1_l.png",
+    "search_tags": [
+      "cooking oils",
+      "ghee aroma 1 l",
+      "generic"
+    ]
+  },
+  {
+    "name": "Vvd Lite Pouch",
+    "description": "Healthy Vvd Lite Pouch, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 130,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_lite_pouch.png",
+    "search_tags": [
+      "cooking oils",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil",
+      "vvd lite pouch"
+    ]
+  },
+  {
+    "name": "Deepam Lamp Oil",
+    "description": "Traditional Deepam Lamp Oil for a divine and peaceful pooja.",
+    "brand": "Deepam",
+    "category": "Pooja Needs",
+    "variant": "180 ml",
+    "price": 44,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/pooja_needs/deepam_lamp_oil.png",
+    "search_tags": [
+      "தீபம்",
+      "vilakku ennai",
+      "விளக்கு எண்ணெய்",
+      "deepam lamp oil",
+      "pooja oil",
+      "pooja needs",
+      "deepam",
+      "lamp oil"
+    ]
+  },
+  {
+    "name": "Malabar Coconut Oil",
+    "description": "Healthy Malabar Coconut Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 155,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/malabar_coconut_oil.png",
+    "search_tags": [
+      "malabar coconut oil",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Thennamarakudi Oil",
+    "description": "Healthy Thennamarakudi Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 60,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/thennamarakudi_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "thennamarakudi oil",
+      "generic"
+    ]
+  },
+  {
+    "name": "Indulekha Hair Oil 50.",
+    "description": "Healthy Indulekha Hair Oil 50., perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 234,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/indulekha_hair_oil_50.png",
+    "search_tags": [
+      "cooking oils",
+      "indulekha hair oil 50.",
+      "generic"
+    ]
+  },
+  {
+    "name": "Indulekha Hair Oil .",
+    "description": "Healthy Indulekha Hair Oil ., perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "22 ml",
+    "price": 99,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/indulekha_hair_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "indulekha hair oil .",
+      "generic"
+    ]
+  },
+  {
+    "name": "Coconut",
+    "description": "Healthy Coconut, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 180,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/coconut.png",
+    "search_tags": [
+      "cooking oils",
+      "coconut",
+      "generic"
+    ]
+  },
+  {
+    "name": "Navratna",
+    "description": "Healthy Navratna, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 85,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/navratna.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "navratna"
+    ]
+  },
+  {
+    "name": "Ghee Sr",
+    "description": "Healthy Ghee Sr, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 53,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_sr.png",
+    "search_tags": [
+      "cooking oils",
+      "ghee sr",
+      "generic"
+    ]
+  },
+  {
+    "name": "Vvd Lite Pouch",
+    "description": "Healthy Vvd Lite Pouch, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 32,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_lite_pouch.png",
+    "search_tags": [
+      "cooking oils",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil",
+      "vvd lite pouch"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 260,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 22,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Him Baby Hair Oil",
+    "description": "Healthy Him Baby Hair Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 125,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/him_baby_hair_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "him baby hair oil",
+      "generic"
+    ]
+  },
+  {
+    "name": "Him Baby Massage Oil",
+    "description": "Healthy Him Baby Massage Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 130,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/him_baby_massage_oil.png",
+    "search_tags": [
+      "him baby massage oil",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Him Baby Hair Oil",
+    "description": "Healthy Him Baby Hair Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 70,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/him_baby_hair_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "him baby hair oil",
+      "generic"
+    ]
+  },
+  {
+    "name": "Him Baby Massage Oil",
+    "description": "Healthy Him Baby Massage Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 65,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/him_baby_massage_oil.png",
+    "search_tags": [
+      "him baby massage oil",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee A2B",
+    "description": "Healthy Ghee A2B, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 450,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_a2b.png",
+    "search_tags": [
+      "ghee a2b",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee A2B 1 L",
+    "description": "Healthy Ghee A2B 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 900,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_a2b_1_l.png",
+    "search_tags": [
+      "ghee a2b 1 l",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Vatika",
+    "description": "Nourishing Vatika for strong and healthy hair.",
+    "brand": "Vatika",
+    "category": "Hair Care",
+    "variant": "90 ml",
+    "price": 45,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/vatika.png",
+    "search_tags": [
+      "vatika",
+      "hair oil",
+      "வாடிகா",
+      "hair care"
+    ]
+  },
+  {
+    "name": "Sekku Punnagai Ma Ennai 1 L",
+    "description": "Healthy Sekku Punnagai Ma Ennai 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 290,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/sekku_punnagai_ma_ennai_1_l.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "sekku punnagai ma ennai 1 l"
+    ]
+  },
+  {
+    "name": "Super Vasmol Hair Oil",
+    "description": "Nourishing Super Vasmol Hair Oil for strong and healthy hair.",
+    "brand": "Vasmol",
+    "category": "Hair Care",
+    "variant": "100 ml",
+    "price": 60,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/super_vasmol_hair_oil.png",
+    "search_tags": [
+      "vasmol",
+      "black hair",
+      "hair care",
+      "வாஸ்மோல்",
+      "hair oil",
+      "super vasmol hair oil"
+    ]
+  },
+  {
+    "name": "Super Vasmol Hair Oil",
+    "description": "Nourishing Super Vasmol Hair Oil for strong and healthy hair.",
+    "brand": "Vasmol",
+    "category": "Hair Care",
+    "variant": "200 ml",
+    "price": 90,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/super_vasmol_hair_oil.png",
+    "search_tags": [
+      "vasmol",
+      "black hair",
+      "hair care",
+      "வாஸ்மோல்",
+      "hair oil",
+      "super vasmol hair oil"
+    ]
+  },
+  {
+    "name": "Deepam Lamp Oil",
+    "description": "Traditional Deepam Lamp Oil for a divine and peaceful pooja.",
+    "brand": "Deepam",
+    "category": "Pooja Needs",
+    "variant": "2 Ltr",
+    "price": 105,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/pooja_needs/deepam_lamp_oil.png",
+    "search_tags": [
+      "தீபம்",
+      "vilakku ennai",
+      "விளக்கு எண்ணெய்",
+      "deepam lamp oil",
+      "pooja oil",
+      "pooja needs",
+      "deepam",
+      "lamp oil"
+    ]
+  },
+  {
+    "name": "Deepam Lamp Oil",
+    "description": "Traditional Deepam Lamp Oil for a divine and peaceful pooja.",
+    "brand": "Deepam",
+    "category": "Pooja Needs",
+    "variant": "200 ml",
+    "price": 65,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/pooja_needs/deepam_lamp_oil.png",
+    "search_tags": [
+      "தீபம்",
+      "vilakku ennai",
+      "விளக்கு எண்ணெய்",
+      "deepam lamp oil",
+      "pooja oil",
+      "pooja needs",
+      "deepam",
+      "lamp oil"
+    ]
+  },
+  {
+    "name": "Meera Coco Oil (40Ps)",
+    "description": "Healthy Meera Coco Oil (40Ps), perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "40 pcs",
+    "price": 40,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/meera_coco_oil_40ps.png",
+    "search_tags": [
+      "cooking oils",
+      "meera coco oil (40ps)",
+      "generic"
+    ]
+  },
+  {
+    "name": "Quik Relif Rollon Oil",
+    "description": "Healthy Quik Relif Rollon Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "10 ml",
+    "price": 85,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/quik_relif_rollon_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "quik relif rollon oil",
+      "generic"
+    ]
+  },
+  {
+    "name": "Mr.Gold Coconut Oil Jar",
+    "description": "Healthy Mr.Gold Coconut Oil Jar, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 40,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/mr_gold_coconut_oil_jar.png",
+    "search_tags": [
+      "cooking oils",
+      "mr.gold coconut oil jar",
+      "generic"
+    ]
+  },
+  {
+    "name": "Vennai",
+    "description": "Healthy Vennai, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 g",
+    "price": 66,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vennai.png",
+    "search_tags": [
+      "vennai",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Dabur Amla Hair Oil",
+    "description": "Nourishing Dabur Amla Hair Oil for strong and healthy hair.",
+    "brand": "Dabur Amla",
+    "category": "Hair Care",
+    "variant": "275 ml",
+    "price": 155,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/dabur_amla_hair_oil.png",
+    "search_tags": [
+      "dabur amla hair oil",
+      "நெல்லிக்காய் எண்ணெய்",
+      "hair care",
+      "dabur amla",
+      "hair oil",
+      "amla oil"
+    ]
+  },
+  {
+    "name": "Iluppai Oil",
+    "description": "Healthy Iluppai Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 40,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/iluppai_oil.png",
+    "search_tags": [
+      "iluppai oil",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Jvs Thenga Ennai",
+    "description": "Healthy Jvs Thenga Ennai, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 130,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/jvs_thenga_ennai.png",
+    "search_tags": [
+      "jvs thenga ennai",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Vastu 1 L",
+    "description": "Healthy Ghee Vastu 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 699,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_vastu_1_l.png",
+    "search_tags": [
+      "ghee vastu 1 l",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Fortune 1 L Jar",
+    "description": "Healthy Fortune 1 L Jar, perfect for your daily cooking needs.",
+    "brand": "Fortune",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 195,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/fortune_1_l_jar.png",
+    "search_tags": [
+      "cooking oils",
+      "fortune",
+      "சூரியகாந்தி எண்ணெய்",
+      "fortune 1 l jar",
+      "sunflower oil"
+    ]
+  },
+  {
+    "name": "Computer Sambrani Sampradayam",
+    "description": "Healthy Computer Sambrani Sampradayam, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 24,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/computer_sambrani_sampradayam.png",
+    "search_tags": [
+      "cooking oils",
+      "computer sambrani sampradayam",
+      "generic"
+    ]
+  },
+  {
+    "name": "Suntruu (Sf)",
+    "description": "Healthy Suntruu (Sf), perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 110,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/suntruu_sf.png",
+    "search_tags": [
+      "cooking oils",
+      "suntruu (sf)",
+      "generic"
+    ]
+  },
+  {
+    "name": "Vcare Hair Oil Old",
+    "description": "Healthy Vcare Hair Oil Old, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 222,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vcare_hair_oil_old.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "vcare hair oil old"
+    ]
+  },
+  {
+    "name": "Vcare Herbal Hair Oil",
+    "description": "Healthy Vcare Herbal Hair Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 276,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vcare_herbal_hair_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "vcare herbal hair oil",
+      "generic"
+    ]
+  },
+  {
+    "name": "Sunrich Sf Tin 15Ltr",
+    "description": "Healthy Sunrich Sf Tin 15Ltr, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "15 Ltr",
+    "price": 2075,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/sunrich_sf_tin_15ltr.png",
+    "search_tags": [
+      "cooking oils",
+      "sunrich sf tin 15ltr",
+      "generic"
+    ]
+  },
+  {
+    "name": "Sunrich Sf Tin 15Ltr 13.5Kg",
+    "description": "Healthy Sunrich Sf Tin 15Ltr 13.5Kg, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "15 Ltr",
+    "price": 2075,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/sunrich_sf_tin_15ltr_13_5kg.png",
+    "search_tags": [
+      "cooking oils",
+      "sunrich sf tin 15ltr 13.5kg",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Vastu",
+    "description": "Healthy Ghee Vastu, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 355,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_vastu.png",
+    "search_tags": [
+      "cooking oils",
+      "ghee vastu",
+      "generic"
+    ]
+  },
+  {
+    "name": "Gems Pearls Jar",
+    "description": "Healthy Gems Pearls Jar, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 350,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gems_pearls_jar.png",
+    "search_tags": [
+      "gems pearls jar",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Deepam Lamp Oil",
+    "description": "Traditional Deepam Lamp Oil for a divine and peaceful pooja.",
+    "brand": "Deepam",
+    "category": "Pooja Needs",
+    "variant": "500 ml",
+    "price": 99,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/pooja_needs/deepam_lamp_oil.png",
+    "search_tags": [
+      "தீபம்",
+      "vilakku ennai",
+      "விளக்கு எண்ணெய்",
+      "deepam lamp oil",
+      "pooja oil",
+      "pooja needs",
+      "deepam",
+      "lamp oil"
+    ]
+  },
+  {
+    "name": "Sunrich Sf Can 5Ltr",
+    "description": "Healthy Sunrich Sf Can 5Ltr, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "5 Ltr",
+    "price": 727,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/sunrich_sf_can_5ltr.png",
+    "search_tags": [
+      "sunrich sf can 5ltr",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Garnier Facewash Oil Clear",
+    "description": "Healthy Garnier Facewash Oil Clear, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "50 g",
+    "price": 119,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/garnier_facewash_oil_clear.png",
+    "search_tags": [
+      "garnier facewash oil clear",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Super Vasmol Hair Black Oil",
+    "description": "Nourishing Super Vasmol Hair Black Oil for strong and healthy hair.",
+    "brand": "Vasmol",
+    "category": "Hair Care",
+    "variant": "50 ml",
+    "price": 35,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/super_vasmol_hair_black_oil.png",
+    "search_tags": [
+      "vasmol",
+      "black hair",
+      "hair care",
+      "வாஸ்மோல்",
+      "hair oil",
+      "super vasmol hair black oil"
+    ]
+  },
+  {
+    "name": "Super Vasmol Hair Black Oil",
+    "description": "Nourishing Super Vasmol Hair Black Oil for strong and healthy hair.",
+    "brand": "Vasmol",
+    "category": "Hair Care",
+    "variant": "200 ml",
+    "price": 90,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/super_vasmol_hair_black_oil.png",
+    "search_tags": [
+      "vasmol",
+      "black hair",
+      "hair care",
+      "வாஸ்மோல்",
+      "hair oil",
+      "super vasmol hair black oil"
+    ]
+  },
+  {
+    "name": "Super Vasmol Hair Black Oil",
+    "description": "Nourishing Super Vasmol Hair Black Oil for strong and healthy hair.",
+    "brand": "Vasmol",
+    "category": "Hair Care",
+    "variant": "100 ml",
+    "price": 48,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/super_vasmol_hair_black_oil.png",
+    "search_tags": [
+      "vasmol",
+      "black hair",
+      "hair care",
+      "வாஸ்மோல்",
+      "hair oil",
+      "super vasmol hair black oil"
+    ]
+  },
+  {
+    "name": "Vvd Gold Coconut Oil (1+1) Jar",
+    "description": "Healthy Vvd Gold Coconut Oil (1+1) Jar, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 320,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_gold_coconut_oil_1_1_jar.png",
+    "search_tags": [
+      "cooking oils",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil",
+      "vvd gold coconut oil (1+1) jar"
+    ]
+  },
+  {
+    "name": "Deepam Lamp Oil",
+    "description": "Traditional Deepam Lamp Oil for a divine and peaceful pooja.",
+    "brand": "Deepam",
+    "category": "Pooja Needs",
+    "variant": "1 Ltr",
+    "price": 200,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/pooja_needs/deepam_lamp_oil.png",
+    "search_tags": [
+      "தீபம்",
+      "vilakku ennai",
+      "விளக்கு எண்ணெய்",
+      "deepam lamp oil",
+      "pooja oil",
+      "pooja needs",
+      "deepam",
+      "lamp oil"
+    ]
+  },
+  {
+    "name": "Coconut Punch Jar",
+    "description": "Healthy Coconut Punch Jar, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 200,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/coconut_punch_jar.png",
+    "search_tags": [
+      "cooking oils",
+      "coconut punch jar",
+      "generic"
+    ]
+  },
+  {
+    "name": "Zandu Palm",
+    "description": "Healthy Zandu Palm, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "8 ml",
+    "price": 44,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/zandu_palm.png",
+    "search_tags": [
+      "zandu palm",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Zandu Palm (G)",
+    "description": "Healthy Zandu Palm (G), perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "8 ml",
+    "price": 45,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/zandu_palm_g.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "zandu palm (g)"
+    ]
+  },
+  {
+    "name": "Zandu Palm Ultra Power (R)",
+    "description": "Healthy Zandu Palm Ultra Power (R), perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "8 ml",
+    "price": 50,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/zandu_palm_ultra_power_r.png",
+    "search_tags": [
+      "cooking oils",
+      "zandu palm ultra power (r)",
+      "generic"
+    ]
+  },
+  {
+    "name": "Johnsons Baby Hair Oil",
+    "description": "Healthy Johnsons Baby Hair Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 62,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/johnsons_baby_hair_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "johnsons baby hair oil",
+      "generic"
+    ]
+  },
+  {
+    "name": "Vvd Amla",
+    "description": "Healthy Vvd Amla, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 20,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_amla.png",
+    "search_tags": [
+      "cooking oils",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil",
+      "vvd amla"
+    ]
+  },
+  {
+    "name": "Vvd Gold Coconut Oil (1+1) Jar",
+    "description": "Healthy Vvd Gold Coconut Oil (1+1) Jar, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "250 ml",
+    "price": 160,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_gold_coconut_oil_1_1_jar.png",
+    "search_tags": [
+      "cooking oils",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil",
+      "vvd gold coconut oil (1+1) jar"
+    ]
+  },
+  {
+    "name": "Vasmol Black Hair Oil",
+    "description": "Nourishing Vasmol Black Hair Oil for strong and healthy hair.",
+    "brand": "Vasmol",
+    "category": "Hair Care",
+    "variant": "100 ml",
+    "price": 50,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/vasmol_black_hair_oil.png",
+    "search_tags": [
+      "vasmol",
+      "black hair",
+      "hair care",
+      "வாஸ்மோல்",
+      "hair oil",
+      "vasmol black hair oil"
+    ]
+  },
+  {
+    "name": "Vasmol Black Hair Oil",
+    "description": "Nourishing Vasmol Black Hair Oil for strong and healthy hair.",
+    "brand": "Vasmol",
+    "category": "Hair Care",
+    "variant": "100 ml",
+    "price": 50,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/vasmol_black_hair_oil.png",
+    "search_tags": [
+      "vasmol",
+      "black hair",
+      "hair care",
+      "வாஸ்மோல்",
+      "hair oil",
+      "vasmol black hair oil"
+    ]
+  },
+  {
+    "name": "Vvd Gold Coconut Oil (1+1) Jar",
+    "description": "Healthy Vvd Gold Coconut Oil (1+1) Jar, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 60,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_gold_coconut_oil_1_1_jar.png",
+    "search_tags": [
+      "cooking oils",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil",
+      "vvd gold coconut oil (1+1) jar"
+    ]
+  },
+  {
+    "name": "Vvd Gold Coconut Oil",
+    "description": "Healthy Vvd Gold Coconut Oil, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "20 ml",
+    "price": 10,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_gold_coconut_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "vvd gold coconut oil",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil"
+    ]
+  },
+  {
+    "name": "Vasmol Black Hair Oil",
+    "description": "Nourishing Vasmol Black Hair Oil for strong and healthy hair.",
+    "brand": "Vasmol",
+    "category": "Hair Care",
+    "variant": "200 ml",
+    "price": 95,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/vasmol_black_hair_oil.png",
+    "search_tags": [
+      "vasmol",
+      "black hair",
+      "hair care",
+      "வாஸ்மோல்",
+      "hair oil",
+      "vasmol black hair oil"
+    ]
+  },
+  {
+    "name": "Manjal Thool Vvd Priyam",
+    "description": "Healthy Manjal Thool Vvd Priyam, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 10,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/manjal_thool_vvd_priyam.png",
+    "search_tags": [
+      "cooking oils",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil",
+      "manjal thool vvd priyam"
+    ]
+  },
+  {
+    "name": "Navarathina Oil",
+    "description": "Healthy Navarathina Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 45,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/navarathina_oil.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "navarathina oil"
+    ]
+  },
+  {
+    "name": "Navarathina Oil",
+    "description": "Healthy Navarathina Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "27 ml",
+    "price": 20,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/navarathina_oil.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "navarathina oil"
+    ]
+  },
+  {
+    "name": "Dabur Amla Hair Oil",
+    "description": "Nourishing Dabur Amla Hair Oil for strong and healthy hair.",
+    "brand": "Dabur Amla",
+    "category": "Hair Care",
+    "variant": "45 ml",
+    "price": 20,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/dabur_amla_hair_oil.png",
+    "search_tags": [
+      "dabur amla hair oil",
+      "நெல்லிக்காய் எண்ணெய்",
+      "hair care",
+      "dabur amla",
+      "hair oil",
+      "amla oil"
+    ]
+  },
+  {
+    "name": "Dabur Amla Hair Oil",
+    "description": "Nourishing Dabur Amla Hair Oil for strong and healthy hair.",
+    "brand": "Dabur Amla",
+    "category": "Hair Care",
+    "variant": "300 ml",
+    "price": 147,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/dabur_amla_hair_oil.png",
+    "search_tags": [
+      "dabur amla hair oil",
+      "நெல்லிக்காய் எண்ணெய்",
+      "hair care",
+      "dabur amla",
+      "hair oil",
+      "amla oil"
+    ]
+  },
+  {
+    "name": "Svs Sunfower Tin",
+    "description": "Healthy Svs Sunfower Tin, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 2075,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/svs_sunfower_tin.png",
+    "search_tags": [
+      "cooking oils",
+      "svs sunfower tin",
+      "generic"
+    ]
+  },
+  {
+    "name": "Him Baby Hair Oil",
+    "description": "Healthy Him Baby Hair Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 80,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/him_baby_hair_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "him baby hair oil",
+      "generic"
+    ]
+  },
+  {
+    "name": "Him Baby Hair Oil",
+    "description": "Healthy Him Baby Hair Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 140,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/him_baby_hair_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "him baby hair oil",
+      "generic"
+    ]
+  },
+  {
+    "name": "Indulekha Hair Oil .",
+    "description": "Healthy Indulekha Hair Oil ., perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 468,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/indulekha_hair_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "indulekha hair oil .",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Rkg 1 Ltr",
+    "description": "Aromatic and traditional Ghee Rkg 1 Ltr with rich taste.",
+    "brand": "RKG",
+    "category": "Ghee",
+    "variant": "1 Ltr",
+    "price": 970,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/ghee/ghee_rkg_1_ltr.png",
+    "search_tags": [
+      "நெய்",
+      "ghee",
+      "rkg",
+      "nei",
+      "ghee rkg 1 ltr"
+    ]
+  },
+  {
+    "name": "Mr.Gold Coconut Oil Battle",
+    "description": "Healthy Mr.Gold Coconut Oil Battle, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 210,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/mr_gold_coconut_oil_battle.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "mr.gold coconut oil battle"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 214,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Pearls",
+    "description": "Healthy Pearls, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 350,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/pearls.png",
+    "search_tags": [
+      "cooking oils",
+      "pearls",
+      "generic"
+    ]
+  },
+  {
+    "name": "Almond Hair Oil",
+    "description": "Healthy Almond Hair Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 75,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/almond_hair_oil.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "almond hair oil"
+    ]
+  },
+  {
+    "name": "Almond Hair Oil",
+    "description": "Healthy Almond Hair Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "190 ml",
+    "price": 138,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/almond_hair_oil.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "almond hair oil"
+    ]
+  },
+  {
+    "name": "Dabur Amla Hair Oil",
+    "description": "Nourishing Dabur Amla Hair Oil for strong and healthy hair.",
+    "brand": "Dabur Amla",
+    "category": "Hair Care",
+    "variant": "90 ml",
+    "price": 52,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/dabur_amla_hair_oil.png",
+    "search_tags": [
+      "dabur amla hair oil",
+      "நெல்லிக்காய் எண்ணெய்",
+      "hair care",
+      "dabur amla",
+      "hair oil",
+      "amla oil"
+    ]
+  },
+  {
+    "name": "Ghee Grb Jar",
+    "description": "Aromatic and traditional Ghee Grb Jar with rich taste.",
+    "brand": "GRB",
+    "category": "Ghee",
+    "variant": "200 ml",
+    "price": 182,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/ghee/ghee_grb_jar.png",
+    "search_tags": [
+      "grb",
+      "நெய்",
+      "ghee",
+      "ghee grb jar",
+      "nei"
+    ]
+  },
+  {
+    "name": "Hh Camlin Oil Pastel 15'P",
+    "description": "Healthy Hh Camlin Oil Pastel 15'P, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 65,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/hh_camlin_oil_pastel_15_p.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "hh camlin oil pastel 15'p"
+    ]
+  },
+  {
+    "name": "Hh Camlin Oil Pastel 25'P",
+    "description": "Healthy Hh Camlin Oil Pastel 25'P, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 120,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/hh_camlin_oil_pastel_25_p.png",
+    "search_tags": [
+      "hh camlin oil pastel 25'p",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Hh Camlin Oil Pastel 12'P",
+    "description": "Healthy Hh Camlin Oil Pastel 12'P, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 50,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/hh_camlin_oil_pastel_12_p.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "hh camlin oil pastel 12'p"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 429,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 232,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Ghee Gvr 1L",
+    "description": "Healthy Ghee Gvr 1L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 930,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_gvr_1l.png",
+    "search_tags": [
+      "cooking oils",
+      "ghee gvr 1l",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Gvk 1L",
+    "description": "Healthy Ghee Gvk 1L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 970,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_gvk_1l.png",
+    "search_tags": [
+      "cooking oils",
+      "ghee gvk 1l",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Skc",
+    "description": "Healthy Ghee Skc, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 46,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_skc.png",
+    "search_tags": [
+      "cooking oils",
+      "ghee skc",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Skc",
+    "description": "Healthy Ghee Skc, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 94,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_skc.png",
+    "search_tags": [
+      "cooking oils",
+      "ghee skc",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Skc Jar",
+    "description": "Healthy Ghee Skc Jar, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 51,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_skc_jar.png",
+    "search_tags": [
+      "ghee skc jar",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Idhyam Nalannai",
+    "description": "Healthy Idhyam Nalannai, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 24,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhyam_nalannai.png",
+    "search_tags": [
+      "idhyam nalannai",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Varikki Ghee",
+    "description": "Healthy Varikki Ghee, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 40,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/varikki_ghee.png",
+    "search_tags": [
+      "cooking oils",
+      "varikki ghee",
+      "generic"
+    ]
+  },
+  {
+    "name": "Idhyam Nalannai",
+    "description": "Healthy Idhyam Nalannai, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "200 ml",
+    "price": 85,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhyam_nalannai.png",
+    "search_tags": [
+      "idhyam nalannai",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Deepam Lamp Oil",
+    "description": "Traditional Deepam Lamp Oil for a divine and peaceful pooja.",
+    "brand": "Deepam",
+    "category": "Pooja Needs",
+    "variant": "500 ml",
+    "price": 70,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/pooja_needs/deepam_lamp_oil.png",
+    "search_tags": [
+      "தீபம்",
+      "vilakku ennai",
+      "விளக்கு எண்ணெய்",
+      "deepam lamp oil",
+      "pooja oil",
+      "pooja needs",
+      "deepam",
+      "lamp oil"
+    ]
+  },
+  {
+    "name": "Vanaspathi Dalda Ruchi 1 L",
+    "description": "Healthy Vanaspathi Dalda Ruchi 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 123,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vanaspathi_dalda_ruchi_1_l.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "vanaspathi dalda ruchi 1 l"
+    ]
+  },
+  {
+    "name": "Sunrich Sf Bottle 1L",
+    "description": "Healthy Sunrich Sf Bottle 1L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 137,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/sunrich_sf_bottle_1l.png",
+    "search_tags": [
+      "sunrich sf bottle 1l",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Dabur Amla Hair Oil",
+    "description": "Nourishing Dabur Amla Hair Oil for strong and healthy hair.",
+    "brand": "Dabur Amla",
+    "category": "Hair Care",
+    "variant": "75 ml",
+    "price": 20,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/dabur_amla_hair_oil.png",
+    "search_tags": [
+      "dabur amla hair oil",
+      "நெல்லிக்காய் எண்ணெய்",
+      "hair care",
+      "dabur amla",
+      "hair oil",
+      "amla oil"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "200 ml",
+    "price": 85,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Ghee Skc 5L Tin",
+    "description": "Healthy Ghee Skc 5L Tin, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "5 Ltr",
+    "price": 3750,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_skc_5l_tin.png",
+    "search_tags": [
+      "ghee skc 5l tin",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 23,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Parachute Oil",
+    "description": "Nourishing Parachute Oil for strong and healthy hair.",
+    "brand": "Parachute",
+    "category": "Hair Care",
+    "variant": "25 ml",
+    "price": 10,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/parachute_oil.png",
+    "search_tags": [
+      "parachute oil",
+      "coconut oil",
+      "hair care",
+      "hair oil",
+      "parachute",
+      "தலைக்கு எண்ணெய்"
+    ]
+  },
+  {
+    "name": "Parachute Oil",
+    "description": "Nourishing Parachute Oil for strong and healthy hair.",
+    "brand": "Parachute",
+    "category": "Hair Care",
+    "variant": "50 ml",
+    "price": 20,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/parachute_oil.png",
+    "search_tags": [
+      "parachute oil",
+      "coconut oil",
+      "hair care",
+      "hair oil",
+      "parachute",
+      "தலைக்கு எண்ணெய்"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 211,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "30 ml",
+    "price": 15,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Navarathina Oil",
+    "description": "Healthy Navarathina Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "45 ml",
+    "price": 47,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/navarathina_oil.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "navarathina oil"
+    ]
+  },
+  {
+    "name": "Navratna Oil",
+    "description": "Healthy Navratna Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "90 ml",
+    "price": 85,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/navratna_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "navratna oil",
+      "generic"
+    ]
+  },
+  {
+    "name": "Mr.Gold Gingelly Oil Jar",
+    "description": "Healthy Mr.Gold Gingelly Oil Jar, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 50,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/mr_gold_gingelly_oil_jar.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "generic",
+      "nallennai",
+      "mr.gold gingelly oil jar",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Vatika",
+    "description": "Nourishing Vatika for strong and healthy hair.",
+    "brand": "Vatika",
+    "category": "Hair Care",
+    "variant": "75 ml",
+    "price": 40,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/vatika.png",
+    "search_tags": [
+      "vatika",
+      "hair oil",
+      "வாடிகா",
+      "hair care"
+    ]
+  },
+  {
+    "name": "Mr.Gold Coconut Oil 1L",
+    "description": "Healthy Mr.Gold Coconut Oil 1L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 295,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/mr_gold_coconut_oil_1l.png",
+    "search_tags": [
+      "cooking oils",
+      "mr.gold coconut oil 1l",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Avt",
+    "description": "Healthy Ghee Avt, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 10,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_avt.png",
+    "search_tags": [
+      "ghee avt",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 246,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Idhyam Nalannai Bottle",
+    "description": "Healthy Idhyam Nalannai Bottle, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "200 ml",
+    "price": 83,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhyam_nalannai_bottle.png",
+    "search_tags": [
+      "cooking oils",
+      "idhyam nalannai bottle",
+      "generic"
+    ]
+  },
+  {
+    "name": "Deepam Lamp Oil",
+    "description": "Traditional Deepam Lamp Oil for a divine and peaceful pooja.",
+    "brand": "Deepam",
+    "category": "Pooja Needs",
+    "variant": "500 ml",
+    "price": 100,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/pooja_needs/deepam_lamp_oil.png",
+    "search_tags": [
+      "தீபம்",
+      "vilakku ennai",
+      "விளக்கு எண்ணெய்",
+      "deepam lamp oil",
+      "pooja oil",
+      "pooja needs",
+      "deepam",
+      "lamp oil"
+    ]
+  },
+  {
+    "name": "Vatika",
+    "description": "Nourishing Vatika for strong and healthy hair.",
+    "brand": "Vatika",
+    "category": "Hair Care",
+    "variant": "90 ml",
+    "price": 40,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/vatika.png",
+    "search_tags": [
+      "vatika",
+      "hair oil",
+      "வாடிகா",
+      "hair care"
+    ]
+  },
+  {
+    "name": "Deepam Lamp Oil",
+    "description": "Traditional Deepam Lamp Oil for a divine and peaceful pooja.",
+    "brand": "Deepam",
+    "category": "Pooja Needs",
+    "variant": "900 ml",
+    "price": 210,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/pooja_needs/deepam_lamp_oil.png",
+    "search_tags": [
+      "தீபம்",
+      "vilakku ennai",
+      "விளக்கு எண்ணெய்",
+      "deepam lamp oil",
+      "pooja oil",
+      "pooja needs",
+      "deepam",
+      "lamp oil"
+    ]
+  },
+  {
+    "name": "Varikki Ghee Jar",
+    "description": "Healthy Varikki Ghee Jar, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 250,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/varikki_ghee_jar.png",
+    "search_tags": [
+      "varikki ghee jar",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Boss Polmolien 1 L",
+    "description": "Healthy Boss Polmolien 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 102,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/boss_polmolien_1_l.png",
+    "search_tags": [
+      "boss polmolien 1 l",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 222,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Idhyam Nalannai",
+    "description": "Healthy Idhyam Nalannai, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 45,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhyam_nalannai.png",
+    "search_tags": [
+      "idhyam nalannai",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil Bottle",
+    "description": "Healthy Idhayam Gingelly Oil Bottle, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 46,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil_bottle.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "nallennai",
+      "idhayam gingelly oil bottle",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "200 ml",
+    "price": 87,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 24,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 1123,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Idhyam Nalannai",
+    "description": "Healthy Idhyam Nalannai, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 45,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhyam_nalannai.png",
+    "search_tags": [
+      "idhyam nalannai",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Milky Mist",
+    "description": "Healthy Ghee Milky Mist, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 419,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_milky_mist.png",
+    "search_tags": [
+      "cooking oils",
+      "ghee milky mist",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Milky Mist",
+    "description": "Healthy Ghee Milky Mist, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "200 ml",
+    "price": 175,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_milky_mist.png",
+    "search_tags": [
+      "cooking oils",
+      "ghee milky mist",
+      "generic"
+    ]
+  },
+  {
+    "name": "Navaratna Oil",
+    "description": "Healthy Navaratna Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "90 ml",
+    "price": 90,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/navaratna_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "navaratna oil",
+      "generic"
+    ]
+  },
+  {
+    "name": "Udhaya Krishna Ghee",
+    "description": "Aromatic and traditional Udhaya Krishna Ghee with rich taste.",
+    "brand": "Udhaya Krishna",
+    "category": "Ghee",
+    "variant": "5 Ltr",
+    "price": 4200,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/ghee/udhaya_krishna_ghee.png",
+    "search_tags": [
+      "udhaya krishna ghee",
+      "உதயகிருஷ்ணா",
+      "நெய்",
+      "ghee",
+      "pure ghee",
+      "nei",
+      "udhaya krishna"
+    ]
+  },
+  {
+    "name": "Gold Winner Sunflower Oil",
+    "description": "Healthy Gold Winner Sunflower Oil, perfect for your daily cooking needs.",
+    "brand": "Gold Winner",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 165,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gold_winner_sunflower_oil.png",
+    "search_tags": [
+      "refined oil",
+      "cooking oils",
+      "gold winner sunflower oil",
+      "gold winner",
+      "சூரியகாந்தி எண்ணெய்",
+      "sunflower oil"
+    ]
+  },
+  {
+    "name": "Gold Winner Sunflower Oil",
+    "description": "Healthy Gold Winner Sunflower Oil, perfect for your daily cooking needs.",
+    "brand": "Gold Winner",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 94,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gold_winner_sunflower_oil.png",
+    "search_tags": [
+      "refined oil",
+      "cooking oils",
+      "gold winner sunflower oil",
+      "gold winner",
+      "சூரியகாந்தி எண்ணெய்",
+      "sunflower oil"
+    ]
+  },
+  {
+    "name": "Udhaya Krishna Ghee",
+    "description": "Aromatic and traditional Udhaya Krishna Ghee with rich taste.",
+    "brand": "Udhaya Krishna",
+    "category": "Ghee",
+    "variant": "500 ml",
+    "price": 445,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/ghee/udhaya_krishna_ghee.png",
+    "search_tags": [
+      "udhaya krishna ghee",
+      "உதயகிருஷ்ணா",
+      "நெய்",
+      "ghee",
+      "pure ghee",
+      "nei",
+      "udhaya krishna"
+    ]
+  },
+  {
+    "name": "Udhaya Krishna Ghee",
+    "description": "Aromatic and traditional Udhaya Krishna Ghee with rich taste.",
+    "brand": "Udhaya Krishna",
+    "category": "Ghee",
+    "variant": "200 ml",
+    "price": 170,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/ghee/udhaya_krishna_ghee.png",
+    "search_tags": [
+      "udhaya krishna ghee",
+      "உதயகிருஷ்ணா",
+      "நெய்",
+      "ghee",
+      "pure ghee",
+      "nei",
+      "udhaya krishna"
+    ]
+  },
+  {
+    "name": "Vvd Gold Coconut Oil Jar",
+    "description": "Healthy Vvd Gold Coconut Oil Jar, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 60,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_gold_coconut_oil_jar.png",
+    "search_tags": [
+      "cooking oils",
+      "vvd gold coconut oil jar",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil"
+    ]
+  },
+  {
+    "name": "Vvd Jar",
+    "description": "Healthy Vvd Jar, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 50,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_jar.png",
+    "search_tags": [
+      "cooking oils",
+      "vvd jar",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 23,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Varikki Ghee",
+    "description": "Healthy Varikki Ghee, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 240,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/varikki_ghee.png",
+    "search_tags": [
+      "cooking oils",
+      "varikki ghee",
+      "generic"
+    ]
+  },
+  {
+    "name": "Almond Hair Oil",
+    "description": "Healthy Almond Hair Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "200 ml",
+    "price": 145,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/almond_hair_oil.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "almond hair oil"
+    ]
+  },
+  {
+    "name": "Vatika Hair Oil",
+    "description": "Nourishing Vatika Hair Oil for strong and healthy hair.",
+    "brand": "Vatika",
+    "category": "Hair Care",
+    "variant": "1 pcs",
+    "price": 40,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/vatika_hair_oil.png",
+    "search_tags": [
+      "வாடிகா",
+      "hair care",
+      "hair oil",
+      "vatika hair oil",
+      "vatika"
+    ]
+  },
+  {
+    "name": "Ghee Sr",
+    "description": "Healthy Ghee Sr, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 103,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_sr.png",
+    "search_tags": [
+      "cooking oils",
+      "ghee sr",
+      "generic"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 20,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 44,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "200 ml",
+    "price": 81,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 201,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Vvd Gold",
+    "description": "Healthy Vvd Gold, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "175 ml",
+    "price": 78,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_gold.png",
+    "search_tags": [
+      "cooking oils",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil",
+      "vvd gold"
+    ]
+  },
+  {
+    "name": "Vennai",
+    "description": "Healthy Vennai, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "250 g",
+    "price": 150,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vennai.png",
+    "search_tags": [
+      "vennai",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Nabati Blue Lava",
+    "description": "Healthy Nabati Blue Lava, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 10,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/nabati_blue_lava.png",
+    "search_tags": [
+      "nabati blue lava",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Almond Hair Oil",
+    "description": "Healthy Almond Hair Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "45 ml",
+    "price": 33,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/almond_hair_oil.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "almond hair oil"
+    ]
+  },
+  {
+    "name": "Navarathina Oil",
+    "description": "Healthy Navarathina Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "180 ml",
+    "price": 150,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/navarathina_oil.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "navarathina oil"
+    ]
+  },
+  {
+    "name": "Indulekha Hair Oil .",
+    "description": "Healthy Indulekha Hair Oil ., perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 468,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/indulekha_hair_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "indulekha hair oil .",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Grb 1 L",
+    "description": "Aromatic and traditional Ghee Grb 1 L with rich taste.",
+    "brand": "GRB",
+    "category": "Ghee",
+    "variant": "1 pcs",
+    "price": 952,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/ghee/ghee_grb_1_l.png",
+    "search_tags": [
+      "ghee grb 1 l",
+      "grb",
+      "நெய்",
+      "ghee",
+      "nei"
+    ]
+  },
+  {
+    "name": "Ghee Grp",
+    "description": "Healthy Ghee Grp, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 463,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_grp.png",
+    "search_tags": [
+      "cooking oils",
+      "ghee grp",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Grp Jar",
+    "description": "Healthy Ghee Grp Jar, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "200 ml",
+    "price": 192,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_grp_jar.png",
+    "search_tags": [
+      "ghee grp jar",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Gem'S Gold (Sf)",
+    "description": "Healthy Gem'S Gold (Sf), perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 85,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gem_s_gold_sf.png",
+    "search_tags": [
+      "gem's gold (sf)",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Deepam Lamp Oil",
+    "description": "Traditional Deepam Lamp Oil for a divine and peaceful pooja.",
+    "brand": "Deepam",
+    "category": "Pooja Needs",
+    "variant": "1 Ltr",
+    "price": 180,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/pooja_needs/deepam_lamp_oil.png",
+    "search_tags": [
+      "தீபம்",
+      "vilakku ennai",
+      "விளக்கு எண்ணெய்",
+      "deepam lamp oil",
+      "pooja oil",
+      "pooja needs",
+      "deepam",
+      "lamp oil"
+    ]
+  },
+  {
+    "name": "Gems Gold Sf Cane 5Ltr",
+    "description": "Healthy Gems Gold Sf Cane 5Ltr, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "5 Ltr",
+    "price": 875,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gems_gold_sf_cane_5ltr.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "gems gold sf cane 5ltr"
+    ]
+  },
+  {
+    "name": "Gem'S Gold Sf Cane 5Ltr",
+    "description": "Healthy Gem'S Gold Sf Cane 5Ltr, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "5 Ltr",
+    "price": 875,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gem_s_gold_sf_cane_5ltr.png",
+    "search_tags": [
+      "cooking oils",
+      "gem's gold sf cane 5ltr",
+      "generic"
+    ]
+  },
+  {
+    "name": "Navarathina Oil",
+    "description": "Healthy Navarathina Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 10,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/navarathina_oil.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "navarathina oil"
+    ]
+  },
+  {
+    "name": "Ghee Grb 1 L",
+    "description": "Aromatic and traditional Ghee Grb 1 L with rich taste.",
+    "brand": "GRB",
+    "category": "Ghee",
+    "variant": "1 pcs",
+    "price": 952,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/ghee/ghee_grb_1_l.png",
+    "search_tags": [
+      "ghee grb 1 l",
+      "grb",
+      "நெய்",
+      "ghee",
+      "nei"
+    ]
+  },
+  {
+    "name": "Mr.Gold Coconut Oil",
+    "description": "Healthy Mr.Gold Coconut Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 205,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/mr_gold_coconut_oil.png",
+    "search_tags": [
+      "mr.gold coconut oil",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Idhayam Gingelly Oil",
+    "description": "Healthy Idhayam Gingelly Oil, perfect for your daily cooking needs.",
+    "brand": "Idhayam",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 22,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/idhayam_gingelly_oil.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "இதயம்",
+      "idhayam",
+      "idhayam gingelly oil",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Ghee Skc",
+    "description": "Healthy Ghee Skc, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 485,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_skc.png",
+    "search_tags": [
+      "cooking oils",
+      "ghee skc",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Skc 1 Ltr",
+    "description": "Healthy Ghee Skc 1 Ltr, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 980,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_skc_1_ltr.png",
+    "search_tags": [
+      "cooking oils",
+      "ghee skc 1 ltr",
+      "generic"
+    ]
+  },
+  {
+    "name": "Mr.Gold Coconut Oil Jar 1L",
+    "description": "Healthy Mr.Gold Coconut Oil Jar 1L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 295,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/mr_gold_coconut_oil_jar_1l.png",
+    "search_tags": [
+      "cooking oils",
+      "mr.gold coconut oil jar 1l",
+      "generic"
+    ]
+  },
+  {
+    "name": "Mr.Gold Coconut Oil 1L",
+    "description": "Healthy Mr.Gold Coconut Oil 1L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 295,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/mr_gold_coconut_oil_1l.png",
+    "search_tags": [
+      "cooking oils",
+      "mr.gold coconut oil 1l",
+      "generic"
+    ]
+  },
+  {
+    "name": "Mr.Gold Coconut Oil Battle 1 L",
+    "description": "Healthy Mr.Gold Coconut Oil Battle 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 409,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/mr_gold_coconut_oil_battle_1_l.png",
+    "search_tags": [
+      "cooking oils",
+      "mr.gold coconut oil battle 1 l",
+      "generic"
+    ]
+  },
+  {
+    "name": "Deepam Lamp Oil",
+    "description": "Traditional Deepam Lamp Oil for a divine and peaceful pooja.",
+    "brand": "Deepam",
+    "category": "Pooja Needs",
+    "variant": "200 ml",
+    "price": 74,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/pooja_needs/deepam_lamp_oil.png",
+    "search_tags": [
+      "தீபம்",
+      "vilakku ennai",
+      "விளக்கு எண்ணெய்",
+      "deepam lamp oil",
+      "pooja oil",
+      "pooja needs",
+      "deepam",
+      "lamp oil"
+    ]
+  },
+  {
+    "name": "Deepam Lamp Oil",
+    "description": "Traditional Deepam Lamp Oil for a divine and peaceful pooja.",
+    "brand": "Deepam",
+    "category": "Pooja Needs",
+    "variant": "250 ml",
+    "price": 69,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/pooja_needs/deepam_lamp_oil.png",
+    "search_tags": [
+      "தீபம்",
+      "vilakku ennai",
+      "விளக்கு எண்ணெய்",
+      "deepam lamp oil",
+      "pooja oil",
+      "pooja needs",
+      "deepam",
+      "lamp oil"
+    ]
+  },
+  {
+    "name": "Vvd Jar",
+    "description": "Healthy Vvd Jar, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 50,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_jar.png",
+    "search_tags": [
+      "cooking oils",
+      "vvd jar",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil"
+    ]
+  },
+  {
+    "name": "Vvd Gold Coconut Oil",
+    "description": "Healthy Vvd Gold Coconut Oil, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "150 ml",
+    "price": 45,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_gold_coconut_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "vvd gold coconut oil",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil"
+    ]
+  },
+  {
+    "name": "Vvd Gold Coconut Oil",
+    "description": "Healthy Vvd Gold Coconut Oil, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "150 ml",
+    "price": 90,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_gold_coconut_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "vvd gold coconut oil",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil"
+    ]
+  },
+  {
+    "name": "Vvd Gold Coconut Oil",
+    "description": "Healthy Vvd Gold Coconut Oil, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "40 ml",
+    "price": 30,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_gold_coconut_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "vvd gold coconut oil",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil"
+    ]
+  },
+  {
+    "name": "Ghee Rkg",
+    "description": "Aromatic and traditional Ghee Rkg with rich taste.",
+    "brand": "RKG",
+    "category": "Ghee",
+    "variant": "500 ml",
+    "price": 496,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/ghee/ghee_rkg.png",
+    "search_tags": [
+      "ghee rkg",
+      "நெய்",
+      "ghee",
+      "rkg",
+      "nei"
+    ]
+  },
+  {
+    "name": "Dabur Amla Hair Oil",
+    "description": "Nourishing Dabur Amla Hair Oil for strong and healthy hair.",
+    "brand": "Dabur Amla",
+    "category": "Hair Care",
+    "variant": "275 ml",
+    "price": 149,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/dabur_amla_hair_oil.png",
+    "search_tags": [
+      "dabur amla hair oil",
+      "நெல்லிக்காய் எண்ணெய்",
+      "hair care",
+      "dabur amla",
+      "hair oil",
+      "amla oil"
+    ]
+  },
+  {
+    "name": "Him Baby Hair Oil",
+    "description": "Healthy Him Baby Hair Oil, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 160,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/him_baby_hair_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "him baby hair oil",
+      "generic"
+    ]
+  },
+  {
+    "name": "Vvd Gold Coconut Oil Jar",
+    "description": "Healthy Vvd Gold Coconut Oil Jar, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "200 ml",
+    "price": 160,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_gold_coconut_oil_jar.png",
+    "search_tags": [
+      "cooking oils",
+      "vvd gold coconut oil jar",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil"
+    ]
+  },
+  {
+    "name": "Ghee Rkg",
+    "description": "Aromatic and traditional Ghee Rkg with rich taste.",
+    "brand": "RKG",
+    "category": "Ghee",
+    "variant": "1 pcs",
+    "price": 10,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/ghee/ghee_rkg.png",
+    "search_tags": [
+      "ghee rkg",
+      "நெய்",
+      "ghee",
+      "rkg",
+      "nei"
+    ]
+  },
+  {
+    "name": "Ghee Grp",
+    "description": "Healthy Ghee Grp, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 58,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_grp.png",
+    "search_tags": [
+      "cooking oils",
+      "ghee grp",
+      "generic"
+    ]
+  },
+  {
+    "name": "Vvd Jar",
+    "description": "Healthy Vvd Jar, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 70,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_jar.png",
+    "search_tags": [
+      "cooking oils",
+      "vvd jar",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil"
+    ]
+  },
+  {
+    "name": "Vatika",
+    "description": "Nourishing Vatika for strong and healthy hair.",
+    "brand": "Vatika",
+    "category": "Hair Care",
+    "variant": "150 ml",
+    "price": 115,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/vatika.png",
+    "search_tags": [
+      "vatika",
+      "hair oil",
+      "வாடிகா",
+      "hair care"
+    ]
+  },
+  {
+    "name": "Vvd Gold Coconut Oil Jar",
+    "description": "Healthy Vvd Gold Coconut Oil Jar, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "400 ml",
+    "price": 300,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_gold_coconut_oil_jar.png",
+    "search_tags": [
+      "cooking oils",
+      "vvd gold coconut oil jar",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil"
+    ]
+  },
+  {
+    "name": "Vvd Gold Coconut Oil",
+    "description": "Healthy Vvd Gold Coconut Oil, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "150 ml",
+    "price": 105,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_gold_coconut_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "vvd gold coconut oil",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil"
+    ]
+  },
+  {
+    "name": "Gem'S Gold",
+    "description": "Healthy Gem'S Gold, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "100 ml",
+    "price": 20,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gem_s_gold.png",
+    "search_tags": [
+      "gem's gold",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Deepam Lamp Oil",
+    "description": "Traditional Deepam Lamp Oil for a divine and peaceful pooja.",
+    "brand": "Deepam",
+    "category": "Pooja Needs",
+    "variant": "500 ml",
+    "price": 110,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/pooja_needs/deepam_lamp_oil.png",
+    "search_tags": [
+      "தீபம்",
+      "vilakku ennai",
+      "விளக்கு எண்ணெய்",
+      "deepam lamp oil",
+      "pooja oil",
+      "pooja needs",
+      "deepam",
+      "lamp oil"
+    ]
+  },
+  {
+    "name": "Vatika",
+    "description": "Nourishing Vatika for strong and healthy hair.",
+    "brand": "Vatika",
+    "category": "Hair Care",
+    "variant": "300 ml",
+    "price": 180,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/vatika.png",
+    "search_tags": [
+      "vatika",
+      "hair oil",
+      "வாடிகா",
+      "hair care"
+    ]
+  },
+  {
+    "name": "Vvd Gold Coconut Oil",
+    "description": "Healthy Vvd Gold Coconut Oil, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "150 ml",
+    "price": 120,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_gold_coconut_oil.png",
+    "search_tags": [
+      "cooking oils",
+      "vvd gold coconut oil",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil"
+    ]
+  },
+  {
+    "name": "Deepam Lamp Oil",
+    "description": "Traditional Deepam Lamp Oil for a divine and peaceful pooja.",
+    "brand": "Deepam",
+    "category": "Pooja Needs",
+    "variant": "1 Ltr",
+    "price": 230,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/pooja_needs/deepam_lamp_oil.png",
+    "search_tags": [
+      "தீபம்",
+      "vilakku ennai",
+      "விளக்கு எண்ணெய்",
+      "deepam lamp oil",
+      "pooja oil",
+      "pooja needs",
+      "deepam",
+      "lamp oil"
+    ]
+  },
+  {
+    "name": "Deepam Lamp Oil",
+    "description": "Traditional Deepam Lamp Oil for a divine and peaceful pooja.",
+    "brand": "Deepam",
+    "category": "Pooja Needs",
+    "variant": "1 Ltr",
+    "price": 230,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/pooja_needs/deepam_lamp_oil.png",
+    "search_tags": [
+      "தீபம்",
+      "vilakku ennai",
+      "விளக்கு எண்ணெய்",
+      "deepam lamp oil",
+      "pooja oil",
+      "pooja needs",
+      "deepam",
+      "lamp oil"
+    ]
+  },
+  {
+    "name": "Gem'S Gold Gingelly 1 L",
+    "description": "Healthy Gem'S Gold Gingelly 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 425,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gem_s_gold_gingelly_1_l.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "gem's gold gingelly 1 l",
+      "generic",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Gem'S Gold Mustard 1 L",
+    "description": "Healthy Gem'S Gold Mustard 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 299,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gem_s_gold_mustard_1_l.png",
+    "search_tags": [
+      "cooking oils",
+      "generic",
+      "கடுகு எண்ணெய்",
+      "mustard oil",
+      "gem's gold mustard 1 l",
+      "kadugu ennai"
+    ]
+  },
+  {
+    "name": "Gem'S Gold Mustard Kadugu 1 L",
+    "description": "Healthy Gem'S Gold Mustard Kadugu 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 299,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gem_s_gold_mustard_kadugu_1_l.png",
+    "search_tags": [
+      "cooking oils",
+      "generic",
+      "கடுகு எண்ணெய்",
+      "mustard oil",
+      "gem's gold mustard kadugu 1 l",
+      "kadugu ennai"
+    ]
+  },
+  {
+    "name": "Gem'S Gold Gingelly Nallanai 1 L",
+    "description": "Healthy Gem'S Gold Gingelly Nallanai 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 425,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gem_s_gold_gingelly_nallanai_1_l.png",
+    "search_tags": [
+      "sesame oil",
+      "cooking oils",
+      "gingelly oil",
+      "gem's gold gingelly nallanai 1 l",
+      "generic",
+      "nallennai",
+      "நல்லெண்ணெய்"
+    ]
+  },
+  {
+    "name": "Coconut Punch",
+    "description": "Healthy Coconut Punch, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 pcs",
+    "price": 100,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/coconut_punch.png",
+    "search_tags": [
+      "cooking oils",
+      "coconut punch",
+      "generic"
+    ]
+  },
+  {
+    "name": "Vasmol Black Hair Oil",
+    "description": "Nourishing Vasmol Black Hair Oil for strong and healthy hair.",
+    "brand": "Vasmol",
+    "category": "Hair Care",
+    "variant": "100 ml",
+    "price": 65,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/vasmol_black_hair_oil.png",
+    "search_tags": [
+      "vasmol",
+      "black hair",
+      "hair care",
+      "வாஸ்மோல்",
+      "hair oil",
+      "vasmol black hair oil"
+    ]
+  },
+  {
+    "name": "Ghee Grp Jar",
+    "description": "Healthy Ghee Grp Jar, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "200 ml",
+    "price": 202,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_grp_jar.png",
+    "search_tags": [
+      "ghee grp jar",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Vvd Gold Coconut Oil Jar",
+    "description": "Healthy Vvd Gold Coconut Oil Jar, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "30 ml",
+    "price": 30,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_gold_coconut_oil_jar.png",
+    "search_tags": [
+      "cooking oils",
+      "vvd gold coconut oil jar",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil"
+    ]
+  },
+  {
+    "name": "Vvd Gold Coconut Oil Jar",
+    "description": "Healthy Vvd Gold Coconut Oil Jar, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "30 ml",
+    "price": 20,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_gold_coconut_oil_jar.png",
+    "search_tags": [
+      "cooking oils",
+      "vvd gold coconut oil jar",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil"
+    ]
+  },
+  {
+    "name": "Vatika",
+    "description": "Nourishing Vatika for strong and healthy hair.",
+    "brand": "Vatika",
+    "category": "Hair Care",
+    "variant": "85 ml",
+    "price": 45,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/vatika.png",
+    "search_tags": [
+      "vatika",
+      "hair oil",
+      "வாடிகா",
+      "hair care"
+    ]
+  },
+  {
+    "name": "Gem'S Gold (Ma) 1 L S.B Jar",
+    "description": "Healthy Gem'S Gold (Ma) 1 L S.B Jar, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 250,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gem_s_gold_ma_1_l_s_b_jar.png",
+    "search_tags": [
+      "cooking oils",
+      "gem's gold (ma) 1 l s.b jar",
+      "generic"
+    ]
+  },
+  {
+    "name": "Gem'S Gold (Ma) 1 L N.B Jar",
+    "description": "Healthy Gem'S Gold (Ma) 1 L N.B Jar, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 240,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gem_s_gold_ma_1_l_n_b_jar.png",
+    "search_tags": [
+      "gem's gold (ma) 1 l n.b jar",
+      "cooking oils",
+      "generic"
+    ]
+  },
+  {
+    "name": "Gem'S Gold Sf Cane 5Ltr Combo",
+    "description": "Healthy Gem'S Gold Sf Cane 5Ltr Combo, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "5 Ltr",
+    "price": 1075,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/gem_s_gold_sf_cane_5ltr_combo.png",
+    "search_tags": [
+      "cooking oils",
+      "gem's gold sf cane 5ltr combo",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Rkg",
+    "description": "Aromatic and traditional Ghee Rkg with rich taste.",
+    "brand": "RKG",
+    "category": "Ghee",
+    "variant": "200 ml",
+    "price": 205,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/ghee/ghee_rkg.png",
+    "search_tags": [
+      "ghee rkg",
+      "நெய்",
+      "ghee",
+      "rkg",
+      "nei"
+    ]
+  },
+  {
+    "name": "Sekku Na.Ennai",
+    "description": "Healthy Sekku Na.Ennai, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "200 ml",
+    "price": 100,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/sekku_na_ennai.png",
+    "search_tags": [
+      "cooking oils",
+      "sekku na.ennai",
+      "generic"
+    ]
+  },
+  {
+    "name": "Vvd Coconut Oil (40Ps)",
+    "description": "Healthy Vvd Coconut Oil (40Ps), perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "40 pcs",
+    "price": 80,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_coconut_oil_40ps.png",
+    "search_tags": [
+      "cooking oils",
+      "vvd coconut oil (40ps)",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil"
+    ]
+  },
+  {
+    "name": "Ghee Grb",
+    "description": "Aromatic and traditional Ghee Grb with rich taste.",
+    "brand": "GRB",
+    "category": "Ghee",
+    "variant": "100 ml",
+    "price": 110,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/ghee/ghee_grb.png",
+    "search_tags": [
+      "grb",
+      "நெய்",
+      "ghee",
+      "nei",
+      "ghee grb"
+    ]
+  },
+  {
+    "name": "Zandu Palm (G)",
+    "description": "Healthy Zandu Palm (G), perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "8 ml",
+    "price": 45,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/zandu_palm_g.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "zandu palm (g)"
+    ]
+  },
+  {
+    "name": "Vvd Gold Lite Coconut Oil Jar",
+    "description": "Healthy Vvd Gold Lite Coconut Oil Jar, perfect for your daily cooking needs.",
+    "brand": "VVD",
+    "category": "Cooking Oils",
+    "variant": "500 ml",
+    "price": 310,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/vvd_gold_lite_coconut_oil_jar.png",
+    "search_tags": [
+      "cooking oils",
+      "thengai ennai",
+      "vvd",
+      "தேங்காய் எண்ணெய்",
+      "coconut oil",
+      "vvd gold lite coconut oil jar"
+    ]
+  },
+  {
+    "name": "Vatika Hibiscus",
+    "description": "Nourishing Vatika Hibiscus for strong and healthy hair.",
+    "brand": "Vatika",
+    "category": "Hair Care",
+    "variant": "300 ml",
+    "price": 235,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/vatika_hibiscus.png",
+    "search_tags": [
+      "வாடிகா",
+      "hair care",
+      "hair oil",
+      "vatika hibiscus",
+      "vatika"
+    ]
+  },
+  {
+    "name": "Ghee Grb",
+    "description": "Aromatic and traditional Ghee Grb with rich taste.",
+    "brand": "GRB",
+    "category": "Ghee",
+    "variant": "50 ml",
+    "price": 58,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/ghee/ghee_grb.png",
+    "search_tags": [
+      "grb",
+      "நெய்",
+      "ghee",
+      "nei",
+      "ghee grb"
+    ]
+  },
+  {
+    "name": "Ghee Grb Jar",
+    "description": "Aromatic and traditional Ghee Grb Jar with rich taste.",
+    "brand": "GRB",
+    "category": "Ghee",
+    "variant": "200 ml",
+    "price": 202,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/ghee/ghee_grb_jar.png",
+    "search_tags": [
+      "grb",
+      "நெய்",
+      "ghee",
+      "ghee grb jar",
+      "nei"
+    ]
+  },
+  {
+    "name": "Vatika Hair Oil",
+    "description": "Nourishing Vatika Hair Oil for strong and healthy hair.",
+    "brand": "Vatika",
+    "category": "Hair Care",
+    "variant": "300 ml",
+    "price": 207,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/vatika_hair_oil.png",
+    "search_tags": [
+      "வாடிகா",
+      "hair care",
+      "hair oil",
+      "vatika hair oil",
+      "vatika"
+    ]
+  },
+  {
+    "name": "Vatika Hair Oil",
+    "description": "Nourishing Vatika Hair Oil for strong and healthy hair.",
+    "brand": "Vatika",
+    "category": "Hair Care",
+    "variant": "150 ml",
+    "price": 115,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/vatika_hair_oil.png",
+    "search_tags": [
+      "வாடிகா",
+      "hair care",
+      "hair oil",
+      "vatika hair oil",
+      "vatika"
+    ]
+  },
+  {
+    "name": "Ras Vilakkennai Jar",
+    "description": "Healthy Ras Vilakkennai Jar, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 25,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ras_vilakkennai_jar.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "ras vilakkennai jar"
+    ]
+  },
+  {
+    "name": "Sekku Na.Ennai 1 L",
+    "description": "Healthy Sekku Na.Ennai 1 L, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "1 Ltr",
+    "price": 425,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/sekku_na_ennai_1_l.png",
+    "search_tags": [
+      "generic",
+      "cooking oils",
+      "sekku na.ennai 1 l"
+    ]
+  },
+  {
+    "name": "Vatika Hair Oil",
+    "description": "Nourishing Vatika Hair Oil for strong and healthy hair.",
+    "brand": "Vatika",
+    "category": "Hair Care",
+    "variant": "80 ml",
+    "price": 60,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/hair_care/vatika_hair_oil.png",
+    "search_tags": [
+      "வாடிகா",
+      "hair care",
+      "hair oil",
+      "vatika hair oil",
+      "vatika"
+    ]
+  },
+  {
+    "name": "Muyal Vilakenai Ras Jar",
+    "description": "Healthy Muyal Vilakenai Ras Jar, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "50 ml",
+    "price": 25,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/muyal_vilakenai_ras_jar.png",
+    "search_tags": [
+      "cooking oils",
+      "muyal vilakenai ras jar",
+      "generic"
+    ]
+  },
+  {
+    "name": "Fortune Sf",
+    "description": "Healthy Fortune Sf, perfect for your daily cooking needs.",
+    "brand": "Fortune",
+    "category": "Cooking Oils",
+    "variant": "840 ml",
+    "price": 165,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/fortune_sf.png",
+    "search_tags": [
+      "cooking oils",
+      "fortune",
+      "சூரியகாந்தி எண்ணெய்",
+      "fortune sf",
+      "sunflower oil"
+    ]
+  },
+  {
+    "name": "Ghee Gvk Jar",
+    "description": "Healthy Ghee Gvk Jar, perfect for your daily cooking needs.",
+    "brand": "Generic",
+    "category": "Cooking Oils",
+    "variant": "200 ml",
+    "price": 200,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_oils/ghee_gvk_jar.png",
+    "search_tags": [
+      "cooking oils",
+      "ghee gvk jar",
+      "generic"
+    ]
+  },
+  {
+    "name": "Ghee Rkg",
+    "description": "Aromatic and traditional Ghee Rkg with rich taste.",
+    "brand": "RKG",
+    "category": "Ghee",
+    "variant": "100 ml",
+    "price": 106,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/ghee/ghee_rkg.png",
+    "search_tags": [
+      "ghee rkg",
+      "நெய்",
+      "ghee",
+      "rkg",
+      "nei"
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Cigaretee Gold Flake",
+    "description": "Premium Cigaretee Gold Flake.",
+    "brand": "Gold Flake",
+    "category": "Tobacco",
+    "variant": "1 pcs",
+    "price": 50,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/tobacco/cigaretee_gold_flake.png",
+    "search_tags": [
+      "cigarette",
+      "cigaretee gold flake",
+      "கோல்ட் ஃப்ளேக்",
+      "gold flake",
+      "tobacco"
+    ],
+    "subCategory": "General",
+    "mrp": 55,
+    "discount": 9
+  },
+  {
+    "name": "Cc Gold Flake",
+    "description": "Premium Cc Gold Flake.",
+    "brand": "Gold Flake",
+    "category": "Tobacco",
+    "variant": "1 pcs",
+    "price": 60,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/tobacco/cc_gold_flake.png",
+    "search_tags": [
+      "cc gold flake",
+      "cigarette",
+      "கோல்ட் ஃப்ளேக்",
+      "gold flake",
+      "tobacco"
+    ],
+    "subCategory": "General",
+    "mrp": 66,
+    "discount": 9
+  },
+  {
+    "name": "Cc Wills",
+    "description": "Premium Cc Wills.",
+    "brand": "Wills",
+    "category": "Tobacco",
+    "variant": "1 pcs",
+    "price": 95,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/tobacco/cc_wills.png",
+    "search_tags": [
+      "cc wills",
+      "வில்ஸ்",
+      "cigarette",
+      "wills",
+      "tobacco"
+    ],
+    "subCategory": "General",
+    "mrp": 105,
+    "discount": 10
+  }
+]

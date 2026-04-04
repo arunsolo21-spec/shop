@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "name": "Ginger Garlic Paste",
+    "brand": "Generic",
+    "category": "Cooking Pastes",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 5,
+      "mrp": 6,
+      "discount": 17,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality cooking paste and sauce for flavorful dishes.",
+      "long": "Premium quality cooking paste and sauce for flavorful dishes. Made from quality ingredients for authentic taste. Perfect for various recipes and cooking. Adds richness to your meals. Trusted brand for kitchen essentials. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/cooking_pastes/ginger_garlic_paste.png",
+        "alt": "Ginger Garlic Paste",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "cooking paste",
+        "sauce",
+        "flavorful",
+        "recipes",
+        "cooking",
+        "kitchen",
+        "quality",
+        "ginger",
+        "garlic",
+        "paste",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "cooking paste",
+        "sauce",
+        "flavorful",
+        "recipes",
+        "cooking",
+        "kitchen",
+        "quality",
+        "ginger",
+        "garlic",
+        "paste",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 2,
+    "name": "Ginger Garlic Paste",
+    "brand": "Generic",
+    "category": "Cooking Pastes",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 50,
+      "mrp": 55,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality cooking paste and sauce for flavorful dishes.",
+      "long": "Premium quality cooking paste and sauce for flavorful dishes. Made from quality ingredients for authentic taste. Perfect for various recipes and cooking. Adds richness to your meals. Trusted brand for kitchen essentials. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/cooking_pastes/ginger_garlic_paste.png",
+        "alt": "Ginger Garlic Paste",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "cooking paste",
+        "sauce",
+        "flavorful",
+        "recipes",
+        "cooking",
+        "kitchen",
+        "quality",
+        "ginger",
+        "garlic",
+        "paste",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "cooking paste",
+        "sauce",
+        "flavorful",
+        "recipes",
+        "cooking",
+        "kitchen",
+        "quality",
+        "ginger",
+        "garlic",
+        "paste",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 3,
+    "name": "Ginger Garlic Paste",
+    "brand": "Generic",
+    "category": "Cooking Pastes",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 2,
+      "mrp": 2,
+      "discount": 0,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality cooking paste and sauce for flavorful dishes.",
+      "long": "Premium quality cooking paste and sauce for flavorful dishes. Made from quality ingredients for authentic taste. Perfect for various recipes and cooking. Adds richness to your meals. Trusted brand for kitchen essentials. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/cooking_pastes/ginger_garlic_paste.png",
+        "alt": "Ginger Garlic Paste",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "cooking paste",
+        "sauce",
+        "flavorful",
+        "recipes",
+        "cooking",
+        "kitchen",
+        "quality",
+        "ginger",
+        "garlic",
+        "paste",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "cooking paste",
+        "sauce",
+        "flavorful",
+        "recipes",
+        "cooking",
+        "kitchen",
+        "quality",
+        "ginger",
+        "garlic",
+        "paste",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  }
+]

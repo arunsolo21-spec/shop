@@ -1,0 +1,618 @@
+[
+  {
+    "id": 1,
+    "name": "Healthmix Ramanas 500G",
+    "brand": "Generic",
+    "category": "Health Drinks",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 220,
+      "mrp": 242,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality health and wellness product for daily care and vitality.",
+      "long": "Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_drinks/healthmix_ramanas_500g.png",
+        "alt": "Healthmix Ramanas 500G",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "healthmix",
+        "ramanas",
+        "500g",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "healthmix",
+        "ramanas",
+        "500g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 2,
+    "name": "Healthmix Rama(Thani Varu)1Kg",
+    "brand": "Generic",
+    "category": "Health Drinks",
+    "subCategory": "Default",
+    "variant": "1 kg",
+    "pricing": {
+      "price": 210,
+      "mrp": 231,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality health and wellness product for daily care and vitality.",
+      "long": "Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 kg."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_drinks/healthmix_rama_thani_varu_1kg.png",
+        "alt": "Healthmix Rama(Thani Varu)1Kg",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "healthmix",
+        "rama(thani",
+        "varu)1kg",
+        "grams",
+        "g",
+        "kilogram",
+        "kg"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "healthmix",
+        "rama(thani",
+        "varu)1kg",
+        "g",
+        "kg"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 3,
+    "name": "Manna Health Mix 500G",
+    "brand": "Manna",
+    "category": "Health Drinks",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 285,
+      "mrp": 314,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Manna - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Manna - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_drinks/manna_health_mix_500g.png",
+        "alt": "Manna Health Mix 500G",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "manna",
+        "500g",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "manna",
+        "500g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 4,
+    "name": "Medimix Ayurvedic 75G Set",
+    "brand": "Generic",
+    "category": "Health Drinks",
+    "subCategory": "Ayurvedic",
+    "variant": "75 g",
+    "pricing": {
+      "price": 96,
+      "mrp": 106,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Traditional ayurvedic product for natural health and wellness.",
+      "long": "Traditional ayurvedic product for natural health and wellness. Made with authentic herbs and natural ingredients. Perfect for holistic healing and prevention. Time-tested formulas. Trusted brand for ayurvedic care. Pack size: 75 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_drinks/medimix_ayurvedic_75g_set.png",
+        "alt": "Medimix Ayurvedic 75G Set",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "ayurvedic",
+        "herbal",
+        "natural",
+        "traditional",
+        "wellness",
+        "holistic",
+        "healing",
+        "herbs",
+        "medimix",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "ayurvedic",
+        "herbal",
+        "natural",
+        "traditional",
+        "wellness",
+        "healing",
+        "herbs",
+        "medimix",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 5,
+    "name": "Medimix Ayurvedic 75G",
+    "brand": "Generic",
+    "category": "Health Drinks",
+    "subCategory": "Ayurvedic",
+    "variant": "75 g",
+    "pricing": {
+      "price": 32,
+      "mrp": 35,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Traditional ayurvedic product for natural health and wellness.",
+      "long": "Traditional ayurvedic product for natural health and wellness. Made with authentic herbs and natural ingredients. Perfect for holistic healing and prevention. Time-tested formulas. Trusted brand for ayurvedic care. Pack size: 75 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_drinks/medimix_ayurvedic_75g.png",
+        "alt": "Medimix Ayurvedic 75G",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "ayurvedic",
+        "herbal",
+        "natural",
+        "traditional",
+        "wellness",
+        "holistic",
+        "healing",
+        "herbs",
+        "medimix",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "ayurvedic",
+        "herbal",
+        "natural",
+        "traditional",
+        "wellness",
+        "healing",
+        "herbs",
+        "medimix",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 6,
+    "name": "Healthmix J K 500G",
+    "brand": "Generic",
+    "category": "Health Drinks",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 200,
+      "mrp": 220,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality health and wellness product for daily care and vitality.",
+      "long": "Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_drinks/healthmix_j_k_500g.png",
+        "alt": "Healthmix J K 500G",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "healthmix",
+        "500g",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "healthmix",
+        "500g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 7,
+    "name": "Mixed Dry Fruit",
+    "brand": "Generic",
+    "category": "Health Drinks",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 250,
+      "mrp": 275,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality health and wellness product for daily care and vitality.",
+      "long": "Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_drinks/mixed_dry_fruit.png",
+        "alt": "Mixed Dry Fruit",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "mixed",
+        "fruit",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "mixed",
+        "fruit",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 8,
+    "name": "Manna Health Mix 250G",
+    "brand": "Manna",
+    "category": "Health Drinks",
+    "subCategory": "Default",
+    "variant": "250 g",
+    "pricing": {
+      "price": 169,
+      "mrp": 186,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Manna - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Manna - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 250 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_drinks/manna_health_mix_250g.png",
+        "alt": "Manna Health Mix 250G",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "manna",
+        "250g",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "manna",
+        "250g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 9,
+    "name": "Healthmix Jk 500G",
+    "brand": "Generic",
+    "category": "Health Drinks",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 200,
+      "mrp": 220,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality health and wellness product for daily care and vitality.",
+      "long": "Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_drinks/healthmix_jk_500g.png",
+        "alt": "Healthmix Jk 500G",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "healthmix",
+        "500g",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "healthmix",
+        "500g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 10,
+    "name": "Medimix Ayurvedic 125Gm",
+    "brand": "Generic",
+    "category": "Health Drinks",
+    "subCategory": "Ayurvedic",
+    "variant": "125 g",
+    "pricing": {
+      "price": 47,
+      "mrp": 52,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Traditional ayurvedic product for natural health and wellness.",
+      "long": "Traditional ayurvedic product for natural health and wellness. Made with authentic herbs and natural ingredients. Perfect for holistic healing and prevention. Time-tested formulas. Trusted brand for ayurvedic care. Pack size: 125 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_drinks/medimix_ayurvedic_125gm.png",
+        "alt": "Medimix Ayurvedic 125Gm",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "ayurvedic",
+        "herbal",
+        "natural",
+        "traditional",
+        "wellness",
+        "holistic",
+        "healing",
+        "herbs",
+        "medimix",
+        "125gm",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "ayurvedic",
+        "herbal",
+        "natural",
+        "traditional",
+        "wellness",
+        "healing",
+        "herbs",
+        "medimix",
+        "125gm",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  }
+]

@@ -1,0 +1,165 @@
+[
+  {
+    "id": 1,
+    "name": "Cigaretee Gold Flake",
+    "brand": "Gold Flake",
+    "category": "Tobacco",
+    "subCategory": "General",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 50,
+      "mrp": 55,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Gold Flake - Tobacco product for adult consumers.",
+      "long": "Gold Flake - Tobacco product for adult consumers. Made with quality standards. For adult use only. Please consume responsibly. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/tobacco/cigaretee_gold_flake.png",
+        "alt": "Cigaretee Gold Flake",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "tobacco",
+        "adult",
+        "consumer",
+        "gold flake",
+        "cigaretee",
+        "gold",
+        "flake",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "tobacco",
+        "adult",
+        "consumer",
+        "gold flake",
+        "cigaretee",
+        "gold",
+        "flake",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 2,
+    "name": "Cc Gold Flake",
+    "brand": "Gold Flake",
+    "category": "Tobacco",
+    "subCategory": "General",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 60,
+      "mrp": 66,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Gold Flake - Tobacco product for adult consumers.",
+      "long": "Gold Flake - Tobacco product for adult consumers. Made with quality standards. For adult use only. Please consume responsibly. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/tobacco/cc_gold_flake.png",
+        "alt": "Cc Gold Flake",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "tobacco",
+        "adult",
+        "consumer",
+        "gold flake",
+        "gold",
+        "flake",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "tobacco",
+        "adult",
+        "consumer",
+        "gold flake",
+        "gold",
+        "flake",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 3,
+    "name": "Cc Wills",
+    "brand": "Wills",
+    "category": "Tobacco",
+    "subCategory": "General",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 95,
+      "mrp": 105,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Wills - Tobacco product for adult consumers.",
+      "long": "Wills - Tobacco product for adult consumers. Made with quality standards. For adult use only. Please consume responsibly. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/tobacco/cc_wills.png",
+        "alt": "Cc Wills",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "tobacco",
+        "adult",
+        "consumer",
+        "wills",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "tobacco",
+        "adult",
+        "consumer",
+        "wills",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  }
+]

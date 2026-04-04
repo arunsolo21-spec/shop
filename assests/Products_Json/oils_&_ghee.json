@@ -1,0 +1,3638 @@
+[
+    {
+        "original_name": "oil goldwinner1/2 ltr box ",
+        "clean_name": "Oil Goldwinner1 Box",
+        "brand": "Oil",
+        "size": 2.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 2100.0
+    },
+    {
+        "original_name": "nei Rs10.saram(25pcs)",
+        "clean_name": "Nei Saram",
+        "brand": "Nei",
+        "size": 25.0,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 250.0
+    },
+    {
+        "original_name": "nei udhayakishna 50.jar",
+        "clean_name": "Nei Udhayakishna 50Jar",
+        "brand": "Nei",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 43.0
+    },
+    {
+        "original_name": "nei udhayakiru 100jar",
+        "clean_name": "Nei Udhayakiru",
+        "brand": "Nei",
+        "size": 100.0,
+        "unit": "jar",
+        "category": "Oils & Ghee",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "oil vilakennai 50ml",
+        "clean_name": "Oil Vilakennai",
+        "brand": "Oil",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "oil vilakkennai 500ml",
+        "clean_name": "Oil Vilakkennai",
+        "brand": "Oil",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "oil sas 1lit",
+        "clean_name": "Oil Sas",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "oil sas 1lit pkt",
+        "clean_name": "Oil Sas  Pkt",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 180.0
+    },
+    {
+        "original_name": "oil sas 1.lit box",
+        "clean_name": "Oil Sas 1Lit Box",
+        "brand": "Oil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 1700.0
+    },
+    {
+        "original_name": "oil kanapathi 1.ltr box",
+        "clean_name": "Oil Kanapathi 1Ltr Box",
+        "brand": "Oil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 1800.0
+    },
+    {
+        "original_name": "oil kanapathi 500ml box",
+        "clean_name": "Oil Kanapathi  Box",
+        "brand": "Oil",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 1800.0
+    },
+    {
+        "original_name": "dabur amla hair.oil 275ml ",
+        "clean_name": "Dabur Amla HairOil",
+        "brand": "Dabur",
+        "size": 275.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 138.0
+    },
+    {
+        "original_name": "dabur amla hair.oil 180ml",
+        "clean_name": "Dabur Amla HairOil",
+        "brand": "Dabur",
+        "size": 180.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 105.0
+    },
+    {
+        "original_name": "dabur amla hair.oil 110ml",
+        "clean_name": "Dabur Amla HairOil",
+        "brand": "Dabur",
+        "size": 110.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 52.0
+    },
+    {
+        "original_name": "vasmol hair oil 50ml",
+        "clean_name": "Vasmol Hair Oil",
+        "brand": "Vasmol",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "vasmol hair oil 100ml",
+        "clean_name": "Vasmol Hair Oil",
+        "brand": "Vasmol",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 48.0
+    },
+    {
+        "original_name": "oil sekku ma.ennai 1/2ltr",
+        "clean_name": "Oil Sekku MaEnnai 1",
+        "brand": "Oil",
+        "size": 2.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 125.0
+    },
+    {
+        "original_name": "oil sekku vilakku ennaie1/2ltr",
+        "clean_name": "Oil Sekku Vilakku Ennaie1",
+        "brand": "Oil",
+        "size": 2.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "oil sekku vilakku ennai.1.ltr bottle",
+        "clean_name": "Oil Sekku Vilakku Ennai1Ltr Bottle",
+        "brand": "Oil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 230.0
+    },
+    {
+        "original_name": "VVD gold coco.oil 500ml",
+        "clean_name": "Vvd Gold CocoOil",
+        "brand": "Vvd",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 210.0
+    },
+    {
+        "original_name": "VVD gold coco.oil 250ml",
+        "clean_name": "Vvd Gold CocoOil",
+        "brand": "Vvd",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 105.0
+    },
+    {
+        "original_name": "VVD gold coco.oil 100ml",
+        "clean_name": "Vvd Gold CocoOil",
+        "brand": "Vvd",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "VVD gold coco.oil Rs.10 (1case)",
+        "clean_name": "Vvd Gold CocoOil 1Case",
+        "brand": "Vvd",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "VVD gold coco.oil Rs.10",
+        "clean_name": "Vvd Gold CocoOil",
+        "brand": "Vvd",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "VVD gold coco.oil Rs.10 1pcs",
+        "clean_name": "Vvd Gold CocoOil",
+        "brand": "Vvd",
+        "size": 1.0,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "theepam yennaie 1/2ltr",
+        "clean_name": "Theepam Yennaie 1",
+        "brand": "Theepam",
+        "size": 2.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "goldwinner 1.ltr ",
+        "clean_name": "Goldwinner 1Ltr",
+        "brand": "Goldwinner",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 190.0
+    },
+    {
+        "original_name": "oil deepam Rs.20",
+        "clean_name": "Oil Deepam",
+        "brand": "Oil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "oil sas nallennai 100ml",
+        "clean_name": "Oil Sas Nallennai",
+        "brand": "Oil",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 16.0
+    },
+    {
+        "original_name": "oil vvd coconut 500ml",
+        "clean_name": "Oil Vvd Coconut",
+        "brand": "Oil",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 145.0
+    },
+    {
+        "original_name": "meera coco oil Rs.1",
+        "clean_name": "Meera Coco Oil",
+        "brand": "Meera",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 1.0
+    },
+    {
+        "original_name": "meera coco oil Rs.1 saram",
+        "clean_name": "Meera Coco Oil Saram",
+        "brand": "Meera",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "oil gems.gold(sf) 1.ltr",
+        "clean_name": "Oil GemsGoldSf 1Ltr",
+        "brand": "Oil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 223.0
+    },
+    {
+        "original_name": "oil gems.gold 500ml",
+        "clean_name": "Oil GemsGold",
+        "brand": "Oil",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 83.0
+    },
+    {
+        "original_name": "oil idhayam nallannai(100ml)",
+        "clean_name": "Oil Idhayam Nallannai",
+        "brand": "Oil",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "oil idhayam nallaennai(50ml)",
+        "clean_name": "Oil Idhayam Nallaennai",
+        "brand": "Oil",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 17.0
+    },
+    {
+        "original_name": "karthika hair oil 50ml",
+        "clean_name": "Karthika Hair Oil",
+        "brand": "Karthika",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "karthika hair oil 100ml",
+        "clean_name": "Karthika Hair Oil",
+        "brand": "Karthika",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 69.0
+    },
+    {
+        "original_name": "johnsons baby oil 100ml",
+        "clean_name": "Johnsons Baby Oil",
+        "brand": "Johnsons",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 140.0
+    },
+    {
+        "original_name": "johnson baby oil 50ml",
+        "clean_name": "Johnson Baby Oil",
+        "brand": "Johnson",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 62.0
+    },
+    {
+        "original_name": "oil goldwinner vanaspathi 500ml",
+        "clean_name": "Oil Goldwinner Vanaspathi",
+        "brand": "Oil",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 84.0
+    },
+    {
+        "original_name": "nei aachi 1ltr",
+        "clean_name": "Nei Aachi",
+        "brand": "Nei",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 896.0
+    },
+    {
+        "original_name": "vanaspathi(abi) dalda 500ml",
+        "clean_name": "VanaspathiAbi Dalda",
+        "brand": "Vanaspathi(Abi)",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "vanaspathi(abi) dalda 1.ltr",
+        "clean_name": "VanaspathiAbi Dalda 1Ltr",
+        "brand": "Vanaspathi(Abi)",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "vanaspathi(abi)dalda 200ml",
+        "clean_name": "VanaspathiAbiDalda",
+        "brand": "Vanaspathi(Abi)Dalda",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "muyal vilakkenna 100ml",
+        "clean_name": "Muyal Vilakkenna",
+        "brand": "Muyal",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "vanaspathi(abi) dalda 100ml",
+        "clean_name": "VanaspathiAbi Dalda",
+        "brand": "Vanaspathi(Abi)",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "vanaspathi(abi) dalda 50ml",
+        "clean_name": "VanaspathiAbi Dalda",
+        "brand": "Vanaspathi(Abi)",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "vanaspathi(gold.w)dalda 500ml",
+        "clean_name": "VanaspathiGoldWDalda",
+        "brand": "Vanaspathi(Gold.W)Dalda",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 163.0
+    },
+    {
+        "original_name": "vanaspathi(gold.w)dalda1/2kg",
+        "clean_name": "VanaspathiGoldWDalda1",
+        "brand": "Vanaspathi(Gold.W)Dalda1/",
+        "size": 2.0,
+        "unit": "kg",
+        "category": "Oils & Ghee",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "nei Rs.10 udhayakiru",
+        "clean_name": "Nei Udhayakiru",
+        "brand": "Nei",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "nei Rs10 aachi",
+        "clean_name": "Nei Aachi",
+        "brand": "Nei",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "oil goldwinner 500ml",
+        "clean_name": "Oil Goldwinner",
+        "brand": "Oil",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 94.0
+    },
+    {
+        "original_name": "oil goldwinner 1.ltr box",
+        "clean_name": "Oil Goldwinner 1Ltr Box",
+        "brand": "Oil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 2100.0
+    },
+    {
+        "original_name": "oil vilakkennai muyal 500ml",
+        "clean_name": "Oil Vilakkennai Muyal",
+        "brand": "Oil",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "oil idhayam nallannai200ml ",
+        "clean_name": "Oil Idhayam Nallannai",
+        "brand": "Oil",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "oil idhayam nallannai 1.ltr bottle",
+        "clean_name": "Oil Idhayam Nallannai 1Ltr Bottle",
+        "brand": "Oil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 492.0
+    },
+    {
+        "original_name": "oil idhayam mantra (M) 1.ltr bottle",
+        "clean_name": "Oil Idhayam Mantra M 1Ltr Bottle",
+        "brand": "Oil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 225.0
+    },
+    {
+        "original_name": "oil palmolein 15ltr(tin)",
+        "clean_name": "Oil Palmolein Tin",
+        "brand": "Oil",
+        "size": 15.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 2700.0
+    },
+    {
+        "original_name": "VVD pouch 500ml",
+        "clean_name": "Vvd Pouch",
+        "brand": "Vvd",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 205.0
+    },
+    {
+        "original_name": "oil gold king Rs.10",
+        "clean_name": "Oil Gold King",
+        "brand": "Oil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "oil gold king Rs.10 saram",
+        "clean_name": "Oil Gold King Saram",
+        "brand": "Oil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "nei aachi gee Rs.10 saram",
+        "clean_name": "Nei Aachi Gee Saram",
+        "brand": "Nei",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "oil saffola 1ltr",
+        "clean_name": "Oil Saffola",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 170.0
+    },
+    {
+        "original_name": "oil samayal 100ml saram",
+        "clean_name": "Oil Samayal  Saram",
+        "brand": "Oil",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "vennai",
+        "clean_name": "Vennai",
+        "brand": "Vennai",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 700.0
+    },
+    {
+        "original_name": "navarathina oil Rs.1 saram",
+        "clean_name": "Navarathina Oil Saram",
+        "brand": "Navarathina",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 24.0
+    },
+    {
+        "original_name": "oil deepa yennai 400ml",
+        "clean_name": "Oil Deepa Yennai",
+        "brand": "Oil",
+        "size": 400.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "VVD gold 175ml Rs.75",
+        "clean_name": "Vvd Gold",
+        "brand": "Vvd",
+        "size": 175.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "gems Rs.5",
+        "clean_name": "Gems",
+        "brand": "Gems",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "nei aachi 200ml ",
+        "clean_name": "Nei Aachi",
+        "brand": "Nei",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 192.0
+    },
+    {
+        "original_name": "theepam yennaie 50ml saram",
+        "clean_name": "Theepam Yennaie  Saram",
+        "brand": "Theepam",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "vanaspathi(gold.w)dalda 1ltr",
+        "clean_name": "VanaspathiGoldWDalda",
+        "brand": "Vanaspathi(Gold.W)Dalda",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 163.0
+    },
+    {
+        "original_name": "oil idhayam mantra (M) 2.ltr bottle",
+        "clean_name": "Oil Idhayam Mantra M 2Ltr Bottle",
+        "brand": "Oil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 387.0
+    },
+    {
+        "original_name": "oil muyal vilakenai 50ml",
+        "clean_name": "Oil Muyal Vilakenai",
+        "brand": "Oil",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "oil R",
+        "clean_name": "Oil R",
+        "brand": "Oil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 1400.0
+    },
+    {
+        "original_name": "oil R box",
+        "clean_name": "Oil R Box",
+        "brand": "Oil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 1400.0
+    },
+    {
+        "original_name": "theepam yennaie 200ML",
+        "clean_name": "Theepam Yennaie",
+        "brand": "Theepam",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "vasmol hair oil 200ML",
+        "clean_name": "Vasmol Hair Oil",
+        "brand": "Vasmol",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "muyal vilakenai 50ml saram",
+        "clean_name": "Muyal Vilakenai  Saram",
+        "brand": "Muyal",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 250.0
+    },
+    {
+        "original_name": "oil idhayam nallennai 50ml saram",
+        "clean_name": "Oil Idhayam Nallennai  Saram",
+        "brand": "Oil",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "muyal vilakenai 50ml",
+        "clean_name": "Muyal Vilakenai",
+        "brand": "Muyal",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "muyal vilakkenna 100ml saram",
+        "clean_name": "Muyal Vilakkenna  Saram",
+        "brand": "Muyal",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 400.0
+    },
+    {
+        "original_name": "muyal vilakkenai 500ml",
+        "clean_name": "Muyal Vilakkenai",
+        "brand": "Muyal",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 135.0
+    },
+    {
+        "original_name": "theepam yennaie 1.ltr",
+        "clean_name": "Theepam Yennaie 1Ltr",
+        "brand": "Theepam",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 210.0
+    },
+    {
+        "original_name": "theepam yennaie 400ml",
+        "clean_name": "Theepam Yennaie",
+        "brand": "Theepam",
+        "size": 400.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "goldwinner 200ml",
+        "clean_name": "Goldwinner",
+        "brand": "Goldwinner",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "nei GRB 500ml",
+        "clean_name": "Nei Grb",
+        "brand": "Nei",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 489.0
+    },
+    {
+        "original_name": "soan papti ghee 130g",
+        "clean_name": "Soan Papti Ghee",
+        "brand": "Soan",
+        "size": 130.0,
+        "unit": "g",
+        "category": "Oils & Ghee",
+        "mrp": 39.0
+    },
+    {
+        "original_name": "nei GRP 200ml jar",
+        "clean_name": "Nei Grp  Jar",
+        "brand": "Nei",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 182.0
+    },
+    {
+        "original_name": "oil sunfure 1ltr",
+        "clean_name": "Oil Sunfure",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 165.0
+    },
+    {
+        "original_name": "oil gold king(sf) 1ltr",
+        "clean_name": "Oil Gold KingSf",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 170.0
+    },
+    {
+        "original_name": "oil sunlite 1ltr",
+        "clean_name": "Oil Sunlite",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 199.0
+    },
+    {
+        "original_name": "oil g.o.s 1.box",
+        "clean_name": "Oil GOS 1Box",
+        "brand": "Oil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 1500.0
+    },
+    {
+        "original_name": "oil raja gold 1.box",
+        "clean_name": "Oil Raja Gold 1Box",
+        "brand": "Oil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 1400.0
+    },
+    {
+        "original_name": "tvm (s.f)1.box",
+        "clean_name": "Tvm SF1Box",
+        "brand": "Tvm",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 1800.0
+    },
+    {
+        "original_name": "tvm (s.f)1.ltr.1.box",
+        "clean_name": "Tvm SF1Ltr1Box",
+        "brand": "Tvm",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 1800.0
+    },
+    {
+        "original_name": "tvm (s.f)1.ltr",
+        "clean_name": "Tvm SF1Ltr",
+        "brand": "Tvm",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 180.0
+    },
+    {
+        "original_name": "tvm (s.f)tin",
+        "clean_name": "Tvm SFTin",
+        "brand": "Tvm",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 2800.0
+    },
+    {
+        "original_name": "goldwinner 200ml.",
+        "clean_name": "Goldwinner",
+        "brand": "Goldwinner",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 37.0
+    },
+    {
+        "original_name": "samrani Theepam katti paal25g",
+        "clean_name": "Samrani Theepam Katti Paal",
+        "brand": "Samrani",
+        "size": 25.0,
+        "unit": "g",
+        "category": "Oils & Ghee",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "oil r.o.s 1.box",
+        "clean_name": "Oil ROS 1Box",
+        "brand": "Oil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 1500.0
+    },
+    {
+        "original_name": "oil gems.gold Rs.50",
+        "clean_name": "Oil GemsGold",
+        "brand": "Oil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "oil ROS 1ltr",
+        "clean_name": "Oil Ros",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "nei aachi 100ml",
+        "clean_name": "Nei Aachi",
+        "brand": "Nei",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 103.0
+    },
+    {
+        "original_name": "nei GRP 500ml",
+        "clean_name": "Nei Grp",
+        "brand": "Nei",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 437.0
+    },
+    {
+        "original_name": "oil goldwinner 200ml",
+        "clean_name": "Oil Goldwinner",
+        "brand": "Oil",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 37.0
+    },
+    {
+        "original_name": "p.k.orthoherp oil  Rs.110",
+        "clean_name": "PKOrthoherp Oil",
+        "brand": "P.K.Orthoherp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "nei aachi 50ml",
+        "clean_name": "Nei Aachi",
+        "brand": "Nei",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 52.0
+    },
+    {
+        "original_name": "VVD gold coco.oil 100ml pkt",
+        "clean_name": "Vvd Gold CocoOil  Pkt",
+        "brand": "Vvd",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "oil tvm sf 500ml box",
+        "clean_name": "Oil Tvm Sf  Box",
+        "brand": "Oil",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 1800.0
+    },
+    {
+        "original_name": "oil tvm sf 500ml",
+        "clean_name": "Oil Tvm Sf",
+        "brand": "Oil",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "oil daya palm 1ltr box",
+        "clean_name": "Oil Daya Palm  Box",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 1600.0
+    },
+    {
+        "original_name": "oil daya palm 1ltr",
+        "clean_name": "Oil Daya Palm",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "zandu palm 8ml Rs.40",
+        "clean_name": "Zandu Palm",
+        "brand": "Zandu",
+        "size": 8.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "AAC nei RS 10",
+        "clean_name": "Aac Nei",
+        "brand": "Aac",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "nei AAC RS 10",
+        "clean_name": "Nei Aac",
+        "brand": "Nei",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "nei AAC RS 10 saram",
+        "clean_name": "Nei Aac Saram",
+        "brand": "Nei",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "iyarkai 50ml",
+        "clean_name": "Iyarkai",
+        "brand": "Iyarkai",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "iyarkai 50ml saram",
+        "clean_name": "Iyarkai  Saram",
+        "brand": "Iyarkai",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 150.0
+    },
+    {
+        "original_name": " oil sunlite 1/2ltr",
+        "clean_name": "Oil Sunlite 1",
+        "brand": "Oil",
+        "size": 2.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "kuperan paLmolin 400ml box",
+        "clean_name": "Kuperan Palmolin  Box",
+        "brand": "Kuperan",
+        "size": 400.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 1200.0
+    },
+    {
+        "original_name": "oil fortune 1ltr",
+        "clean_name": "Oil Fortune",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 140.0
+    },
+    {
+        "original_name": "mat padayapa",
+        "clean_name": "Mat Padayapa",
+        "brand": "Mat",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "oil sunland 5.ltr gane",
+        "clean_name": "Oil Sunland 5Ltr Gane",
+        "brand": "Oil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 1094.0
+    },
+    {
+        "original_name": "oil gold king 1ltr box",
+        "clean_name": "Oil Gold King  Box",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 2000.0
+    },
+    {
+        "original_name": "dabur amla hair.oil 45ml ",
+        "clean_name": "Dabur Amla HairOil",
+        "brand": "Dabur",
+        "size": 45.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "dabur amla hair.oil 90ml ",
+        "clean_name": "Dabur Amla HairOil",
+        "brand": "Dabur",
+        "size": 90.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "oil sunlite 1/2ltr",
+        "clean_name": "Oil Sunlite 1",
+        "brand": "Oil",
+        "size": 2.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "theepam yennaie 1/2ltr pk",
+        "clean_name": "Theepam Yennaie 1 Pk",
+        "brand": "Theepam",
+        "size": 2.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 95.0
+    },
+    {
+        "original_name": "theepam yennaie 500ml pk",
+        "clean_name": "Theepam Yennaie  Pk",
+        "brand": "Theepam",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "oil gems.gold(ka) 1ltr",
+        "clean_name": "Oil GemsGoldKa",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 241.0
+    },
+    {
+        "original_name": "oil gems.gold(ka) 1ltr box",
+        "clean_name": "Oil GemsGoldKa  Box",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 2410.0
+    },
+    {
+        "original_name": "nei GRP 100ml",
+        "clean_name": "Nei Grp",
+        "brand": "Nei",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 109.0
+    },
+    {
+        "original_name": "nei udhayakishna 1ltr.jar",
+        "clean_name": "Nei Udhayakishna Jar",
+        "brand": "Nei",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 750.0
+    },
+    {
+        "original_name": "VVD gold coco.oil 500ml jar",
+        "clean_name": "Vvd Gold CocoOil  Jar",
+        "brand": "Vvd",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 215.0
+    },
+    {
+        "original_name": "VVD priyam g.nut oil",
+        "clean_name": "Vvd Priyam GNut Oil",
+        "brand": "Vvd",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 270.0
+    },
+    {
+        "original_name": "nei vvd 100g",
+        "clean_name": "Nei Vvd",
+        "brand": "Nei",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Oils & Ghee",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "himalaya baby hair oil Rs.70",
+        "clean_name": "Himalaya Baby Hair Oil",
+        "brand": "Himalaya",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "oil goldwinner 5.ltr cane",
+        "clean_name": "Oil Goldwinner 5Ltr Cane",
+        "brand": "Oil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 900.0
+    },
+    {
+        "original_name": "vasmol hair black oil 200ML",
+        "clean_name": "Vasmol Hair Black Oil",
+        "brand": "Vasmol",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "vasmol hair black oil 100ml",
+        "clean_name": "Vasmol Hair Black Oil",
+        "brand": "Vasmol",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 48.0
+    },
+    {
+        "original_name": "vasmol hair black oil 50ml",
+        "clean_name": "Vasmol Hair Black Oil",
+        "brand": "Vasmol",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "nei AAC 200ml",
+        "clean_name": "Nei Aac",
+        "brand": "Nei",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 155.0
+    },
+    {
+        "original_name": "Mr.gold coconut oil 1ltr",
+        "clean_name": "MrGold Coconut Oil",
+        "brand": "Mr.Gold",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 140.0
+    },
+    {
+        "original_name": "Mr.gold coconut oil 500ml",
+        "clean_name": "MrGold Coconut Oil",
+        "brand": "Mr.Gold",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 155.0
+    },
+    {
+        "original_name": "yadhum groundnut oil 1ltr",
+        "clean_name": "Yadhum Groundnut Oil",
+        "brand": "Yadhum",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 260.0
+    },
+    {
+        "original_name": "mathuram nallenai 100ml",
+        "clean_name": "Mathuram Nallenai",
+        "brand": "Mathuram",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 52.0
+    },
+    {
+        "original_name": "nei SKC Rs.10 saram",
+        "clean_name": "Nei Skc Saram",
+        "brand": "Nei",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "VVD gold coco.oil 500ml jar Rs.205",
+        "clean_name": "Vvd Gold CocoOil  Jar",
+        "brand": "Vvd",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 205.0
+    },
+    {
+        "original_name": "VVD gold coco.oil 250ml JAR",
+        "clean_name": "Vvd Gold CocoOil  Jar",
+        "brand": "Vvd",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "sambrani Sampradayam cup Rs.210",
+        "clean_name": "Sambrani Sampradayam Cup",
+        "brand": "Sambrani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "VVD coco.oil Rs.1 pkt(40ps)",
+        "clean_name": "Vvd CocoOil Pkt",
+        "brand": "Vvd",
+        "size": 40.0,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "himalaya baby massage oil 100ml",
+        "clean_name": "Himalaya Baby Massage Oil",
+        "brand": "Himalaya",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 115.0
+    },
+    {
+        "original_name": "oil s gold sf 5ltr",
+        "clean_name": "Oil S Gold Sf",
+        "brand": "Oil",
+        "size": 5.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 900.0
+    },
+    {
+        "original_name": "oil vimal gold 5ltr",
+        "clean_name": "Oil Vimal Gold",
+        "brand": "Oil",
+        "size": 5.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 900.0
+    },
+    {
+        "original_name": "nei SKC Rs.10 ",
+        "clean_name": "Nei Skc",
+        "brand": "Nei",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "oil idhayam 50ml pkt",
+        "clean_name": "Oil Idhayam  Pkt",
+        "brand": "Oil",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 19.0
+    },
+    {
+        "original_name": "oil idhayam 50ml",
+        "clean_name": "Oil Idhayam",
+        "brand": "Oil",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 24.0
+    },
+    {
+        "original_name": "himalaya baby massage oil 50ml",
+        "clean_name": "Himalaya Baby Massage Oil",
+        "brand": "Himalaya",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 62.0
+    },
+    {
+        "original_name": "nei SKC 200ml",
+        "clean_name": "Nei Skc",
+        "brand": "Nei",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 180.0
+    },
+    {
+        "original_name": "sambrani Sampradayam cup Rs.100",
+        "clean_name": "Sambrani Sampradayam Cup",
+        "brand": "Sambrani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "samBrani cup sampradayam Rs.70",
+        "clean_name": "Sambrani Cup Sampradayam",
+        "brand": "Sambrani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "veppennai 100ml saram",
+        "clean_name": "Veppennai  Saram",
+        "brand": "Veppennai",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 400.0
+    },
+    {
+        "original_name": "veppennai 100ml ",
+        "clean_name": "Veppennai",
+        "brand": "Veppennai",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "theepam yennaie 1ltr pk",
+        "clean_name": "Theepam Yennaie  Pk",
+        "brand": "Theepam",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 210.0
+    },
+    {
+        "original_name": "oil VOM 1ltr",
+        "clean_name": "Oil Vom",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "vatika 75ml Rs.45",
+        "clean_name": "Vatika",
+        "brand": "Vatika",
+        "size": 75.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "vatika 150ml Rs.97",
+        "clean_name": "Vatika",
+        "brand": "Vatika",
+        "size": 150.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 82.0
+    },
+    {
+        "original_name": "vatika 300ml Rs.180",
+        "clean_name": "Vatika",
+        "brand": "Vatika",
+        "size": 300.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 199.0
+    },
+    {
+        "original_name": "dabur amla hair.oil 300ml ",
+        "clean_name": "Dabur Amla HairOil",
+        "brand": "Dabur",
+        "size": 300.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 145.0
+    },
+    {
+        "original_name": "himalaya baby hair oil 100ml Rs.125",
+        "clean_name": "Himalaya Baby Hair Oil",
+        "brand": "Himalaya",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 125.0
+    },
+    {
+        "original_name": "himalaya baby 50ml hair oil Rs.70",
+        "clean_name": "Himalaya Baby  Hair Oil",
+        "brand": "Himalaya",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "oil idhayam 500ml bottle",
+        "clean_name": "Oil Idhayam  Bottle",
+        "brand": "Oil",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 132.0
+    },
+    {
+        "original_name": "VVD gold 175ml Rs.65",
+        "clean_name": "Vvd Gold",
+        "brand": "Vvd",
+        "size": 175.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "oil idhayam mantra (M) 500ml pkt",
+        "clean_name": "Oil Idhayam Mantra M  Pkt",
+        "brand": "Oil",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 125.0
+    },
+    {
+        "original_name": "oil Raja palmonlien 1ltr box",
+        "clean_name": "Oil Raja Palmonlien  Box",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 1500.0
+    },
+    {
+        "original_name": "nei aroma 50ml.Rs.50",
+        "clean_name": "Nei Aroma",
+        "brand": "Nei",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "nei aroma 100 ml",
+        "clean_name": "Nei Aroma",
+        "brand": "Nei",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "nei aroma Rs.10",
+        "clean_name": "Nei Aroma",
+        "brand": "Nei",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "nei SKC 500ml",
+        "clean_name": "Nei Skc",
+        "brand": "Nei",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 456.0
+    },
+    {
+        "original_name": "nei SKC 1 ltr",
+        "clean_name": "Nei Skc",
+        "brand": "Nei",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 925.0
+    },
+    {
+        "original_name": "samayal 100ml",
+        "clean_name": "Samayal",
+        "brand": "Samayal",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "oil idhayam nallennai 1LTR",
+        "clean_name": "Oil Idhayam Nallennai",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 429.0
+    },
+    {
+        "original_name": "oil idhayam nallaennai 500ML",
+        "clean_name": "Oil Idhayam Nallaennai",
+        "brand": "Oil",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 190.0
+    },
+    {
+        "original_name": "nei GRB 1.Ltr tin",
+        "clean_name": "Nei Grb 1Ltr Tin",
+        "brand": "Nei",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 913.0
+    },
+    {
+        "original_name": "oil sekku Argri ma ennai 1ltr",
+        "clean_name": "Oil Sekku Argri Ma Ennai",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 350.0
+    },
+    {
+        "original_name": "nei aroma 1ltr",
+        "clean_name": "Nei Aroma",
+        "brand": "Nei",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 800.0
+    },
+    {
+        "original_name": "VVD LITE pouch 500ml",
+        "clean_name": "Vvd Lite Pouch",
+        "brand": "Vvd",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 130.0
+    },
+    {
+        "original_name": "theepam yennaie 180ML",
+        "clean_name": "Theepam Yennaie",
+        "brand": "Theepam",
+        "size": 180.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 44.0
+    },
+    {
+        "original_name": "malabar coconut oil 500ml",
+        "clean_name": "Malabar Coconut Oil",
+        "brand": "Malabar",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 155.0
+    },
+    {
+        "original_name": "thennamarakudi oil Rs.60",
+        "clean_name": "Thennamarakudi Oil",
+        "brand": "Thennamarakudi",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "indulekha hair oil 50.Rs.234",
+        "clean_name": "Indulekha Hair Oil 50",
+        "brand": "Indulekha",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 234.0
+    },
+    {
+        "original_name": "indulekha hair oil 22ml.Rs.99",
+        "clean_name": "Indulekha Hair Oil",
+        "brand": "Indulekha",
+        "size": 22.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 99.0
+    },
+    {
+        "original_name": "oil coconut",
+        "clean_name": "Oil Coconut",
+        "brand": "Oil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 180.0
+    },
+    {
+        "original_name": "navratna 100ml",
+        "clean_name": "Navratna",
+        "brand": "Navratna",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "nei SR 50ml",
+        "clean_name": "Nei Sr",
+        "brand": "Nei",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 53.0
+    },
+    {
+        "original_name": "VVD LITE pouch 100ml",
+        "clean_name": "Vvd Lite Pouch",
+        "brand": "Vvd",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 32.0
+    },
+    {
+        "original_name": "oil idhayam mantra (M) 1 ltr",
+        "clean_name": "Oil Idhayam Mantra M",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 260.0
+    },
+    {
+        "original_name": "oil idhayam nallennai 50ml",
+        "clean_name": "Oil Idhayam Nallennai",
+        "brand": "Oil",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 22.0
+    },
+    {
+        "original_name": "him baby hair oil 100ml Rs.125",
+        "clean_name": "Him Baby Hair Oil",
+        "brand": "Him",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 125.0
+    },
+    {
+        "original_name": "him baby massage oil 100ml",
+        "clean_name": "Him Baby Massage Oil",
+        "brand": "Him",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 130.0
+    },
+    {
+        "original_name": "him baby 50ml hair oil Rs.70",
+        "clean_name": "Him Baby  Hair Oil",
+        "brand": "Him",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "him baby massage oil 50ml",
+        "clean_name": "Him Baby Massage Oil",
+        "brand": "Him",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 65.0
+    },
+    {
+        "original_name": "nei a2b 500ml",
+        "clean_name": "Nei A2B",
+        "brand": "Nei",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 450.0
+    },
+    {
+        "original_name": "nei a2b 1ltr",
+        "clean_name": "Nei A2B",
+        "brand": "Nei",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 900.0
+    },
+    {
+        "original_name": "vatika 90ml Rs.45",
+        "clean_name": "Vatika",
+        "brand": "Vatika",
+        "size": 90.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "oil sekku punnagai ma ennai 1ltr",
+        "clean_name": "Oil Sekku Punnagai Ma Ennai",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 290.0
+    },
+    {
+        "original_name": "super vasmol hair oil 100ml",
+        "clean_name": "Super Vasmol Hair Oil",
+        "brand": "Super",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "super vasmol hair oil 200ml",
+        "clean_name": "Super Vasmol Hair Oil",
+        "brand": "Super",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "theepam yennaie nakshatra 1/2ltr",
+        "clean_name": "Theepam Yennaie Nakshatra 1",
+        "brand": "Theepam",
+        "size": 2.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 105.0
+    },
+    {
+        "original_name": "theepam yennaie nakshatra 200ml",
+        "clean_name": "Theepam Yennaie Nakshatra",
+        "brand": "Theepam",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 65.0
+    },
+    {
+        "original_name": "meera coco oil Rs.1 pkt(40ps) ",
+        "clean_name": "Meera Coco Oil Pkt",
+        "brand": "Meera",
+        "size": 40.0,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "quik relif rollon oil 10ml",
+        "clean_name": "Quik Relif Rollon Oil",
+        "brand": "Quik",
+        "size": 10.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "Mr.gold coconut oil 100ml jar",
+        "clean_name": "MrGold Coconut Oil  Jar",
+        "brand": "Mr.Gold",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "vennai 100g",
+        "clean_name": "Vennai",
+        "brand": "Vennai",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Oils & Ghee",
+        "mrp": 66.0
+    },
+    {
+        "original_name": "dabur amla hair OIL 275ml ",
+        "clean_name": "Dabur Amla Hair Oil",
+        "brand": "Dabur",
+        "size": 275.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 155.0
+    },
+    {
+        "original_name": "iluppai oil 100ml",
+        "clean_name": "Iluppai Oil",
+        "brand": "Iluppai",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "oil JVS thenga ennaie 500ml",
+        "clean_name": "Oil Jvs Thenga Ennaie",
+        "brand": "Oil",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 130.0
+    },
+    {
+        "original_name": "nei vastu 1ltr",
+        "clean_name": "Nei Vastu",
+        "brand": "Nei",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 699.0
+    },
+    {
+        "original_name": "oil fortune 1ltr jar",
+        "clean_name": "Oil Fortune  Jar",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 195.0
+    },
+    {
+        "original_name": "computer sambrani sampradayam Rs.24",
+        "clean_name": "Computer Sambrani Sampradayam",
+        "brand": "Computer",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 24.0
+    },
+    {
+        "original_name": "oil suntruu (sf) 500ml",
+        "clean_name": "Oil Suntruu Sf",
+        "brand": "Oil",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "vcare hair oil old 100ml Rs.222",
+        "clean_name": "Vcare Hair Oil Old",
+        "brand": "Vcare",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 222.0
+    },
+    {
+        "original_name": "vcare herbal hair oil 100ml Rs.276",
+        "clean_name": "Vcare Herbal Hair Oil",
+        "brand": "Vcare",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 276.0
+    },
+    {
+        "original_name": "oil sunrich SF TIN 15ltr",
+        "clean_name": "Oil Sunrich Sf Tin",
+        "brand": "Oil",
+        "size": 15.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 2075.0
+    },
+    {
+        "original_name": "oil sunrich SF TIN 15ltr 13.5kg",
+        "clean_name": "Oil Sunrich Sf Tin  135Kg",
+        "brand": "Oil",
+        "size": 15.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 2075.0
+    },
+    {
+        "original_name": "nei vastu 500ml",
+        "clean_name": "Nei Vastu",
+        "brand": "Nei",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 355.0
+    },
+    {
+        "original_name": "gems pearls Rs.5 jar",
+        "clean_name": "Gems Pearls Jar",
+        "brand": "Gems",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 350.0
+    },
+    {
+        "original_name": "theepam porna yennaie 500ml",
+        "clean_name": "Theepam Porna Yennaie",
+        "brand": "Theepam",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 99.0
+    },
+    {
+        "original_name": "oil sunrich SF can 5ltr",
+        "clean_name": "Oil Sunrich Sf Can",
+        "brand": "Oil",
+        "size": 5.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 727.0
+    },
+    {
+        "original_name": "garnier facewash oil clear 50g",
+        "clean_name": "Garnier Facewash Oil Clear",
+        "brand": "Garnier",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Oils & Ghee",
+        "mrp": 119.0
+    },
+    {
+        "original_name": "super vasmol hair black oil 50ml",
+        "clean_name": "Super Vasmol Hair Black Oil",
+        "brand": "Super",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "super vasmol hair black oil 200ML",
+        "clean_name": "Super Vasmol Hair Black Oil",
+        "brand": "Super",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "super vasmol hair black oil 100ml",
+        "clean_name": "Super Vasmol Hair Black Oil",
+        "brand": "Super",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 48.0
+    },
+    {
+        "original_name": "VVD gold coco.oil 500ml (1+1) jar",
+        "clean_name": "Vvd Gold CocoOil  11 Jar",
+        "brand": "Vvd",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 320.0
+    },
+    {
+        "original_name": "theepam shanthi mantra 1ltr",
+        "clean_name": "Theepam Shanthi Mantra",
+        "brand": "Theepam",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "coconut punch jar",
+        "clean_name": "Coconut Punch Jar",
+        "brand": "Coconut",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "zandu palm 8ml Rs.44",
+        "clean_name": "Zandu Palm",
+        "brand": "Zandu",
+        "size": 8.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 44.0
+    },
+    {
+        "original_name": "zandu palm 8ml (G) Rs.44",
+        "clean_name": "Zandu Palm  G",
+        "brand": "Zandu",
+        "size": 8.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "zandu palm ultra power 8ml (R) Rs.50",
+        "clean_name": "Zandu Palm Ultra Power  R",
+        "brand": "Zandu",
+        "size": 8.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "johnsons baby hair oil 50ml",
+        "clean_name": "Johnsons Baby Hair Oil",
+        "brand": "Johnsons",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 62.0
+    },
+    {
+        "original_name": "VVD amla 50ml",
+        "clean_name": "Vvd Amla",
+        "brand": "Vvd",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "VVD gold coco.oil 250ml (1+1) jar",
+        "clean_name": "Vvd Gold CocoOil  11 Jar",
+        "brand": "Vvd",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "vasmol black hair oil 100ml Rs.48",
+        "clean_name": "Vasmol Black Hair Oil",
+        "brand": "Vasmol",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "vasmol black hair oil 100ml Rs.50",
+        "clean_name": "Vasmol Black Hair Oil",
+        "brand": "Vasmol",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "VVD gold coco.oil 100ml (1+1) jar",
+        "clean_name": "Vvd Gold CocoOil  11 Jar",
+        "brand": "Vvd",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "VVD gold coco.oil 20ml Rs.10",
+        "clean_name": "Vvd Gold CocoOil",
+        "brand": "Vvd",
+        "size": 20.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "vasmol black hair oil 200ml Rs.95",
+        "clean_name": "Vasmol Black Hair Oil",
+        "brand": "Vasmol",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 95.0
+    },
+    {
+        "original_name": "manjal thool vvd priyam Rs.10",
+        "clean_name": "Manjal Thool Vvd Priyam",
+        "brand": "Manjal",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "navarathina oil 50ml Rs.45",
+        "clean_name": "Navarathina Oil",
+        "brand": "Navarathina",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "navarathina oil 27ml Rs.20",
+        "clean_name": "Navarathina Oil",
+        "brand": "Navarathina",
+        "size": 27.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "dabur amla hair oil 45ml Rs.20",
+        "clean_name": "Dabur Amla Hair Oil",
+        "brand": "Dabur",
+        "size": 45.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "dabur amla hair oil 300ml ",
+        "clean_name": "Dabur Amla Hair Oil",
+        "brand": "Dabur",
+        "size": 300.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 147.0
+    },
+    {
+        "original_name": "oil svs sunfower tin",
+        "clean_name": "Oil Svs Sunfower Tin",
+        "brand": "Oil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 2075.0
+    },
+    {
+        "original_name": "him baby hair oil 50ml",
+        "clean_name": "Him Baby Hair Oil",
+        "brand": "Him",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "him baby hair oil 100ml Rs.140",
+        "clean_name": "Him Baby Hair Oil",
+        "brand": "Him",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 140.0
+    },
+    {
+        "original_name": "indulekha hair oil 100ml.Rs.432",
+        "clean_name": "Indulekha Hair Oil",
+        "brand": "Indulekha",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 468.0
+    },
+    {
+        "original_name": "nei RKG 1 Ltr",
+        "clean_name": "Nei Rkg",
+        "brand": "Nei",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 970.0
+    },
+    {
+        "original_name": "Mr.gold coconut oil 500ml battle",
+        "clean_name": "MrGold Coconut Oil  Battle",
+        "brand": "Mr.Gold",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 210.0
+    },
+    {
+        "original_name": "oil idhayam mantra (M) 1L Rs.214",
+        "clean_name": "Oil Idhayam Mantra M",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 214.0
+    },
+    {
+        "original_name": "pearls box Rs.350",
+        "clean_name": "Pearls Box",
+        "brand": "Pearls",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 350.0
+    },
+    {
+        "original_name": "almond hair oil 100ml",
+        "clean_name": "Almond Hair Oil",
+        "brand": "Almond",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "almond hair oil 190ml",
+        "clean_name": "Almond Hair Oil",
+        "brand": "Almond",
+        "size": 190.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 138.0
+    },
+    {
+        "original_name": "dabur amla hair OIL 90ml",
+        "clean_name": "Dabur Amla Hair Oil",
+        "brand": "Dabur",
+        "size": 90.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 52.0
+    },
+    {
+        "original_name": "nei GRB 200ml jar",
+        "clean_name": "Nei Grb  Jar",
+        "brand": "Nei",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 182.0
+    },
+    {
+        "original_name": "HH camlin oil pastel 15'p Rs.65",
+        "clean_name": "Camlin Oil Pastel 15P",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 65.0
+    },
+    {
+        "original_name": "HH camlin oil pastel 25'p Rs.120",
+        "clean_name": "Camlin Oil Pastel 25P",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "HH camlin oil pastel 12'p Rs.50",
+        "clean_name": "Camlin Oil Pastel 12P",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "oil idhayam nallannai 1.ltr bottle Rs.461",
+        "clean_name": "Oil Idhayam Nallannai 1Ltr Bottle",
+        "brand": "Oil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 429.0
+    },
+    {
+        "original_name": "oil idhayam nallennai 500ml",
+        "clean_name": "Oil Idhayam Nallennai",
+        "brand": "Oil",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 232.0
+    },
+    {
+        "original_name": "nei GVR 1L",
+        "clean_name": "Nei Gvr",
+        "brand": "Nei",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 930.0
+    },
+    {
+        "original_name": "nei GVK 1L",
+        "clean_name": "Nei Gvk",
+        "brand": "Nei",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 970.0
+    },
+    {
+        "original_name": "nei Skc 50ml",
+        "clean_name": "Nei Skc",
+        "brand": "Nei",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 46.0
+    },
+    {
+        "original_name": "nei SKC 100ml",
+        "clean_name": "Nei Skc",
+        "brand": "Nei",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 94.0
+    },
+    {
+        "original_name": "nei Skc 50ml jar",
+        "clean_name": "Nei Skc  Jar",
+        "brand": "Nei",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 51.0
+    },
+    {
+        "original_name": "oil idhyam 50ml nalannai",
+        "clean_name": "Oil Idhyam  Nalannai",
+        "brand": "Oil",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 24.0
+    },
+    {
+        "original_name": "varikki nei pkt Rs.40",
+        "clean_name": "Varikki Nei Pkt",
+        "brand": "Varikki",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "oil idhyam nalannai 200ML",
+        "clean_name": "Oil Idhyam Nalannai",
+        "brand": "Oil",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "theepam yennaie 500ml battel",
+        "clean_name": "Theepam Yennaie  Battel",
+        "brand": "Theepam",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "vanaspathi dalda ruchi 1.ltr",
+        "clean_name": "Vanaspathi Dalda Ruchi 1Ltr",
+        "brand": "Vanaspathi",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 123.0
+    },
+    {
+        "original_name": "oil sunrich SF bottle 1L",
+        "clean_name": "Oil Sunrich Sf Bottle",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 137.0
+    },
+    {
+        "original_name": "dabur amla hair oil 75ml Rs.20",
+        "clean_name": "Dabur Amla Hair Oil",
+        "brand": "Dabur",
+        "size": 75.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "oil idhayam nallannai 200ml pkt ",
+        "clean_name": "Oil Idhayam Nallannai  Pkt",
+        "brand": "Oil",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "nei SKC 5L tin",
+        "clean_name": "Nei Skc  Tin",
+        "brand": "Nei",
+        "size": 5.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 3750.0
+    },
+    {
+        "original_name": "oil idhayam nallannai 50ml Rs.22",
+        "clean_name": "Oil Idhayam Nallannai",
+        "brand": "Oil",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 23.0
+    },
+    {
+        "original_name": "parachute oil 25ml Rs.10",
+        "clean_name": "Parachute Oil",
+        "brand": "Parachute",
+        "size": 25.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "parachute oil 50ml Rs.20",
+        "clean_name": "Parachute Oil",
+        "brand": "Parachute",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "oil idhayam nallennai 500ml Rs.211",
+        "clean_name": "Oil Idhayam Nallennai",
+        "brand": "Oil",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 211.0
+    },
+    {
+        "original_name": "oil idhayam nallannai 30ml",
+        "clean_name": "Oil Idhayam Nallannai",
+        "brand": "Oil",
+        "size": 30.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "navarathina oil 45ml Rs.45",
+        "clean_name": "Navarathina Oil",
+        "brand": "Navarathina",
+        "size": 45.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 47.0
+    },
+    {
+        "original_name": "navratna oil 90ml",
+        "clean_name": "Navratna Oil",
+        "brand": "Navratna",
+        "size": 90.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "Mr.gold gingelly oil 100ml jar",
+        "clean_name": "MrGold Gingelly Oil  Jar",
+        "brand": "Mr.Gold",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "vatika 75ml Rs.40",
+        "clean_name": "Vatika",
+        "brand": "Vatika",
+        "size": 75.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "Mr.gold coconut oil 1L pkt",
+        "clean_name": "MrGold Coconut Oil  Pkt",
+        "brand": "Mr.Gold",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 295.0
+    },
+    {
+        "original_name": "nei avt Rs.10",
+        "clean_name": "Nei Avt",
+        "brand": "Nei",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "oil idhayam mantra (M) 1.ltr bottle Rs.246",
+        "clean_name": "Oil Idhayam Mantra M 1Ltr Bottle",
+        "brand": "Oil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 246.0
+    },
+    {
+        "original_name": "oil idhyam nalannai bottle 200ML Rs.87",
+        "clean_name": "Oil Idhyam Nalannai Bottle",
+        "brand": "Oil",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 83.0
+    },
+    {
+        "original_name": "theepam yennaie 500ML bottle",
+        "clean_name": "Theepam Yennaie  Bottle",
+        "brand": "Theepam",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "vatika 90ml Rs.40",
+        "clean_name": "Vatika",
+        "brand": "Vatika",
+        "size": 90.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "theepam yennaie 900ml Rs.210",
+        "clean_name": "Theepam Yennaie",
+        "brand": "Theepam",
+        "size": 900.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 210.0
+    },
+    {
+        "original_name": "varikki nei jar Rs.250",
+        "clean_name": "Varikki Nei Jar",
+        "brand": "Varikki",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 250.0
+    },
+    {
+        "original_name": "oil boss polmolien 1ltr ",
+        "clean_name": "Oil Boss Polmolien",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 102.0
+    },
+    {
+        "original_name": "oil idhayam nallennai 500ml Rs.222",
+        "clean_name": "Oil Idhayam Nallennai",
+        "brand": "Oil",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 222.0
+    },
+    {
+        "original_name": "oil idhyam nalannai 100ml Rs.47",
+        "clean_name": "Oil Idhyam Nalannai",
+        "brand": "Oil",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "oil idhayam nallennai 100ml RS.46 BOTTLE",
+        "clean_name": "Oil Idhayam Nallennai  Bottle",
+        "brand": "Oil",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 46.0
+    },
+    {
+        "original_name": "oil idhayam nallannai 200ml BOTTLE",
+        "clean_name": "Oil Idhayam Nallannai  Bottle",
+        "brand": "Oil",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 87.0
+    },
+    {
+        "original_name": "oil idhayam nallannai(50ml)",
+        "clean_name": "Oil Idhayam Nallannai",
+        "brand": "Oil",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 24.0
+    },
+    {
+        "original_name": "oil idhayam mantra (M) 5.ltr can",
+        "clean_name": "Oil Idhayam Mantra M 5Ltr Can",
+        "brand": "Oil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 1123.0
+    },
+    {
+        "original_name": "oil idhyam nalannai 100ml ",
+        "clean_name": "Oil Idhyam Nalannai",
+        "brand": "Oil",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "nei milky mist 500ml",
+        "clean_name": "Nei Milky Mist",
+        "brand": "Nei",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 419.0
+    },
+    {
+        "original_name": "nei milky mist 200ml",
+        "clean_name": "Nei Milky Mist",
+        "brand": "Nei",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 175.0
+    },
+    {
+        "original_name": "navaratna oil 90ml",
+        "clean_name": "Navaratna Oil",
+        "brand": "Navaratna",
+        "size": 90.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "nei udhaya krishna 5L tin",
+        "clean_name": "Nei Udhaya Krishna  Tin",
+        "brand": "Nei",
+        "size": 5.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 4200.0
+    },
+    {
+        "original_name": "vanaspathi goldwinner dalda 1ltr",
+        "clean_name": "Vanaspathi Goldwinner Dalda",
+        "brand": "Vanaspathi",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 165.0
+    },
+    {
+        "original_name": "vanaspathi goldwinner dalda 500ml",
+        "clean_name": "Vanaspathi Goldwinner Dalda",
+        "brand": "Vanaspathi",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 94.0
+    },
+    {
+        "original_name": "nei udhaya krishna 500ml",
+        "clean_name": "Nei Udhaya Krishna",
+        "brand": "Nei",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 445.0
+    },
+    {
+        "original_name": "nei udhayakiru 200ml jar",
+        "clean_name": "Nei Udhayakiru  Jar",
+        "brand": "Nei",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 170.0
+    },
+    {
+        "original_name": "VVD gold coco.oil 100ml jar",
+        "clean_name": "Vvd Gold CocoOil  Jar",
+        "brand": "Vvd",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "VVD 100ml Rs.45 jar",
+        "clean_name": "Vvd  Jar",
+        "brand": "Vvd",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "oil idhayam nallannai 50ml Rs.23",
+        "clean_name": "Oil Idhayam Nallannai",
+        "brand": "Oil",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 23.0
+    },
+    {
+        "original_name": "varikki nei pkt Rs.240",
+        "clean_name": "Varikki Nei Pkt",
+        "brand": "Varikki",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 240.0
+    },
+    {
+        "original_name": "almond hair oil 200ml",
+        "clean_name": "Almond Hair Oil",
+        "brand": "Almond",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 145.0
+    },
+    {
+        "original_name": "vatika hair oil Rs.40",
+        "clean_name": "Vatika Hair Oil",
+        "brand": "Vatika",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "nei SR 100ml",
+        "clean_name": "Nei Sr",
+        "brand": "Nei",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 103.0
+    },
+    {
+        "original_name": "oil idhayam nallannai 50ml Rs.21",
+        "clean_name": "Oil Idhayam Nallannai",
+        "brand": "Oil",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "oil idhayam 100 ml btle",
+        "clean_name": "Oil Idhayam  Btle",
+        "brand": "Oil",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 44.0
+    },
+    {
+        "original_name": "oil idhayam 200 ml btle",
+        "clean_name": "Oil Idhayam  Btle",
+        "brand": "Oil",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 81.0
+    },
+    {
+        "original_name": "oil idhayam 1/2.ltr bottle",
+        "clean_name": "Oil Idhayam 12Ltr Bottle",
+        "brand": "Oil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 201.0
+    },
+    {
+        "original_name": "VVD gold 175ml Rs.78",
+        "clean_name": "Vvd Gold",
+        "brand": "Vvd",
+        "size": 175.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 78.0
+    },
+    {
+        "original_name": "vennai 250g",
+        "clean_name": "Vennai",
+        "brand": "Vennai",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Oils & Ghee",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "Nabati Rs.10 blue lava",
+        "clean_name": "Nabati Blue Lava",
+        "brand": "Nabati",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "almond hair oil 45ml",
+        "clean_name": "Almond Hair Oil",
+        "brand": "Almond",
+        "size": 45.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 33.0
+    },
+    {
+        "original_name": "navarathina oil 180ml Rs.150",
+        "clean_name": "Navarathina Oil",
+        "brand": "Navarathina",
+        "size": 180.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "indulekha hair oil 100ml.Rs.468",
+        "clean_name": "Indulekha Hair Oil",
+        "brand": "Indulekha",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 468.0
+    },
+    {
+        "original_name": "nei GRB 1.Ltr rs.899",
+        "clean_name": "Nei Grb 1Ltr",
+        "brand": "Nei",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 952.0
+    },
+    {
+        "original_name": "nei GRP 500ml rs.463",
+        "clean_name": "Nei Grp",
+        "brand": "Nei",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 463.0
+    },
+    {
+        "original_name": "nei GRP 200ml jar rs.192",
+        "clean_name": "Nei Grp  Jar",
+        "brand": "Nei",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 192.0
+    },
+    {
+        "original_name": "oil gem's gold (sf) 500ML",
+        "clean_name": "Oil GemS Gold Sf",
+        "brand": "Oil",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "theepam yennaie 1ltr bottle",
+        "clean_name": "Theepam Yennaie  Bottle",
+        "brand": "Theepam",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 180.0
+    },
+    {
+        "original_name": "oil gems gold sf cane 5ltr",
+        "clean_name": "Oil Gems Gold Sf Cane",
+        "brand": "Oil",
+        "size": 5.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 875.0
+    },
+    {
+        "original_name": "oil gem's gold sf cane 5ltr",
+        "clean_name": "Oil GemS Gold Sf Cane",
+        "brand": "Oil",
+        "size": 5.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 875.0
+    },
+    {
+        "original_name": "navarathina oil Rs.10",
+        "clean_name": "Navarathina Oil",
+        "brand": "Navarathina",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "nei GRB 1.Ltr rs.952",
+        "clean_name": "Nei Grb 1Ltr",
+        "brand": "Nei",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 952.0
+    },
+    {
+        "original_name": "Mr.gold coconut oil 500ml pkt",
+        "clean_name": "MrGold Coconut Oil  Pkt",
+        "brand": "Mr.Gold",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 205.0
+    },
+    {
+        "original_name": "oil idhayam nallannai 50ml Rs.20",
+        "clean_name": "Oil Idhayam Nallannai",
+        "brand": "Oil",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 22.0
+    },
+    {
+        "original_name": "nei SKC 500ml RS.485",
+        "clean_name": "Nei Skc",
+        "brand": "Nei",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 485.0
+    },
+    {
+        "original_name": "nei SKC 1 ltr Rs.980",
+        "clean_name": "Nei Skc",
+        "brand": "Nei",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 980.0
+    },
+    {
+        "original_name": "Mr.gold coconut oil jar 1L",
+        "clean_name": "MrGold Coconut Oil Jar",
+        "brand": "Mr.Gold",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 295.0
+    },
+    {
+        "original_name": "Mr.gold coconut oil pkt 1L",
+        "clean_name": "MrGold Coconut Oil Pkt",
+        "brand": "Mr.Gold",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 295.0
+    },
+    {
+        "original_name": "Mr.gold coconut oil battle 1ltr ",
+        "clean_name": "MrGold Coconut Oil Battle",
+        "brand": "Mr.Gold",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 409.0
+    },
+    {
+        "original_name": "theepam yennaie Nithiyam 200ml bottle",
+        "clean_name": "Theepam Yennaie Nithiyam  Bottle",
+        "brand": "Theepam",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 74.0
+    },
+    {
+        "original_name": "theepam yennaie Nithiyam 250ml bottle",
+        "clean_name": "Theepam Yennaie Nithiyam  Bottle",
+        "brand": "Theepam",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 69.0
+    },
+    {
+        "original_name": "VVD 100ml Rs.50 jar",
+        "clean_name": "Vvd  Jar",
+        "brand": "Vvd",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "VVD gold coco.oil 150ml",
+        "clean_name": "Vvd Gold CocoOil",
+        "brand": "Vvd",
+        "size": 150.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "VVD gold coco.oil 150ml Rs.90",
+        "clean_name": "Vvd Gold CocoOil",
+        "brand": "Vvd",
+        "size": 150.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "VVD gold coco.oil 40ml Rs.30 ",
+        "clean_name": "Vvd Gold CocoOil",
+        "brand": "Vvd",
+        "size": 40.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "nei RKG 500ML",
+        "clean_name": "Nei Rkg",
+        "brand": "Nei",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 496.0
+    },
+    {
+        "original_name": "dabur amla hair oil 275ml rs.149 ",
+        "clean_name": "Dabur Amla Hair Oil",
+        "brand": "Dabur",
+        "size": 275.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 149.0
+    },
+    {
+        "original_name": "him baby hair oil 100ml Rs.160",
+        "clean_name": "Him Baby Hair Oil",
+        "brand": "Him",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "VVD gold coco.oil 200ml JAR",
+        "clean_name": "Vvd Gold CocoOil  Jar",
+        "brand": "Vvd",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "nei RKG rs.10",
+        "clean_name": "Nei Rkg",
+        "brand": "Nei",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "nei GRP 50ml",
+        "clean_name": "Nei Grp",
+        "brand": "Nei",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 58.0
+    },
+    {
+        "original_name": "VVD 100ml jar Rs.70",
+        "clean_name": "Vvd  Jar",
+        "brand": "Vvd",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "vatika 150ml Rs.95",
+        "clean_name": "Vatika",
+        "brand": "Vatika",
+        "size": 150.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 115.0
+    },
+    {
+        "original_name": "VVD gold coco.oil 400ml jar Rs.300",
+        "clean_name": "Vvd Gold CocoOil  Jar",
+        "brand": "Vvd",
+        "size": 400.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "VVD gold coco.oil 150ml Rs.105",
+        "clean_name": "Vvd Gold CocoOil",
+        "brand": "Vvd",
+        "size": 150.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 105.0
+    },
+    {
+        "original_name": "oil gem's gold 100ml box",
+        "clean_name": "Oil GemS Gold  Box",
+        "brand": "Oil",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "theepam yennaie amutham pkt 500ml",
+        "clean_name": "Theepam Yennaie Amutham Pkt",
+        "brand": "Theepam",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "vatika 300ml Rs.199",
+        "clean_name": "Vatika",
+        "brand": "Vatika",
+        "size": 300.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 180.0
+    },
+    {
+        "original_name": "VVD gold coco.oil 150ml Rs.120",
+        "clean_name": "Vvd Gold CocoOil",
+        "brand": "Vvd",
+        "size": 150.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "theepam yennaie Nithiyam 1l bottle",
+        "clean_name": "Theepam Yennaie Nithiyam  Bottle",
+        "brand": "Theepam",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 230.0
+    },
+    {
+        "original_name": "theepam yennaie Nithiyam 1ltr bottle",
+        "clean_name": "Theepam Yennaie Nithiyam  Bottle",
+        "brand": "Theepam",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 230.0
+    },
+    {
+        "original_name": "oil gem's gold gingelly 1ltr",
+        "clean_name": "Oil GemS Gold Gingelly",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 425.0
+    },
+    {
+        "original_name": "oil gem's gold Mustard 1ltr",
+        "clean_name": "Oil GemS Gold Mustard",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 299.0
+    },
+    {
+        "original_name": "oil gem's gold Mustard kadugu 1ltr",
+        "clean_name": "Oil GemS Gold Mustard Kadugu",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 299.0
+    },
+    {
+        "original_name": "oil gem's gold gingelly nallanai 1ltr",
+        "clean_name": "Oil GemS Gold Gingelly Nallanai",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 425.0
+    },
+    {
+        "original_name": "coconut punch pkt",
+        "clean_name": "Coconut Punch Pkt",
+        "brand": "Coconut",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "vasmol black hair oil 100ml Rs.65",
+        "clean_name": "Vasmol Black Hair Oil",
+        "brand": "Vasmol",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 65.0
+    },
+    {
+        "original_name": "nei GRP 200ml jar rs.202",
+        "clean_name": "Nei Grp  Jar",
+        "brand": "Nei",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 202.0
+    },
+    {
+        "original_name": "VVD gold coco.oil 30ml Rs.30jar ",
+        "clean_name": "Vvd Gold CocoOil  Jar",
+        "brand": "Vvd",
+        "size": 30.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "VVD gold coco.oil 30mL jar",
+        "clean_name": "Vvd Gold CocoOil  Jar",
+        "brand": "Vvd",
+        "size": 30.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "vatika 85ml Rs.45",
+        "clean_name": "Vatika",
+        "brand": "Vatika",
+        "size": 85.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "oil gem's gold (ma) 1ltr S.B jar",
+        "clean_name": "Oil GemS Gold Ma  SB Jar",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 250.0
+    },
+    {
+        "original_name": "oil gem's gold (ma) 1ltr N.B jar",
+        "clean_name": "Oil GemS Gold Ma  NB Jar",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 240.0
+    },
+    {
+        "original_name": "oil gem's gold sf cane 5ltr Combo ",
+        "clean_name": "Oil GemS Gold Sf Cane  Combo",
+        "brand": "Oil",
+        "size": 5.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 1075.0
+    },
+    {
+        "original_name": "nei RKG 200ml",
+        "clean_name": "Nei Rkg",
+        "brand": "Nei",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 205.0
+    },
+    {
+        "original_name": "oil sekku na.ennaie 200ml",
+        "clean_name": "Oil Sekku NaEnnaie",
+        "brand": "Oil",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "VVD coco.oil Rs.2 pkt(40ps)",
+        "clean_name": "Vvd CocoOil Pkt",
+        "brand": "Vvd",
+        "size": 40.0,
+        "unit": "pcs",
+        "category": "Oils & Ghee",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "nei GRB 100ml",
+        "clean_name": "Nei Grb",
+        "brand": "Nei",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "zandu palm 8ml (G) Rs.45",
+        "clean_name": "Zandu Palm  G",
+        "brand": "Zandu",
+        "size": 8.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "VVD gold lite coco.oil 500ml jar",
+        "clean_name": "Vvd Gold Lite CocoOil  Jar",
+        "brand": "Vvd",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 310.0
+    },
+    {
+        "original_name": "vatika hibiscus 300ml ",
+        "clean_name": "Vatika Hibiscus",
+        "brand": "Vatika",
+        "size": 300.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 235.0
+    },
+    {
+        "original_name": "nei GRB 50ml",
+        "clean_name": "Nei Grb",
+        "brand": "Nei",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 58.0
+    },
+    {
+        "original_name": "nei GRB 200ml jar rs.202",
+        "clean_name": "Nei Grb  Jar",
+        "brand": "Nei",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 202.0
+    },
+    {
+        "original_name": "vatika hair oil 300ml",
+        "clean_name": "Vatika Hair Oil",
+        "brand": "Vatika",
+        "size": 300.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 207.0
+    },
+    {
+        "original_name": "vatika hair oil 150ml",
+        "clean_name": "Vatika Hair Oil",
+        "brand": "Vatika",
+        "size": 150.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 115.0
+    },
+    {
+        "original_name": "RAS vilakkennai 50ml jar",
+        "clean_name": "Ras Vilakkennai  Jar",
+        "brand": "Ras",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "oil sekku na.ennaie 1Ltr",
+        "clean_name": "Oil Sekku NaEnnaie",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Oils & Ghee",
+        "mrp": 425.0
+    },
+    {
+        "original_name": "vatika hair oil 80ml",
+        "clean_name": "Vatika Hair Oil",
+        "brand": "Vatika",
+        "size": 80.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "muyal vilakenai ras jar 50ml",
+        "clean_name": "Muyal Vilakenai Ras Jar",
+        "brand": "Muyal",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "oil fortune SF 840ML",
+        "clean_name": "Oil Fortune Sf",
+        "brand": "Oil",
+        "size": 840.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 165.0
+    },
+    {
+        "original_name": "nei GVK 200ml jar",
+        "clean_name": "Nei Gvk  Jar",
+        "brand": "Nei",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "nei RKG 100ML",
+        "clean_name": "Nei Rkg",
+        "brand": "Nei",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Oils & Ghee",
+        "mrp": 106.0
+    }
+]

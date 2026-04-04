@@ -1,0 +1,181 @@
+[
+  {
+    "id": 1,
+    "name": "Cashew",
+    "brand": "Generic",
+    "category": "Dry Fruits",
+    "subCategory": "Cashews",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 900,
+      "mrp": 990,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium cashews for snacking and cooking.",
+      "long": "Premium cashews for snacking and cooking. Rich in protein and healthy fats. Perfect for daily consumption and recipes. Adds richness to dishes. Trusted brand for quality nuts. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits/cashew.png",
+        "alt": "Cashew",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "cashews",
+        "nuts",
+        "snacking",
+        "cooking",
+        "protein",
+        "healthy fats",
+        "recipes",
+        "cashew",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "cashews",
+        "nuts",
+        "snacking",
+        "cooking",
+        "protein",
+        "healthy fats",
+        "recipes",
+        "cashew",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 2,
+    "name": "Munthiridry Grapes",
+    "brand": "Generic",
+    "category": "Dry Fruits",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 10,
+      "mrp": 11,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits/munthiridry_grapes.png",
+        "alt": "Munthiridry Grapes",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "munthiridry",
+        "grapes",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "munthiridry",
+        "grapes",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 3,
+    "name": "Cashew No 2",
+    "brand": "Generic",
+    "category": "Dry Fruits",
+    "subCategory": "Cashews",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 800,
+      "mrp": 880,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium cashews for snacking and cooking.",
+      "long": "Premium cashews for snacking and cooking. Rich in protein and healthy fats. Perfect for daily consumption and recipes. Adds richness to dishes. Trusted brand for quality nuts. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits/cashew_no_2.png",
+        "alt": "Cashew No 2",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "cashews",
+        "nuts",
+        "snacking",
+        "cooking",
+        "protein",
+        "healthy fats",
+        "recipes",
+        "cashew",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "cashews",
+        "nuts",
+        "snacking",
+        "cooking",
+        "protein",
+        "healthy fats",
+        "recipes",
+        "cashew",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  }
+]

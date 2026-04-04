@@ -1,0 +1,5080 @@
+[
+  {
+    "id": 1,
+    "name": "Badam",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Almonds",
+    "variant": "1 kg",
+    "pricing": {
+      "price": 700,
+      "mrp": 770,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium almonds (badam) for health and nutrition.",
+      "long": "Premium almonds (badam) for health and nutrition. Rich in vitamins, minerals, and healthy fats. Perfect for daily consumption and snacking. Supports brain health and energy. Trusted brand for quality nuts. Pack size: 1 kg."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/badam.png",
+        "alt": "Badam",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "almonds",
+        "badam",
+        "nuts",
+        "health",
+        "nutrition",
+        "vitamins",
+        "energy",
+        "grams",
+        "g",
+        "kilogram",
+        "kg"
+      ],
+      "tanglish": [
+        "almonds",
+        "badam",
+        "nuts",
+        "health",
+        "nutrition",
+        "vitamins",
+        "energy",
+        "g",
+        "kg"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 2,
+    "name": "Dd Pista Kulfi",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "50 ml",
+    "pricing": {
+      "price": 25,
+      "mrp": 28,
+      "discount": 11,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 50 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/dd_pista_kulfi.png",
+        "alt": "Dd Pista Kulfi",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "pista",
+        "kulfi",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "pista",
+        "kulfi",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 3,
+    "name": "Lion Dates",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 114,
+      "mrp": 125,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates.png",
+        "alt": "Lion Dates",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 4,
+    "name": "Lion Dates Desert King",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 279,
+      "mrp": 307,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates_desert_king.png",
+        "alt": "Lion Dates Desert King",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "desert",
+        "king",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "desert",
+        "king",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 5,
+    "name": "Badam Mass",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Almonds",
+    "variant": "200 g",
+    "pricing": {
+      "price": 110,
+      "mrp": 121,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium almonds (badam) for health and nutrition.",
+      "long": "Premium almonds (badam) for health and nutrition. Rich in vitamins, minerals, and healthy fats. Perfect for daily consumption and snacking. Supports brain health and energy. Trusted brand for quality nuts. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/badam_mass.png",
+        "alt": "Badam Mass",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "almonds",
+        "badam",
+        "nuts",
+        "health",
+        "nutrition",
+        "vitamins",
+        "energy",
+        "mass",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "almonds",
+        "badam",
+        "nuts",
+        "health",
+        "nutrition",
+        "vitamins",
+        "energy",
+        "mass",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 6,
+    "name": "Annai Dates(1+1)",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "200 g",
+    "pricing": {
+      "price": 84,
+      "mrp": 92,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/annai_dates_1_1.png",
+        "alt": "Annai Dates(1+1)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates(1+1)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates(1+1)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 7,
+    "name": "Annai Dates Black",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "200 g",
+    "pricing": {
+      "price": 133,
+      "mrp": 146,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/annai_dates_black.png",
+        "alt": "Annai Dates Black",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "black",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "black",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 8,
+    "name": "Annai Dates",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "750 g",
+    "pricing": {
+      "price": 150,
+      "mrp": 165,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 750 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/annai_dates.png",
+        "alt": "Annai Dates",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 9,
+    "name": "Annai Dates Black",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "250 g",
+    "pricing": {
+      "price": 133,
+      "mrp": 146,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 250 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/annai_dates_black.png",
+        "alt": "Annai Dates Black",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "black",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "black",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 10,
+    "name": "Annai Dates(1+1)",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 180,
+      "mrp": 198,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/annai_dates_1_1.png",
+        "alt": "Annai Dates(1+1)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates(1+1)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates(1+1)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 11,
+    "name": "Annai Dates Black",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 255,
+      "mrp": 281,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/annai_dates_black.png",
+        "alt": "Annai Dates Black",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "black",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "black",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 12,
+    "name": "Annai Dates Sl",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "250 g",
+    "pricing": {
+      "price": 78,
+      "mrp": 86,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 250 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/annai_dates_sl.png",
+        "alt": "Annai Dates Sl",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 13,
+    "name": "Annai Dates S L",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 148,
+      "mrp": 163,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/annai_dates_s_l.png",
+        "alt": "Annai Dates S L",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 14,
+    "name": "Annai Dates",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "100 g",
+    "pricing": {
+      "price": 30,
+      "mrp": 33,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 100 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/annai_dates.png",
+        "alt": "Annai Dates",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 15,
+    "name": "Annai Dates",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "200 g",
+    "pricing": {
+      "price": 55,
+      "mrp": 61,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/annai_dates.png",
+        "alt": "Annai Dates",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 16,
+    "name": "Annai Dates B (1+1)",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "125 g",
+    "pricing": {
+      "price": 130,
+      "mrp": 143,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 125 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/annai_dates_b_1_1.png",
+        "alt": "Annai Dates B (1+1)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "(1+1)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "(1+1)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 17,
+    "name": "Annai Inimia Dates",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 275,
+      "mrp": 303,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/annai_inimia_dates.png",
+        "alt": "Annai Inimia Dates",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "inimia",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "inimia",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 18,
+    "name": "Annai Dates",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 100,
+      "mrp": 110,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/annai_dates.png",
+        "alt": "Annai Dates",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 19,
+    "name": "Ragam Badam",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Almonds",
+    "variant": "100 g",
+    "pricing": {
+      "price": 160,
+      "mrp": 176,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium almonds (badam) for health and nutrition.",
+      "long": "Premium almonds (badam) for health and nutrition. Rich in vitamins, minerals, and healthy fats. Perfect for daily consumption and snacking. Supports brain health and energy. Trusted brand for quality nuts. Pack size: 100 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/ragam_badam.png",
+        "alt": "Ragam Badam",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "almonds",
+        "badam",
+        "nuts",
+        "health",
+        "nutrition",
+        "vitamins",
+        "energy",
+        "ragam",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "almonds",
+        "badam",
+        "nuts",
+        "health",
+        "nutrition",
+        "vitamins",
+        "energy",
+        "ragam",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 20,
+    "name": "Ragam Pista",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "100 g",
+    "pricing": {
+      "price": 186,
+      "mrp": 205,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 100 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/ragam_pista.png",
+        "alt": "Ragam Pista",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "ragam",
+        "pista",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "ragam",
+        "pista",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 21,
+    "name": "Lion Dates",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 144,
+      "mrp": 158,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates.png",
+        "alt": "Lion Dates",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 22,
+    "name": "Badam",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Almonds",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 240,
+      "mrp": 264,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium almonds (badam) for health and nutrition.",
+      "long": "Premium almonds (badam) for health and nutrition. Rich in vitamins, minerals, and healthy fats. Perfect for daily consumption and snacking. Supports brain health and energy. Trusted brand for quality nuts. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/badam.png",
+        "alt": "Badam",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "almonds",
+        "badam",
+        "nuts",
+        "health",
+        "nutrition",
+        "vitamins",
+        "energy",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "almonds",
+        "badam",
+        "nuts",
+        "health",
+        "nutrition",
+        "vitamins",
+        "energy",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 23,
+    "name": "Lion Dates",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "100 g",
+    "pricing": {
+      "price": 30,
+      "mrp": 33,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 100 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates.png",
+        "alt": "Lion Dates",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 24,
+    "name": "Gokulam Dates (1+1)",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 180,
+      "mrp": 198,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/gokulam_dates_1_1.png",
+        "alt": "Gokulam Dates (1+1)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "gokulam",
+        "dates",
+        "(1+1)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "gokulam",
+        "dates",
+        "(1+1)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 25,
+    "name": "Gokulam Black Dates",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "200 g",
+    "pricing": {
+      "price": 145,
+      "mrp": 160,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/gokulam_black_dates.png",
+        "alt": "Gokulam Black Dates",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "gokulam",
+        "black",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "gokulam",
+        "black",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 26,
+    "name": "Gokulam Dates (1+1)",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "250 g",
+    "pricing": {
+      "price": 102,
+      "mrp": 112,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 250 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/gokulam_dates_1_1.png",
+        "alt": "Gokulam Dates (1+1)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "gokulam",
+        "dates",
+        "(1+1)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "gokulam",
+        "dates",
+        "(1+1)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 27,
+    "name": "Annai Dates S L",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "250 g",
+    "pricing": {
+      "price": 78,
+      "mrp": 86,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 250 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/annai_dates_s_l.png",
+        "alt": "Annai Dates S L",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 28,
+    "name": "Gokulam Black Dates",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 261,
+      "mrp": 287,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/gokulam_black_dates.png",
+        "alt": "Gokulam Black Dates",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "gokulam",
+        "black",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "gokulam",
+        "black",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 29,
+    "name": "Gokulam Black Dates",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 272,
+      "mrp": 299,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/gokulam_black_dates.png",
+        "alt": "Gokulam Black Dates",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "gokulam",
+        "black",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "gokulam",
+        "black",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 30,
+    "name": "Gokulam Black Dates",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 227,
+      "mrp": 250,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/gokulam_black_dates.png",
+        "alt": "Gokulam Black Dates",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "gokulam",
+        "black",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "gokulam",
+        "black",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 31,
+    "name": "Gogulam Dates",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 140,
+      "mrp": 154,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/gogulam_dates.png",
+        "alt": "Gogulam Dates",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "gogulam",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "gogulam",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 32,
+    "name": "Raagam Muscat Black Dates",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 228,
+      "mrp": 251,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/raagam_muscat_black_dates.png",
+        "alt": "Raagam Muscat Black Dates",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "raagam",
+        "muscat",
+        "black",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "raagam",
+        "muscat",
+        "black",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 33,
+    "name": "Ragam Muscat Black Dates",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 228,
+      "mrp": 251,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/ragam_muscat_black_dates.png",
+        "alt": "Ragam Muscat Black Dates",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "ragam",
+        "muscat",
+        "black",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "ragam",
+        "muscat",
+        "black",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 34,
+    "name": "Kimia Dates",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "400 g",
+    "pricing": {
+      "price": 310,
+      "mrp": 341,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 400 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/kimia_dates.png",
+        "alt": "Kimia Dates",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "kimia",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "kimia",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 35,
+    "name": "Zahdi Seedless Dates",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 140,
+      "mrp": 154,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/zahdi_seedless_dates.png",
+        "alt": "Zahdi Seedless Dates",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "zahdi",
+        "seedless",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "zahdi",
+        "seedless",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 36,
+    "name": "Lion Dates (1+1)",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "250 g",
+    "pricing": {
+      "price": 95,
+      "mrp": 105,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 250 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates_1_1.png",
+        "alt": "Lion Dates (1+1)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "(1+1)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "(1+1)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 37,
+    "name": "Lion Dates Desert King",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "250 g",
+    "pricing": {
+      "price": 145,
+      "mrp": 160,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 250 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates_desert_king.png",
+        "alt": "Lion Dates Desert King",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "desert",
+        "king",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "desert",
+        "king",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 38,
+    "name": "Raagam Muscat Black Dates",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "250 g",
+    "pricing": {
+      "price": 120,
+      "mrp": 132,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 250 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/raagam_muscat_black_dates.png",
+        "alt": "Raagam Muscat Black Dates",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "raagam",
+        "muscat",
+        "black",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "raagam",
+        "muscat",
+        "black",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 39,
+    "name": "Ragam Muscat Black Dates",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "250 g",
+    "pricing": {
+      "price": 120,
+      "mrp": 132,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 250 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/ragam_muscat_black_dates.png",
+        "alt": "Ragam Muscat Black Dates",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "ragam",
+        "muscat",
+        "black",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "ragam",
+        "muscat",
+        "black",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 40,
+    "name": "D'Lite Black Dates",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 235,
+      "mrp": 259,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/d_lite_black_dates.png",
+        "alt": "D'Lite Black Dates",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "d'lite",
+        "black",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "d'lite",
+        "black",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 41,
+    "name": "D Lite Black Dates",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 235,
+      "mrp": 259,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/d_lite_black_dates.png",
+        "alt": "D Lite Black Dates",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lite",
+        "black",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lite",
+        "black",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 42,
+    "name": "Lion Dates Seedless Rs",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "250 g",
+    "pricing": {
+      "price": 80,
+      "mrp": 88,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 250 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates_seedless_rs.png",
+        "alt": "Lion Dates Seedless Rs",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "seedless",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "seedless",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 43,
+    "name": "Lion Dates Seedless",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 149,
+      "mrp": 164,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates_seedless.png",
+        "alt": "Lion Dates Seedless",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "seedless",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "seedless",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 44,
+    "name": "Lion Dates",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 146,
+      "mrp": 161,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates.png",
+        "alt": "Lion Dates",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 45,
+    "name": "Lion Dates 200 Gm Mrp 56",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "200 g",
+    "pricing": {
+      "price": 56,
+      "mrp": 62,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates_200_gm_mrp_56.png",
+        "alt": "Lion Dates 200 Gm Mrp 56",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 46,
+    "name": "Lion Dates Seedless",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "250 g",
+    "pricing": {
+      "price": 82,
+      "mrp": 90,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 250 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates_seedless.png",
+        "alt": "Lion Dates Seedless",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "seedless",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "seedless",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 47,
+    "name": "Lion Dates Seedless",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 150,
+      "mrp": 165,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates_seedless.png",
+        "alt": "Lion Dates Seedless",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "seedless",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "seedless",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 48,
+    "name": "Lion Dates Seedless",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "250 g",
+    "pricing": {
+      "price": 78,
+      "mrp": 86,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 250 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates_seedless.png",
+        "alt": "Lion Dates Seedless",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "seedless",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "seedless",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 49,
+    "name": "Lion Dates Qyno",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "250 g",
+    "pricing": {
+      "price": 102,
+      "mrp": 112,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 250 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates_qyno.png",
+        "alt": "Lion Dates Qyno",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "qyno",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "qyno",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 50,
+    "name": "Lion Dates Qyno",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 185,
+      "mrp": 204,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates_qyno.png",
+        "alt": "Lion Dates Qyno",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "qyno",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "qyno",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 51,
+    "name": "Lion Dates Desert King Cup",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "250 g",
+    "pricing": {
+      "price": 142,
+      "mrp": 156,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 250 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates_desert_king_cup.png",
+        "alt": "Lion Dates Desert King Cup",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "desert",
+        "king",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "desert",
+        "king",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 52,
+    "name": "Lion Dates Desert King",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 247,
+      "mrp": 272,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates_desert_king.png",
+        "alt": "Lion Dates Desert King",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "desert",
+        "king",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "desert",
+        "king",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 53,
+    "name": "Meera Shampoo Badam",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Almonds",
+    "variant": "180 ml",
+    "pricing": {
+      "price": 170,
+      "mrp": 187,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium almonds (badam) for health and nutrition.",
+      "long": "Premium almonds (badam) for health and nutrition. Rich in vitamins, minerals, and healthy fats. Perfect for daily consumption and snacking. Supports brain health and energy. Trusted brand for quality nuts. Pack size: 180 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/meera_shampoo_badam.png",
+        "alt": "Meera Shampoo Badam",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "almonds",
+        "badam",
+        "nuts",
+        "health",
+        "nutrition",
+        "vitamins",
+        "energy",
+        "meera",
+        "shampoo",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "almonds",
+        "badam",
+        "nuts",
+        "health",
+        "nutrition",
+        "vitamins",
+        "energy",
+        "meera",
+        "shampoo",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 54,
+    "name": "Lion Dates Seedless",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "250 g",
+    "pricing": {
+      "price": 72,
+      "mrp": 79,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 250 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates_seedless.png",
+        "alt": "Lion Dates Seedless",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "seedless",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "seedless",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 55,
+    "name": "Lion Dates Qyno (1+1)",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "250 g",
+    "pricing": {
+      "price": 99,
+      "mrp": 109,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 250 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates_qyno_1_1.png",
+        "alt": "Lion Dates Qyno (1+1)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "qyno",
+        "(1+1)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "qyno",
+        "(1+1)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 56,
+    "name": "Cerelac Wheat Honey Dates",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "300 g",
+    "pricing": {
+      "price": 314,
+      "mrp": 345,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 300 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/cerelac_wheat_honey_dates.png",
+        "alt": "Cerelac Wheat Honey Dates",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "cerelac",
+        "wheat",
+        "honey",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "cerelac",
+        "wheat",
+        "honey",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 57,
+    "name": "Lion Dates Qyno (1+1)",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "250 g",
+    "pricing": {
+      "price": 94,
+      "mrp": 103,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 250 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates_qyno_1_1.png",
+        "alt": "Lion Dates Qyno (1+1)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "qyno",
+        "(1+1)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "qyno",
+        "(1+1)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 58,
+    "name": "Lion Dates Qyno (1+1)",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 175,
+      "mrp": 193,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates_qyno_1_1.png",
+        "alt": "Lion Dates Qyno (1+1)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "qyno",
+        "(1+1)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "qyno",
+        "(1+1)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 59,
+    "name": "Lion Dates Qyno Cup",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 149,
+      "mrp": 164,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates_qyno_cup.png",
+        "alt": "Lion Dates Qyno Cup",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "qyno",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "qyno",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 60,
+    "name": "Lion Dates Qyno Cup",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "250 g",
+    "pricing": {
+      "price": 75,
+      "mrp": 83,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 250 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates_qyno_cup.png",
+        "alt": "Lion Dates Qyno Cup",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "qyno",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "qyno",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 61,
+    "name": "Kimia Dates",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 275,
+      "mrp": 303,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/kimia_dates.png",
+        "alt": "Kimia Dates",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "kimia",
+        "dates",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "kimia",
+        "dates",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 62,
+    "name": "Lion Dates Qyno (1+1)",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "250 g",
+    "pricing": {
+      "price": 105,
+      "mrp": 116,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 250 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates_qyno_1_1.png",
+        "alt": "Lion Dates Qyno (1+1)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "qyno",
+        "(1+1)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "qyno",
+        "(1+1)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 63,
+    "name": "Lion Dates Qyno Cup",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "250 g",
+    "pricing": {
+      "price": 76,
+      "mrp": 84,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 250 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates_qyno_cup.png",
+        "alt": "Lion Dates Qyno Cup",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "qyno",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "qyno",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 64,
+    "name": "Lion Dates Qyno Cup",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 154,
+      "mrp": 169,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates_qyno_cup.png",
+        "alt": "Lion Dates Qyno Cup",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "qyno",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "qyno",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 65,
+    "name": "Annai Dates Black Queen Cup",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "250 g",
+    "pricing": {
+      "price": 140,
+      "mrp": 154,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 250 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/annai_dates_black_queen_cup.png",
+        "alt": "Annai Dates Black Queen Cup",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "black",
+        "queen",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "black",
+        "queen",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 66,
+    "name": "Annai Dates Seedless",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 156,
+      "mrp": 172,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/annai_dates_seedless.png",
+        "alt": "Annai Dates Seedless",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "seedless",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "seedless",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 67,
+    "name": "Annai Dates Seedless",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "250 g",
+    "pricing": {
+      "price": 81,
+      "mrp": 89,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 250 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/annai_dates_seedless.png",
+        "alt": "Annai Dates Seedless",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "seedless",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "seedless",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 68,
+    "name": "Annai Dates Black",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "250 g",
+    "pricing": {
+      "price": 155,
+      "mrp": 171,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 250 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/annai_dates_black.png",
+        "alt": "Annai Dates Black",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "black",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "black",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 69,
+    "name": "Annai Dates Seeded 1+1)",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 185,
+      "mrp": 204,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/annai_dates_seeded_1_1.png",
+        "alt": "Annai Dates Seeded 1+1)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "seeded",
+        "1+1)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "seeded",
+        "1+1)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 70,
+    "name": "Annai Dates Seeded 1+1)",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "200 g",
+    "pricing": {
+      "price": 99,
+      "mrp": 109,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/annai_dates_seeded_1_1.png",
+        "alt": "Annai Dates Seeded 1+1)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "seeded",
+        "1+1)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "seeded",
+        "1+1)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 71,
+    "name": "Annai Dates Black 1+1)",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "125 g",
+    "pricing": {
+      "price": 145,
+      "mrp": 160,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 125 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/annai_dates_black_1_1.png",
+        "alt": "Annai Dates Black 1+1)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "black",
+        "1+1)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "dates",
+        "black",
+        "1+1)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 72,
+    "name": "Annai Inimia Dates1+1)",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 340,
+      "mrp": 374,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/annai_inimia_dates1_1.png",
+        "alt": "Annai Inimia Dates1+1)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "inimia",
+        "dates1+1)",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "inimia",
+        "dates1+1)",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 73,
+    "name": "Annai Inimia Dates",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "250 g",
+    "pricing": {
+      "price": 110,
+      "mrp": 121,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 250 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/annai_inimia_dates.png",
+        "alt": "Annai Inimia Dates",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "inimia",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "annai",
+        "inimia",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 74,
+    "name": "Lion Dates",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "200 g",
+    "pricing": {
+      "price": 58,
+      "mrp": 64,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates.png",
+        "alt": "Lion Dates",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 75,
+    "name": "Lion Dates Qyno (1+1)",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 186,
+      "mrp": 205,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates_qyno_1_1.png",
+        "alt": "Lion Dates Qyno (1+1)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "qyno",
+        "(1+1)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "qyno",
+        "(1+1)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 76,
+    "name": "Lion Dates Desert King",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "250 g",
+    "pricing": {
+      "price": 142,
+      "mrp": 156,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 250 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates_desert_king.png",
+        "alt": "Lion Dates Desert King",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "desert",
+        "king",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "desert",
+        "king",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 77,
+    "name": "Kimia Dates",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 310,
+      "mrp": 341,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/kimia_dates.png",
+        "alt": "Kimia Dates",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "kimia",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "kimia",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 78,
+    "name": "Lion Dates Desert King Cup",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 299,
+      "mrp": 329,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates_desert_king_cup.png",
+        "alt": "Lion Dates Desert King Cup",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "desert",
+        "king",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "desert",
+        "king",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 79,
+    "name": "Badam Yessan",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Almonds",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 35,
+      "mrp": 39,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium almonds (badam) for health and nutrition.",
+      "long": "Premium almonds (badam) for health and nutrition. Rich in vitamins, minerals, and healthy fats. Perfect for daily consumption and snacking. Supports brain health and energy. Trusted brand for quality nuts. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/badam_yessan.png",
+        "alt": "Badam Yessan",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "almonds",
+        "badam",
+        "nuts",
+        "health",
+        "nutrition",
+        "vitamins",
+        "energy",
+        "yessan",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "almonds",
+        "badam",
+        "nuts",
+        "health",
+        "nutrition",
+        "vitamins",
+        "energy",
+        "yessan",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 80,
+    "name": "Lion Dates Qyno (1+1)",
+    "brand": "Lion",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "250 g",
+    "pricing": {
+      "price": 98,
+      "mrp": 108,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Lion - Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Lion - Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 250 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/lion_dates_qyno_1_1.png",
+        "alt": "Lion Dates Qyno (1+1)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "qyno",
+        "(1+1)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "lion",
+        "dates",
+        "qyno",
+        "(1+1)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 81,
+    "name": "Kimia Dates",
+    "brand": "Generic",
+    "category": "Dry Fruits & Nuts",
+    "subCategory": "Default",
+    "variant": "500 g",
+    "pricing": {
+      "price": 320,
+      "mrp": 352,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dry fruits and nuts for health and snacking.",
+      "long": "Premium quality dry fruits and nuts for health and snacking. Rich in nutrients and natural goodness. Perfect for daily consumption and recipes. Supports overall health and wellness. Trusted brand for quality. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dry_fruits_nuts/kimia_dates.png",
+        "alt": "Kimia Dates",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "kimia",
+        "dates",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dry fruits",
+        "nuts",
+        "health",
+        "snacking",
+        "nutrition",
+        "daily",
+        "wellness",
+        "kimia",
+        "dates",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  }
+]

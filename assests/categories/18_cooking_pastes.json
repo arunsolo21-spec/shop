@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Ginger Garlic Paste",
+    "description": "Fresh and authentic Ginger Garlic Paste for quick cooking.",
+    "brand": "Generic",
+    "category": "Cooking Pastes",
+    "variant": "1 pcs",
+    "price": 5,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_pastes/ginger_garlic_paste.png",
+    "search_tags": [
+      "inji poondu paste",
+      "cooking pastes",
+      "இஞ்சி பூண்டு விழுது",
+      "ginger garlic paste",
+      "generic"
+    ],
+    "subCategory": "General",
+    "mrp": 6,
+    "discount": 17
+  },
+  {
+    "name": "Ginger Garlic Paste",
+    "description": "Fresh and authentic Ginger Garlic Paste for quick cooking.",
+    "brand": "Generic",
+    "category": "Cooking Pastes",
+    "variant": "1 pcs",
+    "price": 50,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_pastes/ginger_garlic_paste.png",
+    "search_tags": [
+      "inji poondu paste",
+      "cooking pastes",
+      "இஞ்சி பூண்டு விழுது",
+      "ginger garlic paste",
+      "generic"
+    ],
+    "subCategory": "General",
+    "mrp": 55,
+    "discount": 9
+  },
+  {
+    "name": "Ginger Garlic Paste",
+    "description": "Fresh and authentic Ginger Garlic Paste for quick cooking.",
+    "brand": "Generic",
+    "category": "Cooking Pastes",
+    "variant": "1 pcs",
+    "price": 2,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/cooking_pastes/ginger_garlic_paste.png",
+    "search_tags": [
+      "inji poondu paste",
+      "cooking pastes",
+      "இஞ்சி பூண்டு விழுது",
+      "ginger garlic paste",
+      "generic"
+    ],
+    "subCategory": "General",
+    "mrp": 2,
+    "discount": 0
+  }
+]

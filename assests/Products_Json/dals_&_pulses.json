@@ -1,0 +1,731 @@
+[
+    {
+        "original_name": "thu.paruppu 1kg udhayam",
+        "clean_name": "ThuParuppu  Udhayam",
+        "brand": "Thu.Paruppu",
+        "size": 1.0,
+        "unit": "kg",
+        "category": "Dals & Pulses",
+        "mrp": 143.0
+    },
+    {
+        "original_name": "pottukadalai 1kg",
+        "clean_name": "Pottukadalai",
+        "brand": "Pottukadalai",
+        "size": 1.0,
+        "unit": "kg",
+        "category": "Dals & Pulses",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "pottukadala.",
+        "clean_name": "Pottukadala",
+        "brand": "Pottukadala.",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "thuvaramparuppu",
+        "clean_name": "Thuvaramparuppu",
+        "brand": "Thuvaramparuppu",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "kallaparappu ",
+        "clean_name": "Kallaparappu",
+        "brand": "Kallaparappu",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "santoor",
+        "clean_name": "Santoor",
+        "brand": "Santoor",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 65.0
+    },
+    {
+        "original_name": "santoor soap Rs.33",
+        "clean_name": "Santoor",
+        "brand": "Santoor",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 33.0
+    },
+    {
+        "original_name": "thu.paruppu no.1(1kg)",
+        "clean_name": "ThuParuppu No1",
+        "brand": "Thu.Paruppu",
+        "size": 1.0,
+        "unit": "kg",
+        "category": "Dals & Pulses",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "moong tal Rs.5 saram",
+        "clean_name": "Moong Tal Saram",
+        "brand": "Moong",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "dall paruppu",
+        "clean_name": "Dall Paruppu",
+        "brand": "Dall",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "thuvaramparuppu NO.2",
+        "clean_name": "Thuvaramparuppu No2",
+        "brand": "Thuvaramparuppu",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "santoor Rs.10",
+        "clean_name": "Santoor",
+        "brand": "Santoor",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "moong tal Rs.5",
+        "clean_name": "Moong Tal",
+        "brand": "Moong",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "thu.paruppu (1kg)",
+        "clean_name": "ThuParuppu",
+        "brand": "Thu.Paruppu",
+        "size": 1.0,
+        "unit": "kg",
+        "category": "Dals & Pulses",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "thu.paruppu ",
+        "clean_name": "ThuParuppu",
+        "brand": "Thu.Paruppu",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "santoor Rs.40",
+        "clean_name": "Santoor",
+        "brand": "Santoor",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "santoor Rs.10(set4ps)",
+        "clean_name": "Santoor Set",
+        "brand": "Santoor",
+        "size": 4.0,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "santoor soap Rs.37",
+        "clean_name": "Santoor",
+        "brand": "Santoor",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 37.0
+    },
+    {
+        "original_name": "muzhu ulunthu",
+        "clean_name": "Muzhu Ulunthu",
+        "brand": "Muzhu",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "kallaparuppu no.2",
+        "clean_name": "Kallaparuppu No2",
+        "brand": "Kallaparuppu",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "kallaparuppu udhayam 1kg",
+        "clean_name": "Kallaparuppu Udhayam",
+        "brand": "Kallaparuppu",
+        "size": 1.0,
+        "unit": "kg",
+        "category": "Dals & Pulses",
+        "mrp": 108.0
+    },
+    {
+        "original_name": "abisegam settu(pig) archana",
+        "clean_name": "Abisegam SettuPig Archana",
+        "brand": "Abisegam",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 220.0
+    },
+    {
+        "original_name": "abisegam settu(small)archana",
+        "clean_name": "Abisegam SettuSmallArchana",
+        "brand": "Abisegam",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "pottukadalai muzhsu 1kg",
+        "clean_name": "Pottukadalai Muzhsu",
+        "brand": "Pottukadalai",
+        "size": 1.0,
+        "unit": "kg",
+        "category": "Dals & Pulses",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "moong tal parle 12ps Rs.5 saram",
+        "clean_name": "Moong Tal Parle  Saram",
+        "brand": "Moong",
+        "size": 12.0,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "santoor soap Rs.38",
+        "clean_name": "Santoor",
+        "brand": "Santoor",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 38.0
+    },
+    {
+        "original_name": "santoor soap Rs.36",
+        "clean_name": "Santoor",
+        "brand": "Santoor",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 36.0
+    },
+    {
+        "original_name": "mP paasipayir Rs.5 pkt",
+        "clean_name": "Mp Paasipayir Pkt",
+        "brand": "Mp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "Mr.gold kadala 5ltr cane",
+        "clean_name": "MrGold Kadala  Cane",
+        "brand": "Mr.Gold",
+        "size": 5.0,
+        "unit": "Ltr",
+        "category": "Dals & Pulses",
+        "mrp": 1300.0
+    },
+    {
+        "original_name": "oil kadalai  tin",
+        "clean_name": "Oil Kadalai Tin",
+        "brand": "Oil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 3500.0
+    },
+    {
+        "original_name": "oil Manila tin",
+        "clean_name": "Oil Manila Tin",
+        "brand": "Oil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 4000.0
+    },
+    {
+        "original_name": "moongil appalam 100g Rs.15",
+        "clean_name": "Moongil Appalam",
+        "brand": "Moongil",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Dals & Pulses",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "santhanam archana 200g.box ",
+        "clean_name": "Santhanam Archana Box",
+        "brand": "Santhanam",
+        "size": 200.0,
+        "unit": "g",
+        "category": "Dals & Pulses",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "moongil appalam 50g Rs.15",
+        "clean_name": "Moongil Appalam",
+        "brand": "Moongil",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Dals & Pulses",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "santoor soap 100g",
+        "clean_name": "Santoor",
+        "brand": "Santoor",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Dals & Pulses",
+        "mrp": 34.0
+    },
+    {
+        "original_name": "santoor soap Rs.34",
+        "clean_name": "Santoor",
+        "brand": "Santoor",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 34.0
+    },
+    {
+        "original_name": "santoor soap Rs.40",
+        "clean_name": "Santoor",
+        "brand": "Santoor",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 36.0
+    },
+    {
+        "original_name": "thu.paruppu spl",
+        "clean_name": "ThuParuppu Spl",
+        "brand": "Thu.Paruppu",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 130.0
+    },
+    {
+        "original_name": "santoor soap white Rs.35",
+        "clean_name": "Santoor White",
+        "brand": "Santoor",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "paasi paruppu Udayam 1/2kg",
+        "clean_name": "Paasi Paruppu Udayam 1",
+        "brand": "Paasi",
+        "size": 2.0,
+        "unit": "kg",
+        "category": "Dals & Pulses",
+        "mrp": 74.0
+    },
+    {
+        "original_name": "patti paruppu potti 100g",
+        "clean_name": "Patti Paruppu Potti",
+        "brand": "Patti",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Dals & Pulses",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "paatti paruppu potti 100g",
+        "clean_name": "Paatti Paruppu Potti",
+        "brand": "Paatti",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Dals & Pulses",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "santoor MRP 36",
+        "clean_name": "Santoor 36",
+        "brand": "Santoor",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 36.0
+    },
+    {
+        "original_name": "santoor Rs 40",
+        "clean_name": "Santoor",
+        "brand": "Santoor",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "oil porna groundnut oil",
+        "clean_name": "Oil Porna Groundnut Oil",
+        "brand": "Oil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 252.0
+    },
+    {
+        "original_name": "ulutham pa karuppu tower ",
+        "clean_name": "Ulutham Pa Karuppu Tower",
+        "brand": "Ulutham",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "gajapathi oil 1 ltr",
+        "clean_name": "Gajapathi Oil",
+        "brand": "Gajapathi",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Dals & Pulses",
+        "mrp": 265.0
+    },
+    {
+        "original_name": "santoor white Rs.10",
+        "clean_name": "Santoor White",
+        "brand": "Santoor",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "santoor Rs.35",
+        "clean_name": "Santoor",
+        "brand": "Santoor",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "oil sekku porna groundnut oil",
+        "clean_name": "Oil Sekku Porna Groundnut Oil",
+        "brand": "Oil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 252.0
+    },
+    {
+        "original_name": "santoor sandal  100g",
+        "clean_name": "Santoor Sandal",
+        "brand": "Santoor",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Dals & Pulses",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "paruppu satha podi 100g",
+        "clean_name": "Paruppu Satha Podi",
+        "brand": "Paruppu",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Dals & Pulses",
+        "mrp": 44.0
+    },
+    {
+        "original_name": "Mr.gold kadala 500ml",
+        "clean_name": "MrGold Kadala",
+        "brand": "Mr.Gold",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Dals & Pulses",
+        "mrp": 130.0
+    },
+    {
+        "original_name": "santoor soap 100g  Rs.36",
+        "clean_name": "Santoor",
+        "brand": "Santoor",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Dals & Pulses",
+        "mrp": 36.0
+    },
+    {
+        "original_name": "oil porna groundnut oil 500ml",
+        "clean_name": "Oil Porna Groundnut Oil",
+        "brand": "Oil",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Dals & Pulses",
+        "mrp": 136.0
+    },
+    {
+        "original_name": "oil porna groundnut oil 1ltr",
+        "clean_name": "Oil Porna Groundnut Oil",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Dals & Pulses",
+        "mrp": 252.0
+    },
+    {
+        "original_name": "santhanam archana dappa Rs.12",
+        "clean_name": "Santhanam Archana Dappa",
+        "brand": "Santhanam",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 12.0
+    },
+    {
+        "original_name": "mm paasipayir mani mark Rs.5 saram ",
+        "clean_name": "Mm Paasipayir Mani Mark Saram",
+        "brand": "Mm",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "santhanam archana box ",
+        "clean_name": "Santhanam Archana Box",
+        "brand": "Santhanam",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "oil porna groundnut oil 5ltr cane",
+        "clean_name": "Oil Porna Groundnut Oil  Cane",
+        "brand": "Oil",
+        "size": 5.0,
+        "unit": "Ltr",
+        "category": "Dals & Pulses",
+        "mrp": 1239.0
+    },
+    {
+        "original_name": "cerelac multigrain dal veg 300g Rs.322",
+        "clean_name": "Cerelac Multigrain Dal Veg",
+        "brand": "Cerelac",
+        "size": 300.0,
+        "unit": "g",
+        "category": "Dals & Pulses",
+        "mrp": 322.0
+    },
+    {
+        "original_name": "santoor soap 100g  Rs.35",
+        "clean_name": "Santoor",
+        "brand": "Santoor",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Dals & Pulses",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "santoor sandal Rs.10",
+        "clean_name": "Santoor Sandal",
+        "brand": "Santoor",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "moong tal haldirams Rs.5 saram",
+        "clean_name": "Moong Tal Haldirams Saram",
+        "brand": "Moong",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "santoor soap 100g  Rs.37",
+        "clean_name": "Santoor",
+        "brand": "Santoor",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Dals & Pulses",
+        "mrp": 37.0
+    },
+    {
+        "original_name": "oil jvs kadala 1ltr",
+        "clean_name": "Oil Jvs Kadala",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Dals & Pulses",
+        "mrp": 255.0
+    },
+    {
+        "original_name": "kundu ulutham idham 500g",
+        "clean_name": "Kundu Ulutham Idham",
+        "brand": "Kundu",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Dals & Pulses",
+        "mrp": 96.0
+    },
+    {
+        "original_name": "oil iyarkai 2lr can",
+        "clean_name": "Oil Iyarkai 2Lr Can",
+        "brand": "Oil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 750.0
+    },
+    {
+        "original_name": "Mr.gold kadala 5ltr cane (W) free",
+        "clean_name": "MrGold Kadala  Cane W Free",
+        "brand": "Mr.Gold",
+        "size": 5.0,
+        "unit": "Ltr",
+        "category": "Dals & Pulses",
+        "mrp": 1450.0
+    },
+    {
+        "original_name": "santoor soap 100g  Rs.39",
+        "clean_name": "Santoor",
+        "brand": "Santoor",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Dals & Pulses",
+        "mrp": 39.0
+    },
+    {
+        "original_name": "ms kadala yeannai 1ltr.",
+        "clean_name": "Ms Kadala Yeannai",
+        "brand": "Ms",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Dals & Pulses",
+        "mrp": 271.0
+    },
+    {
+        "original_name": "moong tal  Rs.5 saram",
+        "clean_name": "Moong Tal Saram",
+        "brand": "Moong",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "oil sathyam kadalai 1ltr",
+        "clean_name": "Oil Sathyam Kadalai",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Dals & Pulses",
+        "mrp": 250.0
+    },
+    {
+        "original_name": "kadala urundai jar Rs.2",
+        "clean_name": "Kadala Urundai Jar",
+        "brand": "Kadala",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "oil gem's gold (ma) 1ltr",
+        "clean_name": "Oil GemS Gold Ma",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Dals & Pulses",
+        "mrp": 240.0
+    },
+    {
+        "original_name": "oil gem's gold (ma) 1ltr jar",
+        "clean_name": "Oil GemS Gold Ma  Jar",
+        "brand": "Oil",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Dals & Pulses",
+        "mrp": 250.0
+    },
+    {
+        "original_name": "moong tal townbus 12ps Rs.5 saram",
+        "clean_name": "Moong Tal Townbus  Saram",
+        "brand": "Moong",
+        "size": 12.0,
+        "unit": "pcs",
+        "category": "Dals & Pulses",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "santoor soap 100g  Rs.40",
+        "clean_name": "Santoor",
+        "brand": "Santoor",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Dals & Pulses",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "kundu ulunth ms 250g pkt",
+        "clean_name": "Kundu Ulunth Ms  Pkt",
+        "brand": "Kundu",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Dals & Pulses",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "santoor soap 100g  Rs.41",
+        "clean_name": "Santoor",
+        "brand": "Santoor",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Dals & Pulses",
+        "mrp": 37.0
+    },
+    {
+        "original_name": "santoor soap 100g rs.42",
+        "clean_name": "Santoor",
+        "brand": "Santoor",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Dals & Pulses",
+        "mrp": 42.0
+    }
+]

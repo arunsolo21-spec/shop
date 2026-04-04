@@ -1,0 +1,3444 @@
+[
+  {
+    "id": 1,
+    "name": "Udhayam Toor Dal (Thuvaram Paruppu)",
+    "brand": "Udhayam",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "1 kg",
+    "pricing": {
+      "price": 143,
+      "mrp": 157,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Udhayam - Premium quality Toor Dal (Thuvaram Paruppu), rich in protein and essential nutrients for daily cooking.",
+      "long": "Udhayam - Premium quality Toor Dal (Thuvaram Paruppu), rich in protein and essential nutrients. Perfect for sambar, rasam, and daily South Indian meals. Carefully cleaned and sorted for quality assurance. A staple in Tamil Nadu households. Pack size: 1 kg."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/udhayam_toor_dal_thuvaram_paruppu.png",
+        "alt": "Udhayam Toor Dal (Thuvaram Paruppu)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "toor dal",
+        "thuvaram paruppu",
+        "sambar paruppu",
+        "yellow lentil",
+        "pigeon pea",
+        "dal",
+        "paruppu",
+        "udhayam",
+        "toor",
+        "(thuvaram",
+        "paruppu)",
+        "kilogram",
+        "kg",
+        "1kg",
+        "one kg"
+      ],
+      "tanglish": [
+        "thuvaram",
+        "paruppu",
+        "sambar",
+        "toor",
+        "dal",
+        "udhayam",
+        "(thuvaram",
+        "paruppu)",
+        "kg"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 2,
+    "name": "Fried Gram (Pottukadalai)",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "1 kg",
+    "pricing": {
+      "price": 110,
+      "mrp": 121,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Quality Chana Dal (Kadalai Paruppu), versatile and nutritious for everyday cooking.",
+      "long": "Quality Chana Dal (Kadalai Paruppu), versatile and nutritious for everyday cooking. Perfect for sundal, kootu, chutney, and snacks. Rich in protein and fiber. A popular choice for Tamil Nadu households. Pack size: 1 kg."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/fried_gram_pottukadalai.png",
+        "alt": "Fried Gram (Pottukadalai)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "chana dal",
+        "kadalai paruppu",
+        "bengal gram",
+        "split chickpea",
+        "dal",
+        "paruppu",
+        "kadalai",
+        "fried",
+        "gram",
+        "(pottukadalai)",
+        "kilogram",
+        "kg",
+        "1kg",
+        "one kg"
+      ],
+      "tanglish": [
+        "kadalai",
+        "paruppu",
+        "chana",
+        "dal",
+        "bengal gram",
+        "fried",
+        "gram",
+        "(pottukadalai)",
+        "kg"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 3,
+    "name": "pottukadala",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 100,
+      "mrp": 110,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/pottukadala.png",
+        "alt": "pottukadala",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "pottukadala"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "pottukadala"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 4,
+    "name": "Toor Dal (Thuvaram Paruppu)",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 150,
+      "mrp": 165,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality Toor Dal (Thuvaram Paruppu), rich in protein and essential nutrients for daily cooking.",
+      "long": "Premium quality Toor Dal (Thuvaram Paruppu), rich in protein and essential nutrients. Perfect for sambar, rasam, and daily South Indian meals. Carefully cleaned and sorted for quality assurance. A staple in Tamil Nadu households. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/toor_dal_thuvaram_paruppu.png",
+        "alt": "Toor Dal (Thuvaram Paruppu)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "toor dal",
+        "thuvaram paruppu",
+        "sambar paruppu",
+        "yellow lentil",
+        "pigeon pea",
+        "dal",
+        "paruppu",
+        "toor",
+        "(thuvaram",
+        "paruppu)"
+      ],
+      "tanglish": [
+        "thuvaram",
+        "paruppu",
+        "sambar",
+        "toor",
+        "dal",
+        "(thuvaram",
+        "paruppu)"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 5,
+    "name": "Chana Dal (Kadalai Paruppu)",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 100,
+      "mrp": 110,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Quality Chana Dal (Kadalai Paruppu), versatile and nutritious for everyday cooking.",
+      "long": "Quality Chana Dal (Kadalai Paruppu), versatile and nutritious for everyday cooking. Perfect for sundal, kootu, chutney, and snacks. Rich in protein and fiber. A popular choice for Tamil Nadu households. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/chana_dal_kadalai_paruppu.png",
+        "alt": "Chana Dal (Kadalai Paruppu)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "chana dal",
+        "kadalai paruppu",
+        "bengal gram",
+        "split chickpea",
+        "dal",
+        "paruppu",
+        "kadalai",
+        "chana",
+        "(kadalai",
+        "paruppu)"
+      ],
+      "tanglish": [
+        "kadalai",
+        "paruppu",
+        "chana",
+        "dal",
+        "bengal gram",
+        "(kadalai",
+        "paruppu)"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 6,
+    "name": "Toor Dal (Thuvaram Paruppu) Premium",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "1 kg",
+    "pricing": {
+      "price": 120,
+      "mrp": 132,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality Toor Dal (Thuvaram Paruppu), rich in protein and essential nutrients for daily cooking.",
+      "long": "Premium quality Toor Dal (Thuvaram Paruppu), rich in protein and essential nutrients. Perfect for sambar, rasam, and daily South Indian meals. Carefully cleaned and sorted for quality assurance. A staple in Tamil Nadu households. Pack size: 1 kg."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/toor_dal_thuvaram_paruppu_premium.png",
+        "alt": "Toor Dal (Thuvaram Paruppu) Premium",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "toor dal",
+        "thuvaram paruppu",
+        "sambar paruppu",
+        "yellow lentil",
+        "pigeon pea",
+        "dal",
+        "paruppu",
+        "toor",
+        "(thuvaram",
+        "paruppu)",
+        "premium",
+        "kilogram",
+        "kg",
+        "1kg",
+        "one kg"
+      ],
+      "tanglish": [
+        "thuvaram",
+        "paruppu",
+        "sambar",
+        "toor",
+        "dal",
+        "(thuvaram",
+        "paruppu)",
+        "premium",
+        "kg"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 7,
+    "name": "Moong Dal (Paasi Paruppu)",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 60,
+      "mrp": 66,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "High-quality Moong Dal (Paasi Paruppu), easy to digest and perfect for various dishes.",
+      "long": "High-quality Moong Dal (Paasi Paruppu), easy to digest and perfect for various dishes. Ideal for poriyal, kootu, payasam, and dosa batter. Rich in protein and fiber. A healthy choice for daily meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/moong_dal_paasi_paruppu.png",
+        "alt": "Moong Dal (Paasi Paruppu)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "moong dal",
+        "paasi paruppu",
+        "green gram",
+        "yellow moong",
+        "split moong",
+        "dal",
+        "paruppu",
+        "moong",
+        "(paasi",
+        "paruppu)"
+      ],
+      "tanglish": [
+        "paasi",
+        "paruppu",
+        "moong",
+        "dal",
+        "payaru",
+        "(paasi",
+        "paruppu)"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 8,
+    "name": "dall paruppu",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 100,
+      "mrp": 110,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/dall_paruppu.png",
+        "alt": "dall paruppu",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "dall"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "dall"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 9,
+    "name": "Toor Dal (Thuvaram Paruppu) Standard",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 150,
+      "mrp": 165,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality Toor Dal (Thuvaram Paruppu), rich in protein and essential nutrients for daily cooking.",
+      "long": "Premium quality Toor Dal (Thuvaram Paruppu), rich in protein and essential nutrients. Perfect for sambar, rasam, and daily South Indian meals. Carefully cleaned and sorted for quality assurance. A staple in Tamil Nadu households. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/toor_dal_thuvaram_paruppu_standard.png",
+        "alt": "Toor Dal (Thuvaram Paruppu) Standard",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "toor dal",
+        "thuvaram paruppu",
+        "sambar paruppu",
+        "yellow lentil",
+        "pigeon pea",
+        "dal",
+        "paruppu",
+        "toor",
+        "(thuvaram",
+        "paruppu)",
+        "standard"
+      ],
+      "tanglish": [
+        "thuvaram",
+        "paruppu",
+        "sambar",
+        "toor",
+        "dal",
+        "(thuvaram",
+        "paruppu)",
+        "standard"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 10,
+    "name": "Toor Dal (Thuvaram Paruppu)",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "1 kg",
+    "pricing": {
+      "price": 120,
+      "mrp": 132,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality Toor Dal (Thuvaram Paruppu), rich in protein and essential nutrients for daily cooking.",
+      "long": "Premium quality Toor Dal (Thuvaram Paruppu), rich in protein and essential nutrients. Perfect for sambar, rasam, and daily South Indian meals. Carefully cleaned and sorted for quality assurance. A staple in Tamil Nadu households. Pack size: 1 kg."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/toor_dal_thuvaram_paruppu.png",
+        "alt": "Toor Dal (Thuvaram Paruppu)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "toor dal",
+        "thuvaram paruppu",
+        "sambar paruppu",
+        "yellow lentil",
+        "pigeon pea",
+        "dal",
+        "paruppu",
+        "toor",
+        "(thuvaram",
+        "paruppu)",
+        "kilogram",
+        "kg",
+        "1kg",
+        "one kg"
+      ],
+      "tanglish": [
+        "thuvaram",
+        "paruppu",
+        "sambar",
+        "toor",
+        "dal",
+        "(thuvaram",
+        "paruppu)",
+        "kg"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 11,
+    "name": "Toor Dal (Thuvaram Paruppu)",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 120,
+      "mrp": 132,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality Toor Dal (Thuvaram Paruppu), rich in protein and essential nutrients for daily cooking.",
+      "long": "Premium quality Toor Dal (Thuvaram Paruppu), rich in protein and essential nutrients. Perfect for sambar, rasam, and daily South Indian meals. Carefully cleaned and sorted for quality assurance. A staple in Tamil Nadu households. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/toor_dal_thuvaram_paruppu.png",
+        "alt": "Toor Dal (Thuvaram Paruppu)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "toor dal",
+        "thuvaram paruppu",
+        "sambar paruppu",
+        "yellow lentil",
+        "pigeon pea",
+        "dal",
+        "paruppu",
+        "toor",
+        "(thuvaram",
+        "paruppu)"
+      ],
+      "tanglish": [
+        "thuvaram",
+        "paruppu",
+        "sambar",
+        "toor",
+        "dal",
+        "(thuvaram",
+        "paruppu)"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 12,
+    "name": "Whole Urad Dal (Muzhu Ulundhu)",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 150,
+      "mrp": 165,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium Urad Dal (Ulunthu Paruppu), essential for idli, dosa, and traditional recipes.",
+      "long": "Premium Urad Dal (Ulunthu Paruppu), essential for idli, dosa, and traditional recipes. Available in whole and split varieties. High in protein and creates perfect fermentation. A must-have for South Indian cooking. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/whole_urad_dal_muzhu_ulundhu.png",
+        "alt": "Whole Urad Dal (Muzhu Ulundhu)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "urad dal",
+        "ulunthu paruppu",
+        "black gram",
+        "white lentil",
+        "whole urad",
+        "split urad",
+        "dal",
+        "whole",
+        "urad",
+        "(muzhu",
+        "ulundhu)"
+      ],
+      "tanglish": [
+        "ulunthu",
+        "paruppu",
+        "urad",
+        "dal",
+        "idli",
+        "whole",
+        "(muzhu",
+        "ulundhu)"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 13,
+    "name": "Chana Dal (Kadalai Paruppu) Standard",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 100,
+      "mrp": 110,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Quality Chana Dal (Kadalai Paruppu), versatile and nutritious for everyday cooking.",
+      "long": "Quality Chana Dal (Kadalai Paruppu), versatile and nutritious for everyday cooking. Perfect for sundal, kootu, chutney, and snacks. Rich in protein and fiber. A popular choice for Tamil Nadu households. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/chana_dal_kadalai_paruppu_standard.png",
+        "alt": "Chana Dal (Kadalai Paruppu) Standard",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "chana dal",
+        "kadalai paruppu",
+        "bengal gram",
+        "split chickpea",
+        "dal",
+        "paruppu",
+        "kadalai",
+        "chana",
+        "(kadalai",
+        "paruppu)",
+        "standard"
+      ],
+      "tanglish": [
+        "kadalai",
+        "paruppu",
+        "chana",
+        "dal",
+        "bengal gram",
+        "(kadalai",
+        "paruppu)",
+        "standard"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 14,
+    "name": "Udhayam Chana Dal (Kadalai Paruppu)",
+    "brand": "Udhayam",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "1 kg",
+    "pricing": {
+      "price": 108,
+      "mrp": 119,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Udhayam - Quality Chana Dal (Kadalai Paruppu), versatile and nutritious for everyday cooking.",
+      "long": "Udhayam - Quality Chana Dal (Kadalai Paruppu), versatile and nutritious for everyday cooking. Perfect for sundal, kootu, chutney, and snacks. Rich in protein and fiber. A popular choice for Tamil Nadu households. Pack size: 1 kg."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/udhayam_chana_dal_kadalai_paruppu.png",
+        "alt": "Udhayam Chana Dal (Kadalai Paruppu)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "chana dal",
+        "kadalai paruppu",
+        "bengal gram",
+        "split chickpea",
+        "dal",
+        "paruppu",
+        "kadalai",
+        "udhayam",
+        "chana",
+        "(kadalai",
+        "paruppu)",
+        "kilogram",
+        "kg",
+        "1kg",
+        "one kg"
+      ],
+      "tanglish": [
+        "kadalai",
+        "paruppu",
+        "chana",
+        "dal",
+        "bengal gram",
+        "udhayam",
+        "(kadalai",
+        "paruppu)",
+        "kg"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 15,
+    "name": "Chana Dal (Kadalai Paruppu)",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 220,
+      "mrp": 242,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Quality Chana Dal (Kadalai Paruppu), versatile and nutritious for everyday cooking.",
+      "long": "Quality Chana Dal (Kadalai Paruppu), versatile and nutritious for everyday cooking. Perfect for sundal, kootu, chutney, and snacks. Rich in protein and fiber. A popular choice for Tamil Nadu households. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/chana_dal_kadalai_paruppu.png",
+        "alt": "Chana Dal (Kadalai Paruppu)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "chana dal",
+        "kadalai paruppu",
+        "bengal gram",
+        "split chickpea",
+        "dal",
+        "paruppu",
+        "kadalai",
+        "chana",
+        "(kadalai",
+        "paruppu)"
+      ],
+      "tanglish": [
+        "kadalai",
+        "paruppu",
+        "chana",
+        "dal",
+        "bengal gram",
+        "(kadalai",
+        "paruppu)"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 16,
+    "name": "Chana Dal (Kadalai Paruppu)",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 150,
+      "mrp": 165,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Quality Chana Dal (Kadalai Paruppu), versatile and nutritious for everyday cooking.",
+      "long": "Quality Chana Dal (Kadalai Paruppu), versatile and nutritious for everyday cooking. Perfect for sundal, kootu, chutney, and snacks. Rich in protein and fiber. A popular choice for Tamil Nadu households. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/chana_dal_kadalai_paruppu.png",
+        "alt": "Chana Dal (Kadalai Paruppu)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "chana dal",
+        "kadalai paruppu",
+        "bengal gram",
+        "split chickpea",
+        "dal",
+        "paruppu",
+        "kadalai",
+        "chana",
+        "(kadalai",
+        "paruppu)"
+      ],
+      "tanglish": [
+        "kadalai",
+        "paruppu",
+        "chana",
+        "dal",
+        "bengal gram",
+        "(kadalai",
+        "paruppu)"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 17,
+    "name": "Fried Gram (Pottukadalai)",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "1 kg",
+    "pricing": {
+      "price": 100,
+      "mrp": 110,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Quality Chana Dal (Kadalai Paruppu), versatile and nutritious for everyday cooking.",
+      "long": "Quality Chana Dal (Kadalai Paruppu), versatile and nutritious for everyday cooking. Perfect for sundal, kootu, chutney, and snacks. Rich in protein and fiber. A popular choice for Tamil Nadu households. Pack size: 1 kg."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/fried_gram_pottukadalai.png",
+        "alt": "Fried Gram (Pottukadalai)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "chana dal",
+        "kadalai paruppu",
+        "bengal gram",
+        "split chickpea",
+        "dal",
+        "paruppu",
+        "kadalai",
+        "fried",
+        "gram",
+        "(pottukadalai)",
+        "kilogram",
+        "kg",
+        "1kg",
+        "one kg"
+      ],
+      "tanglish": [
+        "kadalai",
+        "paruppu",
+        "chana",
+        "dal",
+        "bengal gram",
+        "fried",
+        "gram",
+        "(pottukadalai)",
+        "kg"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 18,
+    "name": "Moong Dal (Paasi Paruppu)",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "12 pcs",
+    "pricing": {
+      "price": 60,
+      "mrp": 66,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "High-quality Moong Dal (Paasi Paruppu), easy to digest and perfect for various dishes.",
+      "long": "High-quality Moong Dal (Paasi Paruppu), easy to digest and perfect for various dishes. Ideal for poriyal, kootu, payasam, and dosa batter. Rich in protein and fiber. A healthy choice for daily meals. Pack size: 12 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/moong_dal_paasi_paruppu.png",
+        "alt": "Moong Dal (Paasi Paruppu)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "moong dal",
+        "paasi paruppu",
+        "green gram",
+        "yellow moong",
+        "split moong",
+        "dal",
+        "paruppu",
+        "moong",
+        "(paasi",
+        "paruppu)"
+      ],
+      "tanglish": [
+        "paasi",
+        "paruppu",
+        "moong",
+        "dal",
+        "payaru",
+        "(paasi",
+        "paruppu)"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 19,
+    "name": "Mr gold kadala 5ltr cane",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "5 Ltr",
+    "pricing": {
+      "price": 1300,
+      "mrp": 1430,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 5 Ltr."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/mr_gold_kadala_5ltr_cane.png",
+        "alt": "Mr gold kadala 5ltr cane",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "gold",
+        "kadala",
+        "5ltr",
+        "cane"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "gold",
+        "kadala",
+        "5ltr",
+        "cane"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 20,
+    "name": "Chana Dal (Kadalai Paruppu)",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 3500,
+      "mrp": 3850,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Quality Chana Dal (Kadalai Paruppu), versatile and nutritious for everyday cooking.",
+      "long": "Quality Chana Dal (Kadalai Paruppu), versatile and nutritious for everyday cooking. Perfect for sundal, kootu, chutney, and snacks. Rich in protein and fiber. A popular choice for Tamil Nadu households. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/chana_dal_kadalai_paruppu.png",
+        "alt": "Chana Dal (Kadalai Paruppu)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "chana dal",
+        "kadalai paruppu",
+        "bengal gram",
+        "split chickpea",
+        "dal",
+        "paruppu",
+        "kadalai",
+        "chana",
+        "(kadalai",
+        "paruppu)"
+      ],
+      "tanglish": [
+        "kadalai",
+        "paruppu",
+        "chana",
+        "dal",
+        "bengal gram",
+        "(kadalai",
+        "paruppu)"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 21,
+    "name": "oil Manila tin",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "General",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 4000,
+      "mrp": 4400,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/oil_manila_tin.png",
+        "alt": "oil Manila tin",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "manila"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "manila"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 22,
+    "name": "Moong Dal (Paasi Paruppu)",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "100 g",
+    "pricing": {
+      "price": 15,
+      "mrp": 17,
+      "discount": 12,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "High-quality Moong Dal (Paasi Paruppu), easy to digest and perfect for various dishes.",
+      "long": "High-quality Moong Dal (Paasi Paruppu), easy to digest and perfect for various dishes. Ideal for poriyal, kootu, payasam, and dosa batter. Rich in protein and fiber. A healthy choice for daily meals. Pack size: 100 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/moong_dal_paasi_paruppu.png",
+        "alt": "Moong Dal (Paasi Paruppu)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "moong dal",
+        "paasi paruppu",
+        "green gram",
+        "yellow moong",
+        "split moong",
+        "dal",
+        "paruppu",
+        "moong",
+        "(paasi",
+        "paruppu)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "paasi",
+        "paruppu",
+        "moong",
+        "dal",
+        "payaru",
+        "(paasi",
+        "paruppu)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 23,
+    "name": "Chana Dal (Kadalai Paruppu)",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "200 g",
+    "pricing": {
+      "price": 30,
+      "mrp": 33,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Quality Chana Dal (Kadalai Paruppu), versatile and nutritious for everyday cooking.",
+      "long": "Quality Chana Dal (Kadalai Paruppu), versatile and nutritious for everyday cooking. Perfect for sundal, kootu, chutney, and snacks. Rich in protein and fiber. A popular choice for Tamil Nadu households. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/chana_dal_kadalai_paruppu.png",
+        "alt": "Chana Dal (Kadalai Paruppu)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "chana dal",
+        "kadalai paruppu",
+        "bengal gram",
+        "split chickpea",
+        "dal",
+        "paruppu",
+        "kadalai",
+        "chana",
+        "(kadalai",
+        "paruppu)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "kadalai",
+        "paruppu",
+        "chana",
+        "dal",
+        "bengal gram",
+        "(kadalai",
+        "paruppu)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 24,
+    "name": "Moong Dal (Paasi Paruppu)",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "50 g",
+    "pricing": {
+      "price": 15,
+      "mrp": 17,
+      "discount": 12,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "High-quality Moong Dal (Paasi Paruppu), easy to digest and perfect for various dishes.",
+      "long": "High-quality Moong Dal (Paasi Paruppu), easy to digest and perfect for various dishes. Ideal for poriyal, kootu, payasam, and dosa batter. Rich in protein and fiber. A healthy choice for daily meals. Pack size: 50 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/moong_dal_paasi_paruppu.png",
+        "alt": "Moong Dal (Paasi Paruppu)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "moong dal",
+        "paasi paruppu",
+        "green gram",
+        "yellow moong",
+        "split moong",
+        "dal",
+        "paruppu",
+        "moong",
+        "(paasi",
+        "paruppu)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "paasi",
+        "paruppu",
+        "moong",
+        "dal",
+        "payaru",
+        "(paasi",
+        "paruppu)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 25,
+    "name": "Toor Dal (Thuvaram Paruppu)",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 130,
+      "mrp": 143,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality Toor Dal (Thuvaram Paruppu), rich in protein and essential nutrients for daily cooking.",
+      "long": "Premium quality Toor Dal (Thuvaram Paruppu), rich in protein and essential nutrients. Perfect for sambar, rasam, and daily South Indian meals. Carefully cleaned and sorted for quality assurance. A staple in Tamil Nadu households. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/toor_dal_thuvaram_paruppu.png",
+        "alt": "Toor Dal (Thuvaram Paruppu)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "toor dal",
+        "thuvaram paruppu",
+        "sambar paruppu",
+        "yellow lentil",
+        "pigeon pea",
+        "dal",
+        "paruppu",
+        "toor",
+        "(thuvaram",
+        "paruppu)"
+      ],
+      "tanglish": [
+        "thuvaram",
+        "paruppu",
+        "sambar",
+        "toor",
+        "dal",
+        "(thuvaram",
+        "paruppu)"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 26,
+    "name": "Moong Dal (Paasi Paruppu)",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "2 kg",
+    "pricing": {
+      "price": 74,
+      "mrp": 81,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "High-quality Moong Dal (Paasi Paruppu), easy to digest and perfect for various dishes.",
+      "long": "High-quality Moong Dal (Paasi Paruppu), easy to digest and perfect for various dishes. Ideal for poriyal, kootu, payasam, and dosa batter. Rich in protein and fiber. A healthy choice for daily meals. Pack size: 2 kg."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/moong_dal_paasi_paruppu.png",
+        "alt": "Moong Dal (Paasi Paruppu)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "moong dal",
+        "paasi paruppu",
+        "green gram",
+        "yellow moong",
+        "split moong",
+        "dal",
+        "paruppu",
+        "moong",
+        "(paasi",
+        "paruppu)",
+        "kilogram",
+        "kg"
+      ],
+      "tanglish": [
+        "paasi",
+        "paruppu",
+        "moong",
+        "dal",
+        "payaru",
+        "(paasi",
+        "paruppu)",
+        "kg"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 27,
+    "name": "patti paruppu potti",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Paruppu",
+    "variant": "100 g",
+    "pricing": {
+      "price": 40,
+      "mrp": 44,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 100 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/patti_paruppu_potti.png",
+        "alt": "patti paruppu potti",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "patti",
+        "potti",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "patti",
+        "potti",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 28,
+    "name": "paatti paruppu potti",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Paruppu",
+    "variant": "100 g",
+    "pricing": {
+      "price": 40,
+      "mrp": 44,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 100 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/paatti_paruppu_potti.png",
+        "alt": "paatti paruppu potti",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "paatti",
+        "potti",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "paatti",
+        "potti",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 29,
+    "name": "oil porna groundnut oil",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "General",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 252,
+      "mrp": 277,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/oil_porna_groundnut_oil.png",
+        "alt": "oil porna groundnut oil",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "porna",
+        "groundnut"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "porna",
+        "groundnut"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 30,
+    "name": "ulutham pa karuppu tower",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "General",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 100,
+      "mrp": 110,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/ulutham_pa_karuppu_tower.png",
+        "alt": "ulutham pa karuppu tower",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "ulutham",
+        "karuppu",
+        "tower"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "ulutham",
+        "karuppu",
+        "tower"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 31,
+    "name": "gajapathi oil 1 ltr",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "General",
+    "variant": "1 Ltr",
+    "pricing": {
+      "price": 265,
+      "mrp": 292,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 1 Ltr."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/gajapathi_oil_1_ltr.png",
+        "alt": "gajapathi oil 1 ltr",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "gajapathi"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "gajapathi"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 32,
+    "name": "oil sekku porna groundnut oil",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "General",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 252,
+      "mrp": 277,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/oil_sekku_porna_groundnut_oil.png",
+        "alt": "oil sekku porna groundnut oil",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "sekku",
+        "porna",
+        "groundnut"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "sekku",
+        "porna",
+        "groundnut"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 33,
+    "name": "paruppu satha podi",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Paruppu",
+    "variant": "100 g",
+    "pricing": {
+      "price": 44,
+      "mrp": 48,
+      "discount": 8,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 100 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/paruppu_satha_podi.png",
+        "alt": "paruppu satha podi",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "satha",
+        "podi",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "satha",
+        "podi",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 34,
+    "name": "Mr gold kadala 500ml",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "500 ml",
+    "pricing": {
+      "price": 130,
+      "mrp": 143,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 500 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/mr_gold_kadala_500ml.png",
+        "alt": "Mr gold kadala 500ml",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "gold",
+        "kadala",
+        "500ml",
+        "500g",
+        "half kg"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "gold",
+        "kadala",
+        "500ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 35,
+    "name": "oil porna groundnut oil 500ml",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "General",
+    "variant": "500 ml",
+    "pricing": {
+      "price": 136,
+      "mrp": 150,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 500 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/oil_porna_groundnut_oil_500ml.png",
+        "alt": "oil porna groundnut oil 500ml",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "porna",
+        "groundnut",
+        "500ml",
+        "500g",
+        "half kg"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "porna",
+        "groundnut",
+        "500ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 36,
+    "name": "oil porna groundnut oil 1ltr",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "General",
+    "variant": "1 Ltr",
+    "pricing": {
+      "price": 252,
+      "mrp": 277,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 1 Ltr."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/oil_porna_groundnut_oil_1ltr.png",
+        "alt": "oil porna groundnut oil 1ltr",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "porna",
+        "groundnut",
+        "1ltr"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "porna",
+        "groundnut",
+        "1ltr"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 37,
+    "name": "Chana Dal (Kadalai Paruppu)",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 12,
+      "mrp": 13,
+      "discount": 8,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Quality Chana Dal (Kadalai Paruppu), versatile and nutritious for everyday cooking.",
+      "long": "Quality Chana Dal (Kadalai Paruppu), versatile and nutritious for everyday cooking. Perfect for sundal, kootu, chutney, and snacks. Rich in protein and fiber. A popular choice for Tamil Nadu households. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/chana_dal_kadalai_paruppu.png",
+        "alt": "Chana Dal (Kadalai Paruppu)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "chana dal",
+        "kadalai paruppu",
+        "bengal gram",
+        "split chickpea",
+        "dal",
+        "paruppu",
+        "kadalai",
+        "chana",
+        "(kadalai",
+        "paruppu)"
+      ],
+      "tanglish": [
+        "kadalai",
+        "paruppu",
+        "chana",
+        "dal",
+        "bengal gram",
+        "(kadalai",
+        "paruppu)"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 38,
+    "name": "Moong Dal (Paasi Paruppu)",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 50,
+      "mrp": 55,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "High-quality Moong Dal (Paasi Paruppu), easy to digest and perfect for various dishes.",
+      "long": "High-quality Moong Dal (Paasi Paruppu), easy to digest and perfect for various dishes. Ideal for poriyal, kootu, payasam, and dosa batter. Rich in protein and fiber. A healthy choice for daily meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/moong_dal_paasi_paruppu.png",
+        "alt": "Moong Dal (Paasi Paruppu)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "moong dal",
+        "paasi paruppu",
+        "green gram",
+        "yellow moong",
+        "split moong",
+        "dal",
+        "paruppu",
+        "moong",
+        "(paasi",
+        "paruppu)"
+      ],
+      "tanglish": [
+        "paasi",
+        "paruppu",
+        "moong",
+        "dal",
+        "payaru",
+        "(paasi",
+        "paruppu)"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 39,
+    "name": "Chana Dal (Kadalai Paruppu)",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 30,
+      "mrp": 33,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Quality Chana Dal (Kadalai Paruppu), versatile and nutritious for everyday cooking.",
+      "long": "Quality Chana Dal (Kadalai Paruppu), versatile and nutritious for everyday cooking. Perfect for sundal, kootu, chutney, and snacks. Rich in protein and fiber. A popular choice for Tamil Nadu households. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/chana_dal_kadalai_paruppu.png",
+        "alt": "Chana Dal (Kadalai Paruppu)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "chana dal",
+        "kadalai paruppu",
+        "bengal gram",
+        "split chickpea",
+        "dal",
+        "paruppu",
+        "kadalai",
+        "chana",
+        "(kadalai",
+        "paruppu)"
+      ],
+      "tanglish": [
+        "kadalai",
+        "paruppu",
+        "chana",
+        "dal",
+        "bengal gram",
+        "(kadalai",
+        "paruppu)"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 40,
+    "name": "oil porna groundnut oil 5ltr cane",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "General",
+    "variant": "5 Ltr",
+    "pricing": {
+      "price": 1239,
+      "mrp": 1363,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 5 Ltr."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/oil_porna_groundnut_oil_5ltr_cane.png",
+        "alt": "oil porna groundnut oil 5ltr cane",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "porna",
+        "groundnut",
+        "5ltr",
+        "cane"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "porna",
+        "groundnut",
+        "5ltr",
+        "cane"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 41,
+    "name": "cerelac multigrain dal veg",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "300 g",
+    "pricing": {
+      "price": 322,
+      "mrp": 354,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 300 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/cerelac_multigrain_dal_veg.png",
+        "alt": "cerelac multigrain dal veg",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "cerelac",
+        "multigrain",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "cerelac",
+        "multigrain",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 42,
+    "name": "oil jvs kadala 1ltr",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "1 Ltr",
+    "pricing": {
+      "price": 255,
+      "mrp": 281,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 1 Ltr."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/oil_jvs_kadala_1ltr.png",
+        "alt": "oil jvs kadala 1ltr",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "kadala",
+        "1ltr"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "kadala",
+        "1ltr"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 43,
+    "name": "kundu ulutham idham",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "General",
+    "variant": "500 g",
+    "pricing": {
+      "price": 96,
+      "mrp": 106,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/kundu_ulutham_idham.png",
+        "alt": "kundu ulutham idham",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "kundu",
+        "ulutham",
+        "idham",
+        "grams",
+        "g",
+        "500g",
+        "half kg"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "kundu",
+        "ulutham",
+        "idham",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 44,
+    "name": "oil iyarkai 2lr can",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "General",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 750,
+      "mrp": 825,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/oil_iyarkai_2lr_can.png",
+        "alt": "oil iyarkai 2lr can",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "iyarkai"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "iyarkai"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 45,
+    "name": "Mr gold kadala 5ltr cane (W) free",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "5 Ltr",
+    "pricing": {
+      "price": 1450,
+      "mrp": 1595,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 5 Ltr."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/mr_gold_kadala_5ltr_cane_w_free.png",
+        "alt": "Mr gold kadala 5ltr cane (W) free",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "gold",
+        "kadala",
+        "5ltr",
+        "cane",
+        "free"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "gold",
+        "kadala",
+        "5ltr",
+        "cane",
+        "free"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 46,
+    "name": "ms kadala yeannai 1ltr",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "1 Ltr",
+    "pricing": {
+      "price": 271,
+      "mrp": 298,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 1 Ltr."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/ms_kadala_yeannai_1ltr.png",
+        "alt": "ms kadala yeannai 1ltr",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "kadala",
+        "yeannai",
+        "1ltr"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "kadala",
+        "yeannai",
+        "1ltr"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 47,
+    "name": "Chana Dal (Kadalai Paruppu)",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "1 Ltr",
+    "pricing": {
+      "price": 250,
+      "mrp": 275,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Quality Chana Dal (Kadalai Paruppu), versatile and nutritious for everyday cooking.",
+      "long": "Quality Chana Dal (Kadalai Paruppu), versatile and nutritious for everyday cooking. Perfect for sundal, kootu, chutney, and snacks. Rich in protein and fiber. A popular choice for Tamil Nadu households. Pack size: 1 Ltr."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/chana_dal_kadalai_paruppu.png",
+        "alt": "Chana Dal (Kadalai Paruppu)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "chana dal",
+        "kadalai paruppu",
+        "bengal gram",
+        "split chickpea",
+        "dal",
+        "paruppu",
+        "kadalai",
+        "chana",
+        "(kadalai",
+        "paruppu)"
+      ],
+      "tanglish": [
+        "kadalai",
+        "paruppu",
+        "chana",
+        "dal",
+        "bengal gram",
+        "(kadalai",
+        "paruppu)"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 48,
+    "name": "kadala urundai jar",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "Dal",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 100,
+      "mrp": 110,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/kadala_urundai_jar.png",
+        "alt": "kadala urundai jar",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "kadala",
+        "urundai"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "kadala",
+        "urundai"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 49,
+    "name": "oil gem's gold (ma) 1ltr",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "General",
+    "variant": "1 Ltr",
+    "pricing": {
+      "price": 240,
+      "mrp": 264,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 1 Ltr."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/oil_gem_s_gold_ma_1ltr.png",
+        "alt": "oil gem's gold (ma) 1ltr",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "gem's",
+        "gold",
+        "(ma)",
+        "1ltr"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "gem's",
+        "gold",
+        "(ma)",
+        "1ltr"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 50,
+    "name": "oil gem's gold (ma) 1ltr jar",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "General",
+    "variant": "1 Ltr",
+    "pricing": {
+      "price": 250,
+      "mrp": 275,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 1 Ltr."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/oil_gem_s_gold_ma_1ltr_jar.png",
+        "alt": "oil gem's gold (ma) 1ltr jar",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "gem's",
+        "gold",
+        "(ma)",
+        "1ltr"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "gem's",
+        "gold",
+        "(ma)",
+        "1ltr"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 51,
+    "name": "kundu ulunth ms pkt",
+    "brand": "Generic",
+    "category": "Dals & Pulses",
+    "subCategory": "General",
+    "variant": "250 g",
+    "pricing": {
+      "price": 80,
+      "mrp": 88,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 250 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dals_pulses/kundu_ulunth_ms_pkt.png",
+        "alt": "kundu ulunth ms pkt",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "kundu",
+        "ulunth",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "kundu",
+        "ulunth",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 52,
+    "name": "Peedi Kanesh Bundal",
+    "brand": "Generic",
+    "category": "Others",
+    "subCategory": "Dal",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 275,
+      "mrp": 303,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/others/peedi_kanesh_bundal.png",
+        "alt": "Peedi Kanesh Bundal",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "peedi",
+        "kanesh",
+        "bundal"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "peedi",
+        "kanesh",
+        "bundal"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 53,
+    "name": "Peedi Kanesh 1/2 Bundal",
+    "brand": "Generic",
+    "category": "Others",
+    "subCategory": "Dal",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 200,
+      "mrp": 220,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/others/peedi_kanesh_1_2_bundal.png",
+        "alt": "Peedi Kanesh 1/2 Bundal",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "peedi",
+        "kanesh",
+        "bundal"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "peedi",
+        "kanesh",
+        "bundal"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 54,
+    "name": "Mr Gold Kadalai 1/2 Ltr",
+    "brand": "Generic",
+    "category": "Others",
+    "subCategory": "Dal",
+    "variant": "2 Ltr",
+    "pricing": {
+      "price": 115,
+      "mrp": 127,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Quality Chana Dal (Kadalai Paruppu), versatile and nutritious for everyday cooking.",
+      "long": "Quality Chana Dal (Kadalai Paruppu), versatile and nutritious for everyday cooking. Perfect for sundal, kootu, chutney, and snacks. Rich in protein and fiber. A popular choice for Tamil Nadu households. Pack size: 2 Ltr."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/others/mr_gold_kadalai_1_2_ltr.png",
+        "alt": "Mr Gold Kadalai 1/2 Ltr",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "chana dal",
+        "kadalai paruppu",
+        "bengal gram",
+        "split chickpea",
+        "dal",
+        "paruppu",
+        "kadalai",
+        "gold"
+      ],
+      "tanglish": [
+        "kadalai",
+        "paruppu",
+        "chana",
+        "dal",
+        "bengal gram",
+        "gold"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 55,
+    "name": "Mr Gold Kadala 1/2 Ltr",
+    "brand": "Generic",
+    "category": "Others",
+    "subCategory": "Dal",
+    "variant": "2 Ltr",
+    "pricing": {
+      "price": 115,
+      "mrp": 127,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 2 Ltr."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/others/mr_gold_kadala_1_2_ltr.png",
+        "alt": "Mr Gold Kadala 1/2 Ltr",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "gold",
+        "kadala"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "gold",
+        "kadala"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 56,
+    "name": "Pulse Candy",
+    "brand": "Generic",
+    "category": "Others",
+    "subCategory": "General",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 167,
+      "mrp": 184,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/others/pulse_candy.png",
+        "alt": "Pulse Candy",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "pulse",
+        "candy"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "pulse",
+        "candy"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 57,
+    "name": "Kadala Urundai",
+    "brand": "Generic",
+    "category": "Others",
+    "subCategory": "Dal",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 30,
+      "mrp": 33,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/others/kadala_urundai.png",
+        "alt": "Kadala Urundai",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "kadala",
+        "urundai"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "kadala",
+        "urundai"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 58,
+    "name": "Kadala Urundai Kamaraj",
+    "brand": "Generic",
+    "category": "Others",
+    "subCategory": "Dal",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 30,
+      "mrp": 33,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dal/pulse product, rich in protein and essential nutrients for healthy meals.",
+      "long": "Premium quality dal/pulse product, rich in protein and essential nutrients. Perfect for daily South Indian cooking. Carefully cleaned and sorted for quality. A healthy addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/others/kadala_urundai_kamaraj.png",
+        "alt": "Kadala Urundai Kamaraj",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "lentils",
+        "protein",
+        "healthy",
+        "cooking",
+        "kadala",
+        "urundai",
+        "kamaraj"
+      ],
+      "tanglish": [
+        "dal",
+        "paruppu",
+        "pulses",
+        "cooking",
+        "daily",
+        "kadala",
+        "urundai",
+        "kamaraj"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 59,
+    "name": "Mm Kadalai Parpu Mani Mark",
+    "brand": "Generic",
+    "category": "Others",
+    "subCategory": "Dal",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 50,
+      "mrp": 55,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Quality Chana Dal (Kadalai Paruppu), versatile and nutritious for everyday cooking.",
+      "long": "Quality Chana Dal (Kadalai Paruppu), versatile and nutritious for everyday cooking. Perfect for sundal, kootu, chutney, and snacks. Rich in protein and fiber. A popular choice for Tamil Nadu households. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/others/mm_kadalai_parpu_mani_mark.png",
+        "alt": "Mm Kadalai Parpu Mani Mark",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "chana dal",
+        "kadalai paruppu",
+        "bengal gram",
+        "split chickpea",
+        "dal",
+        "paruppu",
+        "kadalai",
+        "parpu",
+        "mani",
+        "mark"
+      ],
+      "tanglish": [
+        "kadalai",
+        "paruppu",
+        "chana",
+        "dal",
+        "bengal gram",
+        "parpu",
+        "mani",
+        "mark"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  }
+]

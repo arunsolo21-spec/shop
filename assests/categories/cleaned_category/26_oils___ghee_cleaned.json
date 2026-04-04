@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "name": "Expelz Toilet Clean *2",
+    "brand": "Generic",
+    "category": "Oils & Ghee",
+    "subCategory": "General",
+    "variant": "500 ml",
+    "pricing": {
+      "price": 109,
+      "mrp": 120,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality product for daily use.",
+      "long": "Premium quality product for daily use. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households. Quality assured for your family. Trusted brand. Pack size: 500 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/oils_ghee/expelz_toilet_clean_2.png",
+        "alt": "Expelz Toilet Clean *2",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "product",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "expelz",
+        "toilet",
+        "clean",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "product",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "expelz",
+        "toilet",
+        "clean",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  }
+]

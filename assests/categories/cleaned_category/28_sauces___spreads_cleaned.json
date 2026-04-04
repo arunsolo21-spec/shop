@@ -1,0 +1,445 @@
+[
+  {
+    "id": 1,
+    "name": "Chilli Sauce 1",
+    "brand": "Generic",
+    "category": "Sauces & Spreads",
+    "subCategory": "Chilli sauce",
+    "variant": "100 pcs",
+    "pricing": {
+      "price": 200,
+      "mrp": 220,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Spicy chilli sauce for noodles, fried rice, and snacks.",
+      "long": "Spicy chilli sauce for noodles, fried rice, and snacks. Made from quality chillies for perfect heat. Perfect for cooking and dipping. Adds flavor to your dishes. Trusted brand for kitchen essentials. Pack size: 100 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/sauces_spreads/chilli_sauce_1.png",
+        "alt": "Chilli Sauce 1",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "chilli sauce",
+        "hot sauce",
+        "noodles",
+        "fried rice",
+        "spicy",
+        "cooking",
+        "dipping",
+        "chilli",
+        "sauce",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "chilli sauce",
+        "hot sauce",
+        "noodles",
+        "fried rice",
+        "spicy",
+        "cooking",
+        "dipping",
+        "chilli",
+        "sauce",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 2,
+    "name": "Chilli Sauce Red",
+    "brand": "Generic",
+    "category": "Sauces & Spreads",
+    "subCategory": "Chilli sauce",
+    "variant": "90 g",
+    "pricing": {
+      "price": 15,
+      "mrp": 17,
+      "discount": 12,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Spicy chilli sauce for noodles, fried rice, and snacks.",
+      "long": "Spicy chilli sauce for noodles, fried rice, and snacks. Made from quality chillies for perfect heat. Perfect for cooking and dipping. Adds flavor to your dishes. Trusted brand for kitchen essentials. Pack size: 90 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/sauces_spreads/chilli_sauce_red.png",
+        "alt": "Chilli Sauce Red",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "chilli sauce",
+        "hot sauce",
+        "noodles",
+        "fried rice",
+        "spicy",
+        "cooking",
+        "dipping",
+        "chilli",
+        "sauce",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "chilli sauce",
+        "hot sauce",
+        "noodles",
+        "fried rice",
+        "spicy",
+        "cooking",
+        "dipping",
+        "chilli",
+        "sauce",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 3,
+    "name": "Chilli Sauce Green",
+    "brand": "Generic",
+    "category": "Sauces & Spreads",
+    "subCategory": "Chilli sauce",
+    "variant": "90 g",
+    "pricing": {
+      "price": 15,
+      "mrp": 17,
+      "discount": 12,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Spicy chilli sauce for noodles, fried rice, and snacks.",
+      "long": "Spicy chilli sauce for noodles, fried rice, and snacks. Made from quality chillies for perfect heat. Perfect for cooking and dipping. Adds flavor to your dishes. Trusted brand for kitchen essentials. Pack size: 90 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/sauces_spreads/chilli_sauce_green.png",
+        "alt": "Chilli Sauce Green",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "chilli sauce",
+        "hot sauce",
+        "noodles",
+        "fried rice",
+        "spicy",
+        "cooking",
+        "dipping",
+        "chilli",
+        "sauce",
+        "green",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "chilli sauce",
+        "hot sauce",
+        "noodles",
+        "fried rice",
+        "spicy",
+        "cooking",
+        "dipping",
+        "chilli",
+        "sauce",
+        "green",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 4,
+    "name": "Chilli Sauce Gold Ml Bottle",
+    "brand": "Generic",
+    "category": "Sauces & Spreads",
+    "subCategory": "Chilli sauce",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 55,
+      "mrp": 61,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Spicy chilli sauce for noodles, fried rice, and snacks.",
+      "long": "Spicy chilli sauce for noodles, fried rice, and snacks. Made from quality chillies for perfect heat. Perfect for cooking and dipping. Adds flavor to your dishes. Trusted brand for kitchen essentials. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/sauces_spreads/chilli_sauce_gold_ml_bottle.png",
+        "alt": "Chilli Sauce Gold Ml Bottle",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "chilli sauce",
+        "hot sauce",
+        "noodles",
+        "fried rice",
+        "spicy",
+        "cooking",
+        "dipping",
+        "chilli",
+        "sauce",
+        "gold",
+        "bottle",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "chilli sauce",
+        "hot sauce",
+        "noodles",
+        "fried rice",
+        "spicy",
+        "cooking",
+        "dipping",
+        "chilli",
+        "sauce",
+        "gold",
+        "bottle",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 5,
+    "name": "Chilli Sauce Chellam Bottle",
+    "brand": "Generic",
+    "category": "Sauces & Spreads",
+    "subCategory": "Chilli sauce",
+    "variant": "700 g",
+    "pricing": {
+      "price": 70,
+      "mrp": 77,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Spicy chilli sauce for noodles, fried rice, and snacks.",
+      "long": "Spicy chilli sauce for noodles, fried rice, and snacks. Made from quality chillies for perfect heat. Perfect for cooking and dipping. Adds flavor to your dishes. Trusted brand for kitchen essentials. Pack size: 700 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/sauces_spreads/chilli_sauce_chellam_bottle.png",
+        "alt": "Chilli Sauce Chellam Bottle",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "chilli sauce",
+        "hot sauce",
+        "noodles",
+        "fried rice",
+        "spicy",
+        "cooking",
+        "dipping",
+        "chilli",
+        "sauce",
+        "chellam",
+        "bottle",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "chilli sauce",
+        "hot sauce",
+        "noodles",
+        "fried rice",
+        "spicy",
+        "cooking",
+        "dipping",
+        "chilli",
+        "sauce",
+        "chellam",
+        "bottle",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 6,
+    "name": "Chilli Sauce Red Knorr",
+    "brand": "Generic",
+    "category": "Sauces & Spreads",
+    "subCategory": "Chilli sauce",
+    "variant": "200 g",
+    "pricing": {
+      "price": 60,
+      "mrp": 66,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Spicy chilli sauce for noodles, fried rice, and snacks.",
+      "long": "Spicy chilli sauce for noodles, fried rice, and snacks. Made from quality chillies for perfect heat. Perfect for cooking and dipping. Adds flavor to your dishes. Trusted brand for kitchen essentials. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/sauces_spreads/chilli_sauce_red_knorr.png",
+        "alt": "Chilli Sauce Red Knorr",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "chilli sauce",
+        "hot sauce",
+        "noodles",
+        "fried rice",
+        "spicy",
+        "cooking",
+        "dipping",
+        "chilli",
+        "sauce",
+        "knorr",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "chilli sauce",
+        "hot sauce",
+        "noodles",
+        "fried rice",
+        "spicy",
+        "cooking",
+        "dipping",
+        "chilli",
+        "sauce",
+        "knorr",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 7,
+    "name": "Chilli Sauce Green Krorr",
+    "brand": "Generic",
+    "category": "Sauces & Spreads",
+    "subCategory": "Chilli sauce",
+    "variant": "200 g",
+    "pricing": {
+      "price": 60,
+      "mrp": 66,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Spicy chilli sauce for noodles, fried rice, and snacks.",
+      "long": "Spicy chilli sauce for noodles, fried rice, and snacks. Made from quality chillies for perfect heat. Perfect for cooking and dipping. Adds flavor to your dishes. Trusted brand for kitchen essentials. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/sauces_spreads/chilli_sauce_green_krorr.png",
+        "alt": "Chilli Sauce Green Krorr",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "chilli sauce",
+        "hot sauce",
+        "noodles",
+        "fried rice",
+        "spicy",
+        "cooking",
+        "dipping",
+        "chilli",
+        "sauce",
+        "green",
+        "krorr",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "chilli sauce",
+        "hot sauce",
+        "noodles",
+        "fried rice",
+        "spicy",
+        "cooking",
+        "dipping",
+        "chilli",
+        "sauce",
+        "green",
+        "krorr",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  }
+]

@@ -1,0 +1,6046 @@
+[
+  {
+    "id": 1,
+    "name": "Candles",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 50,
+      "mrp": 55,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/candles.png",
+        "alt": "Candles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "candles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "candles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 2,
+    "name": "Odonil Block(3+1)",
+    "brand": "Odonil",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 156,
+      "mrp": 172,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Odonil - Premium quality household product for effective home cleaning.",
+      "long": "Odonil - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/odonil_block_3_1.png",
+        "alt": "Odonil Block(3+1)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "odonil",
+        "block(3+1)",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "odonil",
+        "block(3+1)",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 3,
+    "name": "Comfort Blue",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "220 ml",
+    "pricing": {
+      "price": 58,
+      "mrp": 64,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 220 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/comfort_blue.png",
+        "alt": "Comfort Blue",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "blue",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "blue",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 4,
+    "name": "Comfort Blue",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "430 ml",
+    "pricing": {
+      "price": 120,
+      "mrp": 132,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 430 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/comfort_blue.png",
+        "alt": "Comfort Blue",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "blue",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "blue",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 5,
+    "name": "Comfort",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "860 ml",
+    "pricing": {
+      "price": 235,
+      "mrp": 259,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 860 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/comfort.png",
+        "alt": "Comfort",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 6,
+    "name": "Comfort Sarm",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 40,
+      "mrp": 44,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/comfort_sarm.png",
+        "alt": "Comfort Sarm",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "sarm",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "sarm",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 7,
+    "name": "Comfort Blue",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "860 ml",
+    "pricing": {
+      "price": 235,
+      "mrp": 259,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 860 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/comfort_blue.png",
+        "alt": "Comfort Blue",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "blue",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "blue",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 8,
+    "name": "Comfort Green",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "220 ml",
+    "pricing": {
+      "price": 60,
+      "mrp": 66,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 220 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/comfort_green.png",
+        "alt": "Comfort Green",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "green",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "green",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 9,
+    "name": "Comfort Green",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "860 ml",
+    "pricing": {
+      "price": 235,
+      "mrp": 259,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 860 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/comfort_green.png",
+        "alt": "Comfort Green",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "green",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "green",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 10,
+    "name": "Comfort Rose",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "220 ml",
+    "pricing": {
+      "price": 58,
+      "mrp": 64,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 220 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/comfort_rose.png",
+        "alt": "Comfort Rose",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "rose",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "rose",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 11,
+    "name": "Comfort Rose",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "860 ml",
+    "pricing": {
+      "price": 235,
+      "mrp": 259,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 860 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/comfort_rose.png",
+        "alt": "Comfort Rose",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "rose",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "rose",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 12,
+    "name": "Comfort Glamour",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "860 ml",
+    "pricing": {
+      "price": 245,
+      "mrp": 270,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 860 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/comfort_glamour.png",
+        "alt": "Comfort Glamour",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "glamour",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "glamour",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 13,
+    "name": "Comfort Desire",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "220 ml",
+    "pricing": {
+      "price": 65,
+      "mrp": 72,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 220 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/comfort_desire.png",
+        "alt": "Comfort Desire",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "desire",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "desire",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 14,
+    "name": "Comfort Royal",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 65,
+      "mrp": 72,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/comfort_royal.png",
+        "alt": "Comfort Royal",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "royal",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "royal",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 15,
+    "name": "Comfort Glamour",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 65,
+      "mrp": 72,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/comfort_glamour.png",
+        "alt": "Comfort Glamour",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "glamour",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "glamour",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 16,
+    "name": "Comfort",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 4,
+      "mrp": 4,
+      "discount": 0,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/comfort.png",
+        "alt": "Comfort",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 17,
+    "name": "Ragam White Grapes",
+    "brand": "Hit",
+    "category": "Household Essentials",
+    "subCategory": "Mosquito repellent",
+    "variant": "100 g",
+    "pricing": {
+      "price": 70,
+      "mrp": 77,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Hit - Effective mosquito repellent for pest-free home protection.",
+      "long": "Hit - Effective mosquito repellent for pest-free home protection. Provides long-lasting protection from mosquitoes and insects. Perfect for nighttime and daily use. Safe for family and kids. Trusted brand for home protection. Pack size: 100 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/ragam_white_grapes.png",
+        "alt": "Ragam White Grapes",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "mosquito repellent",
+        "pest control",
+        "insect protection",
+        "home protection",
+        "nighttime",
+        "family safe",
+        "daily use",
+        "hit",
+        "ragam",
+        "white",
+        "grapes",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "mosquito",
+        "repellent",
+        "pest",
+        "insect",
+        "home",
+        "protection",
+        "family",
+        "hit",
+        "ragam",
+        "white",
+        "grapes",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 18,
+    "name": "Odonil",
+    "brand": "Odonil",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 58,
+      "mrp": 64,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Odonil - Premium quality household product for effective home cleaning.",
+      "long": "Odonil - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/odonil.png",
+        "alt": "Odonil",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "odonil",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "odonil",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 19,
+    "name": "Odonil Block(3+1)",
+    "brand": "Odonil",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 172,
+      "mrp": 189,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Odonil - Premium quality household product for effective home cleaning.",
+      "long": "Odonil - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/odonil_block_3_1.png",
+        "alt": "Odonil Block(3+1)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "odonil",
+        "block(3+1)",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "odonil",
+        "block(3+1)",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 20,
+    "name": "Lollipop Nutrine",
+    "brand": "Rin",
+    "category": "Household Essentials",
+    "subCategory": "Detergent",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 350,
+      "mrp": 385,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Rin - Powerful detergent powder for clean and fresh clothes.",
+      "long": "Rin - Powerful detergent powder for clean and fresh clothes. Removes tough stains effectively. Enriched with brighteners for whiter clothes. Perfect for hand wash and machine wash. Trusted brand for laundry care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/lollipop_nutrine.png",
+        "alt": "Lollipop Nutrine",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "detergent",
+        "washing powder",
+        "laundry",
+        "clean clothes",
+        "stain removal",
+        "fresh clothes",
+        "wash",
+        "rin",
+        "lollipop",
+        "nutrine",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "detergent",
+        "washing",
+        "laundry",
+        "clean",
+        "tuni",
+        "powder",
+        "rin",
+        "lollipop",
+        "nutrine",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 21,
+    "name": "Comfort Royal",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "220 ml",
+    "pricing": {
+      "price": 65,
+      "mrp": 72,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 220 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/comfort_royal.png",
+        "alt": "Comfort Royal",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "royal",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "royal",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 22,
+    "name": "Olir Led 9W",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 189,
+      "mrp": 208,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/olir_led_9w.png",
+        "alt": "Olir Led 9W",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "olir",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "olir",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 23,
+    "name": "Olir Led 12W",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 289,
+      "mrp": 318,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/olir_led_12w.png",
+        "alt": "Olir Led 12W",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "olir",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "olir",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 24,
+    "name": "Olir Led Ac/Dc",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 549,
+      "mrp": 604,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/olir_led_ac_dc.png",
+        "alt": "Olir Led Ac/Dc",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "olir",
+        "ac/dc",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "olir",
+        "ac/dc",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 25,
+    "name": "Comfort",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "220 ml",
+    "pricing": {
+      "price": 65,
+      "mrp": 72,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 220 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/comfort.png",
+        "alt": "Comfort",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 26,
+    "name": "Comfort",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "220 ml",
+    "pricing": {
+      "price": 60,
+      "mrp": 66,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 220 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/comfort.png",
+        "alt": "Comfort",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 27,
+    "name": "Comfort",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "220 ml",
+    "pricing": {
+      "price": 58,
+      "mrp": 64,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 220 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/comfort.png",
+        "alt": "Comfort",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 28,
+    "name": "Comfort",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "430 ml",
+    "pricing": {
+      "price": 120,
+      "mrp": 132,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 430 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/comfort.png",
+        "alt": "Comfort",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 29,
+    "name": "Comfort Black",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "220 ml",
+    "pricing": {
+      "price": 65,
+      "mrp": 72,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 220 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/comfort_black.png",
+        "alt": "Comfort Black",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "black",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "black",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 30,
+    "name": "Odonil",
+    "brand": "Odonil",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 53,
+      "mrp": 58,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Odonil - Premium quality household product for effective home cleaning.",
+      "long": "Odonil - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/odonil.png",
+        "alt": "Odonil",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "odonil",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "odonil",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 31,
+    "name": "Envy White",
+    "brand": "Hit",
+    "category": "Household Essentials",
+    "subCategory": "Mosquito repellent",
+    "variant": "120 ml",
+    "pricing": {
+      "price": 220,
+      "mrp": 242,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Hit - Effective mosquito repellent for pest-free home protection.",
+      "long": "Hit - Effective mosquito repellent for pest-free home protection. Provides long-lasting protection from mosquitoes and insects. Perfect for nighttime and daily use. Safe for family and kids. Trusted brand for home protection. Pack size: 120 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/envy_white.png",
+        "alt": "Envy White",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "mosquito repellent",
+        "pest control",
+        "insect protection",
+        "home protection",
+        "nighttime",
+        "family safe",
+        "daily use",
+        "hit",
+        "envy",
+        "white",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "mosquito",
+        "repellent",
+        "pest",
+        "insect",
+        "home",
+        "protection",
+        "family",
+        "hit",
+        "envy",
+        "white",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 32,
+    "name": "Black&White chocolate",
+    "brand": "Hit",
+    "category": "Household Essentials",
+    "subCategory": "Mosquito repellent",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 150,
+      "mrp": 165,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Hit - Effective mosquito repellent for pest-free home protection.",
+      "long": "Hit - Effective mosquito repellent for pest-free home protection. Provides long-lasting protection from mosquitoes and insects. Perfect for nighttime and daily use. Safe for family and kids. Trusted brand for home protection. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/black_white_choclate.png",
+        "alt": "Black&White chocolate",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "mosquito repellent",
+        "pest control",
+        "insect protection",
+        "home protection",
+        "nighttime",
+        "family safe",
+        "daily use",
+        "hit",
+        "black&white",
+        "choclate",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "mosquito",
+        "repellent",
+        "pest",
+        "insect",
+        "home",
+        "protection",
+        "family",
+        "hit",
+        "black&white",
+        "choclate",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 33,
+    "name": "Hh Camlin White Glue 22 M",
+    "brand": "Hit",
+    "category": "Household Essentials",
+    "subCategory": "Mosquito repellent",
+    "variant": "22.5 g",
+    "pricing": {
+      "price": 10,
+      "mrp": 11,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Hit - Effective mosquito repellent for pest-free home protection.",
+      "long": "Hit - Effective mosquito repellent for pest-free home protection. Provides long-lasting protection from mosquitoes and insects. Perfect for nighttime and daily use. Safe for family and kids. Trusted brand for home protection. Pack size: 22.5 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/hh_camlin_white_glue_22_m.png",
+        "alt": "Hh Camlin White Glue 22 M",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "mosquito repellent",
+        "pest control",
+        "insect protection",
+        "home protection",
+        "nighttime",
+        "family safe",
+        "daily use",
+        "hit",
+        "camlin",
+        "white",
+        "glue",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "mosquito",
+        "repellent",
+        "pest",
+        "insect",
+        "home",
+        "protection",
+        "family",
+        "hit",
+        "camlin",
+        "white",
+        "glue",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 34,
+    "name": "Hh Camlin White Glue M",
+    "brand": "Hit",
+    "category": "Household Essentials",
+    "subCategory": "Mosquito repellent",
+    "variant": "45 g",
+    "pricing": {
+      "price": 200,
+      "mrp": 220,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Hit - Effective mosquito repellent for pest-free home protection.",
+      "long": "Hit - Effective mosquito repellent for pest-free home protection. Provides long-lasting protection from mosquitoes and insects. Perfect for nighttime and daily use. Safe for family and kids. Trusted brand for home protection. Pack size: 45 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/hh_camlin_white_glue_m.png",
+        "alt": "Hh Camlin White Glue M",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "mosquito repellent",
+        "pest control",
+        "insect protection",
+        "home protection",
+        "nighttime",
+        "family safe",
+        "daily use",
+        "hit",
+        "camlin",
+        "white",
+        "glue",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "mosquito",
+        "repellent",
+        "pest",
+        "insect",
+        "home",
+        "protection",
+        "family",
+        "hit",
+        "camlin",
+        "white",
+        "glue",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 35,
+    "name": "Hh Camlin White Glue M",
+    "brand": "Hit",
+    "category": "Household Essentials",
+    "subCategory": "Mosquito repellent",
+    "variant": "100 g",
+    "pricing": {
+      "price": 40,
+      "mrp": 44,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Hit - Effective mosquito repellent for pest-free home protection.",
+      "long": "Hit - Effective mosquito repellent for pest-free home protection. Provides long-lasting protection from mosquitoes and insects. Perfect for nighttime and daily use. Safe for family and kids. Trusted brand for home protection. Pack size: 100 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/hh_camlin_white_glue_m.png",
+        "alt": "Hh Camlin White Glue M",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "mosquito repellent",
+        "pest control",
+        "insect protection",
+        "home protection",
+        "nighttime",
+        "family safe",
+        "daily use",
+        "hit",
+        "camlin",
+        "white",
+        "glue",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "mosquito",
+        "repellent",
+        "pest",
+        "insect",
+        "home",
+        "protection",
+        "family",
+        "hit",
+        "camlin",
+        "white",
+        "glue",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 36,
+    "name": "Comfort Green",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "210 ml",
+    "pricing": {
+      "price": 60,
+      "mrp": 66,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 210 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/comfort_green.png",
+        "alt": "Comfort Green",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "green",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "green",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 37,
+    "name": "Sensodyane Whiting M",
+    "brand": "Hit",
+    "category": "Household Essentials",
+    "subCategory": "Mosquito repellent",
+    "variant": "70 g",
+    "pricing": {
+      "price": 145,
+      "mrp": 160,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Hit - Effective mosquito repellent for pest-free home protection.",
+      "long": "Hit - Effective mosquito repellent for pest-free home protection. Provides long-lasting protection from mosquitoes and insects. Perfect for nighttime and daily use. Safe for family and kids. Trusted brand for home protection. Pack size: 70 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/sensodyane_whiting_m.png",
+        "alt": "Sensodyane Whiting M",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "mosquito repellent",
+        "pest control",
+        "insect protection",
+        "home protection",
+        "nighttime",
+        "family safe",
+        "daily use",
+        "hit",
+        "sensodyane",
+        "whiting",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "mosquito",
+        "repellent",
+        "pest",
+        "insect",
+        "home",
+        "protection",
+        "family",
+        "hit",
+        "sensodyane",
+        "whiting",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 38,
+    "name": "White Cum",
+    "brand": "Hit",
+    "category": "Household Essentials",
+    "subCategory": "Mosquito repellent",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 50,
+      "mrp": 55,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Hit - Effective mosquito repellent for pest-free home protection.",
+      "long": "Hit - Effective mosquito repellent for pest-free home protection. Provides long-lasting protection from mosquitoes and insects. Perfect for nighttime and daily use. Safe for family and kids. Trusted brand for home protection. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/white_cum.png",
+        "alt": "White Cum",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "mosquito repellent",
+        "pest control",
+        "insect protection",
+        "home protection",
+        "nighttime",
+        "family safe",
+        "daily use",
+        "hit",
+        "white",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "mosquito",
+        "repellent",
+        "pest",
+        "insect",
+        "home",
+        "protection",
+        "family",
+        "hit",
+        "white",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 39,
+    "name": "Whitener",
+    "brand": "Hit",
+    "category": "Household Essentials",
+    "subCategory": "Mosquito repellent",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 25,
+      "mrp": 28,
+      "discount": 11,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Hit - Effective mosquito repellent for pest-free home protection.",
+      "long": "Hit - Effective mosquito repellent for pest-free home protection. Provides long-lasting protection from mosquitoes and insects. Perfect for nighttime and daily use. Safe for family and kids. Trusted brand for home protection. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/whitener.png",
+        "alt": "Whitener",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "mosquito repellent",
+        "pest control",
+        "insect protection",
+        "home protection",
+        "nighttime",
+        "family safe",
+        "daily use",
+        "hit",
+        "whitener",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "mosquito",
+        "repellent",
+        "pest",
+        "insect",
+        "home",
+        "protection",
+        "family",
+        "hit",
+        "whitener",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 40,
+    "name": "Power Comfort Fresh",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 160,
+      "mrp": 176,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/power_comfort_fresh.png",
+        "alt": "Power Comfort Fresh",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "power",
+        "fresh",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "power",
+        "fresh",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 41,
+    "name": "Comfort Power Fresh",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 320,
+      "mrp": 352,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/comfort_power_fresh.png",
+        "alt": "Comfort Power Fresh",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "power",
+        "fresh",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "power",
+        "fresh",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 42,
+    "name": "Odonil Block (3+1)",
+    "brand": "Odonil",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 220,
+      "mrp": 242,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Odonil - Premium quality household product for effective home cleaning.",
+      "long": "Odonil - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/odonil_block_3_1.png",
+        "alt": "Odonil Block (3+1)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "odonil",
+        "block",
+        "(3+1)",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "odonil",
+        "block",
+        "(3+1)",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 43,
+    "name": "Comfort Blue",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 4,
+      "mrp": 4,
+      "discount": 0,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/comfort_blue.png",
+        "alt": "Comfort Blue",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "blue",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "blue",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 44,
+    "name": "Comfort Pink",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 4,
+      "mrp": 4,
+      "discount": 0,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/comfort_pink.png",
+        "alt": "Comfort Pink",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "pink",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "pink",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 45,
+    "name": "Comfort Royal Violet",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 4,
+      "mrp": 4,
+      "discount": 0,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/comfort_royal_violet.png",
+        "alt": "Comfort Royal Violet",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "royal",
+        "violet",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "royal",
+        "violet",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 46,
+    "name": "Comfort Desire Red",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 4,
+      "mrp": 4,
+      "discount": 0,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/comfort_desire_red.png",
+        "alt": "Comfort Desire Red",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "desire",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "desire",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 47,
+    "name": "Comfort Royale Black",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "850 ml",
+    "pricing": {
+      "price": 245,
+      "mrp": 270,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 850 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/comfort_royale_black.png",
+        "alt": "Comfort Royale Black",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "royale",
+        "black",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "royale",
+        "black",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 48,
+    "name": "Comfort Desire",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "850 ml",
+    "pricing": {
+      "price": 245,
+      "mrp": 270,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 850 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/comfort_desire.png",
+        "alt": "Comfort Desire",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "desire",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "desire",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 49,
+    "name": "Comfort Green",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "19 ml",
+    "pricing": {
+      "price": 4,
+      "mrp": 4,
+      "discount": 0,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 19 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/comfort_green.png",
+        "alt": "Comfort Green",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "green",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "green",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 50,
+    "name": "Sensodyane Whitening M",
+    "brand": "Hit",
+    "category": "Household Essentials",
+    "subCategory": "Mosquito repellent",
+    "variant": "70 g",
+    "pricing": {
+      "price": 145,
+      "mrp": 160,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Hit - Effective mosquito repellent for pest-free home protection.",
+      "long": "Hit - Effective mosquito repellent for pest-free home protection. Provides long-lasting protection from mosquitoes and insects. Perfect for nighttime and daily use. Safe for family and kids. Trusted brand for home protection. Pack size: 70 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/sensodyane_whitening_m.png",
+        "alt": "Sensodyane Whitening M",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "mosquito repellent",
+        "pest control",
+        "insect protection",
+        "home protection",
+        "nighttime",
+        "family safe",
+        "daily use",
+        "hit",
+        "sensodyane",
+        "whitening",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "mosquito",
+        "repellent",
+        "pest",
+        "insect",
+        "home",
+        "protection",
+        "family",
+        "hit",
+        "sensodyane",
+        "whitening",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 51,
+    "name": "Marino Marie Crunch",
+    "brand": "Rin",
+    "category": "Household Essentials",
+    "subCategory": "Detergent",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 10,
+      "mrp": 11,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Rin - Powerful detergent powder for clean and fresh clothes.",
+      "long": "Rin - Powerful detergent powder for clean and fresh clothes. Removes tough stains effectively. Enriched with brighteners for whiter clothes. Perfect for hand wash and machine wash. Trusted brand for laundry care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/marino_marie_crunch.png",
+        "alt": "Marino Marie Crunch",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "detergent",
+        "washing powder",
+        "laundry",
+        "clean clothes",
+        "stain removal",
+        "fresh clothes",
+        "wash",
+        "rin",
+        "marino",
+        "marie",
+        "crunch",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "detergent",
+        "washing",
+        "laundry",
+        "clean",
+        "tuni",
+        "powder",
+        "rin",
+        "marino",
+        "marie",
+        "crunch",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 52,
+    "name": "Hh Camlin White Board Marker Blue",
+    "brand": "Hit",
+    "category": "Household Essentials",
+    "subCategory": "Mosquito repellent",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 28,
+      "mrp": 31,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Hit - Effective mosquito repellent for pest-free home protection.",
+      "long": "Hit - Effective mosquito repellent for pest-free home protection. Provides long-lasting protection from mosquitoes and insects. Perfect for nighttime and daily use. Safe for family and kids. Trusted brand for home protection. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/hh_camlin_white_board_marker_blue.png",
+        "alt": "Hh Camlin White Board Marker Blue",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "mosquito repellent",
+        "pest control",
+        "insect protection",
+        "home protection",
+        "nighttime",
+        "family safe",
+        "daily use",
+        "hit",
+        "camlin",
+        "white",
+        "board",
+        "marker",
+        "blue",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "mosquito",
+        "repellent",
+        "pest",
+        "insect",
+        "home",
+        "protection",
+        "family",
+        "hit",
+        "camlin",
+        "white",
+        "board",
+        "marker",
+        "blue",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 53,
+    "name": "Bb Pinzo Princess (14P)",
+    "brand": "Rin",
+    "category": "Household Essentials",
+    "subCategory": "Detergent",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 70,
+      "mrp": 77,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Rin - Powerful detergent powder for clean and fresh clothes.",
+      "long": "Rin - Powerful detergent powder for clean and fresh clothes. Removes tough stains effectively. Enriched with brighteners for whiter clothes. Perfect for hand wash and machine wash. Trusted brand for laundry care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/bb_pinzo_princess_14p.png",
+        "alt": "Bb Pinzo Princess (14P)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "detergent",
+        "washing powder",
+        "laundry",
+        "clean clothes",
+        "stain removal",
+        "fresh clothes",
+        "wash",
+        "rin",
+        "pinzo",
+        "princess",
+        "(14p)",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "detergent",
+        "washing",
+        "laundry",
+        "clean",
+        "tuni",
+        "powder",
+        "rin",
+        "pinzo",
+        "princess",
+        "(14p)",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 54,
+    "name": "Mouthwash Listerine",
+    "brand": "Rin",
+    "category": "Household Essentials",
+    "subCategory": "Detergent",
+    "variant": "80 ml",
+    "pricing": {
+      "price": 60,
+      "mrp": 66,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Rin - Powerful detergent powder for clean and fresh clothes.",
+      "long": "Rin - Powerful detergent powder for clean and fresh clothes. Removes tough stains effectively. Enriched with brighteners for whiter clothes. Perfect for hand wash and machine wash. Trusted brand for laundry care. Pack size: 80 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/mouthwash_listerine.png",
+        "alt": "Mouthwash Listerine",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "detergent",
+        "washing powder",
+        "laundry",
+        "clean clothes",
+        "stain removal",
+        "fresh clothes",
+        "wash",
+        "rin",
+        "mouthwash",
+        "listerine",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "detergent",
+        "washing",
+        "laundry",
+        "clean",
+        "tuni",
+        "powder",
+        "rin",
+        "mouthwash",
+        "listerine",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 55,
+    "name": "Ariel Liq Tl Pouch 3L",
+    "brand": "Ariel",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "3 Ltr",
+    "pricing": {
+      "price": 610,
+      "mrp": 671,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Ariel - Premium quality household product for effective home cleaning.",
+      "long": "Ariel - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 3 Ltr."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/ariel_liq_tl_pouch_3l.png",
+        "alt": "Ariel Liq Tl Pouch 3L",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "ariel",
+        "pouch",
+        "liter",
+        "ltr",
+        "l"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "ariel",
+        "pouch",
+        "ltr",
+        "l"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 56,
+    "name": "Ariel Liq Fl Pouch 3L",
+    "brand": "Ariel",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "3 Ltr",
+    "pricing": {
+      "price": 690,
+      "mrp": 759,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Ariel - Premium quality household product for effective home cleaning.",
+      "long": "Ariel - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 3 Ltr."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/ariel_liq_fl_pouch_3l.png",
+        "alt": "Ariel Liq Fl Pouch 3L",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "ariel",
+        "pouch",
+        "liter",
+        "ltr",
+        "l"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "ariel",
+        "pouch",
+        "ltr",
+        "l"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 57,
+    "name": "Ariel Liq Tl 2 5L",
+    "brand": "Ariel",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "2.5 Ltr",
+    "pricing": {
+      "price": 537,
+      "mrp": 591,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Ariel - Premium quality household product for effective home cleaning.",
+      "long": "Ariel - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 2.5 Ltr."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/ariel_liq_tl_2_5l.png",
+        "alt": "Ariel Liq Tl 2 5L",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "ariel",
+        "liter",
+        "ltr",
+        "l"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "ariel",
+        "ltr",
+        "l"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 58,
+    "name": "Vathi Nachithira",
+    "brand": "Hit",
+    "category": "Household Essentials",
+    "subCategory": "Mosquito repellent",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 55,
+      "mrp": 61,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Hit - Effective mosquito repellent for pest-free home protection.",
+      "long": "Hit - Effective mosquito repellent for pest-free home protection. Provides long-lasting protection from mosquitoes and insects. Perfect for nighttime and daily use. Safe for family and kids. Trusted brand for home protection. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/vathi_nachithira.png",
+        "alt": "Vathi Nachithira",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "mosquito repellent",
+        "pest control",
+        "insect protection",
+        "home protection",
+        "nighttime",
+        "family safe",
+        "daily use",
+        "hit",
+        "vathi",
+        "nachithira",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "mosquito",
+        "repellent",
+        "pest",
+        "insect",
+        "home",
+        "protection",
+        "family",
+        "hit",
+        "vathi",
+        "nachithira",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 59,
+    "name": "Whitner",
+    "brand": "Hit",
+    "category": "Household Essentials",
+    "subCategory": "Mosquito repellent",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 20,
+      "mrp": 22,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Hit - Effective mosquito repellent for pest-free home protection.",
+      "long": "Hit - Effective mosquito repellent for pest-free home protection. Provides long-lasting protection from mosquitoes and insects. Perfect for nighttime and daily use. Safe for family and kids. Trusted brand for home protection. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/whitner.png",
+        "alt": "Whitner",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "mosquito repellent",
+        "pest control",
+        "insect protection",
+        "home protection",
+        "nighttime",
+        "family safe",
+        "daily use",
+        "hit",
+        "whitner",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "mosquito",
+        "repellent",
+        "pest",
+        "insect",
+        "home",
+        "protection",
+        "family",
+        "hit",
+        "whitner",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 60,
+    "name": "Mugi Comfort Blue",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 30,
+      "mrp": 33,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/mugi_comfort_blue.png",
+        "alt": "Mugi Comfort Blue",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "mugi",
+        "blue",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "mugi",
+        "blue",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 61,
+    "name": "Mugi Comfort",
+    "brand": "Comfort",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 30,
+      "mrp": 33,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Comfort - Premium quality household product for effective home cleaning.",
+      "long": "Comfort - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/mugi_comfort.png",
+        "alt": "Mugi Comfort",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "comfort",
+        "mugi",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "comfort",
+        "mugi",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 62,
+    "name": "Sen Whiting",
+    "brand": "Hit",
+    "category": "Household Essentials",
+    "subCategory": "Mosquito repellent",
+    "variant": "70 g",
+    "pricing": {
+      "price": 160,
+      "mrp": 176,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Hit - Effective mosquito repellent for pest-free home protection.",
+      "long": "Hit - Effective mosquito repellent for pest-free home protection. Provides long-lasting protection from mosquitoes and insects. Perfect for nighttime and daily use. Safe for family and kids. Trusted brand for home protection. Pack size: 70 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/sen_whiting.png",
+        "alt": "Sen Whiting",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "mosquito repellent",
+        "pest control",
+        "insect protection",
+        "home protection",
+        "nighttime",
+        "family safe",
+        "daily use",
+        "hit",
+        "whiting",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "mosquito",
+        "repellent",
+        "pest",
+        "insect",
+        "home",
+        "protection",
+        "family",
+        "hit",
+        "whiting",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 63,
+    "name": "Odonil Block(4+1)",
+    "brand": "Odonil",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 245,
+      "mrp": 270,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Odonil - Premium quality household product for effective home cleaning.",
+      "long": "Odonil - Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/odonil_block_4_1.png",
+        "alt": "Odonil Block(4+1)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "odonil",
+        "block(4+1)",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "odonil",
+        "block(4+1)",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 64,
+    "name": "Hh Camlin Whitener",
+    "brand": "Hit",
+    "category": "Household Essentials",
+    "subCategory": "Mosquito repellent",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 25,
+      "mrp": 28,
+      "discount": 11,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Hit - Effective mosquito repellent for pest-free home protection.",
+      "long": "Hit - Effective mosquito repellent for pest-free home protection. Provides long-lasting protection from mosquitoes and insects. Perfect for nighttime and daily use. Safe for family and kids. Trusted brand for home protection. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/hh_camlin_whitener.png",
+        "alt": "Hh Camlin Whitener",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "mosquito repellent",
+        "pest control",
+        "insect protection",
+        "home protection",
+        "nighttime",
+        "family safe",
+        "daily use",
+        "hit",
+        "camlin",
+        "whitener",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "mosquito",
+        "repellent",
+        "pest",
+        "insect",
+        "home",
+        "protection",
+        "family",
+        "hit",
+        "camlin",
+        "whitener",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 65,
+    "name": "Matchbox 2Kili (1",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 box",
+    "pricing": {
+      "price": 20,
+      "mrp": 22,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 box."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/matchbox_2kili_1.png",
+        "alt": "Matchbox 2Kili (1",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "matchbox",
+        "2kili"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "matchbox",
+        "2kili"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 66,
+    "name": "Matchbox Aim(1Bandel6Ps)",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "6 pcs",
+    "pricing": {
+      "price": 60,
+      "mrp": 66,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 6 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/matchbox_aim_1bandel6ps.png",
+        "alt": "Matchbox Aim(1Bandel6Ps)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "matchbox",
+        "aim(1bandel6ps)",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "matchbox",
+        "aim(1bandel6ps)",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 67,
+    "name": "Matchbox",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 10,
+      "mrp": 11,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/matchbox.png",
+        "alt": "Matchbox",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "matchbox",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "matchbox",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 68,
+    "name": "Matchbox Cheeta",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 10,
+      "mrp": 11,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/matchbox_cheeta.png",
+        "alt": "Matchbox Cheeta",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "matchbox",
+        "cheeta",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "matchbox",
+        "cheeta",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 69,
+    "name": "Matchbox 2Kili (1",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 bundle",
+    "pricing": {
+      "price": 100,
+      "mrp": 110,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 bundle."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/matchbox_2kili_1.png",
+        "alt": "Matchbox 2Kili (1",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "matchbox",
+        "2kili",
+        "liter",
+        "ltr",
+        "l"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "matchbox",
+        "2kili",
+        "ltr",
+        "l"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 70,
+    "name": "Matchbox 2Kili Wax (1",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 box",
+    "pricing": {
+      "price": 100,
+      "mrp": 110,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 box."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/matchbox_2kili_wax_1.png",
+        "alt": "Matchbox 2Kili Wax (1",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "matchbox",
+        "2kili"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "matchbox",
+        "2kili"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 71,
+    "name": "Matchbox 2Kili Wax (1",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 bundle",
+    "pricing": {
+      "price": 100,
+      "mrp": 110,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 bundle."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/matchbox_2kili_wax_1.png",
+        "alt": "Matchbox 2Kili Wax (1",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "matchbox",
+        "2kili",
+        "liter",
+        "ltr",
+        "l"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "matchbox",
+        "2kili",
+        "ltr",
+        "l"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 72,
+    "name": "Matchbox 2Kili Wax",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 10,
+      "mrp": 11,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/matchbox_2kili_wax.png",
+        "alt": "Matchbox 2Kili Wax",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "matchbox",
+        "2kili",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "matchbox",
+        "2kili",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 73,
+    "name": "Matchbox 2Kili",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 10,
+      "mrp": 11,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/matchbox_2kili.png",
+        "alt": "Matchbox 2Kili",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "matchbox",
+        "2kili",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "matchbox",
+        "2kili",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 74,
+    "name": "Matchbox Saavi(1Bandel6Ps)",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "6 pcs",
+    "pricing": {
+      "price": 60,
+      "mrp": 66,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 6 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/matchbox_saavi_1bandel6ps.png",
+        "alt": "Matchbox Saavi(1Bandel6Ps)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "matchbox",
+        "saavi(1bandel6ps)",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "matchbox",
+        "saavi(1bandel6ps)",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 75,
+    "name": "Matchbox Veena",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 10,
+      "mrp": 11,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/matchbox_veena.png",
+        "alt": "Matchbox Veena",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "matchbox",
+        "veena",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "matchbox",
+        "veena",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 76,
+    "name": "Matchbox Parachute Wax",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 100,
+      "mrp": 110,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/matchbox_parachute_wax.png",
+        "alt": "Matchbox Parachute Wax",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "matchbox",
+        "parachute",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "matchbox",
+        "parachute",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 77,
+    "name": "Matchbox Lito",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 100,
+      "mrp": 110,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/matchbox_lito.png",
+        "alt": "Matchbox Lito",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "matchbox",
+        "lito",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "matchbox",
+        "lito",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 78,
+    "name": "Matchbox Home Lite",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 10,
+      "mrp": 11,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/matchbox_home_lite.png",
+        "alt": "Matchbox Home Lite",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "matchbox",
+        "home",
+        "lite",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "matchbox",
+        "lite",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 79,
+    "name": "Parcel Cover Silver",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 100,
+      "mrp": 110,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/parcel_cover_silver.png",
+        "alt": "Parcel Cover Silver",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "parcel",
+        "cover",
+        "silver",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "parcel",
+        "cover",
+        "silver",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 80,
+    "name": "Parcel Cover White(10*10)",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Mosquito repellent",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 100,
+      "mrp": 110,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Effective mosquito repellent for pest-free home protection.",
+      "long": "Effective mosquito repellent for pest-free home protection. Provides long-lasting protection from mosquitoes and insects. Perfect for nighttime and daily use. Safe for family and kids. Trusted brand for home protection. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/parcel_cover_white_10_10.png",
+        "alt": "Parcel Cover White(10*10)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "mosquito repellent",
+        "pest control",
+        "insect protection",
+        "home protection",
+        "nighttime",
+        "family safe",
+        "daily use",
+        "parcel",
+        "cover",
+        "white(10*10)",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "mosquito",
+        "repellent",
+        "pest",
+        "insect",
+        "home",
+        "protection",
+        "family",
+        "parcel",
+        "cover",
+        "white(10*10)",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 81,
+    "name": "Parcel Cover White (14*14Mm)",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Mosquito repellent",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 100,
+      "mrp": 110,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Effective mosquito repellent for pest-free home protection.",
+      "long": "Effective mosquito repellent for pest-free home protection. Provides long-lasting protection from mosquitoes and insects. Perfect for nighttime and daily use. Safe for family and kids. Trusted brand for home protection. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/parcel_cover_white_14_14mm.png",
+        "alt": "Parcel Cover White (14*14Mm)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "mosquito repellent",
+        "pest control",
+        "insect protection",
+        "home protection",
+        "nighttime",
+        "family safe",
+        "daily use",
+        "parcel",
+        "cover",
+        "white",
+        "(14*14mm)",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "mosquito",
+        "repellent",
+        "pest",
+        "insect",
+        "home",
+        "protection",
+        "family",
+        "parcel",
+        "cover",
+        "white",
+        "(14*14mm)",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 82,
+    "name": "Parcel Cover Silver 1",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pkt",
+    "pricing": {
+      "price": 100,
+      "mrp": 110,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pkt."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/parcel_cover_silver_1.png",
+        "alt": "Parcel Cover Silver 1",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "parcel",
+        "cover",
+        "silver",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "parcel",
+        "cover",
+        "silver",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 83,
+    "name": "1/4 Cover 1Kg",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 kg",
+    "pricing": {
+      "price": 250,
+      "mrp": 275,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 kg."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/1_4_cover_1kg.png",
+        "alt": "1/4 Cover 1Kg",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "cover",
+        "grams",
+        "g",
+        "kilogram",
+        "kg"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "cover",
+        "g",
+        "kg"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 84,
+    "name": "Parcel Cover Silver 8*10",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 120,
+      "mrp": 132,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/parcel_cover_silver_8_10.png",
+        "alt": "Parcel Cover Silver 8*10",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "parcel",
+        "cover",
+        "silver",
+        "8*10",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "parcel",
+        "cover",
+        "silver",
+        "8*10",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 85,
+    "name": "Parcel Cover Silver 5*7",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "7 pkt",
+    "pricing": {
+      "price": 60,
+      "mrp": 66,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 7 pkt."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/parcel_cover_silver_5_7.png",
+        "alt": "Parcel Cover Silver 5*7",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "parcel",
+        "cover",
+        "silver",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "parcel",
+        "cover",
+        "silver",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 86,
+    "name": "Parcel Cover Silver12*12",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 100,
+      "mrp": 110,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/parcel_cover_silver12_12.png",
+        "alt": "Parcel Cover Silver12*12",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "parcel",
+        "cover",
+        "silver12*12",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "parcel",
+        "cover",
+        "silver12*12",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 87,
+    "name": "Parcel Cover 4*5",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "5 pkt",
+    "pricing": {
+      "price": 60,
+      "mrp": 66,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 5 pkt."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/parcel_cover_4_5.png",
+        "alt": "Parcel Cover 4*5",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "parcel",
+        "cover",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "parcel",
+        "cover",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 88,
+    "name": "Rasna Cover 1",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "50 pcs",
+    "pricing": {
+      "price": 150,
+      "mrp": 165,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 50 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/rasna_cover_1.png",
+        "alt": "Rasna Cover 1",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "rasna",
+        "cover",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "rasna",
+        "cover",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 89,
+    "name": "Moiye Cover",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "100 pcs",
+    "pricing": {
+      "price": 50,
+      "mrp": 55,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 100 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/moiye_cover.png",
+        "alt": "Moiye Cover",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "moiye",
+        "cover",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "moiye",
+        "cover",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 90,
+    "name": "Cover Small",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 15,
+      "mrp": 17,
+      "discount": 12,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/cover_small.png",
+        "alt": "Cover Small",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "cover",
+        "small",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "cover",
+        "small",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 91,
+    "name": "Cover Medium",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 25,
+      "mrp": 28,
+      "discount": 11,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/cover_medium.png",
+        "alt": "Cover Medium",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "cover",
+        "medium",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "cover",
+        "medium",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 92,
+    "name": "Parcel Cover White (14*14)",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Mosquito repellent",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 100,
+      "mrp": 110,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Effective mosquito repellent for pest-free home protection.",
+      "long": "Effective mosquito repellent for pest-free home protection. Provides long-lasting protection from mosquitoes and insects. Perfect for nighttime and daily use. Safe for family and kids. Trusted brand for home protection. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/parcel_cover_white_14_14.png",
+        "alt": "Parcel Cover White (14*14)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "mosquito repellent",
+        "pest control",
+        "insect protection",
+        "home protection",
+        "nighttime",
+        "family safe",
+        "daily use",
+        "parcel",
+        "cover",
+        "white",
+        "(14*14)",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "mosquito",
+        "repellent",
+        "pest",
+        "insect",
+        "home",
+        "protection",
+        "family",
+        "parcel",
+        "cover",
+        "white",
+        "(14*14)",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 93,
+    "name": "Parcel Cover White(14*14)",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Mosquito repellent",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 100,
+      "mrp": 110,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Effective mosquito repellent for pest-free home protection.",
+      "long": "Effective mosquito repellent for pest-free home protection. Provides long-lasting protection from mosquitoes and insects. Perfect for nighttime and daily use. Safe for family and kids. Trusted brand for home protection. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/parcel_cover_white_14_14.png",
+        "alt": "Parcel Cover White(14*14)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "mosquito repellent",
+        "pest control",
+        "insect protection",
+        "home protection",
+        "nighttime",
+        "family safe",
+        "daily use",
+        "parcel",
+        "cover",
+        "white(14*14)",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "mosquito",
+        "repellent",
+        "pest",
+        "insect",
+        "home",
+        "protection",
+        "family",
+        "parcel",
+        "cover",
+        "white(14*14)",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 94,
+    "name": "Dustbin Cover Small 30P",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 70,
+      "mrp": 77,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/dustbin_cover_small_30p.png",
+        "alt": "Dustbin Cover Small 30P",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "dustbin",
+        "cover",
+        "small",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "dustbin",
+        "cover",
+        "small",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 95,
+    "name": "Dustbin Cover Med 30P",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 90,
+      "mrp": 99,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/dustbin_cover_med_30p.png",
+        "alt": "Dustbin Cover Med 30P",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "dustbin",
+        "cover",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "dustbin",
+        "cover",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 96,
+    "name": "Dustbin Cover L 15P",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 150,
+      "mrp": 165,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/dustbin_cover_l_15p.png",
+        "alt": "Dustbin Cover L 15P",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "dustbin",
+        "cover",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "dustbin",
+        "cover",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 97,
+    "name": "Dustbin Cover Ex L 15P",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 135,
+      "mrp": 149,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/dustbin_cover_ex_l_15p.png",
+        "alt": "Dustbin Cover Ex L 15P",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "dustbin",
+        "cover",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "dustbin",
+        "cover",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 98,
+    "name": "Parcel Cover Jatni 3 5*4 5 Ayyappa",
+    "brand": "Generic",
+    "category": "Household Essentials",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 100,
+      "mrp": 110,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality household product for effective home cleaning.",
+      "long": "Premium quality household product for effective home cleaning. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily cleaning routines. Quality assured for your family. Trusted brand for home care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/household_essentials/parcel_cover_jatni_3_5_4_5_ayyappa.png",
+        "alt": "Parcel Cover Jatni 3 5*4 5 Ayyappa",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "household",
+        "home cleaning",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "effective",
+        "parcel",
+        "cover",
+        "jatni",
+        "ayyappa",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "household",
+        "home",
+        "cleaning",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "parcel",
+        "cover",
+        "jatni",
+        "ayyappa",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  }
+]

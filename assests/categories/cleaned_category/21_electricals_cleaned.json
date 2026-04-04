@@ -1,0 +1,1849 @@
+[
+  {
+    "id": 1,
+    "name": "Nippo Led Bulb",
+    "brand": "Nippo",
+    "category": "Electricals",
+    "subCategory": "Bulb",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 325,
+      "mrp": 358,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Nippo - Energy-efficient bulbs for bright and safe lighting.",
+      "long": "Nippo - Energy-efficient bulbs for bright and safe lighting. Provides excellent illumination for home and office. Perfect for daily use and energy saving. Long-lasting performance. Trusted brand for lighting needs. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/nippo_led_bulb.png",
+        "alt": "Nippo Led Bulb",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "bulb",
+        "lighting",
+        "energy efficient",
+        "home",
+        "office",
+        "bright",
+        "safe",
+        "nippo",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "bulb",
+        "lighting",
+        "energy",
+        "home",
+        "office",
+        "bright",
+        "safe",
+        "nippo",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 2,
+    "name": "Nippo Led Bulb",
+    "brand": "Nippo",
+    "category": "Electricals",
+    "subCategory": "Bulb",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 160,
+      "mrp": 176,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Nippo - Energy-efficient bulbs for bright and safe lighting.",
+      "long": "Nippo - Energy-efficient bulbs for bright and safe lighting. Provides excellent illumination for home and office. Perfect for daily use and energy saving. Long-lasting performance. Trusted brand for lighting needs. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/nippo_led_bulb.png",
+        "alt": "Nippo Led Bulb",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "bulb",
+        "lighting",
+        "energy efficient",
+        "home",
+        "office",
+        "bright",
+        "safe",
+        "nippo",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "bulb",
+        "lighting",
+        "energy",
+        "home",
+        "office",
+        "bright",
+        "safe",
+        "nippo",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 3,
+    "name": "Nippo Aa Battery",
+    "brand": "Nippo",
+    "category": "Electricals",
+    "subCategory": "Battery",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 16,
+      "mrp": 18,
+      "discount": 11,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Nippo - Long-lasting batteries for all your electronic devices.",
+      "long": "Nippo - Long-lasting batteries for all your electronic devices. Provides reliable power for remote controls, toys, and gadgets. Perfect for daily use and emergency backup. Trusted brand for quality batteries. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/nippo_aa_battery.png",
+        "alt": "Nippo Aa Battery",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "nippo",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "nippo",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 4,
+    "name": "Nippo Led Bulb W",
+    "brand": "Nippo",
+    "category": "Electricals",
+    "subCategory": "Bulb",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 300,
+      "mrp": 330,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Nippo - Energy-efficient bulbs for bright and safe lighting.",
+      "long": "Nippo - Energy-efficient bulbs for bright and safe lighting. Provides excellent illumination for home and office. Perfect for daily use and energy saving. Long-lasting performance. Trusted brand for lighting needs. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/nippo_led_bulb_w.png",
+        "alt": "Nippo Led Bulb W",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "bulb",
+        "lighting",
+        "energy efficient",
+        "home",
+        "office",
+        "bright",
+        "safe",
+        "nippo",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "bulb",
+        "lighting",
+        "energy",
+        "home",
+        "office",
+        "bright",
+        "safe",
+        "nippo",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 5,
+    "name": "Nippo Aaa Battery",
+    "brand": "Nippo",
+    "category": "Electricals",
+    "subCategory": "Battery",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 16,
+      "mrp": 18,
+      "discount": 11,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Nippo - Long-lasting batteries for all your electronic devices.",
+      "long": "Nippo - Long-lasting batteries for all your electronic devices. Provides reliable power for remote controls, toys, and gadgets. Perfect for daily use and emergency backup. Trusted brand for quality batteries. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/nippo_aaa_battery.png",
+        "alt": "Nippo Aaa Battery",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "nippo",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "nippo",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 6,
+    "name": "Duracell",
+    "brand": "Duracell",
+    "category": "Electricals",
+    "subCategory": "Battery",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 20,
+      "mrp": 22,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Duracell - Long-lasting batteries for all your electronic devices.",
+      "long": "Duracell - Long-lasting batteries for all your electronic devices. Provides reliable power for remote controls, toys, and gadgets. Perfect for daily use and emergency backup. Trusted brand for quality batteries. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/duracell.png",
+        "alt": "Duracell",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "duracell",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "duracell",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 7,
+    "name": "Eveready W Bulb",
+    "brand": "Generic",
+    "category": "Electricals",
+    "subCategory": "Bulb",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 150,
+      "mrp": 165,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Energy-efficient bulbs for bright and safe lighting.",
+      "long": "Energy-efficient bulbs for bright and safe lighting. Provides excellent illumination for home and office. Perfect for daily use and energy saving. Long-lasting performance. Trusted brand for lighting needs. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/eveready_w_bulb.png",
+        "alt": "Eveready W Bulb",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "bulb",
+        "lighting",
+        "energy efficient",
+        "home",
+        "office",
+        "bright",
+        "safe",
+        "eveready",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "bulb",
+        "lighting",
+        "energy",
+        "home",
+        "office",
+        "bright",
+        "safe",
+        "eveready",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 8,
+    "name": "Eveready Bulb W (1 Bag)",
+    "brand": "Generic",
+    "category": "Electricals",
+    "subCategory": "Bulb",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 150,
+      "mrp": 165,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Energy-efficient bulbs for bright and safe lighting.",
+      "long": "Energy-efficient bulbs for bright and safe lighting. Provides excellent illumination for home and office. Perfect for daily use and energy saving. Long-lasting performance. Trusted brand for lighting needs. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/eveready_bulb_w_1_bag.png",
+        "alt": "Eveready Bulb W (1 Bag)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "bulb",
+        "lighting",
+        "energy efficient",
+        "home",
+        "office",
+        "bright",
+        "safe",
+        "eveready",
+        "bag)",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "bulb",
+        "lighting",
+        "energy",
+        "home",
+        "office",
+        "bright",
+        "safe",
+        "eveready",
+        "bag)",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 9,
+    "name": "Nippo Led Bulb W",
+    "brand": "Nippo",
+    "category": "Electricals",
+    "subCategory": "Bulb",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 160,
+      "mrp": 176,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Nippo - Energy-efficient bulbs for bright and safe lighting.",
+      "long": "Nippo - Energy-efficient bulbs for bright and safe lighting. Provides excellent illumination for home and office. Perfect for daily use and energy saving. Long-lasting performance. Trusted brand for lighting needs. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/nippo_led_bulb_w.png",
+        "alt": "Nippo Led Bulb W",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "bulb",
+        "lighting",
+        "energy efficient",
+        "home",
+        "office",
+        "bright",
+        "safe",
+        "nippo",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "bulb",
+        "lighting",
+        "energy",
+        "home",
+        "office",
+        "bright",
+        "safe",
+        "nippo",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 10,
+    "name": "Nippo Led Bulb W",
+    "brand": "Nippo",
+    "category": "Electricals",
+    "subCategory": "Bulb",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 325,
+      "mrp": 358,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Nippo - Energy-efficient bulbs for bright and safe lighting.",
+      "long": "Nippo - Energy-efficient bulbs for bright and safe lighting. Provides excellent illumination for home and office. Perfect for daily use and energy saving. Long-lasting performance. Trusted brand for lighting needs. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/nippo_led_bulb_w.png",
+        "alt": "Nippo Led Bulb W",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "bulb",
+        "lighting",
+        "energy efficient",
+        "home",
+        "office",
+        "bright",
+        "safe",
+        "nippo",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "bulb",
+        "lighting",
+        "energy",
+        "home",
+        "office",
+        "bright",
+        "safe",
+        "nippo",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 11,
+    "name": "Eveready Bulb W",
+    "brand": "Generic",
+    "category": "Electricals",
+    "subCategory": "Bulb",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 22,
+      "mrp": 24,
+      "discount": 8,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Energy-efficient bulbs for bright and safe lighting.",
+      "long": "Energy-efficient bulbs for bright and safe lighting. Provides excellent illumination for home and office. Perfect for daily use and energy saving. Long-lasting performance. Trusted brand for lighting needs. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/eveready_bulb_w.png",
+        "alt": "Eveready Bulb W",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "bulb",
+        "lighting",
+        "energy efficient",
+        "home",
+        "office",
+        "bright",
+        "safe",
+        "eveready",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "bulb",
+        "lighting",
+        "energy",
+        "home",
+        "office",
+        "bright",
+        "safe",
+        "eveready",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 12,
+    "name": "Duracell Aa",
+    "brand": "Duracell",
+    "category": "Electricals",
+    "subCategory": "Battery",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 20,
+      "mrp": 22,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Duracell - Long-lasting batteries for all your electronic devices.",
+      "long": "Duracell - Long-lasting batteries for all your electronic devices. Provides reliable power for remote controls, toys, and gadgets. Perfect for daily use and emergency backup. Trusted brand for quality batteries. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/duracell_aa.png",
+        "alt": "Duracell Aa",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "duracell",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "duracell",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 13,
+    "name": "Duracell Aaa",
+    "brand": "Duracell",
+    "category": "Electricals",
+    "subCategory": "Battery",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 20,
+      "mrp": 22,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Duracell - Long-lasting batteries for all your electronic devices.",
+      "long": "Duracell - Long-lasting batteries for all your electronic devices. Provides reliable power for remote controls, toys, and gadgets. Perfect for daily use and emergency backup. Trusted brand for quality batteries. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/duracell_aaa.png",
+        "alt": "Duracell Aaa",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "duracell",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "duracell",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 14,
+    "name": "Panasonic Battery Aa",
+    "brand": "Generic",
+    "category": "Electricals",
+    "subCategory": "Battery",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 16,
+      "mrp": 18,
+      "discount": 11,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Long-lasting batteries for all your electronic devices.",
+      "long": "Long-lasting batteries for all your electronic devices. Provides reliable power for remote controls, toys, and gadgets. Perfect for daily use and emergency backup. Trusted brand for quality batteries. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/panasonic_battery_aa.png",
+        "alt": "Panasonic Battery Aa",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "panasonic",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "panasonic",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 15,
+    "name": "Panasonic Battery Aaa",
+    "brand": "Generic",
+    "category": "Electricals",
+    "subCategory": "Battery",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 15,
+      "mrp": 17,
+      "discount": 12,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Long-lasting batteries for all your electronic devices.",
+      "long": "Long-lasting batteries for all your electronic devices. Provides reliable power for remote controls, toys, and gadgets. Perfect for daily use and emergency backup. Trusted brand for quality batteries. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/panasonic_battery_aaa.png",
+        "alt": "Panasonic Battery Aaa",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "panasonic",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "panasonic",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 16,
+    "name": "Duracell",
+    "brand": "Duracell",
+    "category": "Electricals",
+    "subCategory": "Battery",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 22,
+      "mrp": 24,
+      "discount": 8,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Duracell - Long-lasting batteries for all your electronic devices.",
+      "long": "Duracell - Long-lasting batteries for all your electronic devices. Provides reliable power for remote controls, toys, and gadgets. Perfect for daily use and emergency backup. Trusted brand for quality batteries. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/duracell.png",
+        "alt": "Duracell",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "duracell",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "duracell",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 17,
+    "name": "Aa Duracell",
+    "brand": "Duracell",
+    "category": "Electricals",
+    "subCategory": "Battery",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 22,
+      "mrp": 24,
+      "discount": 8,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Duracell - Long-lasting batteries for all your electronic devices.",
+      "long": "Duracell - Long-lasting batteries for all your electronic devices. Provides reliable power for remote controls, toys, and gadgets. Perfect for daily use and emergency backup. Trusted brand for quality batteries. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/aa_duracell.png",
+        "alt": "Aa Duracell",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "duracell",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "duracell",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 18,
+    "name": "Duracell Aa",
+    "brand": "Duracell",
+    "category": "Electricals",
+    "subCategory": "Battery",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 22,
+      "mrp": 24,
+      "discount": 8,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Duracell - Long-lasting batteries for all your electronic devices.",
+      "long": "Duracell - Long-lasting batteries for all your electronic devices. Provides reliable power for remote controls, toys, and gadgets. Perfect for daily use and emergency backup. Trusted brand for quality batteries. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/duracell_aa.png",
+        "alt": "Duracell Aa",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "duracell",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "duracell",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 19,
+    "name": "Duracell Aaa",
+    "brand": "Duracell",
+    "category": "Electricals",
+    "subCategory": "Battery",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 22,
+      "mrp": 24,
+      "discount": 8,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Duracell - Long-lasting batteries for all your electronic devices.",
+      "long": "Duracell - Long-lasting batteries for all your electronic devices. Provides reliable power for remote controls, toys, and gadgets. Perfect for daily use and emergency backup. Trusted brand for quality batteries. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/duracell_aaa.png",
+        "alt": "Duracell Aaa",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "duracell",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "duracell",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 20,
+    "name": "Eveready Ultima Aaa Battery",
+    "brand": "Eveready",
+    "category": "Electricals",
+    "subCategory": "Battery",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 22,
+      "mrp": 24,
+      "discount": 8,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Eveready - Long-lasting batteries for all your electronic devices.",
+      "long": "Eveready - Long-lasting batteries for all your electronic devices. Provides reliable power for remote controls, toys, and gadgets. Perfect for daily use and emergency backup. Trusted brand for quality batteries. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/eveready_ultima_aaa_battery.png",
+        "alt": "Eveready Ultima Aaa Battery",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "eveready",
+        "ultima",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "eveready",
+        "ultima",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 21,
+    "name": "Eveready Ultima Aa Battery",
+    "brand": "Eveready",
+    "category": "Electricals",
+    "subCategory": "Battery",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 22,
+      "mrp": 24,
+      "discount": 8,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Eveready - Long-lasting batteries for all your electronic devices.",
+      "long": "Eveready - Long-lasting batteries for all your electronic devices. Provides reliable power for remote controls, toys, and gadgets. Perfect for daily use and emergency backup. Trusted brand for quality batteries. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/eveready_ultima_aa_battery.png",
+        "alt": "Eveready Ultima Aa Battery",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "eveready",
+        "ultima",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "eveready",
+        "ultima",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 22,
+    "name": "Nippo Led Radium Led-0 W",
+    "brand": "Nippo",
+    "category": "Electricals",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 135,
+      "mrp": 149,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Nippo - Premium quality electrical product for daily use.",
+      "long": "Nippo - Premium quality electrical product for daily use. Made with quality materials for safety and durability. Perfect for home and office. Trusted brand for electrical needs. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/nippo_led_radium_led_0_w.png",
+        "alt": "Nippo Led Radium Led-0 W",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "electrical",
+        "daily use",
+        "home",
+        "office",
+        "quality",
+        "safety",
+        "trusted",
+        "nippo",
+        "radium",
+        "led-0",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "electrical",
+        "daily",
+        "home",
+        "office",
+        "quality",
+        "safety",
+        "trusted",
+        "nippo",
+        "radium",
+        "led-0",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 23,
+    "name": "Nippo Led Radium Lite-0 W",
+    "brand": "Nippo",
+    "category": "Electricals",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 135,
+      "mrp": 149,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Nippo - Premium quality electrical product for daily use.",
+      "long": "Nippo - Premium quality electrical product for daily use. Made with quality materials for safety and durability. Perfect for home and office. Trusted brand for electrical needs. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/nippo_led_radium_lite_0_w.png",
+        "alt": "Nippo Led Radium Lite-0 W",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "electrical",
+        "daily use",
+        "home",
+        "office",
+        "quality",
+        "safety",
+        "trusted",
+        "nippo",
+        "radium",
+        "lite-0",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "electrical",
+        "daily",
+        "home",
+        "office",
+        "quality",
+        "safety",
+        "trusted",
+        "nippo",
+        "radium",
+        "lite-0",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 24,
+    "name": "Eveready Up Aa Battery",
+    "brand": "Eveready",
+    "category": "Electricals",
+    "subCategory": "Battery",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 16,
+      "mrp": 18,
+      "discount": 11,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Eveready - Long-lasting batteries for all your electronic devices.",
+      "long": "Eveready - Long-lasting batteries for all your electronic devices. Provides reliable power for remote controls, toys, and gadgets. Perfect for daily use and emergency backup. Trusted brand for quality batteries. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/eveready_up_aa_battery.png",
+        "alt": "Eveready Up Aa Battery",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "eveready",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "eveready",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 25,
+    "name": "Nippo Battery Aa",
+    "brand": "Nippo",
+    "category": "Electricals",
+    "subCategory": "Battery",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 10,
+      "mrp": 11,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Nippo - Long-lasting batteries for all your electronic devices.",
+      "long": "Nippo - Long-lasting batteries for all your electronic devices. Provides reliable power for remote controls, toys, and gadgets. Perfect for daily use and emergency backup. Trusted brand for quality batteries. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/nippo_battery_aa.png",
+        "alt": "Nippo Battery Aa",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "nippo",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "nippo",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 26,
+    "name": "Nippo Battery Aaa",
+    "brand": "Nippo",
+    "category": "Electricals",
+    "subCategory": "Battery",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 10,
+      "mrp": 11,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Nippo - Long-lasting batteries for all your electronic devices.",
+      "long": "Nippo - Long-lasting batteries for all your electronic devices. Provides reliable power for remote controls, toys, and gadgets. Perfect for daily use and emergency backup. Trusted brand for quality batteries. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/nippo_battery_aaa.png",
+        "alt": "Nippo Battery Aaa",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "nippo",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "battery",
+        "batteries",
+        "electronic",
+        "remote",
+        "toys",
+        "gadgets",
+        "power",
+        "nippo",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 27,
+    "name": "Led Olir W",
+    "brand": "Generic",
+    "category": "Electricals",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 189,
+      "mrp": 208,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality electrical product for daily use.",
+      "long": "Premium quality electrical product for daily use. Made with quality materials for safety and durability. Perfect for home and office. Trusted brand for electrical needs. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/led_olir_w.png",
+        "alt": "Led Olir W",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "electrical",
+        "daily use",
+        "home",
+        "office",
+        "quality",
+        "safety",
+        "trusted",
+        "olir",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "electrical",
+        "daily",
+        "home",
+        "office",
+        "quality",
+        "safety",
+        "trusted",
+        "olir",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 28,
+    "name": "Led Olir Ac/Dc",
+    "brand": "Generic",
+    "category": "Electricals",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 549,
+      "mrp": 604,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality electrical product for daily use.",
+      "long": "Premium quality electrical product for daily use. Made with quality materials for safety and durability. Perfect for home and office. Trusted brand for electrical needs. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/led_olir_ac_dc.png",
+        "alt": "Led Olir Ac/Dc",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "electrical",
+        "daily use",
+        "home",
+        "office",
+        "quality",
+        "safety",
+        "trusted",
+        "olir",
+        "ac/dc",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "electrical",
+        "daily",
+        "home",
+        "office",
+        "quality",
+        "safety",
+        "trusted",
+        "olir",
+        "ac/dc",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 29,
+    "name": "Eveready W Led Bulb",
+    "brand": "Generic",
+    "category": "Electricals",
+    "subCategory": "Bulb",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 140,
+      "mrp": 154,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Energy-efficient bulbs for bright and safe lighting.",
+      "long": "Energy-efficient bulbs for bright and safe lighting. Provides excellent illumination for home and office. Perfect for daily use and energy saving. Long-lasting performance. Trusted brand for lighting needs. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/eveready_w_led_bulb.png",
+        "alt": "Eveready W Led Bulb",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "bulb",
+        "lighting",
+        "energy efficient",
+        "home",
+        "office",
+        "bright",
+        "safe",
+        "eveready",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "bulb",
+        "lighting",
+        "energy",
+        "home",
+        "office",
+        "bright",
+        "safe",
+        "eveready",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 30,
+    "name": "Eveready Led Tubelight W",
+    "brand": "Generic",
+    "category": "Electricals",
+    "subCategory": "Bulb",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 239,
+      "mrp": 263,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Energy-efficient bulbs for bright and safe lighting.",
+      "long": "Energy-efficient bulbs for bright and safe lighting. Provides excellent illumination for home and office. Perfect for daily use and energy saving. Long-lasting performance. Trusted brand for lighting needs. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/eveready_led_tubelight_w.png",
+        "alt": "Eveready Led Tubelight W",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "bulb",
+        "lighting",
+        "energy efficient",
+        "home",
+        "office",
+        "bright",
+        "safe",
+        "eveready",
+        "tubelight",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "bulb",
+        "lighting",
+        "energy",
+        "home",
+        "office",
+        "bright",
+        "safe",
+        "eveready",
+        "tubelight",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 31,
+    "name": "Agaro W Led Bulb",
+    "brand": "Generic",
+    "category": "Electricals",
+    "subCategory": "Bulb",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 160,
+      "mrp": 176,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Energy-efficient bulbs for bright and safe lighting.",
+      "long": "Energy-efficient bulbs for bright and safe lighting. Provides excellent illumination for home and office. Perfect for daily use and energy saving. Long-lasting performance. Trusted brand for lighting needs. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/electricals/agaro_w_led_bulb.png",
+        "alt": "Agaro W Led Bulb",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "bulb",
+        "lighting",
+        "energy efficient",
+        "home",
+        "office",
+        "bright",
+        "safe",
+        "agaro",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "bulb",
+        "lighting",
+        "energy",
+        "home",
+        "office",
+        "bright",
+        "safe",
+        "agaro",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  }
+]

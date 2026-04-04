@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Cashew",
+    "description": "High-quality Cashew, perfect for prasadam or snacking.",
+    "brand": "Generic",
+    "category": "Dry Fruits",
+    "variant": "1 pcs",
+    "price": 900,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/dry_fruits/cashew.png",
+    "search_tags": [
+      "cashew",
+      "முந்திரி",
+      "generic",
+      "dry fruits",
+      "prasadam",
+      "திராட்சை"
+    ],
+    "subCategory": "General",
+    "mrp": 990,
+    "discount": 9
+  },
+  {
+    "name": "Munthiridry Grapes",
+    "description": "High-quality Munthiridry Grapes, perfect for prasadam or snacking.",
+    "brand": "Generic",
+    "category": "Dry Fruits",
+    "variant": "1 pcs",
+    "price": 10,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/dry_fruits/munthiridry_grapes.png",
+    "search_tags": [
+      "முந்திரி",
+      "generic",
+      "dry fruits",
+      "munthiridry grapes",
+      "prasadam",
+      "திராட்சை"
+    ],
+    "subCategory": "General",
+    "mrp": 11,
+    "discount": 9
+  },
+  {
+    "name": "Cashew No 2",
+    "description": "High-quality Cashew No.2, perfect for prasadam or snacking.",
+    "brand": "Generic",
+    "category": "Dry Fruits",
+    "variant": "1 pcs",
+    "price": 800,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/dry_fruits/cashew_no_2.png",
+    "search_tags": [
+      "முந்திரி",
+      "cashew no.2",
+      "generic",
+      "dry fruits",
+      "prasadam",
+      "திராட்சை"
+    ],
+    "subCategory": "General",
+    "mrp": 880,
+    "discount": 9
+  }
+]

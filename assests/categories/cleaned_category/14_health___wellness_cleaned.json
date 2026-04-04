@@ -1,0 +1,4367 @@
+[
+  {
+    "id": 1,
+    "name": "Nizam Pakku",
+    "brand": "Nizam",
+    "category": "Mouth Freshener",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 250,
+      "mrp": 275,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Nizam - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Nizam - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/mouth_freshener/nizam_pakku.png",
+        "alt": "Nizam Pakku",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "nizam",
+        "pakku",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "nizam",
+        "pakku",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 2,
+    "name": "Nizam Pakku =",
+    "brand": "Nizam",
+    "category": "Mouth Freshener",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 250,
+      "mrp": 275,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Nizam - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Nizam - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/mouth_freshener/nizam_pakku.png",
+        "alt": "Nizam Pakku =",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "nizam",
+        "pakku",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "nizam",
+        "pakku",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 3,
+    "name": "Nizam Pakku",
+    "brand": "Nizam",
+    "category": "Mouth Freshener",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 200,
+      "mrp": 220,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Nizam - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Nizam - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/mouth_freshener/nizam_pakku.png",
+        "alt": "Nizam Pakku",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "nizam",
+        "pakku",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "nizam",
+        "pakku",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 4,
+    "name": "Nizam Pakku",
+    "brand": "Nizam",
+    "category": "Mouth Freshener",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 200,
+      "mrp": 220,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Nizam - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Nizam - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/mouth_freshener/nizam_pakku.png",
+        "alt": "Nizam Pakku",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "nizam",
+        "pakku",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "nizam",
+        "pakku",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 5,
+    "name": "Nizam Pakku Sa",
+    "brand": "Nizam",
+    "category": "Mouth Freshener",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 25,
+      "mrp": 28,
+      "discount": 11,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Nizam - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Nizam - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/mouth_freshener/nizam_pakku_sa.png",
+        "alt": "Nizam Pakku Sa",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "nizam",
+        "pakku",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "nizam",
+        "pakku",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 6,
+    "name": "Nizam Pakku",
+    "brand": "Nizam",
+    "category": "Mouth Freshener",
+    "subCategory": "Default",
+    "variant": "50 pcs",
+    "pricing": {
+      "price": 50,
+      "mrp": 55,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Nizam - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Nizam - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 50 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/mouth_freshener/nizam_pakku.png",
+        "alt": "Nizam Pakku",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "nizam",
+        "pakku",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "nizam",
+        "pakku",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 7,
+    "name": "Vicks",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 20,
+      "mrp": 22,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks.png",
+        "alt": "Vicks",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 8,
+    "name": "Halls",
+    "brand": "Halls",
+    "category": "Health & Medical",
+    "subCategory": "Mouth-freshener",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 115,
+      "mrp": 127,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Halls - Refreshing mouth freshener for fresh breath and oral hygiene.",
+      "long": "Halls - Refreshing mouth freshener for fresh breath and oral hygiene. Made with natural ingredients for safe consumption. Perfect after meals and anytime refreshment. Available in various flavors. Trusted brand for oral care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/halls.png",
+        "alt": "Halls",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "mouth freshener",
+        "fresh breath",
+        "oral hygiene",
+        "after meal",
+        "refreshment",
+        "flavors",
+        "oral care",
+        "halls",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "mouth freshener",
+        "fresh breath",
+        "oral",
+        "after meal",
+        "refreshment",
+        "flavors",
+        "halls",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 9,
+    "name": "Local Anni Pakku",
+    "brand": "Local",
+    "category": "Mouth Freshener",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 47,
+      "mrp": 52,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Local - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Local - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/mouth_freshener/local_anni_pakku.png",
+        "alt": "Local Anni Pakku",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "local",
+        "anni",
+        "pakku",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "local",
+        "anni",
+        "pakku",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 10,
+    "name": "Pass Pass",
+    "brand": "Pass Pass",
+    "category": "Mouth Freshener",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 100,
+      "mrp": 110,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Pass Pass - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Pass Pass - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/mouth_freshener/pass_pass.png",
+        "alt": "Pass Pass",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "pass pass",
+        "pass",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "pass pass",
+        "pass",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 11,
+    "name": "Penoil Grmicekk 1 Ltr",
+    "brand": "Eno",
+    "category": "Health & Medical",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 80,
+      "mrp": 88,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Eno - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Eno - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/penoil_grmicekk_1_ltr.png",
+        "alt": "Penoil Grmicekk 1 Ltr",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "eno",
+        "penoil",
+        "grmicekk",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "eno",
+        "penoil",
+        "grmicekk",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 12,
+    "name": "Penoil Germchekk Color 1 Ltr",
+    "brand": "Eno",
+    "category": "Health & Medical",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 95,
+      "mrp": 105,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Eno - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Eno - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/penoil_germchekk_color_1_ltr.png",
+        "alt": "Penoil Germchekk Color 1 Ltr",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "eno",
+        "penoil",
+        "germchekk",
+        "color",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "eno",
+        "penoil",
+        "germchekk",
+        "color",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 13,
+    "name": "Nizam",
+    "brand": "Nizam",
+    "category": "Mouth Freshener",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 50,
+      "mrp": 55,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Nizam - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Nizam - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/mouth_freshener/nizam.png",
+        "alt": "Nizam",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "nizam",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "nizam",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 14,
+    "name": "Nizam Pakku Sa(250",
+    "brand": "Nizam",
+    "category": "Mouth Freshener",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 125,
+      "mrp": 138,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Nizam - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Nizam - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/mouth_freshener/nizam_pakku_sa_250.png",
+        "alt": "Nizam Pakku Sa(250",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "nizam",
+        "pakku",
+        "sa(250",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "nizam",
+        "pakku",
+        "sa(250",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 15,
+    "name": "Vicks",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 205,
+      "mrp": 226,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks.png",
+        "alt": "Vicks",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 16,
+    "name": "Vicks Vaporub",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "5 ml",
+    "pricing": {
+      "price": 25,
+      "mrp": 28,
+      "discount": 11,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 5 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks_vaporub.png",
+        "alt": "Vicks Vaporub",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "vaporub",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "vaporub",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 17,
+    "name": "Nizam Pakku Sa",
+    "brand": "Nizam",
+    "category": "Mouth Freshener",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 250,
+      "mrp": 275,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Nizam - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Nizam - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/mouth_freshener/nizam_pakku_sa.png",
+        "alt": "Nizam Pakku Sa",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "nizam",
+        "pakku",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "nizam",
+        "pakku",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 18,
+    "name": "Vicks Vaporub",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "10 ml",
+    "pricing": {
+      "price": 42,
+      "mrp": 46,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 10 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks_vaporub.png",
+        "alt": "Vicks Vaporub",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "vaporub",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "vaporub",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 19,
+    "name": "Vicks Vaporub",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "25 ml",
+    "pricing": {
+      "price": 90,
+      "mrp": 99,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 25 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks_vaporub.png",
+        "alt": "Vicks Vaporub",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "vaporub",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "vaporub",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 20,
+    "name": "Vicks Inhalerkeychain",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 59,
+      "mrp": 65,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks_inhalerkeychain.png",
+        "alt": "Vicks Inhalerkeychain",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "inhalerkeychain",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "inhalerkeychain",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 21,
+    "name": "Vicks Vaporub E Strong",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "25 ml",
+    "pricing": {
+      "price": 105,
+      "mrp": 116,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 25 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks_vaporub_e_strong.png",
+        "alt": "Vicks Vaporub E Strong",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "vaporub",
+        "strong",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "vaporub",
+        "strong",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 22,
+    "name": "Vicks Vaporub E Strong",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "10 ml",
+    "pricing": {
+      "price": 49,
+      "mrp": 54,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 10 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks_vaporub_e_strong.png",
+        "alt": "Vicks Vaporub E Strong",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "vaporub",
+        "strong",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "vaporub",
+        "strong",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 23,
+    "name": "Penoil Black",
+    "brand": "Eno",
+    "category": "Health & Medical",
+    "subCategory": "Default",
+    "variant": "450 ml",
+    "pricing": {
+      "price": 50,
+      "mrp": 55,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Eno - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Eno - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 450 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/penoil_black.png",
+        "alt": "Penoil Black",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "eno",
+        "penoil",
+        "black",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "eno",
+        "penoil",
+        "black",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 24,
+    "name": "Penoil Grmicekk White 1 Ltr",
+    "brand": "Eno",
+    "category": "Health & Medical",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 95,
+      "mrp": 105,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Eno - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Eno - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/penoil_grmicekk_white_1_ltr.png",
+        "alt": "Penoil Grmicekk White 1 Ltr",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "eno",
+        "penoil",
+        "grmicekk",
+        "white",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "eno",
+        "penoil",
+        "grmicekk",
+        "white",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 25,
+    "name": "Eno",
+    "brand": "Eno",
+    "category": "Health & Medical",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 9,
+      "mrp": 10,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Eno - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Eno - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/eno.png",
+        "alt": "Eno",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "eno",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "eno",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 26,
+    "name": "Halls",
+    "brand": "Halls",
+    "category": "Health & Medical",
+    "subCategory": "Mouth-freshener",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 279,
+      "mrp": 307,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Halls - Refreshing mouth freshener for fresh breath and oral hygiene.",
+      "long": "Halls - Refreshing mouth freshener for fresh breath and oral hygiene. Made with natural ingredients for safe consumption. Perfect after meals and anytime refreshment. Available in various flavors. Trusted brand for oral care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/halls.png",
+        "alt": "Halls",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "mouth freshener",
+        "fresh breath",
+        "oral hygiene",
+        "after meal",
+        "refreshment",
+        "flavors",
+        "oral care",
+        "halls",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "mouth freshener",
+        "fresh breath",
+        "oral",
+        "after meal",
+        "refreshment",
+        "flavors",
+        "halls",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 27,
+    "name": "Vicks Vaporub",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "150 ml",
+    "pricing": {
+      "price": 265,
+      "mrp": 292,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 150 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks_vaporub.png",
+        "alt": "Vicks Vaporub",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "vaporub",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "vaporub",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 28,
+    "name": "Vicks Vaporub",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "50 g",
+    "pricing": {
+      "price": 155,
+      "mrp": 171,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 50 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks_vaporub.png",
+        "alt": "Vicks Vaporub",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "vaporub",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "vaporub",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 29,
+    "name": "Nizam Pakku Blue",
+    "brand": "Nizam",
+    "category": "Mouth Freshener",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 200,
+      "mrp": 220,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Nizam - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Nizam - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/mouth_freshener/nizam_pakku_blue.png",
+        "alt": "Nizam Pakku Blue",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "nizam",
+        "pakku",
+        "blue",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "nizam",
+        "pakku",
+        "blue",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 30,
+    "name": "Vicks Inhalerkeychain",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 69,
+      "mrp": 76,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks_inhalerkeychain.png",
+        "alt": "Vicks Inhalerkeychain",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "inhalerkeychain",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "inhalerkeychain",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 31,
+    "name": "Vicks Action 500",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 53,
+      "mrp": 58,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks_action_500.png",
+        "alt": "Vicks Action 500",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "action",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "action",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 32,
+    "name": "Pass Pass Premium",
+    "brand": "Pass Pass",
+    "category": "Mouth Freshener",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 90,
+      "mrp": 99,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Pass Pass - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Pass Pass - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/mouth_freshener/pass_pass_premium.png",
+        "alt": "Pass Pass Premium",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "pass pass",
+        "pass",
+        "premium",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "pass pass",
+        "pass",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 33,
+    "name": "Vicks",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 295,
+      "mrp": 325,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks.png",
+        "alt": "Vicks",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 34,
+    "name": "Vicks Vaporub",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "25 g",
+    "pricing": {
+      "price": 99,
+      "mrp": 109,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 25 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks_vaporub.png",
+        "alt": "Vicks Vaporub",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "vaporub",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "vaporub",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 35,
+    "name": "Vicks Vaporub",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "10 g",
+    "pricing": {
+      "price": 42,
+      "mrp": 46,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 10 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks_vaporub.png",
+        "alt": "Vicks Vaporub",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "vaporub",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "vaporub",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 36,
+    "name": "Nizam Pakku",
+    "brand": "Nizam",
+    "category": "Mouth Freshener",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 250,
+      "mrp": 275,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Nizam - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Nizam - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/mouth_freshener/nizam_pakku.png",
+        "alt": "Nizam Pakku",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "nizam",
+        "pakku",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "nizam",
+        "pakku",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 37,
+    "name": "Nizam Pakku Sa",
+    "brand": "Nizam",
+    "category": "Mouth Freshener",
+    "subCategory": "Default",
+    "variant": "500 pcs",
+    "pricing": {
+      "price": 250,
+      "mrp": 275,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Nizam - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Nizam - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 500 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/mouth_freshener/nizam_pakku_sa.png",
+        "alt": "Nizam Pakku Sa",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "nizam",
+        "pakku",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "nizam",
+        "pakku",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 38,
+    "name": "Nizam Pakku Sa(",
+    "brand": "Nizam",
+    "category": "Mouth Freshener",
+    "subCategory": "Default",
+    "variant": "250 pcs",
+    "pricing": {
+      "price": 125,
+      "mrp": 138,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Nizam - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Nizam - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 250 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/mouth_freshener/nizam_pakku_sa.png",
+        "alt": "Nizam Pakku Sa(",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "nizam",
+        "pakku",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "nizam",
+        "pakku",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 39,
+    "name": "Penoil Black",
+    "brand": "Eno",
+    "category": "Health & Medical",
+    "subCategory": "Default",
+    "variant": "450 ml",
+    "pricing": {
+      "price": 70,
+      "mrp": 77,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Eno - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Eno - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 450 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/penoil_black.png",
+        "alt": "Penoil Black",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "eno",
+        "penoil",
+        "black",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "eno",
+        "penoil",
+        "black",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 40,
+    "name": "Vicks Vaporub",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "50 g",
+    "pricing": {
+      "price": 170,
+      "mrp": 187,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 50 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks_vaporub.png",
+        "alt": "Vicks Vaporub",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "vaporub",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "vaporub",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 41,
+    "name": "Vicks Vaporub",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "110 ml",
+    "pricing": {
+      "price": 265,
+      "mrp": 292,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 110 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks_vaporub.png",
+        "alt": "Vicks Vaporub",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "vaporub",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "vaporub",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 42,
+    "name": "Local Pakku Mittai",
+    "brand": "Local",
+    "category": "Mouth Freshener",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 150,
+      "mrp": 165,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Local - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Local - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/mouth_freshener/local_pakku_mittai.png",
+        "alt": "Local Pakku Mittai",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "local",
+        "pakku",
+        "mittai",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "local",
+        "pakku",
+        "mittai",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 43,
+    "name": "Vicks Vaporub",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "10 g",
+    "pricing": {
+      "price": 45,
+      "mrp": 50,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 10 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks_vaporub.png",
+        "alt": "Vicks Vaporub",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "vaporub",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "vaporub",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 44,
+    "name": "Vicks Inhaler Keychai",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 122,
+      "mrp": 134,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks_inhaler_keychai.png",
+        "alt": "Vicks Inhaler Keychai",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "keychai",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "keychai",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 45,
+    "name": "Vicks",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 125,
+      "mrp": 138,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks.png",
+        "alt": "Vicks",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 46,
+    "name": "Vicks Vaporub",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "25 g",
+    "pricing": {
+      "price": 109,
+      "mrp": 120,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 25 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks_vaporub.png",
+        "alt": "Vicks Vaporub",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "vaporub",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "vaporub",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 47,
+    "name": "Vicks Vaporub E Strong",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "25 ml",
+    "pricing": {
+      "price": 125,
+      "mrp": 138,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 25 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks_vaporub_e_strong.png",
+        "alt": "Vicks Vaporub E Strong",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "vaporub",
+        "strong",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "vaporub",
+        "strong",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 48,
+    "name": "Vicks Vaporub E Strong",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "10 ml",
+    "pricing": {
+      "price": 55,
+      "mrp": 61,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 10 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks_vaporub_e_strong.png",
+        "alt": "Vicks Vaporub E Strong",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "vaporub",
+        "strong",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "vaporub",
+        "strong",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 49,
+    "name": "Vicks Mini Rollon 2P",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 130,
+      "mrp": 143,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks_mini_rollon_2p.png",
+        "alt": "Vicks Mini Rollon 2P",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "mini",
+        "rollon",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "mini",
+        "rollon",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 50,
+    "name": "Vicks Roll On",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 65,
+      "mrp": 72,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks_roll_on.png",
+        "alt": "Vicks Roll On",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "roll",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "roll",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 51,
+    "name": "Vicks",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 140,
+      "mrp": 154,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks.png",
+        "alt": "Vicks",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 52,
+    "name": "Vicks Mrp 210",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 210,
+      "mrp": 231,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks_mrp_210.png",
+        "alt": "Vicks Mrp 210",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 53,
+    "name": "Vicks",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 260,
+      "mrp": 286,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks.png",
+        "alt": "Vicks",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 54,
+    "name": "Vicks Action 500",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 63,
+      "mrp": 69,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks_action_500.png",
+        "alt": "Vicks Action 500",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "action",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "action",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 55,
+    "name": "Pass Pass Red",
+    "brand": "Pass Pass",
+    "category": "Mouth Freshener",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 56,
+      "mrp": 62,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Pass Pass - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Pass Pass - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/mouth_freshener/pass_pass_red.png",
+        "alt": "Pass Pass Red",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "pass pass",
+        "pass",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "pass pass",
+        "pass",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 56,
+    "name": "Eno Jeera",
+    "brand": "Eno",
+    "category": "Health & Medical",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 500,
+      "mrp": 550,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Eno - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Eno - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/eno_jeera.png",
+        "alt": "Eno Jeera",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "eno",
+        "jeera",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "eno",
+        "jeera",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 57,
+    "name": "Eno Lemon",
+    "brand": "Eno",
+    "category": "Health & Medical",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 11,
+      "mrp": 12,
+      "discount": 8,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Eno - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Eno - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/eno_lemon.png",
+        "alt": "Eno Lemon",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "eno",
+        "lemon",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "eno",
+        "lemon",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 58,
+    "name": "Eno Orange",
+    "brand": "Eno",
+    "category": "Health & Medical",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 10,
+      "mrp": 11,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Eno - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Eno - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/eno_orange.png",
+        "alt": "Eno Orange",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "eno",
+        "orange",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "eno",
+        "orange",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 59,
+    "name": "Eno Regular ++",
+    "brand": "Eno",
+    "category": "Health & Medical",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 10,
+      "mrp": 11,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Eno - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Eno - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/eno_regular.png",
+        "alt": "Eno Regular ++",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "eno",
+        "regular",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "eno",
+        "regular",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 60,
+    "name": "Local Pakku Mittai 50Sa",
+    "brand": "Local",
+    "category": "Mouth Freshener",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 50,
+      "mrp": 55,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Local - Premium quality health and wellness product for daily care and vitality.",
+      "long": "Local - Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/mouth_freshener/local_pakku_mittai_50sa.png",
+        "alt": "Local Pakku Mittai 50Sa",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "local",
+        "pakku",
+        "mittai",
+        "50sa",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "local",
+        "pakku",
+        "mittai",
+        "50sa",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 61,
+    "name": "Vicks Vaporub",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "10 g",
+    "pricing": {
+      "price": 48,
+      "mrp": 53,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 10 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks_vaporub.png",
+        "alt": "Vicks Vaporub",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "vaporub",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "vaporub",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 62,
+    "name": "Cl Halls",
+    "brand": "Halls",
+    "category": "Health & Medical",
+    "subCategory": "Mouth-freshener",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 115,
+      "mrp": 127,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Halls - Refreshing mouth freshener for fresh breath and oral hygiene.",
+      "long": "Halls - Refreshing mouth freshener for fresh breath and oral hygiene. Made with natural ingredients for safe consumption. Perfect after meals and anytime refreshment. Available in various flavors. Trusted brand for oral care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/cl_halls.png",
+        "alt": "Cl Halls",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "mouth freshener",
+        "fresh breath",
+        "oral hygiene",
+        "after meal",
+        "refreshment",
+        "flavors",
+        "oral care",
+        "halls",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "mouth freshener",
+        "fresh breath",
+        "oral",
+        "after meal",
+        "refreshment",
+        "flavors",
+        "halls",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 63,
+    "name": "Cl Halls",
+    "brand": "Halls",
+    "category": "Health & Medical",
+    "subCategory": "Mouth-freshener",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 279,
+      "mrp": 307,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Halls - Refreshing mouth freshener for fresh breath and oral hygiene.",
+      "long": "Halls - Refreshing mouth freshener for fresh breath and oral hygiene. Made with natural ingredients for safe consumption. Perfect after meals and anytime refreshment. Available in various flavors. Trusted brand for oral care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/cl_halls.png",
+        "alt": "Cl Halls",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "mouth freshener",
+        "fresh breath",
+        "oral hygiene",
+        "after meal",
+        "refreshment",
+        "flavors",
+        "oral care",
+        "halls",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "mouth freshener",
+        "fresh breath",
+        "oral",
+        "after meal",
+        "refreshment",
+        "flavors",
+        "halls",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 64,
+    "name": "Vicks",
+    "brand": "Vicks",
+    "category": "Health & Medical",
+    "subCategory": "Inhaler",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 230,
+      "mrp": 253,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Vicks - Relief inhaler for breathing comfort and congestion relief.",
+      "long": "Vicks - Relief inhaler for breathing comfort and congestion relief. Made with natural oils for instant relief. Perfect for cold, cough, and nasal congestion. Portable and easy to use. Trusted brand for respiratory care. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/health_medical/vicks.png",
+        "alt": "Vicks",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal relief",
+        "respiratory",
+        "comfort",
+        "vicks",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "inhaler",
+        "breathing",
+        "congestion",
+        "cold",
+        "cough",
+        "nasal",
+        "relief",
+        "vicks",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 65,
+    "name": "Seeval Nice",
+    "brand": "Generic",
+    "category": "Mouth Freshener",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 100,
+      "mrp": 110,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality health and wellness product for daily care and vitality.",
+      "long": "Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/mouth_freshener/seeval_nice.png",
+        "alt": "Seeval Nice",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "seeval",
+        "nice",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "seeval",
+        "nice",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 66,
+    "name": "Seeval Nice",
+    "brand": "Generic",
+    "category": "Mouth Freshener",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 100,
+      "mrp": 110,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality health and wellness product for daily care and vitality.",
+      "long": "Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/mouth_freshener/seeval_nice.png",
+        "alt": "Seeval Nice",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "seeval",
+        "nice",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "seeval",
+        "nice",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 67,
+    "name": "Seeval Satha",
+    "brand": "Generic",
+    "category": "Mouth Freshener",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 100,
+      "mrp": 110,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality health and wellness product for daily care and vitality.",
+      "long": "Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/mouth_freshener/seeval_satha.png",
+        "alt": "Seeval Satha",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "seeval",
+        "satha",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "seeval",
+        "satha",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 68,
+    "name": "Seeval Saatha",
+    "brand": "Generic",
+    "category": "Mouth Freshener",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 100,
+      "mrp": 110,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality health and wellness product for daily care and vitality.",
+      "long": "Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/mouth_freshener/seeval_saatha.png",
+        "alt": "Seeval Saatha",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "seeval",
+        "saatha",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "seeval",
+        "saatha",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 69,
+    "name": "Seeval",
+    "brand": "Generic",
+    "category": "Mouth Freshener",
+    "subCategory": "Default",
+    "variant": "10 pcs",
+    "pricing": {
+      "price": 10,
+      "mrp": 11,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality health and wellness product for daily care and vitality.",
+      "long": "Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 10 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/mouth_freshener/seeval.png",
+        "alt": "Seeval",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "seeval",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "seeval",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 70,
+    "name": "Seeval Nice Ps",
+    "brand": "Generic",
+    "category": "Mouth Freshener",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 103,
+      "mrp": 113,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality health and wellness product for daily care and vitality.",
+      "long": "Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/mouth_freshener/seeval_nice_ps.png",
+        "alt": "Seeval Nice Ps",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "seeval",
+        "nice",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "seeval",
+        "nice",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 71,
+    "name": "Seeval Balaji",
+    "brand": "Generic",
+    "category": "Mouth Freshener",
+    "subCategory": "Default",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 100,
+      "mrp": 110,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality health and wellness product for daily care and vitality.",
+      "long": "Premium quality health and wellness product for daily care and vitality. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households and daily health routines. Quality assured for your family. Trusted brand for wellness. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/mouth_freshener/seeval_balaji.png",
+        "alt": "Seeval Balaji",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "health",
+        "wellness",
+        "daily care",
+        "premium quality",
+        "family",
+        "trusted",
+        "vitality",
+        "seeval",
+        "balaji",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "health",
+        "wellness",
+        "daily",
+        "premium",
+        "family",
+        "trusted",
+        "vitality",
+        "seeval",
+        "balaji",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  }
+]

@@ -1,0 +1,992 @@
+[
+  {
+    "id": 1,
+    "name": "Udhaya Krishna Ghee",
+    "brand": "Udhaya Krishna",
+    "category": "Ghee",
+    "subCategory": "General",
+    "variant": "100 jar",
+    "pricing": {
+      "price": 80,
+      "mrp": 88,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Udhaya Krishna - Premium quality product for daily use.",
+      "long": "Udhaya Krishna - Premium quality product for daily use. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households. Quality assured for your family. Trusted brand. Pack size: 100 jar."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/ghee/udhaya_krishna_ghee.png",
+        "alt": "Udhaya Krishna Ghee",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "product",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "udhaya krishna",
+        "udhaya",
+        "krishna",
+        "ghee"
+      ],
+      "tanglish": [
+        "product",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "udhaya krishna",
+        "udhaya",
+        "krishna",
+        "ghee"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 2,
+    "name": "Udhaya Krishna Ghee",
+    "brand": "Udhaya Krishna",
+    "category": "Ghee",
+    "subCategory": "General",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 10,
+      "mrp": 11,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Udhaya Krishna - Premium quality product for daily use.",
+      "long": "Udhaya Krishna - Premium quality product for daily use. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households. Quality assured for your family. Trusted brand. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/ghee/udhaya_krishna_ghee.png",
+        "alt": "Udhaya Krishna Ghee",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "product",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "udhaya krishna",
+        "udhaya",
+        "krishna",
+        "ghee",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "product",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "udhaya krishna",
+        "udhaya",
+        "krishna",
+        "ghee",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 3,
+    "name": "Ghee Grb",
+    "brand": "GRB",
+    "category": "Ghee",
+    "subCategory": "General",
+    "variant": "500 ml",
+    "pricing": {
+      "price": 489,
+      "mrp": 538,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "GRB - Premium quality product for daily use.",
+      "long": "GRB - Premium quality product for daily use. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households. Quality assured for your family. Trusted brand. Pack size: 500 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/ghee/ghee_grb.png",
+        "alt": "Ghee Grb",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "product",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "grb",
+        "ghee",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "product",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "grb",
+        "ghee",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 4,
+    "name": "Ghee Grb 1 L Tin",
+    "brand": "GRB",
+    "category": "Ghee",
+    "subCategory": "General",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 913,
+      "mrp": 1004,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "GRB - Premium quality product for daily use.",
+      "long": "GRB - Premium quality product for daily use. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households. Quality assured for your family. Trusted brand. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/ghee/ghee_grb_1_l_tin.png",
+        "alt": "Ghee Grb 1 L Tin",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "product",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "grb",
+        "ghee",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "product",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "grb",
+        "ghee",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 5,
+    "name": "Ghee Rkg 1 Ltr",
+    "brand": "RKG",
+    "category": "Ghee",
+    "subCategory": "General",
+    "variant": "1 Ltr",
+    "pricing": {
+      "price": 970,
+      "mrp": 1067,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "RKG - Premium quality product for daily use.",
+      "long": "RKG - Premium quality product for daily use. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households. Quality assured for your family. Trusted brand. Pack size: 1 Ltr."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/ghee/ghee_rkg_1_ltr.png",
+        "alt": "Ghee Rkg 1 Ltr",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "product",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "rkg",
+        "ghee",
+        "liter",
+        "ltr",
+        "l"
+      ],
+      "tanglish": [
+        "product",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "rkg",
+        "ghee",
+        "ltr",
+        "l"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 6,
+    "name": "Ghee Grb Jar",
+    "brand": "GRB",
+    "category": "Ghee",
+    "subCategory": "General",
+    "variant": "200 ml",
+    "pricing": {
+      "price": 182,
+      "mrp": 200,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "GRB - Premium quality product for daily use.",
+      "long": "GRB - Premium quality product for daily use. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households. Quality assured for your family. Trusted brand. Pack size: 200 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/ghee/ghee_grb_jar.png",
+        "alt": "Ghee Grb Jar",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "product",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "grb",
+        "ghee",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "product",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "grb",
+        "ghee",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 7,
+    "name": "Udhaya Krishna Ghee",
+    "brand": "Udhaya Krishna",
+    "category": "Ghee",
+    "subCategory": "General",
+    "variant": "5 Ltr",
+    "pricing": {
+      "price": 4200,
+      "mrp": 4620,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Udhaya Krishna - Premium quality product for daily use.",
+      "long": "Udhaya Krishna - Premium quality product for daily use. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households. Quality assured for your family. Trusted brand. Pack size: 5 Ltr."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/ghee/udhaya_krishna_ghee.png",
+        "alt": "Udhaya Krishna Ghee",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "product",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "udhaya krishna",
+        "udhaya",
+        "krishna",
+        "ghee",
+        "liter",
+        "ltr",
+        "l"
+      ],
+      "tanglish": [
+        "product",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "udhaya krishna",
+        "udhaya",
+        "krishna",
+        "ghee",
+        "ltr",
+        "l"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 8,
+    "name": "Udhaya Krishna Ghee",
+    "brand": "Udhaya Krishna",
+    "category": "Ghee",
+    "subCategory": "General",
+    "variant": "500 ml",
+    "pricing": {
+      "price": 445,
+      "mrp": 490,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Udhaya Krishna - Premium quality product for daily use.",
+      "long": "Udhaya Krishna - Premium quality product for daily use. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households. Quality assured for your family. Trusted brand. Pack size: 500 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/ghee/udhaya_krishna_ghee.png",
+        "alt": "Udhaya Krishna Ghee",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "product",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "udhaya krishna",
+        "udhaya",
+        "krishna",
+        "ghee",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "product",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "udhaya krishna",
+        "udhaya",
+        "krishna",
+        "ghee",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 9,
+    "name": "Udhaya Krishna Ghee",
+    "brand": "Udhaya Krishna",
+    "category": "Ghee",
+    "subCategory": "General",
+    "variant": "200 ml",
+    "pricing": {
+      "price": 170,
+      "mrp": 187,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Udhaya Krishna - Premium quality product for daily use.",
+      "long": "Udhaya Krishna - Premium quality product for daily use. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households. Quality assured for your family. Trusted brand. Pack size: 200 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/ghee/udhaya_krishna_ghee.png",
+        "alt": "Udhaya Krishna Ghee",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "product",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "udhaya krishna",
+        "udhaya",
+        "krishna",
+        "ghee",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "product",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "udhaya krishna",
+        "udhaya",
+        "krishna",
+        "ghee",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 10,
+    "name": "Ghee Grb 1 L",
+    "brand": "GRB",
+    "category": "Ghee",
+    "subCategory": "General",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 952,
+      "mrp": 1047,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "GRB - Premium quality product for daily use.",
+      "long": "GRB - Premium quality product for daily use. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households. Quality assured for your family. Trusted brand. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/ghee/ghee_grb_1_l.png",
+        "alt": "Ghee Grb 1 L",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "product",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "grb",
+        "ghee",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "product",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "grb",
+        "ghee",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 11,
+    "name": "Ghee Rkg",
+    "brand": "RKG",
+    "category": "Ghee",
+    "subCategory": "General",
+    "variant": "500 ml",
+    "pricing": {
+      "price": 496,
+      "mrp": 546,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "RKG - Premium quality product for daily use.",
+      "long": "RKG - Premium quality product for daily use. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households. Quality assured for your family. Trusted brand. Pack size: 500 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/ghee/ghee_rkg.png",
+        "alt": "Ghee Rkg",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "product",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "rkg",
+        "ghee",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "product",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "rkg",
+        "ghee",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 12,
+    "name": "Ghee Rkg",
+    "brand": "RKG",
+    "category": "Ghee",
+    "subCategory": "General",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 10,
+      "mrp": 11,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "RKG - Premium quality product for daily use.",
+      "long": "RKG - Premium quality product for daily use. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households. Quality assured for your family. Trusted brand. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/ghee/ghee_rkg.png",
+        "alt": "Ghee Rkg",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "product",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "rkg",
+        "ghee",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "product",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "rkg",
+        "ghee",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 13,
+    "name": "Ghee Rkg",
+    "brand": "RKG",
+    "category": "Ghee",
+    "subCategory": "General",
+    "variant": "200 ml",
+    "pricing": {
+      "price": 205,
+      "mrp": 226,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "RKG - Premium quality product for daily use.",
+      "long": "RKG - Premium quality product for daily use. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households. Quality assured for your family. Trusted brand. Pack size: 200 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/ghee/ghee_rkg.png",
+        "alt": "Ghee Rkg",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "product",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "rkg",
+        "ghee",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "product",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "rkg",
+        "ghee",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 14,
+    "name": "Ghee Grb",
+    "brand": "GRB",
+    "category": "Ghee",
+    "subCategory": "General",
+    "variant": "100 ml",
+    "pricing": {
+      "price": 110,
+      "mrp": 121,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "GRB - Premium quality product for daily use.",
+      "long": "GRB - Premium quality product for daily use. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households. Quality assured for your family. Trusted brand. Pack size: 100 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/ghee/ghee_grb.png",
+        "alt": "Ghee Grb",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "product",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "grb",
+        "ghee",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "product",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "grb",
+        "ghee",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 15,
+    "name": "Ghee Grb",
+    "brand": "GRB",
+    "category": "Ghee",
+    "subCategory": "General",
+    "variant": "50 ml",
+    "pricing": {
+      "price": 58,
+      "mrp": 64,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "GRB - Premium quality product for daily use.",
+      "long": "GRB - Premium quality product for daily use. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households. Quality assured for your family. Trusted brand. Pack size: 50 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/ghee/ghee_grb.png",
+        "alt": "Ghee Grb",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "product",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "grb",
+        "ghee",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "product",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "grb",
+        "ghee",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 16,
+    "name": "Ghee Grb Jar",
+    "brand": "GRB",
+    "category": "Ghee",
+    "subCategory": "General",
+    "variant": "200 ml",
+    "pricing": {
+      "price": 202,
+      "mrp": 222,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "GRB - Premium quality product for daily use.",
+      "long": "GRB - Premium quality product for daily use. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households. Quality assured for your family. Trusted brand. Pack size: 200 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/ghee/ghee_grb_jar.png",
+        "alt": "Ghee Grb Jar",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "product",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "grb",
+        "ghee",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "product",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "grb",
+        "ghee",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 17,
+    "name": "Ghee Rkg",
+    "brand": "RKG",
+    "category": "Ghee",
+    "subCategory": "General",
+    "variant": "100 ml",
+    "pricing": {
+      "price": 106,
+      "mrp": 117,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "RKG - Premium quality product for daily use.",
+      "long": "RKG - Premium quality product for daily use. Made with quality ingredients for safety and effectiveness. Perfect for South Indian households. Quality assured for your family. Trusted brand. Pack size: 100 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/ghee/ghee_rkg.png",
+        "alt": "Ghee Rkg",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "product",
+        "daily use",
+        "quality",
+        "family",
+        "trusted",
+        "rkg",
+        "ghee",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "product",
+        "daily",
+        "quality",
+        "family",
+        "trusted",
+        "rkg",
+        "ghee",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  }
+]

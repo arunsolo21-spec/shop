@@ -1,0 +1,518 @@
+[
+  {
+    "id": 1,
+    "name": "Table Salt (Nool Uppu)",
+    "brand": "Generic",
+    "category": "Salt & Sugar",
+    "subCategory": "Salt",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 22,
+      "mrp": 24,
+      "discount": 8,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Pure iodized salt for daily cooking and health.",
+      "long": "Pure iodized salt for daily cooking and health. Enriched with iodine for thyroid health. Perfect for all cooking needs. Fine grains for easy dissolving. Trusted brand for kitchen essentials. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/salt_sugar/table_salt_nool_uppu.png",
+        "alt": "Table Salt (Nool Uppu)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "salt",
+        "iodized salt",
+        "cooking",
+        "health",
+        "iodine",
+        "thyroid",
+        "kitchen",
+        "table",
+        "(nool",
+        "uppu)",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "salt",
+        "uppu",
+        "cooking",
+        "health",
+        "iodine",
+        "thyroid",
+        "kitchen",
+        "table",
+        "(nool",
+        "uppu)",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 2,
+    "name": "Table Salt (Nool Uppu)",
+    "brand": "Generic",
+    "category": "Salt & Sugar",
+    "subCategory": "Salt",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 300,
+      "mrp": 330,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Pure iodized salt for daily cooking and health.",
+      "long": "Pure iodized salt for daily cooking and health. Enriched with iodine for thyroid health. Perfect for all cooking needs. Fine grains for easy dissolving. Trusted brand for kitchen essentials. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/salt_sugar/table_salt_nool_uppu.png",
+        "alt": "Table Salt (Nool Uppu)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "salt",
+        "iodized salt",
+        "cooking",
+        "health",
+        "iodine",
+        "thyroid",
+        "kitchen",
+        "table",
+        "(nool",
+        "uppu)",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "salt",
+        "uppu",
+        "cooking",
+        "health",
+        "iodine",
+        "thyroid",
+        "kitchen",
+        "table",
+        "(nool",
+        "uppu)",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 3,
+    "name": "Table Salt (Nool Uppu)",
+    "brand": "Generic",
+    "category": "Salt & Sugar",
+    "subCategory": "Salt",
+    "variant": "2 kg",
+    "pricing": {
+      "price": 10,
+      "mrp": 11,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Pure iodized salt for daily cooking and health.",
+      "long": "Pure iodized salt for daily cooking and health. Enriched with iodine for thyroid health. Perfect for all cooking needs. Fine grains for easy dissolving. Trusted brand for kitchen essentials. Pack size: 2 kg."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/salt_sugar/table_salt_nool_uppu.png",
+        "alt": "Table Salt (Nool Uppu)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "salt",
+        "iodized salt",
+        "cooking",
+        "health",
+        "iodine",
+        "thyroid",
+        "kitchen",
+        "table",
+        "(nool",
+        "uppu)",
+        "grams",
+        "g",
+        "kilogram",
+        "kg"
+      ],
+      "tanglish": [
+        "salt",
+        "uppu",
+        "cooking",
+        "health",
+        "iodine",
+        "thyroid",
+        "kitchen",
+        "table",
+        "(nool",
+        "uppu)",
+        "g",
+        "kg"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 4,
+    "name": "Table Salt (Nool Uppu)",
+    "brand": "Generic",
+    "category": "Salt & Sugar",
+    "subCategory": "Salt",
+    "variant": "1 kg",
+    "pricing": {
+      "price": 26,
+      "mrp": 29,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Pure iodized salt for daily cooking and health.",
+      "long": "Pure iodized salt for daily cooking and health. Enriched with iodine for thyroid health. Perfect for all cooking needs. Fine grains for easy dissolving. Trusted brand for kitchen essentials. Pack size: 1 kg."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/salt_sugar/table_salt_nool_uppu.png",
+        "alt": "Table Salt (Nool Uppu)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "salt",
+        "iodized salt",
+        "cooking",
+        "health",
+        "iodine",
+        "thyroid",
+        "kitchen",
+        "table",
+        "(nool",
+        "uppu)",
+        "grams",
+        "g",
+        "kilogram",
+        "kg"
+      ],
+      "tanglish": [
+        "salt",
+        "uppu",
+        "cooking",
+        "health",
+        "iodine",
+        "thyroid",
+        "kitchen",
+        "table",
+        "(nool",
+        "uppu)",
+        "g",
+        "kg"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 5,
+    "name": "Table Salt (Nool Uppu)",
+    "brand": "Generic",
+    "category": "Salt & Sugar",
+    "subCategory": "Salt",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 5,
+      "mrp": 6,
+      "discount": 17,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Pure iodized salt for daily cooking and health.",
+      "long": "Pure iodized salt for daily cooking and health. Enriched with iodine for thyroid health. Perfect for all cooking needs. Fine grains for easy dissolving. Trusted brand for kitchen essentials. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/salt_sugar/table_salt_nool_uppu.png",
+        "alt": "Table Salt (Nool Uppu)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "salt",
+        "iodized salt",
+        "cooking",
+        "health",
+        "iodine",
+        "thyroid",
+        "kitchen",
+        "table",
+        "(nool",
+        "uppu)",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "salt",
+        "uppu",
+        "cooking",
+        "health",
+        "iodine",
+        "thyroid",
+        "kitchen",
+        "table",
+        "(nool",
+        "uppu)",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 6,
+    "name": "Table Salt (Nool Uppu)",
+    "brand": "Generic",
+    "category": "Salt & Sugar",
+    "subCategory": "Salt",
+    "variant": "1 kg",
+    "pricing": {
+      "price": 110,
+      "mrp": 121,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Pure iodized salt for daily cooking and health.",
+      "long": "Pure iodized salt for daily cooking and health. Enriched with iodine for thyroid health. Perfect for all cooking needs. Fine grains for easy dissolving. Trusted brand for kitchen essentials. Pack size: 1 kg."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/salt_sugar/table_salt_nool_uppu.png",
+        "alt": "Table Salt (Nool Uppu)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "salt",
+        "iodized salt",
+        "cooking",
+        "health",
+        "iodine",
+        "thyroid",
+        "kitchen",
+        "table",
+        "(nool",
+        "uppu)",
+        "grams",
+        "g",
+        "kilogram",
+        "kg"
+      ],
+      "tanglish": [
+        "salt",
+        "uppu",
+        "cooking",
+        "health",
+        "iodine",
+        "thyroid",
+        "kitchen",
+        "table",
+        "(nool",
+        "uppu)",
+        "g",
+        "kg"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 7,
+    "name": "Table Salt (Nool Uppu)",
+    "brand": "Generic",
+    "category": "Salt & Sugar",
+    "subCategory": "Salt",
+    "variant": "500 g",
+    "pricing": {
+      "price": 59,
+      "mrp": 65,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Pure iodized salt for daily cooking and health.",
+      "long": "Pure iodized salt for daily cooking and health. Enriched with iodine for thyroid health. Perfect for all cooking needs. Fine grains for easy dissolving. Trusted brand for kitchen essentials. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/salt_sugar/table_salt_nool_uppu.png",
+        "alt": "Table Salt (Nool Uppu)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "salt",
+        "iodized salt",
+        "cooking",
+        "health",
+        "iodine",
+        "thyroid",
+        "kitchen",
+        "table",
+        "(nool",
+        "uppu)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "salt",
+        "uppu",
+        "cooking",
+        "health",
+        "iodine",
+        "thyroid",
+        "kitchen",
+        "table",
+        "(nool",
+        "uppu)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 8,
+    "name": "Table Salt (Nool Uppu)",
+    "brand": "Generic",
+    "category": "Salt & Sugar",
+    "subCategory": "Salt",
+    "variant": "2 kg",
+    "pricing": {
+      "price": 14,
+      "mrp": 15,
+      "discount": 7,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Pure iodized salt for daily cooking and health.",
+      "long": "Pure iodized salt for daily cooking and health. Enriched with iodine for thyroid health. Perfect for all cooking needs. Fine grains for easy dissolving. Trusted brand for kitchen essentials. Pack size: 2 kg."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/salt_sugar/table_salt_nool_uppu.png",
+        "alt": "Table Salt (Nool Uppu)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "salt",
+        "iodized salt",
+        "cooking",
+        "health",
+        "iodine",
+        "thyroid",
+        "kitchen",
+        "table",
+        "(nool",
+        "uppu)",
+        "grams",
+        "g",
+        "kilogram",
+        "kg"
+      ],
+      "tanglish": [
+        "salt",
+        "uppu",
+        "cooking",
+        "health",
+        "iodine",
+        "thyroid",
+        "kitchen",
+        "table",
+        "(nool",
+        "uppu)",
+        "g",
+        "kg"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  }
+]

@@ -1,0 +1,4313 @@
+[
+    {
+        "original_name": "boomer box",
+        "clean_name": "Boomer Box",
+        "brand": "Boomer",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "gooday Rs.10 box",
+        "clean_name": "Gooday Box",
+        "brand": "Gooday",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 800.0
+    },
+    {
+        "original_name": "good day Rs.5 box",
+        "clean_name": "Good Day Box",
+        "brand": "Good",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 1000.0
+    },
+    {
+        "original_name": "marie gold Rs.5 BOX",
+        "clean_name": "Marie Gold Box",
+        "brand": "Marie",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 800.0
+    },
+    {
+        "original_name": "nature power papaya",
+        "clean_name": "Nature Power Papaya",
+        "brand": "Nature",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "Five star Rs10(box)",
+        "clean_name": "Five Star Box",
+        "brand": "Five",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 400.0
+    },
+    {
+        "original_name": "gold filter",
+        "clean_name": "Gold Filter",
+        "brand": "Gold",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "cigaretee gold filter",
+        "clean_name": "Cigaretee Gold Filter",
+        "brand": "Cigaretee",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "nippo led BULB Rs.325",
+        "clean_name": "Nippo Led Bulb",
+        "brand": "Nippo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 325.0
+    },
+    {
+        "original_name": "nippo led BULB Rs.160",
+        "clean_name": "Nippo Led Bulb",
+        "brand": "Nippo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "nippo AA battery 1ps",
+        "clean_name": "Nippo Aa Battery",
+        "brand": "Nippo",
+        "size": 1.0,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 16.0
+    },
+    {
+        "original_name": "nippo led BULB 12W",
+        "clean_name": "Nippo Led Bulb 12W",
+        "brand": "Nippo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "nippo AAA battery",
+        "clean_name": "Nippo Aaa Battery",
+        "brand": "Nippo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 16.0
+    },
+    {
+        "original_name": "duracell Rs.20  ",
+        "clean_name": "Duracell",
+        "brand": "Duracell",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "5 star Rs.10(40ps) box",
+        "clean_name": "5 Star  Box",
+        "brand": "5",
+        "size": 40.0,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 400.0
+    },
+    {
+        "original_name": "perk Rs.5(30ps)box",
+        "clean_name": "Perk Box",
+        "brand": "Perk",
+        "size": 30.0,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "5 star Rs10(box)",
+        "clean_name": "5 Star Box",
+        "brand": "5",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 400.0
+    },
+    {
+        "original_name": "healthmix ramanas 500g",
+        "clean_name": "Healthmix Ramanas",
+        "brand": "Healthmix",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Stationery & Others",
+        "mrp": 220.0
+    },
+    {
+        "original_name": "healthmix rama(thani.varu)1kg",
+        "clean_name": "Healthmix RamaThaniVaru",
+        "brand": "Healthmix",
+        "size": 1.0,
+        "unit": "kg",
+        "category": "Stationery & Others",
+        "mrp": 210.0
+    },
+    {
+        "original_name": "dish paper",
+        "clean_name": "Dish Paper",
+        "brand": "Dish",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "marrie gold Rs.10 box",
+        "clean_name": "Marrie Gold Box",
+        "brand": "Marrie",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 720.0
+    },
+    {
+        "original_name": "marrie gold Rs.18 box",
+        "clean_name": "Marrie Gold Box",
+        "brand": "Marrie",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 900.0
+    },
+    {
+        "original_name": "marie gold Rs.28 box",
+        "clean_name": "Marie Gold Box",
+        "brand": "Marie",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 840.0
+    },
+    {
+        "original_name": "parcel cover silver",
+        "clean_name": "Parcel Cover Silver",
+        "brand": "Parcel",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "parcel cover white(10*10)",
+        "clean_name": "Parcel Cover White1010",
+        "brand": "Parcel",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "parcel cover  white (14*14mm)",
+        "clean_name": "Parcel Cover White 1414Mm",
+        "brand": "Parcel",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "white paper 1quere",
+        "clean_name": "White Paper 1Quere",
+        "brand": "White",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "rooled paper 1quere Rs.20",
+        "clean_name": "Rooled Paper 1Quere",
+        "brand": "Rooled",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "apsara pencil10ps.Rs50",
+        "clean_name": "Apsara Pencil",
+        "brand": "Apsara",
+        "size": 10.0,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "natraj scale 1/2 adiRs.50",
+        "clean_name": "Natraj Scale 12 Adi",
+        "brand": "Natraj",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "natraj scale 1adi Rs.120",
+        "clean_name": "Natraj Scale 1Adi",
+        "brand": "Natraj",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "apsara eraser Rs.60",
+        "clean_name": "Apsara Eraser",
+        "brand": "Apsara",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "natraj sharpner Rs.60",
+        "clean_name": "Natraj Sharpner",
+        "brand": "Natraj",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "pen Rs.5 pkt Rs.30",
+        "clean_name": "Pen Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "Eveready Rs.15",
+        "clean_name": "Eveready",
+        "brand": "Eveready",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "pen Rs.3 pkt Rs.80",
+        "clean_name": "Pen Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "polmolein(taste me) 1.ltr.box",
+        "clean_name": "PolmoleinTaste Me 1LtrBox",
+        "brand": "Polmolein(Taste",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 1600.0
+    },
+    {
+        "original_name": "parcel cover silver 1pkt",
+        "clean_name": "Parcel Cover Silver",
+        "brand": "Parcel",
+        "size": 1.0,
+        "unit": "pkt",
+        "category": "Stationery & Others",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "1/4 cover 1kg",
+        "clean_name": "14 Cover",
+        "brand": "1/4",
+        "size": 1.0,
+        "unit": "kg",
+        "category": "Stationery & Others",
+        "mrp": 250.0
+    },
+    {
+        "original_name": "natraj pencil Rs.50(10ps)",
+        "clean_name": "Natraj Pencil",
+        "brand": "Natraj",
+        "size": 10.0,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "pen Rs.4(20ps)",
+        "clean_name": "Pen",
+        "brand": "Pen",
+        "size": 20.0,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "Eveready 9w bulb",
+        "clean_name": "Eveready 9W Bulb",
+        "brand": "Eveready",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "Eveready bulb 60w (1.bag)",
+        "clean_name": "Eveready Bulb 60W 1Bag",
+        "brand": "Eveready",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "kitkat Rs.5(box",
+        "clean_name": "Kitkat Box",
+        "brand": "Kitkat",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "Filter no.2",
+        "clean_name": "Filter No2",
+        "brand": "Filter",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 95.0
+    },
+    {
+        "original_name": "mini filter no.2",
+        "clean_name": "Mini Filter No2",
+        "brand": "Mini",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 49.0
+    },
+    {
+        "original_name": "parcel cover silver 8*10",
+        "clean_name": "Parcel Cover Silver 810",
+        "brand": "Parcel",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "parcel cover silver 5*7 pkt",
+        "clean_name": "Parcel Cover Silver 5",
+        "brand": "Parcel",
+        "size": 7.0,
+        "unit": "pkt",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "nippo led BULB 9w",
+        "clean_name": "Nippo Led Bulb 9W",
+        "brand": "Nippo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "nippo led BULB 15w",
+        "clean_name": "Nippo Led Bulb 15W",
+        "brand": "Nippo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 325.0
+    },
+    {
+        "original_name": "peedi mini kutti 1.box",
+        "clean_name": "Peedi Mini Kutti 1Box",
+        "brand": "Peedi",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "parcel cover silver12*12.pkt",
+        "clean_name": "Parcel Cover Silver1212Pkt",
+        "brand": "Parcel",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "kitkat Rs.10 box",
+        "clean_name": "Kitkat Box",
+        "brand": "Kitkat",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 420.0
+    },
+    {
+        "original_name": "note long size Rs.36",
+        "clean_name": "Note Long Size",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 36.0
+    },
+    {
+        "original_name": "note Rs.32",
+        "clean_name": "Note",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 32.0
+    },
+    {
+        "original_name": "note Rs.15",
+        "clean_name": "Note",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "note long size Rs.28",
+        "clean_name": "Note Long Size",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 36.0
+    },
+    {
+        "original_name": "note Rs.18",
+        "clean_name": "Note",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 32.0
+    },
+    {
+        "original_name": "note Rs.15 (4.line)",
+        "clean_name": "Note 4Line",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "note Rs.15 (2.line)",
+        "clean_name": "Note 2Line",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "note Rs.15 (ruled )",
+        "clean_name": "Note Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "note Rs.15 (un ruled)",
+        "clean_name": "Note Un Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "note Rs.28 (ruled)",
+        "clean_name": "Note Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 36.0
+    },
+    {
+        "original_name": "note Rs.28 long size (ruled)",
+        "clean_name": "Note Long Size Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 36.0
+    },
+    {
+        "original_name": "note long size Rs.28(un ruled)",
+        "clean_name": "Note Long Size Un Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 36.0
+    },
+    {
+        "original_name": "parcel cover 4*5 pkt",
+        "clean_name": "Parcel Cover 4",
+        "brand": "Parcel",
+        "size": 5.0,
+        "unit": "pkt",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "note Rs.32.(un ruled)",
+        "clean_name": "Note Un Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 32.0
+    },
+    {
+        "original_name": "note Rs.18(ruled)",
+        "clean_name": "Note Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 32.0
+    },
+    {
+        "original_name": "note Rs.18.(un ruled)",
+        "clean_name": "Note Un Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 32.0
+    },
+    {
+        "original_name": "note Rs.18(4.line)",
+        "clean_name": "Note 4Line",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 32.0
+    },
+    {
+        "original_name": "note Rs.18(2.line)",
+        "clean_name": "Note 2Line",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 32.0
+    },
+    {
+        "original_name": "vicks action 500 (1.BOX)",
+        "clean_name": "Vicks Action 500 1Box",
+        "brand": "Vicks",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 550.0
+    },
+    {
+        "original_name": "marie gold Rs.10 box",
+        "clean_name": "Marie Gold Box",
+        "brand": "Marie",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 720.0
+    },
+    {
+        "original_name": "orio Rs.5 box",
+        "clean_name": "Orio Box",
+        "brand": "Orio",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "rasna cover 50ps 1pkt ",
+        "clean_name": "Rasna Cover  1Pkt",
+        "brand": "Rasna",
+        "size": 50.0,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "munch Rs.5 box 32ps ",
+        "clean_name": "Munch Box",
+        "brand": "Munch",
+        "size": 32.0,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "marie gold Rs.30 box",
+        "clean_name": "Marie Gold Box",
+        "brand": "Marie",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 900.0
+    },
+    {
+        "original_name": "orange red colour box",
+        "clean_name": "Orange Red Colour Box",
+        "brand": "Orange",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "lemon yellow colour box",
+        "clean_name": "Lemon Yellow Colour Box",
+        "brand": "Lemon",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "natraj pencil Rs.40(10ps)",
+        "clean_name": "Natraj Pencil",
+        "brand": "Natraj",
+        "size": 10.0,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "marie gold Rs.18 box",
+        "clean_name": "Marie Gold Box",
+        "brand": "Marie",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 900.0
+    },
+    {
+        "original_name": "pen Rs.3",
+        "clean_name": "Pen",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 4.0
+    },
+    {
+        "original_name": "mat metro (s)",
+        "clean_name": "Mat Metro S",
+        "brand": "Mat",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "mat paniyan",
+        "clean_name": "Mat Paniyan",
+        "brand": "Mat",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "mat s.s",
+        "clean_name": "Mat SS",
+        "brand": "Mat",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 65.0
+    },
+    {
+        "original_name": "mat jilebi",
+        "clean_name": "Mat Jilebi",
+        "brand": "Mat",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "mat leather cotten",
+        "clean_name": "Mat Leather Cotten",
+        "brand": "Mat",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "mat super line",
+        "clean_name": "Mat Super Line",
+        "brand": "Mat",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "Nabati Rs.5 box.24ps",
+        "clean_name": "Nabati Box",
+        "brand": "Nabati",
+        "size": 24.0,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "apsara sharpner Rs.50",
+        "clean_name": "Apsara Sharpner",
+        "brand": "Apsara",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "moiye cover 100ps",
+        "clean_name": "Moiye Cover",
+        "brand": "Moiye",
+        "size": 100.0,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "yo yo pencil",
+        "clean_name": "Yo Yo Pencil",
+        "brand": "Yo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "munch Rs.10 box",
+        "clean_name": "Munch Box",
+        "brand": "Munch",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "joy night box",
+        "clean_name": "Joy Night Box",
+        "brand": "Joy",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "manna health mix 500g",
+        "clean_name": "Manna Health Mix",
+        "brand": "Manna",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Stationery & Others",
+        "mrp": 285.0
+    },
+    {
+        "original_name": "cc gold filter",
+        "clean_name": "Cc Gold Filter",
+        "brand": "Cc",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "Eveready bulb 60w",
+        "clean_name": "Eveready Bulb 60W",
+        "brand": "Eveready",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 22.0
+    },
+    {
+        "original_name": "pen Rs.10 (24ps)",
+        "clean_name": "Pen",
+        "brand": "Pen",
+        "size": 24.0,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 240.0
+    },
+    {
+        "original_name": "scale 1adi natraj ps",
+        "clean_name": "Scale 1Adi Natraj Ps",
+        "brand": "Scale",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 12.0
+    },
+    {
+        "original_name": "apsara sharpner Rs.100",
+        "clean_name": "Apsara Sharpner",
+        "brand": "Apsara",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "pen Rs.5 pkt Rs.25",
+        "clean_name": "Pen Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "vathi pinnepple Rs.60",
+        "clean_name": "Vathi Pinnepple",
+        "brand": "Vathi",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "apsara pencil10ps.Rs60",
+        "clean_name": "Apsara Pencil",
+        "brand": "Apsara",
+        "size": 10.0,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "duracell AA Rs.20  ",
+        "clean_name": "Duracell Aa",
+        "brand": "Duracell",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "duracell AAA Rs.20",
+        "clean_name": "Duracell Aaa",
+        "brand": "Duracell",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "nippo AA battery",
+        "clean_name": "Nippo Aa Battery",
+        "brand": "Nippo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 16.0
+    },
+    {
+        "original_name": "Eveready AA Rs.15",
+        "clean_name": "Eveready Aa",
+        "brand": "Eveready",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "Eveready AAA Rs.17",
+        "clean_name": "Eveready Aaa",
+        "brand": "Eveready",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 17.0
+    },
+    {
+        "original_name": "pen Rs.5 pkt Rs.25.cello",
+        "clean_name": "Pen Pkt Cello",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "mat tyre",
+        "clean_name": "Mat Tyre",
+        "brand": "Mat",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "cover small ",
+        "clean_name": "Cover Small",
+        "brand": "Cover",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "cover medium",
+        "clean_name": "Cover Medium",
+        "brand": "Cover",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "kitkat Rs.5",
+        "clean_name": "Kitkat",
+        "brand": "Kitkat",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "panasonic battery AA Rs.16",
+        "clean_name": "Panasonic Battery Aa",
+        "brand": "Panasonic",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 16.0
+    },
+    {
+        "original_name": "panasonic battery AAa Rs.15",
+        "clean_name": "Panasonic Battery Aaa",
+        "brand": "Panasonic",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "allwin mittaiye Rs.2 box",
+        "clean_name": "Allwin Mittaiye Box",
+        "brand": "Allwin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "Nabati Rs.5 box.yellow",
+        "clean_name": "Nabati BoxYellow",
+        "brand": "Nabati",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "Nabati Rs.5 box cho",
+        "clean_name": "Nabati Box Cho",
+        "brand": "Nabati",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "medimix ayurvedic 75g set",
+        "clean_name": "Medimix Ayurvedic  Set",
+        "brand": "Medimix",
+        "size": 75.0,
+        "unit": "g",
+        "category": "Stationery & Others",
+        "mrp": 96.0
+    },
+    {
+        "original_name": "HH camlin supreme pencil Rs.60",
+        "clean_name": "Camlin Supreme Pencil",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "HH camlin shd wooden pencil Rs.70",
+        "clean_name": "Camlin Shd Wooden Pencil",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "HH camlin nove rt wooden pencil Rs.70",
+        "clean_name": "Camlin Nove Rt Wooden Pencil",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "HH camlin colour pencil hsc",
+        "clean_name": "Camlin Colour Pencil Hsc",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "HH camlin colour pencil hsc rs 25",
+        "clean_name": "Camlin Colour Pencil Hsc",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "HH camlin sharpner RS.60",
+        "clean_name": "Camlin Sharpner",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "HH camlin Exam sharpner RS.60",
+        "clean_name": "Camlin Exam Sharpner",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "HH camlin long point sharpner RS.120",
+        "clean_name": "Camlin Long Point Sharpner",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "HH camlin Eraser XL RS.120",
+        "clean_name": "Camlin Eraser Xl",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "HH camlin LP sharpner RS.6",
+        "clean_name": "Camlin Lp Sharpner",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "HH camlin EX Eraser RS.3 ",
+        "clean_name": "Camlin Ex Eraser",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 3.0
+    },
+    {
+        "original_name": "HH camlin EX eraser xl RS.5",
+        "clean_name": "Camlin Ex Eraser Xl",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "HH camlin EX scale 15cm",
+        "clean_name": "Camlin Ex Scale 15Cm",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "HH camlin EX scale 30cm",
+        "clean_name": "Camlin Ex Scale 30Cm",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 12.0
+    },
+    {
+        "original_name": "HH camlin klick pencil 0.7mm RS 100",
+        "clean_name": "Camlin Klick Pencil 07Mm",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "HH camlin math inst box scholar",
+        "clean_name": "Camlin Math Inst Box Scholar",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 140.0
+    },
+    {
+        "original_name": "HH camlin math box exam",
+        "clean_name": "Camlin Math Box Exam",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "HH camlin Exam sharpner RS.4 JAR",
+        "clean_name": "Camlin Exam Sharpner Jar",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 400.0
+    },
+    {
+        "original_name": "HH camlin colour pencil FS-12'S",
+        "clean_name": "Camlin Colour Pencil Fs12S",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "HH camlin nove rt wooden pencil Rs.50",
+        "clean_name": "Camlin Nove Rt Wooden Pencil",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "Eveready AA ",
+        "clean_name": "Eveready Aa",
+        "brand": "Eveready",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 18.0
+    },
+    {
+        "original_name": "HH camlin black pencil RS 4",
+        "clean_name": "Camlin Black Pencil",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "mat",
+        "clean_name": "Mat",
+        "brand": "Mat",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "melody mittaiye box ",
+        "clean_name": "Melody Mittaiye Box",
+        "brand": "Melody",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "pen Rs.7 flair pkt.rs.35",
+        "clean_name": "Pen Flair Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "parachute Ayurvedic 300ml",
+        "clean_name": "Parachute Ayurvedic",
+        "brand": "Parachute",
+        "size": 300.0,
+        "unit": "ml",
+        "category": "Stationery & Others",
+        "mrp": 199.0
+    },
+    {
+        "original_name": "parachute Ayurvedic 180ml",
+        "clean_name": "Parachute Ayurvedic",
+        "brand": "Parachute",
+        "size": 180.0,
+        "unit": "ml",
+        "category": "Stationery & Others",
+        "mrp": 125.0
+    },
+    {
+        "original_name": "parachute Ayurvedic 90ml",
+        "clean_name": "Parachute Ayurvedic",
+        "brand": "Parachute",
+        "size": 90.0,
+        "unit": "ml",
+        "category": "Stationery & Others",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "medimix ayurvedic 75g",
+        "clean_name": "Medimix Ayurvedic",
+        "brand": "Medimix",
+        "size": 75.0,
+        "unit": "g",
+        "category": "Stationery & Others",
+        "mrp": 32.0
+    },
+    {
+        "original_name": "pen Rs.5 cello finegrip jar",
+        "clean_name": "Pen Cello Finegrip Jar",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 175.0
+    },
+    {
+        "original_name": "Nabati siip Rs.5 box",
+        "clean_name": "Nabati Siip Box",
+        "brand": "Nabati",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "Eveready AAA Rs.18",
+        "clean_name": "Eveready Aaa",
+        "brand": "Eveready",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 18.0
+    },
+    {
+        "original_name": "Eveready AA Rs.18",
+        "clean_name": "Eveready Aa",
+        "brand": "Eveready",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 18.0
+    },
+    {
+        "original_name": "pen red Rs.4(20ps)",
+        "clean_name": "Pen Red",
+        "brand": "Pen",
+        "size": 20.0,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "pen balack Rs.7 flair pkt.rs.35",
+        "clean_name": "Pen Balack Flair Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "pen black Rs.7 flair pkt.rs.35",
+        "clean_name": "Pen Black Flair Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "note long size Rs.40(un ruled)",
+        "clean_name": "Note Long Size Un Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "note Rs.45 long size apsara (ruled)",
+        "clean_name": "Note Long Size Apsara Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "note Rs.45 long size apsara (unruled)",
+        "clean_name": "Note Long Size Apsara Unruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "apsara eraser Rs.3(20ps) box",
+        "clean_name": "Apsara Eraser  Box",
+        "brand": "Apsara",
+        "size": 20.0,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "apsara sharpner Rs.5 box.20ps",
+        "clean_name": "Apsara Sharpner Box",
+        "brand": "Apsara",
+        "size": 20.0,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "natraj sharpner Rs.3 box.20ps",
+        "clean_name": "Natraj Sharpner Box",
+        "brand": "Natraj",
+        "size": 20.0,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "apsara eraser Rs.5 box 20ps",
+        "clean_name": "Apsara Eraser Box",
+        "brand": "Apsara",
+        "size": 20.0,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "pen Rs.7 finegrip pkt",
+        "clean_name": "Pen Finegrip Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "pen Rs.7 finegrip blue pkt",
+        "clean_name": "Pen Finegrip Blue Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "pen Rs.7 smarty blue pkt",
+        "clean_name": "Pen Smarty Blue Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "pen Rs.7 trimate blue pkt",
+        "clean_name": "Pen Trimate Blue Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "pen Rs.7 trimate black pkt",
+        "clean_name": "Pen Trimate Black Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "pen Rs.6 trimate blue pkt",
+        "clean_name": "Pen Trimate Blue Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "pen Rs.6 trimate black pkt",
+        "clean_name": "Pen Trimate Black Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "pen cello hero ink Rs.55",
+        "clean_name": "Pen Cello Hero Ink",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "pen avenger ink catrage Rs.55",
+        "clean_name": "Pen Avenger Ink Catrage",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "pen topsell red Rs.5(20ps)",
+        "clean_name": "Pen Topsell Red",
+        "brand": "Pen",
+        "size": 20.0,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "pen Rs.6 winner black pkt",
+        "clean_name": "Pen Winner Black Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "pen Rs.6 bling blue pkt",
+        "clean_name": "Pen Bling Blue Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "bubble Rs.5 box",
+        "clean_name": "Bubble Box",
+        "brand": "Bubble",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "bubble Rs.10 box",
+        "clean_name": "Bubble Box",
+        "brand": "Bubble",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 240.0
+    },
+    {
+        "original_name": "book lable ",
+        "clean_name": "Book Lable",
+        "brand": "Book",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 12.0
+    },
+    {
+        "original_name": "stapler pin Rs.12",
+        "clean_name": "Stapler Pin",
+        "brand": "Stapler",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 12.0
+    },
+    {
+        "original_name": "parcel cover  white (14*14)",
+        "clean_name": "Parcel Cover White 1414",
+        "brand": "Parcel",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "parcel cover  white(14*14)",
+        "clean_name": "Parcel Cover White1414",
+        "brand": "Parcel",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "parcel cover white(14*14)",
+        "clean_name": "Parcel Cover White1414",
+        "brand": "Parcel",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "healthmix J.K 500g",
+        "clean_name": "Healthmix JK",
+        "brand": "Healthmix",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Stationery & Others",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "duracell Rs.22",
+        "clean_name": "Duracell",
+        "brand": "Duracell",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 22.0
+    },
+    {
+        "original_name": "AA duracell Rs.22",
+        "clean_name": "Aa Duracell",
+        "brand": "Aa",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 22.0
+    },
+    {
+        "original_name": "duracell AA Rs.22",
+        "clean_name": "Duracell Aa",
+        "brand": "Duracell",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 22.0
+    },
+    {
+        "original_name": "duracell AAA Rs.22",
+        "clean_name": "Duracell Aaa",
+        "brand": "Duracell",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 22.0
+    },
+    {
+        "original_name": "stapler pin kangaro Rs.12",
+        "clean_name": "Stapler Pin Kangaro",
+        "brand": "Stapler",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 12.0
+    },
+    {
+        "original_name": "stapler kangaro",
+        "clean_name": "Stapler Kangaro",
+        "brand": "Stapler",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "ux presto rt ultra b pen blue rs.10",
+        "clean_name": "Ux Presto Rt Ultra B Pen Blue",
+        "brand": "Ux",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "ux presto rt ultra b pen black rs.10",
+        "clean_name": "Ux Presto Rt Ultra B Pen Black",
+        "brand": "Ux",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "ux eraserite pen rs.30",
+        "clean_name": "Ux Eraserite Pen",
+        "brand": "Ux",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "ux fountain pen",
+        "clean_name": "Ux Fountain Pen",
+        "brand": "Ux",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "ux pilot cartridge pen v7-blue",
+        "clean_name": "Ux Pilot Cartridge Pen V7Blue",
+        "brand": "Ux",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "ux pilot cartridge pen v7-black",
+        "clean_name": "Ux Pilot Cartridge Pen V7Black",
+        "brand": "Ux",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "ux pilot cartridge pen v7-red",
+        "clean_name": "Ux Pilot Cartridge Pen V7Red",
+        "brand": "Ux",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "ux pilot cartridge pen v7-green",
+        "clean_name": "Ux Pilot Cartridge Pen V7Green",
+        "brand": "Ux",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "gum tube Rs.5 saram ",
+        "clean_name": "Gum Tube Saram",
+        "brand": "Gum",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "natraj eraser Rs.1 ",
+        "clean_name": "Natraj Eraser",
+        "brand": "Natraj",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "note 3/4 size Rs.30 unruled",
+        "clean_name": "Note 34 Size Unruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "note 3/4 size apsara Rs.35 ruled",
+        "clean_name": "Note 34 Size Apsara Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "note long size apsara Rs.40(un ruled)",
+        "clean_name": "Note Long Size Apsara Un Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "note 3/4 size apsara Rs.30 unruled",
+        "clean_name": "Note 34 Size Apsara Unruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "note long size Rs.40(ruled)",
+        "clean_name": "Note Long Size Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "note (s)size apsara Rs.40(ruled)",
+        "clean_name": "Note SSize Apsara Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "note (s)size apsara Rs.40(unruled)",
+        "clean_name": "Note SSize Apsara Unruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "pen natraj blue Rs.5 box.20ps",
+        "clean_name": "Pen Natraj Blue Box",
+        "brand": "Pen",
+        "size": 20.0,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "pen natraj blue Rs.3 box.20ps",
+        "clean_name": "Pen Natraj Blue Box",
+        "brand": "Pen",
+        "size": 20.0,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "slate pencils rs.15",
+        "clean_name": "Slate Pencils",
+        "brand": "Slate",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "note Rs.19 ",
+        "clean_name": "Note",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 19.0
+    },
+    {
+        "original_name": "note Mathemati rs.19",
+        "clean_name": "Note Mathemati",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 19.0
+    },
+    {
+        "original_name": "vathi pinapple Rs.12",
+        "clean_name": "Vathi Pinapple",
+        "brand": "Vathi",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 12.0
+    },
+    {
+        "original_name": "pen Rs.10 cello glitter gel",
+        "clean_name": "Pen Cello Glitter Gel",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "pen nataraj Rs.4 pkt",
+        "clean_name": "Pen Nataraj Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "pen Rs.6 trimate pkt",
+        "clean_name": "Pen Trimate Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "marino swiss Rs.5",
+        "clean_name": "Marino Swiss",
+        "brand": "Marino",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "Eveready ultima AAA battery ",
+        "clean_name": "Eveready Ultima Aaa Battery",
+        "brand": "Eveready",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 22.0
+    },
+    {
+        "original_name": "Eveready ultima AAA battery Rs.22 ",
+        "clean_name": "Eveready Ultima Aaa Battery",
+        "brand": "Eveready",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 22.0
+    },
+    {
+        "original_name": "Eveready ultima AA battery Rs.22 ",
+        "clean_name": "Eveready Ultima Aa Battery",
+        "brand": "Eveready",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 22.0
+    },
+    {
+        "original_name": "pen kundan Rs.3",
+        "clean_name": "Pen Kundan",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "pen kundan Rs.4",
+        "clean_name": "Pen Kundan",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "tape roll premier Rs.5",
+        "clean_name": "Tape Roll Premier",
+        "brand": "Tape",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "note 60 pages (ruled ) Rs.22",
+        "clean_name": "Note 60 Pages Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 22.0
+    },
+    {
+        "original_name": "HH camlin nove rt wooden pencil Rs.60",
+        "clean_name": "Camlin Nove Rt Wooden Pencil",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "dustbin cover small 30p",
+        "clean_name": "Dustbin Cover Small 30P",
+        "brand": "Dustbin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "dustbin cover med 30p",
+        "clean_name": "Dustbin Cover Med 30P",
+        "brand": "Dustbin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "dustbin cover L 15p",
+        "clean_name": "Dustbin Cover L 15P",
+        "brand": "Dustbin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "dustbin cover EX L 15p",
+        "clean_name": "Dustbin Cover Ex L 15P",
+        "brand": "Dustbin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 135.0
+    },
+    {
+        "original_name": "HH camlin G max pencil 0.7mm RS.10",
+        "clean_name": "Camlin G Max Pencil 07Mm",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "HH camlin klick pencil 0.7mm RS.10",
+        "clean_name": "Camlin Klick Pencil 07Mm",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "HH camlin klick pencil 0.5mm Rs.10",
+        "clean_name": "Camlin Klick Pencil 05Mm",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "gum tube Rs.5",
+        "clean_name": "Gum Tube",
+        "brand": "Gum",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "HH camlin floracent pencil RS 4",
+        "clean_name": "Camlin Floracent Pencil",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "HH camlin student pencil R&B Rs.3",
+        "clean_name": "Camlin Student Pencil RB",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "HH pencil jumbo Rs.5",
+        "clean_name": "Pencil Jumbo",
+        "brand": "Pencil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "ux M pen stylus Rs.80",
+        "clean_name": "Ux M Pen Stylus",
+        "brand": "Ux",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "ux M pen marcus Rs.85",
+        "clean_name": "Ux M Pen Marcus",
+        "brand": "Ux",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "ux M pen exceed Rs.85",
+        "clean_name": "Ux M Pen Exceed",
+        "brand": "Ux",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "ux M pen sonat Rs.75",
+        "clean_name": "Ux M Pen Sonat",
+        "brand": "Ux",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "ux M pen Nexa Roller Rs.90",
+        "clean_name": "Ux M Pen Nexa Roller",
+        "brand": "Ux",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "ux M pen Lumina Rs.125",
+        "clean_name": "Ux M Pen Lumina",
+        "brand": "Ux",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 125.0
+    },
+    {
+        "original_name": "ux M pen Excella Rs.125",
+        "clean_name": "Ux M Pen Excella",
+        "brand": "Ux",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 125.0
+    },
+    {
+        "original_name": "ux M pen Sigma Rs.175",
+        "clean_name": "Ux M Pen Sigma",
+        "brand": "Ux",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 175.0
+    },
+    {
+        "original_name": "avt gold cup 100g riff Rs.90",
+        "clean_name": "Avt Gold Cup  Riff",
+        "brand": "Avt",
+        "size": 100.0,
+        "unit": "g",
+        "category": "Stationery & Others",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "Fountain pen cartridge blue Rs.10",
+        "clean_name": "Fountain Pen Cartridge Blue",
+        "brand": "Fountain",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "parcel cover jatni 3.5*4.5 ayyappa",
+        "clean_name": "Parcel Cover Jatni 3545 Ayyappa",
+        "brand": "Parcel",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "light cookes Rs.5 box",
+        "clean_name": "Light Cookes Box",
+        "brand": "Light",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "lunch box choco balls Rs.200",
+        "clean_name": "Lunch Box Choco Balls",
+        "brand": "Lunch",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "Rorito B max pen jar Rs.350",
+        "clean_name": "Rorito B Max Pen Jar",
+        "brand": "Rorito",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 350.0
+    },
+    {
+        "original_name": "pen Rs.6 winner pkt",
+        "clean_name": "Pen Winner Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "snacker joy Rs.5 box",
+        "clean_name": "Snacker Joy Box",
+        "brand": "Snacker",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "tennis ball bubble gum Rs.1",
+        "clean_name": "Tennis Ball Bubble Gum",
+        "brand": "Tennis",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "note checked  Rs.18",
+        "clean_name": "Note Checked",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 18.0
+    },
+    {
+        "original_name": "HH camlin Exam sharpner Rs.3",
+        "clean_name": "Camlin Exam Sharpner",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 3.0
+    },
+    {
+        "original_name": "pen stylish x3 black Rs.7 pkt ",
+        "clean_name": "Pen Stylish X3 Black Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "pencil lezing trio jar Rs.4",
+        "clean_name": "Pencil Lezing Trio Jar",
+        "brand": "Pencil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 400.0
+    },
+    {
+        "original_name": "Eraser sandwinch Rs.1 jar",
+        "clean_name": "Eraser Sandwinch Jar",
+        "brand": "Eraser",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "pen stylish Rs.5 jar",
+        "clean_name": "Pen Stylish Jar",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 350.0
+    },
+    {
+        "original_name": "pencil lezing Black Line Rs.4",
+        "clean_name": "Pencil Lezing Black Line",
+        "brand": "Pencil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "note apsara unruled (s) Rs.40",
+        "clean_name": "Note Apsara Unruled S",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "note apsara ruled (S) Rs.40",
+        "clean_name": "Note Apsara Ruled S",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "note apsara 3/4 unruled Rs.30",
+        "clean_name": "Note Apsara 34 Unruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "note apsra long size unruled Rs.45",
+        "clean_name": "Note Apsra Long Size Unruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "note apsra long size ruled Rs.45",
+        "clean_name": "Note Apsra Long Size Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "note apsara 3/4 ruled Rs.35",
+        "clean_name": "Note Apsara 34 Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "note 2 line Rs.15",
+        "clean_name": "Note 2 Line",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "note 4 line Rs.15",
+        "clean_name": "Note 4 Line",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "note un ruled (s) Rs 15",
+        "clean_name": "Note Un Ruled S",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "pen ball Rs.4 pkt",
+        "clean_name": "Pen Ball Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "coffy bite Rs.100",
+        "clean_name": "Coffy Bite",
+        "brand": "Coffy",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "coffy bite jar",
+        "clean_name": "Coffy Bite Jar",
+        "brand": "Coffy",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "note apsara 3/4 unruled Rs.45",
+        "clean_name": "Note Apsara 34 Unruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "note apsara ruled (S) Rs.25",
+        "clean_name": "Note Apsara Ruled S",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "pencil apsara box",
+        "clean_name": "Pencil Apsara Box",
+        "brand": "Pencil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "note apsara 3/4 (K) Ruled Rs.35",
+        "clean_name": "Note Apsara 34 K Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "pen cello joy Rs.10 box",
+        "clean_name": "Pen Cello Joy Box",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 500.0
+    },
+    {
+        "original_name": "pen cello orly Rs.10 box",
+        "clean_name": "Pen Cello Orly Box",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 500.0
+    },
+    {
+        "original_name": "pen Rs.6 winner blue pkt",
+        "clean_name": "Pen Winner Blue Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "pen Rs.6 ballpen blue pkt",
+        "clean_name": "Pen Ballpen Blue Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "pen Rs.6 mr.grip ballpen blue pkt",
+        "clean_name": "Pen MrGrip Ballpen Blue Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "nippo led radium led-0.5w",
+        "clean_name": "Nippo Led Radium Led05W",
+        "brand": "Nippo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 135.0
+    },
+    {
+        "original_name": "nippo led radium lite-0.5w",
+        "clean_name": "Nippo Led Radium Lite05W",
+        "brand": "Nippo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 135.0
+    },
+    {
+        "original_name": "bubble gum Rs.5 jar",
+        "clean_name": "Bubble Gum Jar",
+        "brand": "Bubble",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "bubble gum Rs.1 jar",
+        "clean_name": "Bubble Gum Jar",
+        "brand": "Bubble",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "panasonic battery Rs.15 AAA",
+        "clean_name": "Panasonic Battery Aaa",
+        "brand": "Panasonic",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "pen Rs.7 winner blue pkt",
+        "clean_name": "Pen Winner Blue Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "pen winner blue Rs.6  pkt",
+        "clean_name": "Pen Winner Blue Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "pen winner black Rs.6 pkt",
+        "clean_name": "Pen Winner Black Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "note long size Rs.45 (un ruled)",
+        "clean_name": "Note Long Size Un Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "note apsara 3/4 (K) Ruled Rs.45",
+        "clean_name": "Note Apsara 34 K Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "chocostar Rs.5 box",
+        "clean_name": "Chocostar Box",
+        "brand": "Chocostar",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "note 4 line Rs.18",
+        "clean_name": "Note 4 Line",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 18.0
+    },
+    {
+        "original_name": "note 2 line Rs.18",
+        "clean_name": "Note 2 Line",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 18.0
+    },
+    {
+        "original_name": "note un ruled (s) Rs 18",
+        "clean_name": "Note Un Ruled S",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 18.0
+    },
+    {
+        "original_name": "Eveready up AA battery Rs.16 ",
+        "clean_name": "Eveready Up Aa Battery",
+        "brand": "Eveready",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 16.0
+    },
+    {
+        "original_name": "HH camlin math box exam basic",
+        "clean_name": "Camlin Math Box Exam Basic",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "HH camlin fountain pen Rs.120",
+        "clean_name": "Camlin Fountain Pen",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "pen asmi foutain Rs.40",
+        "clean_name": "Pen Asmi Foutain",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "note (s) 80p shape Rs.20 (ruled)",
+        "clean_name": "Note S 80P Shape Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "note (s) 80p shape Rs.20 (unruled)",
+        "clean_name": "Note S 80P Shape Unruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "note (s) 80p shape Rs.20 (2line)",
+        "clean_name": "Note S 80P Shape 2Line",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "note (s) 80p shape Rs.20 (4line)",
+        "clean_name": "Note S 80P Shape 4Line",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "note (s) 172p shape Rs.35 (ruled)",
+        "clean_name": "Note S 172P Shape Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "note (s) 172p shape Rs.35 (unruled)",
+        "clean_name": "Note S 172P Shape Unruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "note (k) 120p shape Rs.45 (ruled)",
+        "clean_name": "Note K 120P Shape Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "note (k) 172p shape Rs.60 (ruled)",
+        "clean_name": "Note K 172P Shape Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "note (k) 172p shape Rs.60 (unruled)",
+        "clean_name": "Note K 172P Shape Unruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "note (L) 80p shape Rs.40 (ruled)",
+        "clean_name": "Note L 80P Shape Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "note shape (L) 80p Rs.40 (unruled)",
+        "clean_name": "Note Shape L 80P Unruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "note shape (L) 160p Rs.70 (ruled)",
+        "clean_name": "Note Shape L 160P Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "note shape (L) 160p Rs.70 (unruled)",
+        "clean_name": "Note Shape L 160P Unruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "note shape (L) 192p Rs.100 (ruled)",
+        "clean_name": "Note Shape L 192P Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "note shape drawing 36p Rs.40",
+        "clean_name": "Note Shape Drawing 36P",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "note shape graph 64p Rs.50",
+        "clean_name": "Note Shape Graph 64P",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "note shape pkt dairy 44p Rs.5",
+        "clean_name": "Note Shape Pkt Dairy 44P",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "pen stylish Rs.10",
+        "clean_name": "Pen Stylish",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "note shape (s) 80p Rs.20 (unruled)",
+        "clean_name": "Note Shape S 80P Unruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "note shape (s) 80p Rs.20 (2line)",
+        "clean_name": "Note Shape S 80P 2Line",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "note shape (s) 80p Rs.20 (4line)",
+        "clean_name": "Note Shape S 80P 4Line",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "note shape (s) 172p Rs.35 (ruled)",
+        "clean_name": "Note Shape S 172P Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "note shape (s) 172p Rs.35 (unruled)",
+        "clean_name": "Note Shape S 172P Unruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "note shape (k) 120p Rs.45 (ruled)",
+        "clean_name": "Note Shape K 120P Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "note shape (k) 172p Rs.60 (ruled)",
+        "clean_name": "Note Shape K 172P Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "note shape (k) 172p Rs.60 (unruled)",
+        "clean_name": "Note Shape K 172P Unruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "note shape (L) 80p Rs.40 (ruled)",
+        "clean_name": "Note Shape L 80P Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "note shape (s) 80p Rs.20 (ruled)",
+        "clean_name": "Note Shape S 80P Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "Fountain pen Rs.50",
+        "clean_name": "Fountain Pen",
+        "brand": "Fountain",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "pen cello papersoft Rs.20",
+        "clean_name": "Pen Cello Papersoft",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "jelly pizza Rs.5 box",
+        "clean_name": "Jelly Pizza Box",
+        "brand": "Jelly",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "pen nataraj Rs.3 pkt",
+        "clean_name": "Pen Nataraj Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "lollipop finger box Rs.150",
+        "clean_name": "Lollipop Finger Box",
+        "brand": "Lollipop",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "pen reynolds brite (b) Rs.5",
+        "clean_name": "Pen Reynolds Brite B",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "watch gold mittaiye Rs.5 box",
+        "clean_name": "Watch Gold Mittaiye Box",
+        "brand": "Watch",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 180.0
+    },
+    {
+        "original_name": "Eno Rs.10 5g",
+        "clean_name": "Eno",
+        "brand": "Eno",
+        "size": 5.0,
+        "unit": "g",
+        "category": "Stationery & Others",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "HH shape sharpner Rs.5",
+        "clean_name": "Shape Sharpner",
+        "brand": "Shape",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "HH camlin colour pencil 12'S Rs.65",
+        "clean_name": "Camlin Colour Pencil 12S",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 65.0
+    },
+    {
+        "original_name": "HH camlin colour pencil 24'S Rs.130",
+        "clean_name": "Camlin Colour Pencil 24S",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 130.0
+    },
+    {
+        "original_name": "rasna box Rs.6 (40p)",
+        "clean_name": "Rasna Box 40P",
+        "brand": "Rasna",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "rasna box Rs.6 (50p)",
+        "clean_name": "Rasna Box 50P",
+        "brand": "Rasna",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "cone box Rs.2",
+        "clean_name": "Cone Box",
+        "brand": "Cone",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "medimix ayurvedic 75g Rs.32",
+        "clean_name": "Medimix Ayurvedic",
+        "brand": "Medimix",
+        "size": 75.0,
+        "unit": "g",
+        "category": "Stationery & Others",
+        "mrp": 32.0
+    },
+    {
+        "original_name": "cookes Rs.5 box",
+        "clean_name": "Cookes Box",
+        "brand": "Cookes",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "ora chocozay box Rs.200",
+        "clean_name": "Ora Chocozay Box",
+        "brand": "Ora",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "train toy Rs.5",
+        "clean_name": "Train Toy",
+        "brand": "Train",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "nippo battery AA Rs.10",
+        "clean_name": "Nippo Battery Aa",
+        "brand": "Nippo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "nippo battery AAA Rs.10",
+        "clean_name": "Nippo Battery Aaa",
+        "brand": "Nippo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "tape roll premier Rs.7",
+        "clean_name": "Tape Roll Premier",
+        "brand": "Tape",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 7.0
+    },
+    {
+        "original_name": "mezhuvarthi Rs.6 pkt",
+        "clean_name": "Mezhuvarthi Pkt",
+        "brand": "Mezhuvarthi",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "note youva (L) 160p Rs.70 (ruled)",
+        "clean_name": "Note Youva L 160P Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "note youva (L) 160p Rs.70 (unruled)",
+        "clean_name": "Note Youva L 160P Unruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "note youva (L) 92p Rs.42 (ruled)",
+        "clean_name": "Note Youva L 92P Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 42.0
+    },
+    {
+        "original_name": "note youva (L) 92p Rs.42 (unruled)",
+        "clean_name": "Note Youva L 92P Unruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 42.0
+    },
+    {
+        "original_name": "note youva 6(L) 316p Rs.155 (ruled)",
+        "clean_name": "Note Youva 6L 316P Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 155.0
+    },
+    {
+        "original_name": "note youva (L) 172p Rs.32 (ruled)",
+        "clean_name": "Note Youva L 172P Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 32.0
+    },
+    {
+        "original_name": "note youva (L) 172p Rs.32 (unruled)",
+        "clean_name": "Note Youva L 172P Unruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 32.0
+    },
+    {
+        "original_name": "note youva (L) 316p Rs.155 (ruled)",
+        "clean_name": "Note Youva L 316P Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 155.0
+    },
+    {
+        "original_name": "pencil apsara box Rs.50",
+        "clean_name": "Pencil Apsara Box",
+        "brand": "Pencil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "pencil apsara box Rs.60",
+        "clean_name": "Pencil Apsara Box",
+        "brand": "Pencil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 58.0
+    },
+    {
+        "original_name": "note youva (s) 84p Rs.20 (4L)",
+        "clean_name": "Note Youva S 84P",
+        "brand": "Note",
+        "size": 4.0,
+        "unit": "Ltr",
+        "category": "Stationery & Others",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "note youva (s) 76p Rs.20 (2-L)",
+        "clean_name": "Note Youva S 76P 2L",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "note youva (s) 84p Rs.20 (ruled)",
+        "clean_name": "Note Youva S 84P Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "swan eraser Rs.1 ",
+        "clean_name": "Swan Eraser",
+        "brand": "Swan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "note youva (s) 172p Rs.32 (ruled)",
+        "clean_name": "Note Youva S 172P Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "note youva L-stellar 160p Rs.75 (ruled)",
+        "clean_name": "Note Youva LStellar 160P Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "pen asmi fountain Rs.40",
+        "clean_name": "Pen Asmi Fountain",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "knife pen saram rs.3",
+        "clean_name": "Knife Pen Saram",
+        "brand": "Knife",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "pen red pkt rs.6",
+        "clean_name": "Pen Red Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "pen black pkt rs.6",
+        "clean_name": "Pen Black Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "Eno Regular box rs.10",
+        "clean_name": "Eno Regular Box",
+        "brand": "Eno",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "Eno orange box rs.10",
+        "clean_name": "Eno Orange Box",
+        "brand": "Eno",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "Eno lemon box rs.10",
+        "clean_name": "Eno Lemon Box",
+        "brand": "Eno",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 600.0
+    },
+    {
+        "original_name": "lollipop free fire box Rs.5",
+        "clean_name": "Lollipop Free Fire Box",
+        "brand": "Lollipop",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "pen cello blue pkt Rs.7",
+        "clean_name": "Pen Cello Blue Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "pen cello black pkt Rs.7",
+        "clean_name": "Pen Cello Black Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "pen cello red pkt Rs.7",
+        "clean_name": "Pen Cello Red Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "pen cello geltech Rs.10",
+        "clean_name": "Pen Cello Geltech",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "mezhuguvarthi box Rs.3",
+        "clean_name": "Mezhuguvarthi Box",
+        "brand": "Mezhuguvarthi",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "HH gum youva jar Rs.5 ",
+        "clean_name": "Gum Youva Jar",
+        "brand": "Gum",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "gum tube Youva Rs.5",
+        "clean_name": "Gum Tube Youva",
+        "brand": "Gum",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "note youva pkt dairy Rs.5",
+        "clean_name": "Note Youva Pkt Dairy",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "HH gum youva Rs.5 ",
+        "clean_name": "Gum Youva",
+        "brand": "Gum",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "lollipop kulfi pop box Rs.5",
+        "clean_name": "Lollipop Kulfi Pop Box",
+        "brand": "Lollipop",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "slate pencils anil rs.15",
+        "clean_name": "Slate Pencils Anil",
+        "brand": "Slate",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "HH camlin Exam sharpner .5rs",
+        "clean_name": "Camlin Exam Sharpner 5Rs",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "HH camlin Exam sharpner 5rs box",
+        "clean_name": "Camlin Exam Sharpner 5Rs Box",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "Led olir 9w",
+        "clean_name": "Led Olir 9W",
+        "brand": "Led",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 189.0
+    },
+    {
+        "original_name": "mixed dry fruit box Rs.250",
+        "clean_name": "Mixed Dry Fruit Box",
+        "brand": "Mixed",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 250.0
+    },
+    {
+        "original_name": "pen reynolds",
+        "clean_name": "Pen Reynolds",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "pencil apsara matt magic box Rs.70",
+        "clean_name": "Pencil Apsara Matt Magic Box",
+        "brand": "Pencil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "pen nataraj spark pkt Rs.6",
+        "clean_name": "Pen Nataraj Spark Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "crunchy puffs box Rs.5",
+        "clean_name": "Crunchy Puffs Box",
+        "brand": "Crunchy",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "led olir ac/dc Rs.549",
+        "clean_name": "Led Olir AcDc",
+        "brand": "Led",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 549.0
+    },
+    {
+        "original_name": "note youva (L) 228p Rs.115 (ruled)",
+        "clean_name": "Note Youva L 228P Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 115.0
+    },
+    {
+        "original_name": "watch mittaiye Rs.5box",
+        "clean_name": "Watch Mittaiye Box",
+        "brand": "Watch",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 180.0
+    },
+    {
+        "original_name": "Hh sharpner doms Rs.3",
+        "clean_name": "Sharpner Doms",
+        "brand": "Sharpner",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 3.0
+    },
+    {
+        "original_name": "HH pencil doms x1 Rs.6",
+        "clean_name": "Pencil Doms X1",
+        "brand": "Pencil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 6.0
+    },
+    {
+        "original_name": "HH pencil doms y1+ Rs.5",
+        "clean_name": "Pencil Doms Y1",
+        "brand": "Pencil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "HH p.marker doms Rs.20",
+        "clean_name": "PMarker Doms",
+        "brand": "P.Marker",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "cello eraserite pen rs.25",
+        "clean_name": "Cello Eraserite Pen",
+        "brand": "Cello",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "note youva (s) 84p Rs.20 (unruled)",
+        "clean_name": "Note Youva S 84P Unruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "note youva (k)size 120p(ruled)",
+        "clean_name": "Note Youva KSize 120PRuled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "note youva (k)size 120p(unruled)",
+        "clean_name": "Note Youva KSize 120PUnruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "jelly pen box RS.5",
+        "clean_name": "Jelly Pen Box",
+        "brand": "Jelly",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "pen nataraj Rs.4 BOX",
+        "clean_name": "Pen Nataraj Box",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "HH camlin klick pencil 0.5 Rs.10",
+        "clean_name": "Camlin Klick Pencil 05",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "HH camlin klick pencil 0.7 RS.10",
+        "clean_name": "Camlin Klick Pencil 07",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "HH camlin G max pencil 0.7 RS.10",
+        "clean_name": "Camlin G Max Pencil 07",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "note youva (S) 172p Rs.32 (unruled)",
+        "clean_name": "Note Youva S 172P Unruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 32.0
+    },
+    {
+        "original_name": "pen ox ball pen rs.10",
+        "clean_name": "Pen Ox Ball Pen",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "pen flair woody ball pen rs.10",
+        "clean_name": "Pen Flair Woody Ball Pen",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "pan sunny 4 colour ball pen rs.30",
+        "clean_name": "Pan Sunny 4 Colour Ball Pen",
+        "brand": "Pan",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "pen flair sunny 4 colour ball pen rs.30",
+        "clean_name": "Pen Flair Sunny 4 Colour Ball Pen",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "medimix ayurvedic 75g Rs.34",
+        "clean_name": "Medimix Ayurvedic",
+        "brand": "Medimix",
+        "size": 75.0,
+        "unit": "g",
+        "category": "Stationery & Others",
+        "mrp": 32.0
+    },
+    {
+        "original_name": "HH camlin Exam sharpner rs.5",
+        "clean_name": "Camlin Exam Sharpner",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "note youva (L) 160p Rs.110 (ruled) HB",
+        "clean_name": "Note Youva L 160P Ruled Hb",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "pen black pkt rs.7",
+        "clean_name": "Pen Black Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "vathi pinnepple Rs.55",
+        "clean_name": "Vathi Pinnepple",
+        "brand": "Vathi",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "pencil natraj Rs.50(10ps)",
+        "clean_name": "Pencil Natraj",
+        "brand": "Pencil",
+        "size": 10.0,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "pen cello alpha red Rs.10",
+        "clean_name": "Pen Cello Alpha Red",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "pen cello alpha blue Rs.10",
+        "clean_name": "Pen Cello Alpha Blue",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "pen cello alpha black Rs.10",
+        "clean_name": "Pen Cello Alpha Black",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "pen cello winner red Rs.5.pkt",
+        "clean_name": "Pen Cello Winner Red Pkt",
+        "brand": "Pen",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "Eveready 9w led bulb",
+        "clean_name": "Eveready 9W Led Bulb",
+        "brand": "Eveready",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 140.0
+    },
+    {
+        "original_name": "Fountain pen cello cartridge blue Rs.10",
+        "clean_name": "Fountain Pen Cello Cartridge Blue",
+        "brand": "Fountain",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "natraj eraser Rs.2 box",
+        "clean_name": "Natraj Eraser Box",
+        "brand": "Natraj",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "slate pencils anil rs.12",
+        "clean_name": "Slate Pencils Anil",
+        "brand": "Slate",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 12.0
+    },
+    {
+        "original_name": "cello super star gel pen Rs.5 pkt",
+        "clean_name": "Cello Super Star Gel Pen Pkt",
+        "brand": "Cello",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "nature power papaya rs.50",
+        "clean_name": "Nature Power Papaya",
+        "brand": "Nature",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "note youva checked 172p Rs.32",
+        "clean_name": "Note Youva Checked 172P",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 32.0
+    },
+    {
+        "original_name": "eraser swan Rs.1 ",
+        "clean_name": "Eraser Swan",
+        "brand": "Eraser",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "HH camlin fountain ink pen Rs.50",
+        "clean_name": "Camlin Fountain Ink Pen",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "note small size Rs.20 (ruled)",
+        "clean_name": "Note Small Size Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "gift box Rs.5",
+        "clean_name": "Gift Box",
+        "brand": "Gift",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "cloth clip pkt rs.89",
+        "clean_name": "Cloth Clip Pkt",
+        "brand": "Cloth",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 89.0
+    },
+    {
+        "original_name": "Eveready led tubelight 20w ",
+        "clean_name": "Eveready Led Tubelight 20W",
+        "brand": "Eveready",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 239.0
+    },
+    {
+        "original_name": "morsels rs.5 box",
+        "clean_name": "Morsels Box",
+        "brand": "Morsels",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 350.0
+    },
+    {
+        "original_name": "lollipop Jersey box Rs.5",
+        "clean_name": "Lollipop Jersey Box",
+        "brand": "Lollipop",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "whisper choice Easy Carry pack Rs.50",
+        "clean_name": "Whisper Choice Easy Carry Pack",
+        "brand": "Whisper",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "vathi zed black pineapple Rs.60",
+        "clean_name": "Vathi Zed Black Pineapple",
+        "brand": "Vathi",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "5 star box Rs.5",
+        "clean_name": "5 Star Box",
+        "brand": "5",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 270.0
+    },
+    {
+        "original_name": "dasangam cone tprg box rs.45",
+        "clean_name": "Dasangam Cone Tprg Box",
+        "brand": "Dasangam",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "cone box Rs.1",
+        "clean_name": "Cone Box",
+        "brand": "Cone",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "HH camlin math box Rs.75",
+        "clean_name": "Camlin Math Box",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "HH camlin math box exam basic rs.100",
+        "clean_name": "Camlin Math Box Exam Basic",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "HH camlin math box rs.140",
+        "clean_name": "Camlin Math Box",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 140.0
+    },
+    {
+        "original_name": "HH camlin math box exam rs.160",
+        "clean_name": "Camlin Math Box Exam",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "HH camlin math box Rs.200",
+        "clean_name": "Camlin Math Box",
+        "brand": "Camlin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "note youva (s) 84p Rs.18 (ruled)",
+        "clean_name": "Note Youva S 84P Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 18.0
+    },
+    {
+        "original_name": "note youva (s) 172p Rs.32 (2-L)",
+        "clean_name": "Note Youva S 172P 2L",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "note youva (s) 172p Rs.32 (4L)",
+        "clean_name": "Note Youva S 172P",
+        "brand": "Note",
+        "size": 4.0,
+        "unit": "Ltr",
+        "category": "Stationery & Others",
+        "mrp": 32.0
+    },
+    {
+        "original_name": "note youva (s) 172p Rs.32 (maths)",
+        "clean_name": "Note Youva S 172P Maths",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 32.0
+    },
+    {
+        "original_name": "HH camlin colour pencil 12 Ps",
+        "clean_name": "Camlin Colour Pencil",
+        "brand": "Camlin",
+        "size": 12.0,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "note youva (s)172p Rs.20 (2-L)",
+        "clean_name": "Note Youva S172P 2L",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "note youva (s) 172p Rs.30 (2-L)",
+        "clean_name": "Note Youva S 172P 2L",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "note youva (s) 172p Rs.30 (maths)",
+        "clean_name": "Note Youva S 172P Maths",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "note youva (L) 160p Rs.60 (unruled)",
+        "clean_name": "Note Youva L 160P Unruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "Nabati otter box cho Rs.5 ",
+        "clean_name": "Nabati Otter Box Cho",
+        "brand": "Nabati",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "note youva (L) 92p Rs.35 (ruled)",
+        "clean_name": "Note Youva L 92P Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "Fountain pen Rs.60",
+        "clean_name": "Fountain Pen",
+        "brand": "Fountain",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "Fountain pen Rs.100",
+        "clean_name": "Fountain Pen",
+        "brand": "Fountain",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "note youva (L) 92p Rs.35 (unruled)",
+        "clean_name": "Note Youva L 92P Unruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "note youva (L) 160p Rs.95 (ruled) HB",
+        "clean_name": "Note Youva L 160P Ruled Hb",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 95.0
+    },
+    {
+        "original_name": "note shape (L) 160p Rs.60 (ruled)",
+        "clean_name": "Note Shape L 160P Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "note shape (L) 160p Rs.60 (unruled)",
+        "clean_name": "Note Shape L 160P Unruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "note youva (L) 160p Rs.60 (ruled)",
+        "clean_name": "Note Youva L 160P Ruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "stick pen ",
+        "clean_name": "Stick Pen",
+        "brand": "Stick",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "note youva (s) 172p Rs.30 (4L)",
+        "clean_name": "Note Youva S 172P",
+        "brand": "Note",
+        "size": 4.0,
+        "unit": "Ltr",
+        "category": "Stationery & Others",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "manna health mix 250g",
+        "clean_name": "Manna Health Mix",
+        "brand": "Manna",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Stationery & Others",
+        "mrp": 169.0
+    },
+    {
+        "original_name": "choco munch saram rs.10",
+        "clean_name": "Choco Munch Saram",
+        "brand": "Choco",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "healthmix JK 500g",
+        "clean_name": "Healthmix Jk",
+        "brand": "Healthmix",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Stationery & Others",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "ux eraserite pen rs.25",
+        "clean_name": "Ux Eraserite Pen",
+        "brand": "Ux",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "note youva (k)size 156p(ruled)",
+        "clean_name": "Note Youva KSize 156PRuled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "note youva (k)size 156p(unruled)",
+        "clean_name": "Note Youva KSize 156PUnruled",
+        "brand": "Note",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "slate pencils  rs.12",
+        "clean_name": "Slate Pencils",
+        "brand": "Slate",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 12.0
+    },
+    {
+        "original_name": "medimix ayurvedic 125gm ",
+        "clean_name": "Medimix Ayurvedic",
+        "brand": "Medimix",
+        "size": 125.0,
+        "unit": "g",
+        "category": "Stationery & Others",
+        "mrp": 47.0
+    },
+    {
+        "original_name": "gum shums Rs.1",
+        "clean_name": "Gum Shums",
+        "brand": "Gum",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "tape roll doble side ",
+        "clean_name": "Tape Roll Doble Side",
+        "brand": "Tape",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 22.0
+    },
+    {
+        "original_name": "CL watch mittaiye Rs.5box",
+        "clean_name": "Watch Mittaiye Box",
+        "brand": "Watch",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "pencil youva box Rs.60",
+        "clean_name": "Pencil Youva Box",
+        "brand": "Pencil",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "Agaro 9w LED bulb",
+        "clean_name": "Agaro 9W Led Bulb",
+        "brand": "Agaro",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Stationery & Others",
+        "mrp": 160.0
+    }
+]

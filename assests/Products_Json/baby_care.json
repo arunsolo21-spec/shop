@@ -1,0 +1,1397 @@
+[
+    {
+        "original_name": "pampers Rs.20 small",
+        "clean_name": "Pampers Small",
+        "brand": "Pampers",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "pampers Rs.24(m)",
+        "clean_name": "Pampers M",
+        "brand": "Pampers",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 24.0
+    },
+    {
+        "original_name": "johnsons baby lotion 100ml",
+        "clean_name": "Johnsons Baby Lotion",
+        "brand": "Johnsons",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Baby Care",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "pampers(L)Rs.28",
+        "clean_name": "PampersL",
+        "brand": "Pampers(L)",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 28.0
+    },
+    {
+        "original_name": "pampers(L)Rs.28.(1saram",
+        "clean_name": "PampersL",
+        "brand": "Pampers(L).(",
+        "size": 1.0,
+        "unit": "pack",
+        "category": "Baby Care",
+        "mrp": 224.0
+    },
+    {
+        "original_name": "pampers(M)Rs24(saram",
+        "clean_name": "PampersMSaram",
+        "brand": "Pampers(M)(Saram",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 192.0
+    },
+    {
+        "original_name": "pampers(M)Rs24",
+        "clean_name": "PampersM",
+        "brand": "Pampers(M)",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 24.0
+    },
+    {
+        "original_name": "pampers(s)Rs20(saram",
+        "clean_name": "PampersSSaram",
+        "brand": "Pampers(S)(Saram",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "pampers(s)Rs20",
+        "clean_name": "PampersS",
+        "brand": "Pampers(S)",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "huggies(s)Rs.20",
+        "clean_name": "HuggiesS",
+        "brand": "Huggies(S)",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "huggies(s)1.saram",
+        "clean_name": "HuggiesS1Saram",
+        "brand": "Huggies(S)1.Saram",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "huggies(m)Rs.24",
+        "clean_name": "HuggiesM",
+        "brand": "Huggies(M)",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 24.0
+    },
+    {
+        "original_name": "huggies(m)1.saram",
+        "clean_name": "HuggiesM1Saram",
+        "brand": "Huggies(M)1.Saram",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 192.0
+    },
+    {
+        "original_name": "huggies(L)Rs.28",
+        "clean_name": "HuggiesL",
+        "brand": "Huggies(L)",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 28.0
+    },
+    {
+        "original_name": "huggies(L)1.saram",
+        "clean_name": "HuggiesL1Saram",
+        "brand": "Huggies(L)1.Saram",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 224.0
+    },
+    {
+        "original_name": "pampers Rs.46 ",
+        "clean_name": "Pampers",
+        "brand": "Pampers",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 46.0
+    },
+    {
+        "original_name": "pampers Rs.38",
+        "clean_name": "Pampers",
+        "brand": "Pampers",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 38.0
+    },
+    {
+        "original_name": "pampers Rs.48 (m)4pants",
+        "clean_name": "Pampers M4Pants",
+        "brand": "Pampers",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 48.0
+    },
+    {
+        "original_name": "pampers Rs.38(s)4pants",
+        "clean_name": "Pampers S4Pants",
+        "brand": "Pampers",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 38.0
+    },
+    {
+        "original_name": "pampers Rs.54(L)4pants",
+        "clean_name": "Pampers L4Pants",
+        "brand": "Pampers",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 54.0
+    },
+    {
+        "original_name": "pampers(xl)Rs.35",
+        "clean_name": "PampersXl",
+        "brand": "Pampers(Xl)",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "himalaya neem soup",
+        "clean_name": "Himalaya Neem Soup",
+        "brand": "Himalaya",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 56.0
+    },
+    {
+        "original_name": "himalaya baby diaber Rs.10 saram",
+        "clean_name": "Himalaya Baby Diaber Saram",
+        "brand": "Himalaya",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "himalaya baby diaber(s) Rs.10 saram",
+        "clean_name": "Himalaya Baby DiaberS Saram",
+        "brand": "Himalaya",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "himalaya baby (M)diaber Rs.12 saram",
+        "clean_name": "Himalaya Baby MDiaber Saram",
+        "brand": "Himalaya",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 144.0
+    },
+    {
+        "original_name": "himalaya baby diaber (L)Rs.14 saram",
+        "clean_name": "Himalaya Baby Diaber L Saram",
+        "brand": "Himalaya",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 168.0
+    },
+    {
+        "original_name": "himalaya baby (XL)diaber Rs.18 saram",
+        "clean_name": "Himalaya Baby XlDiaber Saram",
+        "brand": "Himalaya",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 216.0
+    },
+    {
+        "original_name": "himalaya neem&termaric Rs.54",
+        "clean_name": "Himalaya NeemTermaric",
+        "brand": "Himalaya",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "himalaya neem&termaric Rs.30",
+        "clean_name": "Himalaya NeemTermaric",
+        "brand": "Himalaya",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "pampers (s) 7pants Rs.99",
+        "clean_name": "Pampers S 7Pants",
+        "brand": "Pampers",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 99.0
+    },
+    {
+        "original_name": "himalaya almond&rose Rs.33",
+        "clean_name": "Himalaya AlmondRose",
+        "brand": "Himalaya",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 33.0
+    },
+    {
+        "original_name": "himalaya almond&rose Rs.50",
+        "clean_name": "Himalaya AlmondRose",
+        "brand": "Himalaya",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "pampers(s)Rs22",
+        "clean_name": "PampersS",
+        "brand": "Pampers(S)",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 22.0
+    },
+    {
+        "original_name": "pampers(M)Rs27",
+        "clean_name": "PampersM",
+        "brand": "Pampers(M)",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 27.0
+    },
+    {
+        "original_name": "himalaya almond&rose Rs.30",
+        "clean_name": "Himalaya AlmondRose",
+        "brand": "Himalaya",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "huggies(s)10",
+        "clean_name": "HuggiesS10",
+        "brand": "Huggies(S)10",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "vicks baby rub 10ml",
+        "clean_name": "Vicks Baby Rub",
+        "brand": "Vicks",
+        "size": 10.0,
+        "unit": "ml",
+        "category": "Baby Care",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "himalaya baby (p) 75g",
+        "clean_name": "Himalaya Baby P",
+        "brand": "Himalaya",
+        "size": 75.0,
+        "unit": "g",
+        "category": "Baby Care",
+        "mrp": 62.0
+    },
+    {
+        "original_name": "pampers large RS.34",
+        "clean_name": "Pampers Large",
+        "brand": "Pampers",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 34.0
+    },
+    {
+        "original_name": "pampers(M) 90rs",
+        "clean_name": "PampersM 90Rs",
+        "brand": "Pampers(M)",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "pampers Rs.46 (m)4pants",
+        "clean_name": "Pampers M4Pants",
+        "brand": "Pampers",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 46.0
+    },
+    {
+        "original_name": "pampers(L)",
+        "clean_name": "PampersL",
+        "brand": "Pampers(L)",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 105.0
+    },
+    {
+        "original_name": "pampers (s) new born Rs70",
+        "clean_name": "Pampers S New Born",
+        "brand": "Pampers",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "pampers(m)",
+        "clean_name": "PampersM",
+        "brand": "Pampers(M)",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 199.0
+    },
+    {
+        "original_name": "himalaya neem&termaric Rs.50",
+        "clean_name": "Himalaya NeemTermaric",
+        "brand": "Himalaya",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "himalaya baby lotion 100ml",
+        "clean_name": "Himalaya Baby Lotion",
+        "brand": "Himalaya",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Baby Care",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "himalaya baby (s) 75G",
+        "clean_name": "Himalaya Baby S",
+        "brand": "Himalaya",
+        "size": 75.0,
+        "unit": "g",
+        "category": "Baby Care",
+        "mrp": 62.0
+    },
+    {
+        "original_name": "himalaya nourisihing baby(s) 75g",
+        "clean_name": "Himalaya Nourisihing BabyS",
+        "brand": "Himalaya",
+        "size": 75.0,
+        "unit": "g",
+        "category": "Baby Care",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "himalaya gentie baby (s) 75g",
+        "clean_name": "Himalaya Gentie Baby S",
+        "brand": "Himalaya",
+        "size": 75.0,
+        "unit": "g",
+        "category": "Baby Care",
+        "mrp": 62.0
+    },
+    {
+        "original_name": "himalaya moisturizing (s) 75gm",
+        "clean_name": "Himalaya Moisturizing S",
+        "brand": "Himalaya",
+        "size": 75.0,
+        "unit": "g",
+        "category": "Baby Care",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "himalaya refreshing B (s) 75g",
+        "clean_name": "Himalaya Refreshing B S",
+        "brand": "Himalaya",
+        "size": 75.0,
+        "unit": "g",
+        "category": "Baby Care",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "himalaya nourisihing baby(s) 125g",
+        "clean_name": "Himalaya Nourisihing BabyS",
+        "brand": "Himalaya",
+        "size": 125.0,
+        "unit": "g",
+        "category": "Baby Care",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "himalaya moisturizing (s) 125gm",
+        "clean_name": "Himalaya Moisturizing S",
+        "brand": "Himalaya",
+        "size": 125.0,
+        "unit": "g",
+        "category": "Baby Care",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "him baby (XL)diaber Rs.18 saram",
+        "clean_name": "Him Baby XlDiaber Saram",
+        "brand": "Him",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 216.0
+    },
+    {
+        "original_name": "him baby diaber (L)Rs.14 saram",
+        "clean_name": "Him Baby Diaber L Saram",
+        "brand": "Him",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 168.0
+    },
+    {
+        "original_name": "him baby (M)diaber Rs.12 saram",
+        "clean_name": "Him Baby MDiaber Saram",
+        "brand": "Him",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 144.0
+    },
+    {
+        "original_name": "him baby diaber(s) Rs.10 saram",
+        "clean_name": "Him Baby DiaberS Saram",
+        "brand": "Him",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "him baby lotion 100ml",
+        "clean_name": "Him Baby Lotion",
+        "brand": "Him",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Baby Care",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "him nourisihing baby(s) 125g",
+        "clean_name": "Him Nourisihing BabyS",
+        "brand": "Him",
+        "size": 125.0,
+        "unit": "g",
+        "category": "Baby Care",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "him gentie baby (s) 75g",
+        "clean_name": "Him Gentie Baby S",
+        "brand": "Him",
+        "size": 75.0,
+        "unit": "g",
+        "category": "Baby Care",
+        "mrp": 62.0
+    },
+    {
+        "original_name": "him baby (s) 75G",
+        "clean_name": "Him Baby S",
+        "brand": "Him",
+        "size": 75.0,
+        "unit": "g",
+        "category": "Baby Care",
+        "mrp": 62.0
+    },
+    {
+        "original_name": "him nourisihing baby(s) 75g",
+        "clean_name": "Him Nourisihing BabyS",
+        "brand": "Him",
+        "size": 75.0,
+        "unit": "g",
+        "category": "Baby Care",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "baby wipes luvlap",
+        "clean_name": "Baby Wipes Luvlap",
+        "brand": "Baby",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 115.0
+    },
+    {
+        "original_name": "dp pampers (s) new born Rs70",
+        "clean_name": "Dp Pampers S New Born",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "dp pampers (xl) Rs.35",
+        "clean_name": "Dp Pampers Xl",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "dp pampers large RS.34",
+        "clean_name": "Dp Pampers Large",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 34.0
+    },
+    {
+        "original_name": "dp pampers Rs.54 (L) 4pants",
+        "clean_name": "Dp Pampers L 4Pants",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 54.0
+    },
+    {
+        "original_name": "dp pampers Rs.38 (s) 4pants",
+        "clean_name": "Dp Pampers S 4Pants",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 38.0
+    },
+    {
+        "original_name": "dp pampers Rs.46 (m) 4pants",
+        "clean_name": "Dp Pampers M 4Pants",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 46.0
+    },
+    {
+        "original_name": "dp pampers (s) Rs22",
+        "clean_name": "Dp Pampers S",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 22.0
+    },
+    {
+        "original_name": "dp pampers (m)",
+        "clean_name": "Dp Pampers M",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "dp pampers (M) Rs27",
+        "clean_name": "Dp Pampers M",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 27.0
+    },
+    {
+        "original_name": "dp pampers (L) Rs.28",
+        "clean_name": "Dp Pampers L",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 28.0
+    },
+    {
+        "original_name": "dp pampers (L)",
+        "clean_name": "Dp Pampers L",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 105.0
+    },
+    {
+        "original_name": "dp pampers (M) 90rs",
+        "clean_name": "Dp Pampers M 90Rs",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "dp huggies (L) Rs.28",
+        "clean_name": "Dp Huggies L",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 28.0
+    },
+    {
+        "original_name": "dp huggies(m)1.saram",
+        "clean_name": "Dp HuggiesM1Saram",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 192.0
+    },
+    {
+        "original_name": "dp huggies (m) Rs.24",
+        "clean_name": "Dp Huggies M",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 24.0
+    },
+    {
+        "original_name": "dp huggies (s) 10",
+        "clean_name": "Dp Huggies S 10",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "dp huggies (s) Rs.20",
+        "clean_name": "Dp Huggies S",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "dp him baby (XL)diaber Rs.18 saram",
+        "clean_name": "Dp Him Baby XlDiaber Saram",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 216.0
+    },
+    {
+        "original_name": "dp him baby diaber (L)Rs.14 saram",
+        "clean_name": "Dp Him Baby Diaber L Saram",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 168.0
+    },
+    {
+        "original_name": "dp him baby (M)diaber Rs.12 saram",
+        "clean_name": "Dp Him Baby MDiaber Saram",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 144.0
+    },
+    {
+        "original_name": "dp him baby diaber(s) Rs.10 saram",
+        "clean_name": "Dp Him Baby DiaberS Saram",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "baby nipple med 2p",
+        "clean_name": "Baby Nipple Med 2P",
+        "brand": "Baby",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 95.0
+    },
+    {
+        "original_name": "baby grooming set",
+        "clean_name": "Baby Grooming Set",
+        "brand": "Baby",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 269.0
+    },
+    {
+        "original_name": "johnsons blossom 75g Rs.68",
+        "clean_name": "Johnsons Blossom",
+        "brand": "Johnsons",
+        "size": 75.0,
+        "unit": "g",
+        "category": "Baby Care",
+        "mrp": 68.0
+    },
+    {
+        "original_name": "dp pampers Rs.399 (L) 20pants",
+        "clean_name": "Dp Pampers L 20Pants",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 399.0
+    },
+    {
+        "original_name": "dp pampers Rs.99 (m) 6pants",
+        "clean_name": "Dp Pampers M 6Pants",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 99.0
+    },
+    {
+        "original_name": "dp pampers Rs.20 (s) 2pants",
+        "clean_name": "Dp Pampers S 2Pants",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "him Nourishing Baby (s) 75g Rs.75",
+        "clean_name": "Him Nourishing Baby S",
+        "brand": "Him",
+        "size": 75.0,
+        "unit": "g",
+        "category": "Baby Care",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "him baby nourisihing (s) 125g",
+        "clean_name": "Him Baby Nourisihing S",
+        "brand": "Him",
+        "size": 125.0,
+        "unit": "g",
+        "category": "Baby Care",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "him baby Nourishing (s) 75g Rs.75",
+        "clean_name": "Him Baby Nourishing S",
+        "brand": "Him",
+        "size": 75.0,
+        "unit": "g",
+        "category": "Baby Care",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "dp him baby (M) diaber Rs.14 saram",
+        "clean_name": "Dp Him Baby M Diaber Saram",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 168.0
+    },
+    {
+        "original_name": "dp him baby (M) diaber Rs.12 saram",
+        "clean_name": "Dp Him Baby M Diaber Saram",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 144.0
+    },
+    {
+        "original_name": "vicks baby rub 25ml",
+        "clean_name": "Vicks Baby Rub",
+        "brand": "Vicks",
+        "size": 25.0,
+        "unit": "ml",
+        "category": "Baby Care",
+        "mrp": 115.0
+    },
+    {
+        "original_name": "vicks baby rub 50ml",
+        "clean_name": "Vicks Baby Rub",
+        "brand": "Vicks",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Baby Care",
+        "mrp": 170.0
+    },
+    {
+        "original_name": "baby feeding bottli big",
+        "clean_name": "Baby Feeding Bottli Big",
+        "brand": "Baby",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "baby feeding bottle mini",
+        "clean_name": "Baby Feeding Bottle Mini",
+        "brand": "Baby",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "baby nipple silicon",
+        "clean_name": "Baby Nipple Silicon",
+        "brand": "Baby",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "dp huggies (s) 10 saram (8p)",
+        "clean_name": "Dp Huggies S  8P",
+        "brand": "Dp",
+        "size": 10.0,
+        "unit": "pack",
+        "category": "Baby Care",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "dp pampers Rs.399 (XL) 16ps",
+        "clean_name": "Dp Pampers Xl",
+        "brand": "Dp",
+        "size": 16.0,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 399.0
+    },
+    {
+        "original_name": "dp pampers Rs.399 (s) 30ps",
+        "clean_name": "Dp Pampers S",
+        "brand": "Dp",
+        "size": 30.0,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 399.0
+    },
+    {
+        "original_name": "dp pampers Rs.399 (nb) 30ps",
+        "clean_name": "Dp Pampers Nb",
+        "brand": "Dp",
+        "size": 30.0,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 399.0
+    },
+    {
+        "original_name": "dp pampers Rs.399 (m) 22ps",
+        "clean_name": "Dp Pampers M",
+        "brand": "Dp",
+        "size": 22.0,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 399.0
+    },
+    {
+        "original_name": "dp pampers Rs.149 (XL) 7ps",
+        "clean_name": "Dp Pampers Xl",
+        "brand": "Dp",
+        "size": 7.0,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 149.0
+    },
+    {
+        "original_name": "dp pampers Rs.99 (m) 6ps",
+        "clean_name": "Dp Pampers M",
+        "brand": "Dp",
+        "size": 6.0,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 99.0
+    },
+    {
+        "original_name": "dp pampers Rs.99 (s) 7ps",
+        "clean_name": "Dp Pampers S",
+        "brand": "Dp",
+        "size": 7.0,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 99.0
+    },
+    {
+        "original_name": "dp pampers Rs.99 (NB) 8ps",
+        "clean_name": "Dp Pampers Nb",
+        "brand": "Dp",
+        "size": 8.0,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 99.0
+    },
+    {
+        "original_name": "dp pampers Rs.99 (L) 5ps",
+        "clean_name": "Dp Pampers L",
+        "brand": "Dp",
+        "size": 5.0,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 99.0
+    },
+    {
+        "original_name": "dp pampers Rs.199 (s) 15ps",
+        "clean_name": "Dp Pampers S",
+        "brand": "Dp",
+        "size": 15.0,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 199.0
+    },
+    {
+        "original_name": "dp pampers Rs.199 (NB) 15ps",
+        "clean_name": "Dp Pampers Nb",
+        "brand": "Dp",
+        "size": 15.0,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 199.0
+    },
+    {
+        "original_name": "dp pampers Rs.199 (M) 11ps",
+        "clean_name": "Dp Pampers M",
+        "brand": "Dp",
+        "size": 11.0,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 199.0
+    },
+    {
+        "original_name": "dp pampers Rs.199 (L) 9ps",
+        "clean_name": "Dp Pampers L",
+        "brand": "Dp",
+        "size": 9.0,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 210.0
+    },
+    {
+        "original_name": "dp pampers (m) Rs.28",
+        "clean_name": "Dp Pampers M",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 28.0
+    },
+    {
+        "original_name": "cerelac wht,app,carr 300g Rs.265",
+        "clean_name": "Cerelac WhtAppCarr",
+        "brand": "Cerelac",
+        "size": 300.0,
+        "unit": "g",
+        "category": "Baby Care",
+        "mrp": 265.0
+    },
+    {
+        "original_name": "cerelac wht,apple 300g Rs.260",
+        "clean_name": "Cerelac WhtApple",
+        "brand": "Cerelac",
+        "size": 300.0,
+        "unit": "g",
+        "category": "Baby Care",
+        "mrp": 260.0
+    },
+    {
+        "original_name": "cerelac wheat 300g Rs.250",
+        "clean_name": "Cerelac Wheat",
+        "brand": "Cerelac",
+        "size": 300.0,
+        "unit": "g",
+        "category": "Baby Care",
+        "mrp": 250.0
+    },
+    {
+        "original_name": "cerelac wht,apple,cherr 300g Rs.295",
+        "clean_name": "Cerelac WhtAppleCherr",
+        "brand": "Cerelac",
+        "size": 300.0,
+        "unit": "g",
+        "category": "Baby Care",
+        "mrp": 295.0
+    },
+    {
+        "original_name": "cerelac ragi apple 300g Rs.310",
+        "clean_name": "Cerelac Ragi Apple",
+        "brand": "Cerelac",
+        "size": 300.0,
+        "unit": "g",
+        "category": "Baby Care",
+        "mrp": 310.0
+    },
+    {
+        "original_name": "cerelac grains & fruit 300g Rs.329",
+        "clean_name": "Cerelac Grains  Fruit",
+        "brand": "Cerelac",
+        "size": 300.0,
+        "unit": "g",
+        "category": "Baby Care",
+        "mrp": 329.0
+    },
+    {
+        "original_name": "cerelac multigrain & fruits 300g Rs.322",
+        "clean_name": "Cerelac Multigrain  Fruits",
+        "brand": "Cerelac",
+        "size": 300.0,
+        "unit": "g",
+        "category": "Baby Care",
+        "mrp": 322.0
+    },
+    {
+        "original_name": "dp pampers (L) Rs.30",
+        "clean_name": "Dp Pampers L",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 30.0
+    },
+      {
+        "original_name": "dp pampers (L) Rs.30",
+        "clean_name": "Dp Pampers L",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "dp pampers (xl) Rs.38",
+        "clean_name": "Dp Pampers Xl",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "dp pampers Rs.20 (nb) 2ps",
+        "clean_name": "Dp Pampers Nb",
+        "brand": "Dp",
+        "size": 2.0,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "baby nipple luvlap 2p",
+        "clean_name": "Baby Nipple Luvlap 2P",
+        "brand": "Baby",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 95.0
+    },
+    {
+        "original_name": "him baby moisturizing 75gm",
+        "clean_name": "Him Baby Moisturizing",
+        "brand": "Him",
+        "size": 75.0,
+        "unit": "g",
+        "category": "Baby Care",
+        "mrp": 62.0
+    },
+    {
+        "original_name": "dp pampers Rs.35(L) 2ps",
+        "clean_name": "Dp Pampers L",
+        "brand": "Dp",
+        "size": 2.0,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "him baby moisturizing 125g Rs.95",
+        "clean_name": "Him Baby Moisturizing",
+        "brand": "Him",
+        "size": 125.0,
+        "unit": "g",
+        "category": "Baby Care",
+        "mrp": 105.0
+    },
+    {
+        "original_name": "dp pampers Rs.399 (XXL) 14ps",
+        "clean_name": "Dp Pampers Xxl",
+        "brand": "Dp",
+        "size": 14.0,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 399.0
+    },
+    {
+        "original_name": "dp pampers Rs.25 (m) 2s",
+        "clean_name": "Dp Pampers M 2S",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "baby fruit nibbler Rs.219",
+        "clean_name": "Baby Fruit Nibbler",
+        "brand": "Baby",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 219.0
+    },
+    {
+        "original_name": "dp pampers Rs.30 (L) 2ps",
+        "clean_name": "Dp Pampers L",
+        "brand": "Dp",
+        "size": 2.0,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "him baby moisturizing 75g Rs.65",
+        "clean_name": "Him Baby Moisturizing",
+        "brand": "Him",
+        "size": 75.0,
+        "unit": "g",
+        "category": "Baby Care",
+        "mrp": 65.0
+    },
+    {
+        "original_name": "dp pampers Rs.159 (XL) 7ps",
+        "clean_name": "Dp Pampers Xl",
+        "brand": "Dp",
+        "size": 7.0,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 159.0
+    },
+    {
+        "original_name": "dp pampers Rs.409 (XLL) 16ps",
+        "clean_name": "Dp Pampers Xll",
+        "brand": "Dp",
+        "size": 16.0,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 409.0
+    },
+    {
+        "original_name": "dp pampers Rs.299 (XXL) 14ps",
+        "clean_name": "Dp Pampers Xxl",
+        "brand": "Dp",
+        "size": 14.0,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 299.0
+    },
+    {
+        "original_name": "dp pampers (new born Rs20 saram",
+        "clean_name": "Dp Pampers New Born Saram",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "him baby moisturizing soab 75gm+",
+        "clean_name": "Him Baby Moisturizing Soab",
+        "brand": "Him",
+        "size": 75.0,
+        "unit": "g",
+        "category": "Baby Care",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "dp pampers Rs.299 (XXL) 9ps",
+        "clean_name": "Dp Pampers Xxl",
+        "brand": "Dp",
+        "size": 9.0,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 299.0
+    },
+    {
+        "original_name": "dp pampers Rs.409 (XLL) 14ps",
+        "clean_name": "Dp Pampers Xll",
+        "brand": "Dp",
+        "size": 14.0,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 409.0
+    },
+    {
+        "original_name": "dp pampers Rs.199 (NB) 17ps",
+        "clean_name": "Dp Pampers Nb",
+        "brand": "Dp",
+        "size": 17.0,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 199.0
+    },
+    {
+        "original_name": "baby feeding bottle mini 125ML",
+        "clean_name": "Baby Feeding Bottle Mini",
+        "brand": "Baby",
+        "size": 125.0,
+        "unit": "ml",
+        "category": "Baby Care",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "baby feeding bottli big 250ml",
+        "clean_name": "Baby Feeding Bottli Big",
+        "brand": "Baby",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Baby Care",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "old spice lotion 50ml rs.149",
+        "clean_name": "Old Spice Lotion",
+        "brand": "Old",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Baby Care",
+        "mrp": 149.0
+    },
+    {
+        "original_name": "him baby lotion 50ml",
+        "clean_name": "Him Baby Lotion",
+        "brand": "Him",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Baby Care",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "dp pampers Rs.32 (L) 2ps",
+        "clean_name": "Dp Pampers L",
+        "brand": "Dp",
+        "size": 2.0,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 32.0
+    },
+    {
+        "original_name": "dp pampers (xl).",
+        "clean_name": "Dp Pampers Xl",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 425.0
+    },
+    {
+        "original_name": "dp pampers (s) new born Rs.399",
+        "clean_name": "Dp Pampers S New Born",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 399.0
+    },
+    {
+        "original_name": "dp pampers Rs.210 (L) 10ps",
+        "clean_name": "Dp Pampers L",
+        "brand": "Dp",
+        "size": 10.0,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 210.0
+    },
+    {
+        "original_name": "him baby Nourishing (s) 75g  ",
+        "clean_name": "Him Baby Nourishing S",
+        "brand": "Him",
+        "size": 75.0,
+        "unit": "g",
+        "category": "Baby Care",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "dp pampers Rs.18 (s) 2pants",
+        "clean_name": "Dp Pampers S 2Pants",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 18.0
+    },
+    {
+        "original_name": "dp pampers Rs.23 (m) 2s",
+        "clean_name": "Dp Pampers M 2S",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 23.0
+    },
+    {
+        "original_name": "dp pampers (xl)  ",
+        "clean_name": "Dp Pampers Xl",
+        "brand": "Dp",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Baby Care",
+        "mrp": 117.0
+    }
+]

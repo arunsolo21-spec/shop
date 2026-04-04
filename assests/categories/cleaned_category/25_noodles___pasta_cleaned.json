@@ -1,0 +1,5475 @@
+[
+  {
+    "id": 1,
+    "name": "Semiya",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 360,
+      "mrp": 396,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya.png",
+        "alt": "Semiya",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 2,
+    "name": "Semiya",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "100 g",
+    "pricing": {
+      "price": 1900,
+      "mrp": 2090,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 100 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya.png",
+        "alt": "Semiya",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 3,
+    "name": "Semiya",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "140 g",
+    "pricing": {
+      "price": 15,
+      "mrp": 17,
+      "discount": 12,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 140 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya.png",
+        "alt": "Semiya",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 4,
+    "name": "Sunfeast Yippee Yippee Noodles",
+    "brand": "Sunfeast Yippee",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 14,
+      "mrp": 15,
+      "discount": 7,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Sunfeast Yippee - Quick and tasty instant noodles for quick meals.",
+      "long": "Sunfeast Yippee - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/sunfeast_yippee_yippee_noodles.png",
+        "alt": "Sunfeast Yippee Yippee Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "sunfeast yippee",
+        "sunfeast",
+        "yippee",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "sunfeast yippee",
+        "sunfeast",
+        "yippee",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 5,
+    "name": "Sunfeast Yippee Yippee Noodles",
+    "brand": "Sunfeast Yippee",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 24,
+      "mrp": 26,
+      "discount": 8,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Sunfeast Yippee - Quick and tasty instant noodles for quick meals.",
+      "long": "Sunfeast Yippee - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/sunfeast_yippee_yippee_noodles.png",
+        "alt": "Sunfeast Yippee Yippee Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "sunfeast yippee",
+        "sunfeast",
+        "yippee",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "sunfeast yippee",
+        "sunfeast",
+        "yippee",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 6,
+    "name": "Sunfeast Yippee Yippee Noodles",
+    "brand": "Sunfeast Yippee",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 48,
+      "mrp": 53,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Sunfeast Yippee - Quick and tasty instant noodles for quick meals.",
+      "long": "Sunfeast Yippee - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/sunfeast_yippee_yippee_noodles.png",
+        "alt": "Sunfeast Yippee Yippee Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "sunfeast yippee",
+        "sunfeast",
+        "yippee",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "sunfeast yippee",
+        "sunfeast",
+        "yippee",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 7,
+    "name": "Maggi Noodles",
+    "brand": "Maggi",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 12,
+      "mrp": 13,
+      "discount": 8,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Maggi - Quick and tasty instant noodles for quick meals.",
+      "long": "Maggi - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/maggi_noodles.png",
+        "alt": "Maggi Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "maggi",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "maggi",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 8,
+    "name": "Maggi Noodles",
+    "brand": "Maggi",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 24,
+      "mrp": 26,
+      "discount": 8,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Maggi - Quick and tasty instant noodles for quick meals.",
+      "long": "Maggi - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/maggi_noodles.png",
+        "alt": "Maggi Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "maggi",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "maggi",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 9,
+    "name": "Maggi Noodles",
+    "brand": "Maggi",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 72,
+      "mrp": 79,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Maggi - Quick and tasty instant noodles for quick meals.",
+      "long": "Maggi - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/maggi_noodles.png",
+        "alt": "Maggi Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "maggi",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "maggi",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 10,
+    "name": "Maggi Noodles",
+    "brand": "Maggi",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 44,
+      "mrp": 48,
+      "discount": 8,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Maggi - Quick and tasty instant noodles for quick meals.",
+      "long": "Maggi - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/maggi_noodles.png",
+        "alt": "Maggi Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "maggi",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "maggi",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 11,
+    "name": "Sunfeast Yippee Yippee Noodles",
+    "brand": "Sunfeast Yippee",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 72,
+      "mrp": 79,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Sunfeast Yippee - Quick and tasty instant noodles for quick meals.",
+      "long": "Sunfeast Yippee - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/sunfeast_yippee_yippee_noodles.png",
+        "alt": "Sunfeast Yippee Yippee Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "sunfeast yippee",
+        "sunfeast",
+        "yippee",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "sunfeast yippee",
+        "sunfeast",
+        "yippee",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 12,
+    "name": "Anil Semiya 1",
+    "brand": "Anil",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 20,
+      "mrp": 22,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Anil - Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Anil - Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/anil_semiya_1.png",
+        "alt": "Anil Semiya 1",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "anil",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "anil",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 13,
+    "name": "Payasa Semiya",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "500 g",
+    "pricing": {
+      "price": 50,
+      "mrp": 55,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/payasa_semiya.png",
+        "alt": "Payasa Semiya",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "payasa",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "payasa",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 14,
+    "name": "Semiya Payasam",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "500 g",
+    "pricing": {
+      "price": 50,
+      "mrp": 55,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_payasam.png",
+        "alt": "Semiya Payasam",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 15,
+    "name": "Maggi Noodles",
+    "brand": "Maggi",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 14,
+      "mrp": 15,
+      "discount": 7,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Maggi - Quick and tasty instant noodles for quick meals.",
+      "long": "Maggi - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/maggi_noodles.png",
+        "alt": "Maggi Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "maggi",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "maggi",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 16,
+    "name": "Maggi Noodles (1 Tadan)",
+    "brand": "Maggi",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 180,
+      "mrp": 198,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Maggi - Quick and tasty instant noodles for quick meals.",
+      "long": "Maggi - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/maggi_noodles_1_tadan.png",
+        "alt": "Maggi Noodles (1 Tadan)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "maggi",
+        "noodles",
+        "tadan)",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "maggi",
+        "noodles",
+        "tadan)",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 17,
+    "name": "Maggi Noodles Dasan",
+    "brand": "Maggi",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 144,
+      "mrp": 158,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Maggi - Quick and tasty instant noodles for quick meals.",
+      "long": "Maggi - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/maggi_noodles_dasan.png",
+        "alt": "Maggi Noodles Dasan",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "maggi",
+        "noodles",
+        "dasan",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "maggi",
+        "noodles",
+        "dasan",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 18,
+    "name": "Semiya Suns",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 15,
+      "mrp": 17,
+      "discount": 12,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_suns.png",
+        "alt": "Semiya Suns",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "suns",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "suns",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 19,
+    "name": "Semiya (Naga)",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "200 g",
+    "pricing": {
+      "price": 20,
+      "mrp": 22,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_naga.png",
+        "alt": "Semiya (Naga)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "(naga)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "(naga)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 20,
+    "name": "Semiya (Naga)",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "200 g",
+    "pricing": {
+      "price": 22,
+      "mrp": 24,
+      "discount": 8,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_naga.png",
+        "alt": "Semiya (Naga)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "(naga)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "(naga)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 21,
+    "name": "Semiya (Naga)",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "500 g",
+    "pricing": {
+      "price": 52,
+      "mrp": 57,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_naga.png",
+        "alt": "Semiya (Naga)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "(naga)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "(naga)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 22,
+    "name": "Semiya Suns (1",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "150 g",
+    "pricing": {
+      "price": 300,
+      "mrp": 330,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 150 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_suns_1.png",
+        "alt": "Semiya Suns (1",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "suns",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "suns",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 23,
+    "name": "Semiya (Pa)True",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 10,
+      "mrp": 11,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_pa_true.png",
+        "alt": "Semiya (Pa)True",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "(pa)true",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "(pa)true",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 24,
+    "name": "Semiya(Pa) True M",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "150 g",
+    "pricing": {
+      "price": 16,
+      "mrp": 18,
+      "discount": 11,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 150 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_pa_true_m.png",
+        "alt": "Semiya(Pa) True M",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "semiya(pa)",
+        "true",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "semiya(pa)",
+        "true",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 25,
+    "name": "Semiya (Pa)True M",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "900 g",
+    "pricing": {
+      "price": 80,
+      "mrp": 88,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 900 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_pa_true_m.png",
+        "alt": "Semiya (Pa)True M",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "(pa)true",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "(pa)true",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 26,
+    "name": "Semiya Anil (20Ps)",
+    "brand": "Anil",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "200 g",
+    "pricing": {
+      "price": 400,
+      "mrp": 440,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Anil - Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Anil - Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_anil_20ps.png",
+        "alt": "Semiya Anil (20Ps)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "anil",
+        "(20ps)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "anil",
+        "(20ps)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 27,
+    "name": "Semiya(Naga)",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "140 g",
+    "pricing": {
+      "price": 17,
+      "mrp": 19,
+      "discount": 11,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 140 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_naga.png",
+        "alt": "Semiya(Naga)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "semiya(naga)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "semiya(naga)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 28,
+    "name": "Semiya Raagi(Narasus)",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "180 g",
+    "pricing": {
+      "price": 25,
+      "mrp": 28,
+      "discount": 11,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 180 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_raagi_narasus.png",
+        "alt": "Semiya Raagi(Narasus)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "raagi(narasus)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "raagi(narasus)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 29,
+    "name": "Semiya Kothumai(Narasus)",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "180 g",
+    "pricing": {
+      "price": 29,
+      "mrp": 32,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 180 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_kothumai_narasus.png",
+        "alt": "Semiya Kothumai(Narasus)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "kothumai(narasus)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "kothumai(narasus)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 30,
+    "name": "Semiya (Naga)P",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "1 kg",
+    "pricing": {
+      "price": 94,
+      "mrp": 103,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 1 kg."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_naga_p.png",
+        "alt": "Semiya (Naga)P",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "(naga)p",
+        "grams",
+        "g",
+        "kilogram",
+        "kg"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "(naga)p",
+        "g",
+        "kg"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 31,
+    "name": "Semiya Thlasi(Va)",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "150 g",
+    "pricing": {
+      "price": 300,
+      "mrp": 330,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 150 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_thlasi_va.png",
+        "alt": "Semiya Thlasi(Va)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "thlasi(va)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "thlasi(va)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 32,
+    "name": "Semiya Thulasi(Va)",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "150 g",
+    "pricing": {
+      "price": 300,
+      "mrp": 330,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 150 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_thulasi_va.png",
+        "alt": "Semiya Thulasi(Va)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "thulasi(va)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "thulasi(va)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 33,
+    "name": "Semiya (Naga)",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "100 g",
+    "pricing": {
+      "price": 10,
+      "mrp": 11,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 100 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_naga.png",
+        "alt": "Semiya (Naga)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "(naga)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "(naga)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 34,
+    "name": "Semiya Naga (1 Kg)",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "100 g",
+    "pricing": {
+      "price": 100,
+      "mrp": 110,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 100 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_naga_1_kg.png",
+        "alt": "Semiya Naga (1 Kg)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "naga",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "naga",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 35,
+    "name": "Maggi Noodles",
+    "brand": "Maggi",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 27,
+      "mrp": 30,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Maggi - Quick and tasty instant noodles for quick meals.",
+      "long": "Maggi - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/maggi_noodles.png",
+        "alt": "Maggi Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "maggi",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "maggi",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 36,
+    "name": "Anil Kothuma Semiya",
+    "brand": "Anil",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "180 g",
+    "pricing": {
+      "price": 30,
+      "mrp": 33,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Anil - Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Anil - Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 180 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/anil_kothuma_semiya.png",
+        "alt": "Anil Kothuma Semiya",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "anil",
+        "kothuma",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "anil",
+        "kothuma",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 37,
+    "name": "Anil Raagi Semiya",
+    "brand": "Anil",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "180 g",
+    "pricing": {
+      "price": 26,
+      "mrp": 29,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Anil - Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Anil - Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 180 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/anil_raagi_semiya.png",
+        "alt": "Anil Raagi Semiya",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "anil",
+        "raagi",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "anil",
+        "raagi",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 38,
+    "name": "Maggi Noodles",
+    "brand": "Maggi",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 51,
+      "mrp": 56,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Maggi - Quick and tasty instant noodles for quick meals.",
+      "long": "Maggi - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/maggi_noodles.png",
+        "alt": "Maggi Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "maggi",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "maggi",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 39,
+    "name": "Maggi Noodles",
+    "brand": "Maggi",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 28,
+      "mrp": 31,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Maggi - Quick and tasty instant noodles for quick meals.",
+      "long": "Maggi - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/maggi_noodles.png",
+        "alt": "Maggi Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "maggi",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "maggi",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 40,
+    "name": "Semiya True Payasam",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "400 g",
+    "pricing": {
+      "price": 40,
+      "mrp": 44,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 400 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_true_payasam.png",
+        "alt": "Semiya True Payasam",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "true",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "true",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 41,
+    "name": "Anil Semiya",
+    "brand": "Anil",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "180 g",
+    "pricing": {
+      "price": 23,
+      "mrp": 25,
+      "discount": 8,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Anil - Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Anil - Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 180 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/anil_semiya.png",
+        "alt": "Anil Semiya",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "anil",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "anil",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 42,
+    "name": "Sunfeast Yippee Yippee Noodles",
+    "brand": "Sunfeast Yippee",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 27,
+      "mrp": 30,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Sunfeast Yippee - Quick and tasty instant noodles for quick meals.",
+      "long": "Sunfeast Yippee - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/sunfeast_yippee_yippee_noodles.png",
+        "alt": "Sunfeast Yippee Yippee Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "sunfeast yippee",
+        "sunfeast",
+        "yippee",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "sunfeast yippee",
+        "sunfeast",
+        "yippee",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 43,
+    "name": "Maggi Noodles",
+    "brand": "Maggi",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 55,
+      "mrp": 61,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Maggi - Quick and tasty instant noodles for quick meals.",
+      "long": "Maggi - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/maggi_noodles.png",
+        "alt": "Maggi Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "maggi",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "maggi",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 44,
+    "name": "Semiya Savorite",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "1 kg",
+    "pricing": {
+      "price": 99,
+      "mrp": 109,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 1 kg."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_savorite.png",
+        "alt": "Semiya Savorite",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "savorite",
+        "grams",
+        "g",
+        "kilogram",
+        "kg"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "savorite",
+        "g",
+        "kg"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 45,
+    "name": "Sunfeast Yippee Yippee Noodles",
+    "brand": "Sunfeast Yippee",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 28,
+      "mrp": 31,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Sunfeast Yippee - Quick and tasty instant noodles for quick meals.",
+      "long": "Sunfeast Yippee - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/sunfeast_yippee_yippee_noodles.png",
+        "alt": "Sunfeast Yippee Yippee Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "sunfeast yippee",
+        "sunfeast",
+        "yippee",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "sunfeast yippee",
+        "sunfeast",
+        "yippee",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 46,
+    "name": "Thulasi Semiya",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 15,
+      "mrp": 17,
+      "discount": 12,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/thulasi_semiya.png",
+        "alt": "Thulasi Semiya",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "thulasi",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "thulasi",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 47,
+    "name": "Thulasi Semiya",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 300,
+      "mrp": 330,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/thulasi_semiya.png",
+        "alt": "Thulasi Semiya",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "thulasi",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "thulasi",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 48,
+    "name": "Sunfeast Yippee Yippee Noodles",
+    "brand": "Sunfeast Yippee",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 53,
+      "mrp": 58,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Sunfeast Yippee - Quick and tasty instant noodles for quick meals.",
+      "long": "Sunfeast Yippee - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/sunfeast_yippee_yippee_noodles.png",
+        "alt": "Sunfeast Yippee Yippee Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "sunfeast yippee",
+        "sunfeast",
+        "yippee",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "sunfeast yippee",
+        "sunfeast",
+        "yippee",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 49,
+    "name": "Thulasi Semiya",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 19,
+      "mrp": 21,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/thulasi_semiya.png",
+        "alt": "Thulasi Semiya",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "thulasi",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "thulasi",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 50,
+    "name": "Semiya Savorite",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "200 g",
+    "pricing": {
+      "price": 20,
+      "mrp": 22,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_savorite.png",
+        "alt": "Semiya Savorite",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "savorite",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "savorite",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 51,
+    "name": "Maggi Noodles",
+    "brand": "Maggi",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 50,
+      "mrp": 55,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Maggi - Quick and tasty instant noodles for quick meals.",
+      "long": "Maggi - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/maggi_noodles.png",
+        "alt": "Maggi Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "maggi",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "maggi",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 52,
+    "name": "Maggi Noodles",
+    "brand": "Maggi",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 56,
+      "mrp": 62,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Maggi - Quick and tasty instant noodles for quick meals.",
+      "long": "Maggi - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/maggi_noodles.png",
+        "alt": "Maggi Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "maggi",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "maggi",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 53,
+    "name": "Semiya Savorite",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "500 g",
+    "pricing": {
+      "price": 57,
+      "mrp": 63,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_savorite.png",
+        "alt": "Semiya Savorite",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "savorite",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "savorite",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 54,
+    "name": "Semiya Savorite",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "140 g",
+    "pricing": {
+      "price": 15,
+      "mrp": 17,
+      "discount": 12,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 140 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_savorite.png",
+        "alt": "Semiya Savorite",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "savorite",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "savorite",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 55,
+    "name": "Semiya Savorite",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "100 g",
+    "pricing": {
+      "price": 10,
+      "mrp": 11,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 100 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_savorite.png",
+        "alt": "Semiya Savorite",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "savorite",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "savorite",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 56,
+    "name": "Sunfeast Yippee Yippee Noodles",
+    "brand": "Sunfeast Yippee",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 55,
+      "mrp": 61,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Sunfeast Yippee - Quick and tasty instant noodles for quick meals.",
+      "long": "Sunfeast Yippee - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/sunfeast_yippee_yippee_noodles.png",
+        "alt": "Sunfeast Yippee Yippee Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "sunfeast yippee",
+        "sunfeast",
+        "yippee",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "sunfeast yippee",
+        "sunfeast",
+        "yippee",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 57,
+    "name": "Semiya True Payasam",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "100 g",
+    "pricing": {
+      "price": 11,
+      "mrp": 12,
+      "discount": 8,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 100 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_true_payasam.png",
+        "alt": "Semiya True Payasam",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "true",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "true",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 58,
+    "name": "Naga Kitchati Semiya",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "180 g",
+    "pricing": {
+      "price": 22,
+      "mrp": 24,
+      "discount": 8,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 180 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/naga_kitchati_semiya.png",
+        "alt": "Naga Kitchati Semiya",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "naga",
+        "kitchati",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "naga",
+        "kitchati",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 59,
+    "name": "Sunfeast Yippee Yippee Noodles",
+    "brand": "Sunfeast Yippee",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 56,
+      "mrp": 62,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Sunfeast Yippee - Quick and tasty instant noodles for quick meals.",
+      "long": "Sunfeast Yippee - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/sunfeast_yippee_yippee_noodles.png",
+        "alt": "Sunfeast Yippee Yippee Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "sunfeast yippee",
+        "sunfeast",
+        "yippee",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "sunfeast yippee",
+        "sunfeast",
+        "yippee",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 60,
+    "name": "Semiya (Naga)",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "200 g",
+    "pricing": {
+      "price": 30,
+      "mrp": 33,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_naga.png",
+        "alt": "Semiya (Naga)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "(naga)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "(naga)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 61,
+    "name": "Semiya (Naga)",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "500 g",
+    "pricing": {
+      "price": 50,
+      "mrp": 55,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_naga.png",
+        "alt": "Semiya (Naga)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "(naga)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "(naga)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 62,
+    "name": "Maggi Noodles",
+    "brand": "Maggi",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 84,
+      "mrp": 92,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Maggi - Quick and tasty instant noodles for quick meals.",
+      "long": "Maggi - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/maggi_noodles.png",
+        "alt": "Maggi Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "maggi",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "maggi",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 63,
+    "name": "Sunfeast Yippee Yippee Noodles",
+    "brand": "Sunfeast Yippee",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 5,
+      "mrp": 6,
+      "discount": 17,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Sunfeast Yippee - Quick and tasty instant noodles for quick meals.",
+      "long": "Sunfeast Yippee - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/sunfeast_yippee_yippee_noodles.png",
+        "alt": "Sunfeast Yippee Yippee Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "sunfeast yippee",
+        "sunfeast",
+        "yippee",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "sunfeast yippee",
+        "sunfeast",
+        "yippee",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 64,
+    "name": "Semiya Savorite",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "190 g",
+    "pricing": {
+      "price": 20,
+      "mrp": 22,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 190 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_savorite.png",
+        "alt": "Semiya Savorite",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "savorite",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "savorite",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 65,
+    "name": "Semiya Savorite",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "240 g",
+    "pricing": {
+      "price": 20,
+      "mrp": 22,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 240 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_savorite.png",
+        "alt": "Semiya Savorite",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "savorite",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "savorite",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 66,
+    "name": "Semiya Savorite +",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "200 g",
+    "pricing": {
+      "price": 20,
+      "mrp": 22,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_savorite.png",
+        "alt": "Semiya Savorite +",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "savorite",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "savorite",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 67,
+    "name": "Semiya True",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "900 g",
+    "pricing": {
+      "price": 80,
+      "mrp": 88,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 900 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_true.png",
+        "alt": "Semiya True",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "true",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "true",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 68,
+    "name": "Semiya True (Pa)",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "900 g",
+    "pricing": {
+      "price": 80,
+      "mrp": 88,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 900 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_true_pa.png",
+        "alt": "Semiya True (Pa)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "true",
+        "(pa)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "true",
+        "(pa)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 69,
+    "name": "Semiya True (Pa)",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "400 g",
+    "pricing": {
+      "price": 43,
+      "mrp": 47,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 400 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_true_pa.png",
+        "alt": "Semiya True (Pa)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "true",
+        "(pa)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "true",
+        "(pa)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 70,
+    "name": "Sunfeast Yippee Yippee Noodles",
+    "brand": "Sunfeast Yippee",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 84,
+      "mrp": 92,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Sunfeast Yippee - Quick and tasty instant noodles for quick meals.",
+      "long": "Sunfeast Yippee - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/sunfeast_yippee_yippee_noodles.png",
+        "alt": "Sunfeast Yippee Yippee Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "sunfeast yippee",
+        "sunfeast",
+        "yippee",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "sunfeast yippee",
+        "sunfeast",
+        "yippee",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 71,
+    "name": "Maggi Noodles",
+    "brand": "Maggi",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 52,
+      "mrp": 57,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Maggi - Quick and tasty instant noodles for quick meals.",
+      "long": "Maggi - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/maggi_noodles.png",
+        "alt": "Maggi Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "maggi",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "maggi",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 72,
+    "name": "Semiya Naga Kitchati",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "180 g",
+    "pricing": {
+      "price": 22,
+      "mrp": 24,
+      "discount": 8,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 180 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_naga_kitchati.png",
+        "alt": "Semiya Naga Kitchati",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "naga",
+        "kitchati",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "naga",
+        "kitchati",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 73,
+    "name": "Sunfeast Yippee Yippee Noodles",
+    "brand": "Sunfeast Yippee",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 15,
+      "mrp": 17,
+      "discount": 12,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Sunfeast Yippee - Quick and tasty instant noodles for quick meals.",
+      "long": "Sunfeast Yippee - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/sunfeast_yippee_yippee_noodles.png",
+        "alt": "Sunfeast Yippee Yippee Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "sunfeast yippee",
+        "sunfeast",
+        "yippee",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "sunfeast yippee",
+        "sunfeast",
+        "yippee",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 74,
+    "name": "Maggi Noodles",
+    "brand": "Maggi",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 15,
+      "mrp": 17,
+      "discount": 12,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Maggi - Quick and tasty instant noodles for quick meals.",
+      "long": "Maggi - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/maggi_noodles.png",
+        "alt": "Maggi Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "maggi",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "maggi",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 75,
+    "name": "Maggi Noodles",
+    "brand": "Maggi",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 78,
+      "mrp": 86,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Maggi - Quick and tasty instant noodles for quick meals.",
+      "long": "Maggi - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/maggi_noodles.png",
+        "alt": "Maggi Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "maggi",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "maggi",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 76,
+    "name": "Sunfeast Yippee Yippee Noodles",
+    "brand": "Sunfeast Yippee",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 30,
+      "mrp": 33,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Sunfeast Yippee - Quick and tasty instant noodles for quick meals.",
+      "long": "Sunfeast Yippee - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/sunfeast_yippee_yippee_noodles.png",
+        "alt": "Sunfeast Yippee Yippee Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "sunfeast yippee",
+        "sunfeast",
+        "yippee",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "sunfeast yippee",
+        "sunfeast",
+        "yippee",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 77,
+    "name": "Maggi Noodles",
+    "brand": "Maggi",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 30,
+      "mrp": 33,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Maggi - Quick and tasty instant noodles for quick meals.",
+      "long": "Maggi - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/maggi_noodles.png",
+        "alt": "Maggi Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "maggi",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "maggi",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 78,
+    "name": "Semiya Asirvad",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "180 g",
+    "pricing": {
+      "price": 440,
+      "mrp": 484,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 180 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_asirvad.png",
+        "alt": "Semiya Asirvad",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "asirvad",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "asirvad",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 79,
+    "name": "Maggi Noodles",
+    "brand": "Maggi",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 60,
+      "mrp": 66,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Maggi - Quick and tasty instant noodles for quick meals.",
+      "long": "Maggi - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/maggi_noodles.png",
+        "alt": "Maggi Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "maggi",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "maggi",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 80,
+    "name": "Sunfeast Yippee Yippee Noodles",
+    "brand": "Sunfeast Yippee",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 120,
+      "mrp": 132,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Sunfeast Yippee - Quick and tasty instant noodles for quick meals.",
+      "long": "Sunfeast Yippee - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/sunfeast_yippee_yippee_noodles.png",
+        "alt": "Sunfeast Yippee Yippee Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "sunfeast yippee",
+        "sunfeast",
+        "yippee",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "sunfeast yippee",
+        "sunfeast",
+        "yippee",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 81,
+    "name": "Maggi Noodles",
+    "brand": "Maggi",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 90,
+      "mrp": 99,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Maggi - Quick and tasty instant noodles for quick meals.",
+      "long": "Maggi - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/maggi_noodles.png",
+        "alt": "Maggi Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "maggi",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "maggi",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 82,
+    "name": "Sunfeast Yippee Yippee Noodles",
+    "brand": "Sunfeast Yippee",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 60,
+      "mrp": 66,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Sunfeast Yippee - Quick and tasty instant noodles for quick meals.",
+      "long": "Sunfeast Yippee - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/sunfeast_yippee_yippee_noodles.png",
+        "alt": "Sunfeast Yippee Yippee Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "sunfeast yippee",
+        "sunfeast",
+        "yippee",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "sunfeast yippee",
+        "sunfeast",
+        "yippee",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 83,
+    "name": "Inimai Semiya",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 19,
+      "mrp": 21,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/inimai_semiya.png",
+        "alt": "Inimai Semiya",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "inimai",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "inimai",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 84,
+    "name": "Anil Semiya Millet Combo (6In1)",
+    "brand": "Anil",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "180 g",
+    "pricing": {
+      "price": 160,
+      "mrp": 176,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Anil - Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Anil - Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 180 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/anil_semiya_millet_combo_6in1.png",
+        "alt": "Anil Semiya Millet Combo (6In1)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "anil",
+        "millet",
+        "combo",
+        "(6in1)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "anil",
+        "millet",
+        "combo",
+        "(6in1)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 85,
+    "name": "Semiya Daily (20Ps)",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "180 g",
+    "pricing": {
+      "price": 460,
+      "mrp": 506,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 180 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_daily_20ps.png",
+        "alt": "Semiya Daily (20Ps)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "daily",
+        "(20ps)",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "daily",
+        "(20ps)",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 86,
+    "name": "Maggi Noodles",
+    "brand": "Maggi",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 58,
+      "mrp": 64,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Maggi - Quick and tasty instant noodles for quick meals.",
+      "long": "Maggi - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/maggi_noodles.png",
+        "alt": "Maggi Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "maggi",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "maggi",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 87,
+    "name": "Maggi Noodles",
+    "brand": "Maggi",
+    "category": "Noodles & Pasta",
+    "subCategory": "Instant noodles",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 87,
+      "mrp": 96,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Maggi - Quick and tasty instant noodles for quick meals.",
+      "long": "Maggi - Quick and tasty instant noodles for quick meals. Ready in minutes for busy lifestyles. Perfect for snacks, lunch, or dinner. Available in various flavors. Trusted brand for instant meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/maggi_noodles.png",
+        "alt": "Maggi Noodles",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy lifestyle",
+        "maggi",
+        "noodles",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "instant noodles",
+        "quick meals",
+        "snacks",
+        "lunch",
+        "dinner",
+        "flavors",
+        "busy",
+        "maggi",
+        "noodles",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 88,
+    "name": "Semiya Inimai",
+    "brand": "Generic",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 19,
+      "mrp": 21,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_inimai.png",
+        "alt": "Semiya Inimai",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "inimai",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "inimai",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 89,
+    "name": "Semiya Bambino",
+    "brand": "Bambino",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "1 kg",
+    "pricing": {
+      "price": 99,
+      "mrp": 109,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Bambino - Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Bambino - Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 1 kg."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_bambino.png",
+        "alt": "Semiya Bambino",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "bambino",
+        "grams",
+        "g",
+        "kilogram",
+        "kg"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "bambino",
+        "g",
+        "kg"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 90,
+    "name": "Semiya Bambino",
+    "brand": "Bambino",
+    "category": "Noodles & Pasta",
+    "subCategory": "Vermicelli",
+    "variant": "90 g",
+    "pricing": {
+      "price": 10,
+      "mrp": 11,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Bambino - Premium vermicelli (semiya) for payasam and upma.",
+      "long": "Bambino - Premium vermicelli (semiya) for payasam and upma. Made from quality wheat/rice for perfect texture. Ideal for South Indian breakfast and desserts. Easy to cook and digest. Trusted brand for traditional recipes. Pack size: 90 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/noodles_pasta/semiya_bambino.png",
+        "alt": "Semiya Bambino",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "bambino",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vermicelli",
+        "semiya",
+        "payasam",
+        "upma",
+        "breakfast",
+        "desserts",
+        "south indian",
+        "bambino",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  }
+]

@@ -1,0 +1,1541 @@
+[
+  {
+    "id": 1,
+    "name": "Happy Happy Cakes",
+    "brand": "Generic",
+    "category": "Breads & Cakes",
+    "subCategory": "Cakes",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 5,
+      "mrp": 6,
+      "discount": 17,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Delicious cakes for celebrations and special occasions.",
+      "long": "Delicious cakes for celebrations and special occasions. Made from quality ingredients for moist texture. Available in vanilla, chocolate, and fruit flavors. Perfect for parties, gifts, and family gatherings. Freshly baked for best taste. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/breads_cakes/happy_happy_cakes.png",
+        "alt": "Happy Happy Cakes",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "cakes",
+        "birthday cake",
+        "vanilla cake",
+        "chocolate cake",
+        "celebration",
+        "bakery",
+        "party",
+        "happy",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "cakes",
+        "birthday",
+        "vanilla",
+        "chocolate",
+        "celebration",
+        "bakery",
+        "party",
+        "happy",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 2,
+    "name": "Wonder Cake",
+    "brand": "Generic",
+    "category": "Breads & Cakes",
+    "subCategory": "Cakes",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 35,
+      "mrp": 39,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Delicious cakes for celebrations and special occasions.",
+      "long": "Delicious cakes for celebrations and special occasions. Made from quality ingredients for moist texture. Available in vanilla, chocolate, and fruit flavors. Perfect for parties, gifts, and family gatherings. Freshly baked for best taste. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/breads_cakes/wonder_cake.png",
+        "alt": "Wonder Cake",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "cakes",
+        "birthday cake",
+        "vanilla cake",
+        "chocolate cake",
+        "celebration",
+        "bakery",
+        "party",
+        "wonder",
+        "cake",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "cakes",
+        "birthday",
+        "vanilla",
+        "chocolate",
+        "celebration",
+        "bakery",
+        "party",
+        "wonder",
+        "cake",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 3,
+    "name": "Nice Cake",
+    "brand": "Generic",
+    "category": "Breads & Cakes",
+    "subCategory": "Cakes",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 60,
+      "mrp": 66,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Delicious cakes for celebrations and special occasions.",
+      "long": "Delicious cakes for celebrations and special occasions. Made from quality ingredients for moist texture. Available in vanilla, chocolate, and fruit flavors. Perfect for parties, gifts, and family gatherings. Freshly baked for best taste. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/breads_cakes/nice_cake.png",
+        "alt": "Nice Cake",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "cakes",
+        "birthday cake",
+        "vanilla cake",
+        "chocolate cake",
+        "celebration",
+        "bakery",
+        "party",
+        "nice",
+        "cake",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "cakes",
+        "birthday",
+        "vanilla",
+        "chocolate",
+        "celebration",
+        "bakery",
+        "party",
+        "nice",
+        "cake",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 4,
+    "name": "Mysore Cake",
+    "brand": "Generic",
+    "category": "Breads & Cakes",
+    "subCategory": "Cakes",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 150,
+      "mrp": 165,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Delicious cakes for celebrations and special occasions.",
+      "long": "Delicious cakes for celebrations and special occasions. Made from quality ingredients for moist texture. Available in vanilla, chocolate, and fruit flavors. Perfect for parties, gifts, and family gatherings. Freshly baked for best taste. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/breads_cakes/mysore_cake.png",
+        "alt": "Mysore Cake",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "cakes",
+        "birthday cake",
+        "vanilla cake",
+        "chocolate cake",
+        "celebration",
+        "bakery",
+        "party",
+        "mysore",
+        "cake",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "cakes",
+        "birthday",
+        "vanilla",
+        "chocolate",
+        "celebration",
+        "bakery",
+        "party",
+        "mysore",
+        "cake",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 5,
+    "name": "Britannia Cake",
+    "brand": "Britannia",
+    "category": "Breads & Cakes",
+    "subCategory": "Cakes",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 10,
+      "mrp": 11,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Britannia - Delicious cakes for celebrations and special occasions.",
+      "long": "Britannia - Delicious cakes for celebrations and special occasions. Made from quality ingredients for moist texture. Available in vanilla, chocolate, and fruit flavors. Perfect for parties, gifts, and family gatherings. Freshly baked for best taste. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/breads_cakes/britannia_cake.png",
+        "alt": "Britannia Cake",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "cakes",
+        "birthday cake",
+        "vanilla cake",
+        "chocolate cake",
+        "celebration",
+        "bakery",
+        "party",
+        "britannia",
+        "cake",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "cakes",
+        "birthday",
+        "vanilla",
+        "chocolate",
+        "celebration",
+        "bakery",
+        "party",
+        "britannia",
+        "cake",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 6,
+    "name": "Britannia Cake",
+    "brand": "Britannia",
+    "category": "Breads & Cakes",
+    "subCategory": "Cakes",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 120,
+      "mrp": 132,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Britannia - Delicious cakes for celebrations and special occasions.",
+      "long": "Britannia - Delicious cakes for celebrations and special occasions. Made from quality ingredients for moist texture. Available in vanilla, chocolate, and fruit flavors. Perfect for parties, gifts, and family gatherings. Freshly baked for best taste. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/breads_cakes/britannia_cake.png",
+        "alt": "Britannia Cake",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "cakes",
+        "birthday cake",
+        "vanilla cake",
+        "chocolate cake",
+        "celebration",
+        "bakery",
+        "party",
+        "britannia",
+        "cake",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "cakes",
+        "birthday",
+        "vanilla",
+        "chocolate",
+        "celebration",
+        "bakery",
+        "party",
+        "britannia",
+        "cake",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 7,
+    "name": "Rate Cake (Get Out)",
+    "brand": "Generic",
+    "category": "Breads & Cakes",
+    "subCategory": "Cakes",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 324,
+      "mrp": 356,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Delicious cakes for celebrations and special occasions.",
+      "long": "Delicious cakes for celebrations and special occasions. Made from quality ingredients for moist texture. Available in vanilla, chocolate, and fruit flavors. Perfect for parties, gifts, and family gatherings. Freshly baked for best taste. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/breads_cakes/rate_cake_get_out.png",
+        "alt": "Rate Cake (Get Out)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "cakes",
+        "birthday cake",
+        "vanilla cake",
+        "chocolate cake",
+        "celebration",
+        "bakery",
+        "party",
+        "rate",
+        "cake",
+        "(get",
+        "out)",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "cakes",
+        "birthday",
+        "vanilla",
+        "chocolate",
+        "celebration",
+        "bakery",
+        "party",
+        "rate",
+        "cake",
+        "(get",
+        "out)",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 8,
+    "name": "Mysore Cake",
+    "brand": "Generic",
+    "category": "Breads & Cakes",
+    "subCategory": "Cakes",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 200,
+      "mrp": 220,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Delicious cakes for celebrations and special occasions.",
+      "long": "Delicious cakes for celebrations and special occasions. Made from quality ingredients for moist texture. Available in vanilla, chocolate, and fruit flavors. Perfect for parties, gifts, and family gatherings. Freshly baked for best taste. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/breads_cakes/mysore_cake.png",
+        "alt": "Mysore Cake",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "cakes",
+        "birthday cake",
+        "vanilla cake",
+        "chocolate cake",
+        "celebration",
+        "bakery",
+        "party",
+        "mysore",
+        "cake",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "cakes",
+        "birthday",
+        "vanilla",
+        "chocolate",
+        "celebration",
+        "bakery",
+        "party",
+        "mysore",
+        "cake",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 9,
+    "name": "Thenga Perichai Cake",
+    "brand": "Generic",
+    "category": "Breads & Cakes",
+    "subCategory": "Cakes",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 300,
+      "mrp": 330,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Delicious cakes for celebrations and special occasions.",
+      "long": "Delicious cakes for celebrations and special occasions. Made from quality ingredients for moist texture. Available in vanilla, chocolate, and fruit flavors. Perfect for parties, gifts, and family gatherings. Freshly baked for best taste. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/breads_cakes/thenga_perichai_cake.png",
+        "alt": "Thenga Perichai Cake",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "cakes",
+        "birthday cake",
+        "vanilla cake",
+        "chocolate cake",
+        "celebration",
+        "bakery",
+        "party",
+        "thenga",
+        "perichai",
+        "cake",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "cakes",
+        "birthday",
+        "vanilla",
+        "chocolate",
+        "celebration",
+        "bakery",
+        "party",
+        "thenga",
+        "perichai",
+        "cake",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 10,
+    "name": "Thenga Perichai Cake",
+    "brand": "Generic",
+    "category": "Breads & Cakes",
+    "subCategory": "Cakes",
+    "variant": "5 pcs",
+    "pricing": {
+      "price": 5,
+      "mrp": 6,
+      "discount": 17,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Delicious cakes for celebrations and special occasions.",
+      "long": "Delicious cakes for celebrations and special occasions. Made from quality ingredients for moist texture. Available in vanilla, chocolate, and fruit flavors. Perfect for parties, gifts, and family gatherings. Freshly baked for best taste. Pack size: 5 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/breads_cakes/thenga_perichai_cake.png",
+        "alt": "Thenga Perichai Cake",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "cakes",
+        "birthday cake",
+        "vanilla cake",
+        "chocolate cake",
+        "celebration",
+        "bakery",
+        "party",
+        "thenga",
+        "perichai",
+        "cake",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "cakes",
+        "birthday",
+        "vanilla",
+        "chocolate",
+        "celebration",
+        "bakery",
+        "party",
+        "thenga",
+        "perichai",
+        "cake",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 11,
+    "name": "Hh Camlin Swc Cake Rd-12-Jr",
+    "brand": "Generic",
+    "category": "Breads & Cakes",
+    "subCategory": "Cakes",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 20,
+      "mrp": 22,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Delicious cakes for celebrations and special occasions.",
+      "long": "Delicious cakes for celebrations and special occasions. Made from quality ingredients for moist texture. Available in vanilla, chocolate, and fruit flavors. Perfect for parties, gifts, and family gatherings. Freshly baked for best taste. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/breads_cakes/hh_camlin_swc_cake_rd_12_jr.png",
+        "alt": "Hh Camlin Swc Cake Rd-12-Jr",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "cakes",
+        "birthday cake",
+        "vanilla cake",
+        "chocolate cake",
+        "celebration",
+        "bakery",
+        "party",
+        "camlin",
+        "cake",
+        "rd-12-jr",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "cakes",
+        "birthday",
+        "vanilla",
+        "chocolate",
+        "celebration",
+        "bakery",
+        "party",
+        "camlin",
+        "cake",
+        "rd-12-jr",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 12,
+    "name": "Hh Camlin Swc Cake Rd-15-Jr",
+    "brand": "Generic",
+    "category": "Breads & Cakes",
+    "subCategory": "Cakes",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 30,
+      "mrp": 33,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Delicious cakes for celebrations and special occasions.",
+      "long": "Delicious cakes for celebrations and special occasions. Made from quality ingredients for moist texture. Available in vanilla, chocolate, and fruit flavors. Perfect for parties, gifts, and family gatherings. Freshly baked for best taste. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/breads_cakes/hh_camlin_swc_cake_rd_15_jr.png",
+        "alt": "Hh Camlin Swc Cake Rd-15-Jr",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "cakes",
+        "birthday cake",
+        "vanilla cake",
+        "chocolate cake",
+        "celebration",
+        "bakery",
+        "party",
+        "camlin",
+        "cake",
+        "rd-15-jr",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "cakes",
+        "birthday",
+        "vanilla",
+        "chocolate",
+        "celebration",
+        "bakery",
+        "party",
+        "camlin",
+        "cake",
+        "rd-15-jr",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 13,
+    "name": "Hh Camlin Swc Cake Rd-12-Jr Ovel",
+    "brand": "Generic",
+    "category": "Breads & Cakes",
+    "subCategory": "Cakes",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 35,
+      "mrp": 39,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Delicious cakes for celebrations and special occasions.",
+      "long": "Delicious cakes for celebrations and special occasions. Made from quality ingredients for moist texture. Available in vanilla, chocolate, and fruit flavors. Perfect for parties, gifts, and family gatherings. Freshly baked for best taste. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/breads_cakes/hh_camlin_swc_cake_rd_12_jr_ovel.png",
+        "alt": "Hh Camlin Swc Cake Rd-12-Jr Ovel",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "cakes",
+        "birthday cake",
+        "vanilla cake",
+        "chocolate cake",
+        "celebration",
+        "bakery",
+        "party",
+        "camlin",
+        "cake",
+        "rd-12-jr",
+        "ovel",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "cakes",
+        "birthday",
+        "vanilla",
+        "chocolate",
+        "celebration",
+        "bakery",
+        "party",
+        "camlin",
+        "cake",
+        "rd-12-jr",
+        "ovel",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 14,
+    "name": "Hh Camlin Swc Cake Rd-12'-Pl",
+    "brand": "Generic",
+    "category": "Breads & Cakes",
+    "subCategory": "Cakes",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 60,
+      "mrp": 66,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Delicious cakes for celebrations and special occasions.",
+      "long": "Delicious cakes for celebrations and special occasions. Made from quality ingredients for moist texture. Available in vanilla, chocolate, and fruit flavors. Perfect for parties, gifts, and family gatherings. Freshly baked for best taste. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/breads_cakes/hh_camlin_swc_cake_rd_12_pl.png",
+        "alt": "Hh Camlin Swc Cake Rd-12'-Pl",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "cakes",
+        "birthday cake",
+        "vanilla cake",
+        "chocolate cake",
+        "celebration",
+        "bakery",
+        "party",
+        "camlin",
+        "cake",
+        "rd-12'-pl",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "cakes",
+        "birthday",
+        "vanilla",
+        "chocolate",
+        "celebration",
+        "bakery",
+        "party",
+        "camlin",
+        "cake",
+        "rd-12'-pl",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 15,
+    "name": "Cake Fruit",
+    "brand": "Generic",
+    "category": "Breads & Cakes",
+    "subCategory": "Cakes",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 240,
+      "mrp": 264,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Delicious cakes for celebrations and special occasions.",
+      "long": "Delicious cakes for celebrations and special occasions. Made from quality ingredients for moist texture. Available in vanilla, chocolate, and fruit flavors. Perfect for parties, gifts, and family gatherings. Freshly baked for best taste. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/breads_cakes/cake_fruit.png",
+        "alt": "Cake Fruit",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "cakes",
+        "birthday cake",
+        "vanilla cake",
+        "chocolate cake",
+        "celebration",
+        "bakery",
+        "party",
+        "cake",
+        "fruit",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "cakes",
+        "birthday",
+        "vanilla",
+        "chocolate",
+        "celebration",
+        "bakery",
+        "party",
+        "cake",
+        "fruit",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 16,
+    "name": "Vanilla Bun Cake",
+    "brand": "Generic",
+    "category": "Breads & Cakes",
+    "subCategory": "Buns",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 250,
+      "mrp": 275,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Soft and fluffy buns for breakfast and snacks.",
+      "long": "Soft and fluffy buns for breakfast and snacks. Made from quality flour for light texture. Perfect with tea, coffee, or as quick bites. Available in various flavors. A bakery favorite for all age groups. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/breads_cakes/vanilla_bun_cake.png",
+        "alt": "Vanilla Bun Cake",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "buns",
+        "milk buns",
+        "dinner rolls",
+        "bakery",
+        "breakfast",
+        "snacks",
+        "tea time",
+        "vanilla",
+        "cake",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "buns",
+        "milk buns",
+        "bakery",
+        "breakfast",
+        "snacks",
+        "tea time",
+        "soft",
+        "vanilla",
+        "cake",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 17,
+    "name": "Kalla Mittai Mixer Cake",
+    "brand": "Generic",
+    "category": "Breads & Cakes",
+    "subCategory": "Cakes",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 250,
+      "mrp": 275,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Delicious cakes for celebrations and special occasions.",
+      "long": "Delicious cakes for celebrations and special occasions. Made from quality ingredients for moist texture. Available in vanilla, chocolate, and fruit flavors. Perfect for parties, gifts, and family gatherings. Freshly baked for best taste. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/breads_cakes/kalla_mittai_mixer_cake.png",
+        "alt": "Kalla Mittai Mixer Cake",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "cakes",
+        "birthday cake",
+        "vanilla cake",
+        "chocolate cake",
+        "celebration",
+        "bakery",
+        "party",
+        "kalla",
+        "mittai",
+        "mixer",
+        "cake",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "cakes",
+        "birthday",
+        "vanilla",
+        "chocolate",
+        "celebration",
+        "bakery",
+        "party",
+        "kalla",
+        "mittai",
+        "mixer",
+        "cake",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 18,
+    "name": "Cup Cake",
+    "brand": "Generic",
+    "category": "Breads & Cakes",
+    "subCategory": "Cakes",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 200,
+      "mrp": 220,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Delicious cakes for celebrations and special occasions.",
+      "long": "Delicious cakes for celebrations and special occasions. Made from quality ingredients for moist texture. Available in vanilla, chocolate, and fruit flavors. Perfect for parties, gifts, and family gatherings. Freshly baked for best taste. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/breads_cakes/cup_cake.png",
+        "alt": "Cup Cake",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "cakes",
+        "birthday cake",
+        "vanilla cake",
+        "chocolate cake",
+        "celebration",
+        "bakery",
+        "party",
+        "cake",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "cakes",
+        "birthday",
+        "vanilla",
+        "chocolate",
+        "celebration",
+        "bakery",
+        "party",
+        "cake",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 19,
+    "name": "Bun Cake",
+    "brand": "Generic",
+    "category": "Breads & Cakes",
+    "subCategory": "Buns",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 150,
+      "mrp": 165,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Soft and fluffy buns for breakfast and snacks.",
+      "long": "Soft and fluffy buns for breakfast and snacks. Made from quality flour for light texture. Perfect with tea, coffee, or as quick bites. Available in various flavors. A bakery favorite for all age groups. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/breads_cakes/bun_cake.png",
+        "alt": "Bun Cake",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "buns",
+        "milk buns",
+        "dinner rolls",
+        "bakery",
+        "breakfast",
+        "snacks",
+        "tea time",
+        "cake",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "buns",
+        "milk buns",
+        "bakery",
+        "breakfast",
+        "snacks",
+        "tea time",
+        "soft",
+        "cake",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 20,
+    "name": "Cup Cake Britannia",
+    "brand": "Britannia",
+    "category": "Breads & Cakes",
+    "subCategory": "Cakes",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 70,
+      "mrp": 77,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Britannia - Delicious cakes for celebrations and special occasions.",
+      "long": "Britannia - Delicious cakes for celebrations and special occasions. Made from quality ingredients for moist texture. Available in vanilla, chocolate, and fruit flavors. Perfect for parties, gifts, and family gatherings. Freshly baked for best taste. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/breads_cakes/cup_cake_britannia.png",
+        "alt": "Cup Cake Britannia",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "cakes",
+        "birthday cake",
+        "vanilla cake",
+        "chocolate cake",
+        "celebration",
+        "bakery",
+        "party",
+        "britannia",
+        "cake",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "cakes",
+        "birthday",
+        "vanilla",
+        "chocolate",
+        "celebration",
+        "bakery",
+        "party",
+        "britannia",
+        "cake",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 21,
+    "name": "Rose Rollcake",
+    "brand": "Generic",
+    "category": "Breads & Cakes",
+    "subCategory": "Buns",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 60,
+      "mrp": 66,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Soft and fluffy buns for breakfast and snacks.",
+      "long": "Soft and fluffy buns for breakfast and snacks. Made from quality flour for light texture. Perfect with tea, coffee, or as quick bites. Available in various flavors. A bakery favorite for all age groups. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/breads_cakes/rose_rollcake.png",
+        "alt": "Rose Rollcake",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "buns",
+        "milk buns",
+        "dinner rolls",
+        "bakery",
+        "breakfast",
+        "snacks",
+        "tea time",
+        "rose",
+        "rollcake",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "buns",
+        "milk buns",
+        "bakery",
+        "breakfast",
+        "snacks",
+        "tea time",
+        "soft",
+        "rose",
+        "rollcake",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 22,
+    "name": "Nice Cake",
+    "brand": "Generic",
+    "category": "Breads & Cakes",
+    "subCategory": "Cakes",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 150,
+      "mrp": 165,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Delicious cakes for celebrations and special occasions.",
+      "long": "Delicious cakes for celebrations and special occasions. Made from quality ingredients for moist texture. Available in vanilla, chocolate, and fruit flavors. Perfect for parties, gifts, and family gatherings. Freshly baked for best taste. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/breads_cakes/nice_cake.png",
+        "alt": "Nice Cake",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "cakes",
+        "birthday cake",
+        "vanilla cake",
+        "chocolate cake",
+        "celebration",
+        "bakery",
+        "party",
+        "nice",
+        "cake",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "cakes",
+        "birthday",
+        "vanilla",
+        "chocolate",
+        "celebration",
+        "bakery",
+        "party",
+        "nice",
+        "cake",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 23,
+    "name": "Bun Cake",
+    "brand": "Generic",
+    "category": "Breads & Cakes",
+    "subCategory": "Buns",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 250,
+      "mrp": 275,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Soft and fluffy buns for breakfast and snacks.",
+      "long": "Soft and fluffy buns for breakfast and snacks. Made from quality flour for light texture. Perfect with tea, coffee, or as quick bites. Available in various flavors. A bakery favorite for all age groups. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/breads_cakes/bun_cake.png",
+        "alt": "Bun Cake",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "buns",
+        "milk buns",
+        "dinner rolls",
+        "bakery",
+        "breakfast",
+        "snacks",
+        "tea time",
+        "cake",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "buns",
+        "milk buns",
+        "bakery",
+        "breakfast",
+        "snacks",
+        "tea time",
+        "soft",
+        "cake",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 24,
+    "name": "Cup Cake Sobisco",
+    "brand": "Generic",
+    "category": "Breads & Cakes",
+    "subCategory": "Cakes",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 60,
+      "mrp": 66,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Delicious cakes for celebrations and special occasions.",
+      "long": "Delicious cakes for celebrations and special occasions. Made from quality ingredients for moist texture. Available in vanilla, chocolate, and fruit flavors. Perfect for parties, gifts, and family gatherings. Freshly baked for best taste. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/breads_cakes/cup_cake_sobisco.png",
+        "alt": "Cup Cake Sobisco",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "cakes",
+        "birthday cake",
+        "vanilla cake",
+        "chocolate cake",
+        "celebration",
+        "bakery",
+        "party",
+        "cake",
+        "sobisco",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "cakes",
+        "birthday",
+        "vanilla",
+        "chocolate",
+        "celebration",
+        "bakery",
+        "party",
+        "cake",
+        "sobisco",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 25,
+    "name": "Cl Nice Cake",
+    "brand": "Generic",
+    "category": "Breads & Cakes",
+    "subCategory": "Cakes",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 60,
+      "mrp": 66,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Delicious cakes for celebrations and special occasions.",
+      "long": "Delicious cakes for celebrations and special occasions. Made from quality ingredients for moist texture. Available in vanilla, chocolate, and fruit flavors. Perfect for parties, gifts, and family gatherings. Freshly baked for best taste. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/breads_cakes/cl_nice_cake.png",
+        "alt": "Cl Nice Cake",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "cakes",
+        "birthday cake",
+        "vanilla cake",
+        "chocolate cake",
+        "celebration",
+        "bakery",
+        "party",
+        "nice",
+        "cake",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "cakes",
+        "birthday",
+        "vanilla",
+        "chocolate",
+        "celebration",
+        "bakery",
+        "party",
+        "nice",
+        "cake",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  }
+]

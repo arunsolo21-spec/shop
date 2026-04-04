@@ -1,0 +1,4277 @@
+[
+    {
+        "original_name": "surf excel soup.10Rs",
+        "clean_name": "Surf Excel Soup10Rs",
+        "brand": "Surf",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "surf excel soup Rs10 box",
+        "clean_name": "Surf Excel Soup Box",
+        "brand": "Surf",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 1400.0
+    },
+    {
+        "original_name": "surf excel soup Rs20",
+        "clean_name": "Surf Excel Soup",
+        "brand": "Surf",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "surf LIQ FL 500ml Rs.115",
+        "clean_name": "Surf Fl",
+        "brand": "Surf",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 130.0
+    },
+    {
+        "original_name": "vim lemon liqid Rs20",
+        "clean_name": "Vim Lemon Liqid",
+        "brand": "Vim",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "vim bar Rs.10",
+        "clean_name": "Vim",
+        "brand": "Vim",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "EXO round 250g box Rs.30",
+        "clean_name": "Exo Round  Box",
+        "brand": "Exo",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "EXO 500g round box rs.52",
+        "clean_name": "Exo  Round Box",
+        "brand": "Exo",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 52.0
+    },
+    {
+        "original_name": "vim bar Rs.5",
+        "clean_name": "Vim",
+        "brand": "Vim",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "vim bar Rs.5 box",
+        "clean_name": "Vim Box",
+        "brand": "Vim",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 945.0
+    },
+    {
+        "original_name": "goodKnight LIQ 1pcs",
+        "clean_name": "Goodknight",
+        "brand": "Goodknight",
+        "size": 1.0,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "goodKnight LIQ 30PCS",
+        "clean_name": "Goodknight",
+        "brand": "Goodknight",
+        "size": 30.0,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 2310.0
+    },
+    {
+        "original_name": "allout LIQ 1pcs",
+        "clean_name": "Allout",
+        "brand": "Allout",
+        "size": 1.0,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 69.0
+    },
+    {
+        "original_name": "EXO steelscurb box",
+        "clean_name": "Exo Steelscurb Box",
+        "brand": "Exo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 180.0
+    },
+    {
+        "original_name": "candles box",
+        "clean_name": "Candles Box",
+        "brand": "Candles",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "harpic red 500ml",
+        "clean_name": "Harpic Red",
+        "brand": "Harpic",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 105.0
+    },
+    {
+        "original_name": "harpic red 200ml",
+        "clean_name": "Harpic Red",
+        "brand": "Harpic",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 58.0
+    },
+    {
+        "original_name": "lizol sandol 500ml",
+        "clean_name": "Lizol Sandol",
+        "brand": "Lizol",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 98.0
+    },
+    {
+        "original_name": "lizol lavender 500ml",
+        "clean_name": "Lizol Lavender",
+        "brand": "Lizol",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 103.0
+    },
+    {
+        "original_name": "lizol neam 500ml",
+        "clean_name": "Lizol Neam",
+        "brand": "Lizol",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 103.0
+    },
+    {
+        "original_name": "lizol lime 500ml",
+        "clean_name": "Lizol Lime",
+        "brand": "Lizol",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 103.0
+    },
+    {
+        "original_name": "lizol floral 200ml",
+        "clean_name": "Lizol Floral",
+        "brand": "Lizol",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 42.0
+    },
+    {
+        "original_name": "lizol lime 200ml",
+        "clean_name": "Lizol Lime",
+        "brand": "Lizol",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "lizol lime 975ml",
+        "clean_name": "Lizol Lime",
+        "brand": "Lizol",
+        "size": 975.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 196.0
+    },
+    {
+        "original_name": "lizol neem 200ml",
+        "clean_name": "Lizol Neem",
+        "brand": "Lizol",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "samBrani T.P.R.G  Rs.20",
+        "clean_name": "Sambrani TPRG",
+        "brand": "Sambrani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "sambrani varshini cup Rs.72",
+        "clean_name": "Sambrani Varshini Cup",
+        "brand": "Sambrani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 72.0
+    },
+    {
+        "original_name": "sambrani TPRG Rs.20",
+        "clean_name": "Sambrani Tprg",
+        "brand": "Sambrani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "samBrani mangaldeep cup ",
+        "clean_name": "Sambrani Mangaldeep Cup",
+        "brand": "Sambrani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 72.0
+    },
+    {
+        "original_name": "samBrani mangaldeep ",
+        "clean_name": "Sambrani Mangaldeep",
+        "brand": "Sambrani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "goodKnight green coil Rs.37",
+        "clean_name": "Goodknight Green Coil",
+        "brand": "Goodknight",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 37.0
+    },
+    {
+        "original_name": "goodKnight maha jumbo coil",
+        "clean_name": "Goodknight Maha Jumbo Coil",
+        "brand": "Goodknight",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "hit chalk Rs.16",
+        "clean_name": "Hit Chalk",
+        "brand": "Hit",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "hunter \u0b88 \u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1",
+        "clean_name": "Hunter",
+        "brand": "Hunter",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 24.0
+    },
+    {
+        "original_name": "hit chalk Rs.16 saram(12ps)",
+        "clean_name": "Hit Chalk Saram",
+        "brand": "Hit",
+        "size": 12.0,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 192.0
+    },
+    {
+        "original_name": "hunter \u0b88 \u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 1saram24ps",
+        "clean_name": "Hunter   1Saram",
+        "brand": "Hunter",
+        "size": 24.0,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 576.0
+    },
+    {
+        "original_name": "hit spary black 200ml",
+        "clean_name": "Hit Spary Black",
+        "brand": "Hit",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 115.0
+    },
+    {
+        "original_name": "vim panchi Rs.10",
+        "clean_name": "Vim Panchi",
+        "brand": "Vim",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "vim panchi Rs.10(1.saram)",
+        "clean_name": "Vim Panchi 1Saram",
+        "brand": "Vim",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "EXO steelscurber",
+        "clean_name": "Exo Steelscurber",
+        "brand": "Exo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "surf LIQ matic Rs.225",
+        "clean_name": "Surf Matic",
+        "brand": "Surf",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 225.0
+    },
+    {
+        "original_name": "surf LIQ matic(F&L) Rs.225",
+        "clean_name": "Surf MaticFL",
+        "brand": "Surf",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 225.0
+    },
+    {
+        "original_name": "surf LIQ(t&l)500ml Rs.105",
+        "clean_name": "Surf TL",
+        "brand": "Surf",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 105.0
+    },
+    {
+        "original_name": "surf excel LIQ(Q&W)500ml Rs.90",
+        "clean_name": "Surf Excel QW",
+        "brand": "Surf",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "samBrani ottagam 10g",
+        "clean_name": "Sambrani Ottagam",
+        "brand": "Sambrani",
+        "size": 10.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "sambrani katti TPRG",
+        "clean_name": "Sambrani Katti Tprg",
+        "brand": "Sambrani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 28.0
+    },
+    {
+        "original_name": "samBrani ottagam 50g",
+        "clean_name": "Sambrani Ottagam",
+        "brand": "Sambrani",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 38.0
+    },
+    {
+        "original_name": "samBrani ottagam 20g",
+        "clean_name": "Sambrani Ottagam",
+        "brand": "Sambrani",
+        "size": 20.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "DD choco bar 60ml ",
+        "clean_name": "Dd Choco",
+        "brand": "Dd",
+        "size": 60.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "DD mini choco bar 35ml",
+        "clean_name": "Dd Mini Choco",
+        "brand": "Dd",
+        "size": 35.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "DD triple bar 70ml",
+        "clean_name": "Dd Triple",
+        "brand": "Dd",
+        "size": 70.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "DD nutty bar 65ml",
+        "clean_name": "Dd Nutty",
+        "brand": "Dd",
+        "size": 65.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "vim scruper Rs.10",
+        "clean_name": "Vim Scruper",
+        "brand": "Vim",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "Rin Rs5 saram",
+        "clean_name": "Rin Saram",
+        "brand": "Rin",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "acid 500ml",
+        "clean_name": "Acid",
+        "brand": "Acid",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "bar one Rs.10",
+        "clean_name": "One",
+        "brand": "One",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "bar one Rs.10(box)",
+        "clean_name": "One Box",
+        "brand": "One",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 240.0
+    },
+    {
+        "original_name": "harpic 200ml",
+        "clean_name": "Harpic",
+        "brand": "Harpic",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "kungumam 1kg",
+        "clean_name": "Kungumam",
+        "brand": "Kungumam",
+        "size": 1.0,
+        "unit": "kg",
+        "category": "Household & Cleaning",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "kungumam 50g",
+        "clean_name": "Kungumam",
+        "brand": "Kungumam",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 12.0
+    },
+    {
+        "original_name": "allout set Rs.89",
+        "clean_name": "Allout Set",
+        "brand": "Allout",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 89.0
+    },
+    {
+        "original_name": "tide 500g",
+        "clean_name": "Tide",
+        "brand": "Tide",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 66.0
+    },
+    {
+        "original_name": "harpic 500ml blue Rs.93",
+        "clean_name": "Harpic  Blue",
+        "brand": "Harpic",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 93.0
+    },
+    {
+        "original_name": "kungumam Rs.3",
+        "clean_name": "Kungumam",
+        "brand": "Kungumam",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 3.0
+    },
+    {
+        "original_name": "hunter \u0b88 \u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 24ps",
+        "clean_name": "Hunter",
+        "brand": "Hunter",
+        "size": 24.0,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 240.0
+    },
+    {
+        "original_name": "hunter \u0b95\u0bb0\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd 24ps",
+        "clean_name": "Hunter",
+        "brand": "Hunter",
+        "size": 24.0,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 480.0
+    },
+    {
+        "original_name": "hunter \u0b95\u0bb0\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd",
+        "clean_name": "Hunter",
+        "brand": "Hunter",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "Rin liquid 800ml",
+        "clean_name": "Rin Liquid",
+        "brand": "Rin",
+        "size": 800.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 125.0
+    },
+    {
+        "original_name": "computer sambrani ottagam(bntl)10ps",
+        "clean_name": "Computer Sambrani OttagamBntl",
+        "brand": "Computer",
+        "size": 10.0,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 180.0
+    },
+    {
+        "original_name": "computer sambrani ottagam1ps",
+        "clean_name": "Computer Sambrani Ottagam",
+        "brand": "Computer",
+        "size": 1.0,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 24.0
+    },
+    {
+        "original_name": "surf LIQ1ltr(t&l) Rs.199",
+        "clean_name": "Surf LiqTL",
+        "brand": "Surf",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 199.0
+    },
+    {
+        "original_name": "Rin liguid 430ml",
+        "clean_name": "Rin Liguid",
+        "brand": "Rin",
+        "size": 430.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "harpic 900ml",
+        "clean_name": "Harpic",
+        "brand": "Harpic",
+        "size": 900.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 167.0
+    },
+    {
+        "original_name": "thodapam apple broom Rs.165",
+        "clean_name": "Thodapam Apple Broom",
+        "brand": "Thodapam",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 165.0
+    },
+    {
+        "original_name": "staino tiles cliner 550ml",
+        "clean_name": "Staino Tiles Cliner",
+        "brand": "Staino",
+        "size": 550.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "staino 550ml Rs.150",
+        "clean_name": "Staino",
+        "brand": "Staino",
+        "size": 550.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "domex active green Rs.98",
+        "clean_name": "Domex Active Green",
+        "brand": "Domex",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 98.0
+    },
+    {
+        "original_name": "domex floor cleaner Rs.99",
+        "clean_name": "Domex Floor Cleaner",
+        "brand": "Domex",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 99.0
+    },
+    {
+        "original_name": "vim bar Rs.26",
+        "clean_name": "Vim",
+        "brand": "Vim",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 26.0
+    },
+    {
+        "original_name": "Rin liquid 200ml ",
+        "clean_name": "Rin Liquid",
+        "brand": "Rin",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 38.0
+    },
+    {
+        "original_name": "surf excel liq(t&l)1ltr pkt",
+        "clean_name": "Surf Excel TL Pkt",
+        "brand": "Surf",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 175.0
+    },
+    {
+        "original_name": "broom safar galaxy Rs.265 ",
+        "clean_name": "Broom Safar Galaxy",
+        "brand": "Broom",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 265.0
+    },
+    {
+        "original_name": "thodapam alif 5d steel broom",
+        "clean_name": "Thodapam Alif 5D Steel Broom",
+        "brand": "Thodapam",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 185.0
+    },
+    {
+        "original_name": "alif 5d steel broom no;5",
+        "clean_name": "Alif 5D Steel Broom No5",
+        "brand": "Alif",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 185.0
+    },
+    {
+        "original_name": "galaxygough broom no;4 ",
+        "clean_name": "Galaxygough Broom No4",
+        "brand": "Galaxygough",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 129.0
+    },
+    {
+        "original_name": "alif pipe broom no;2 ",
+        "clean_name": "Alif Pipe Broom No2",
+        "brand": "Alif",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 165.0
+    },
+    {
+        "original_name": "apple broom no;1",
+        "clean_name": "Apple Broom No1",
+        "brand": "Apple",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 165.0
+    },
+    {
+        "original_name": "Rin liquid ALA 200ml ",
+        "clean_name": "Rin Liquid Ala",
+        "brand": "Rin",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 42.0
+    },
+    {
+        "original_name": "Rin liquid ALA 800ml",
+        "clean_name": "Rin Liquid Ala",
+        "brand": "Rin",
+        "size": 800.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "Rin liguid ALA 430ml",
+        "clean_name": "Rin Liguid Ala",
+        "brand": "Rin",
+        "size": 430.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "broom alif pipe",
+        "clean_name": "Broom Alif Pipe",
+        "brand": "Broom",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 165.0
+    },
+    {
+        "original_name": "vim lemon liqid Rs.52",
+        "clean_name": "Vim Lemon Liqid",
+        "brand": "Vim",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 52.0
+    },
+    {
+        "original_name": "swipol LIQ detergent 1ltr",
+        "clean_name": "Swipol Detergent",
+        "brand": "Swipol",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 180.0
+    },
+    {
+        "original_name": "arial (T&L)1.ltr RS.220",
+        "clean_name": "Arial TL1Ltr",
+        "brand": "Arial",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 230.0
+    },
+    {
+        "original_name": "arial (F&L)1.ltr Rs.250",
+        "clean_name": "Arial FL1Ltr",
+        "brand": "Arial",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 250.0
+    },
+    {
+        "original_name": "arial(T&L)500ml Rs.109",
+        "clean_name": "ArialTL",
+        "brand": "Arial(T&L)",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 109.0
+    },
+    {
+        "original_name": "arial(F&L)500ml Rs.125",
+        "clean_name": "ArialFL",
+        "brand": "Arial(F&L)",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 125.0
+    },
+    {
+        "original_name": "comfort kosu vathi Rs.192",
+        "clean_name": "Comfort Kosu Vathi",
+        "brand": "Comfort",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 192.0
+    },
+    {
+        "original_name": "carry bag(s) Rs.10 pkt",
+        "clean_name": "Carry BagS Pkt",
+        "brand": "Carry",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "carry bag (m)Rs.20 pkt",
+        "clean_name": "Carry Bag M Pkt",
+        "brand": "Carry",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "kungumam Rs.3 saram",
+        "clean_name": "Kungumam Saram",
+        "brand": "Kungumam",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "samBrani mookkudal cup",
+        "clean_name": "Sambrani Mookkudal Cup",
+        "brand": "Sambrani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "goodKnight ultra LIQ 1pcs",
+        "clean_name": "Goodknight Ultra",
+        "brand": "Goodknight",
+        "size": 1.0,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 89.0
+    },
+    {
+        "original_name": "vim bar Rs.10(1.dozen)",
+        "clean_name": "Vim 1Dozen",
+        "brand": "Vim",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "vim bar Rs.5 (1.dozen)",
+        "clean_name": "Vim 1Dozen",
+        "brand": "Vim",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "compco bar Rs.110",
+        "clean_name": "Compco",
+        "brand": "Compco",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "steel scrup safaa Rs.15",
+        "clean_name": "Steel Scrup Safaa",
+        "brand": "Steel",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "sambrani katti anantham50g",
+        "clean_name": "Sambrani Katti Anantham",
+        "brand": "Sambrani",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "sambrani katti anantham 25g",
+        "clean_name": "Sambrani Katti Anantham",
+        "brand": "Sambrani",
+        "size": 25.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "campco bar Rs.110",
+        "clean_name": "Campco",
+        "brand": "Campco",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "vim liguid Rs.119",
+        "clean_name": "Vim Liguid",
+        "brand": "Vim",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 119.0
+    },
+    {
+        "original_name": "surf excel soup Rs.22 (box)",
+        "clean_name": "Surf Excel Soup Box",
+        "brand": "Surf",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 2200.0
+    },
+    {
+        "original_name": "arial liq(t.l)2.5ltr",
+        "clean_name": "Arial TL",
+        "brand": "Arial",
+        "size": 2.5,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 490.0
+    },
+    {
+        "original_name": "cookoo maha jumbo",
+        "clean_name": "Cookoo Maha Jumbo",
+        "brand": "Cookoo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 72.0
+    },
+    {
+        "original_name": "Rin  liguid ALA 500ml",
+        "clean_name": "Rin Liguid Ala",
+        "brand": "Rin",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 82.0
+    },
+    {
+        "original_name": "carry bag 10*12",
+        "clean_name": "Carry Bag 1012",
+        "brand": "Carry",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "carry bag 13*16",
+        "clean_name": "Carry Bag 1316",
+        "brand": "Carry",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "carry bag 17*23 white",
+        "clean_name": "Carry Bag 1723 White",
+        "brand": "Carry",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "Rin  liguid 500ml",
+        "clean_name": "Rin Liguid",
+        "brand": "Rin",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 82.0
+    },
+    {
+        "original_name": "carry bag (13*16)white",
+        "clean_name": "Carry Bag 1316White",
+        "brand": "Carry",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "computer sambrani suganthi",
+        "clean_name": "Computer Sambrani Suganthi",
+        "brand": "Computer",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 18.0
+    },
+    {
+        "original_name": "samBrani cup suganthi Rs.43",
+        "clean_name": "Sambrani Cup Suganthi",
+        "brand": "Sambrani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 43.0
+    },
+    {
+        "original_name": "revive liquid stiffener Rs.37",
+        "clean_name": "Revive Liquid Stiffener",
+        "brand": "Revive",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 38.0
+    },
+    {
+        "original_name": "tide soup Rs.10",
+        "clean_name": "Tide Soup",
+        "brand": "Tide",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "surf excel LIQ Rs.10",
+        "clean_name": "Surf Excel",
+        "brand": "Surf",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "surf excel LIQ Rs.10 saram",
+        "clean_name": "Surf Excel Saram",
+        "brand": "Surf",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "surf LIQ(t&l)1ltr Rs.210",
+        "clean_name": "Surf TL",
+        "brand": "Surf",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 210.0
+    },
+    {
+        "original_name": "black phenyl 450ml",
+        "clean_name": "Black Phenyl",
+        "brand": "Black",
+        "size": 450.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "arial (F.l)2.5ltr",
+        "clean_name": "Arial FL",
+        "brand": "Arial",
+        "size": 2.5,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 525.0
+    },
+    {
+        "original_name": "scruper Rs.37",
+        "clean_name": "Scruper",
+        "brand": "Scruper",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 37.0
+    },
+    {
+        "original_name": "tide soup set",
+        "clean_name": "Tide Soup Set",
+        "brand": "Tide",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "tide 500g lemon",
+        "clean_name": "Tide  Lemon",
+        "brand": "Tide",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "lizol rose 2ltr",
+        "clean_name": "Lizol Rose",
+        "brand": "Lizol",
+        "size": 2.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 380.0
+    },
+    {
+        "original_name": "surf LIQ matic(F&L) Rs.230",
+        "clean_name": "Surf MaticFL",
+        "brand": "Surf",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 230.0
+    },
+    {
+        "original_name": "surf LIQ FL.1ltr Rs.245",
+        "clean_name": "Surf Fl",
+        "brand": "Surf",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 245.0
+    },
+    {
+        "original_name": "surf LIQ (T/L) Rs.215",
+        "clean_name": "Surf TL",
+        "brand": "Surf",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "surf LIQ easy wash Rs.189",
+        "clean_name": "Surf Easy Wash",
+        "brand": "Surf",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 189.0
+    },
+    {
+        "original_name": "Rin liguid 430ml Rs.80",
+        "clean_name": "Rin Liguid",
+        "brand": "Rin",
+        "size": 430.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "tide 1kg lemon",
+        "clean_name": "Tide  Lemon",
+        "brand": "Tide",
+        "size": 1.0,
+        "unit": "kg",
+        "category": "Household & Cleaning",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "arial(T&L)500ml Rs.115",
+        "clean_name": "ArialTL",
+        "brand": "Arial(T&L)",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 115.0
+    },
+    {
+        "original_name": "harpic blue 200ml",
+        "clean_name": "Harpic Blue",
+        "brand": "Harpic",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 40.0
+    },
+    {
+        "original_name": "harpic blue 900ml",
+        "clean_name": "Harpic Blue",
+        "brand": "Harpic",
+        "size": 900.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 195.0
+    },
+    {
+        "original_name": "harpic red 1ltr",
+        "clean_name": "Harpic Red",
+        "brand": "Harpic",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 189.0
+    },
+    {
+        "original_name": "lizol neem 2ltr",
+        "clean_name": "Lizol Neem",
+        "brand": "Lizol",
+        "size": 2.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 380.0
+    },
+    {
+        "original_name": "lizol lavender 2ltr",
+        "clean_name": "Lizol Lavender",
+        "brand": "Lizol",
+        "size": 2.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 380.0
+    },
+    {
+        "original_name": "lizol floral 975ml",
+        "clean_name": "Lizol Floral",
+        "brand": "Lizol",
+        "size": 975.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 210.0
+    },
+    {
+        "original_name": "lizol lavender 975ml",
+        "clean_name": "Lizol Lavender",
+        "brand": "Lizol",
+        "size": 975.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 196.0
+    },
+    {
+        "original_name": "lizol jasmine 975ml",
+        "clean_name": "Lizol Jasmine",
+        "brand": "Lizol",
+        "size": 975.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 196.0
+    },
+    {
+        "original_name": "lizol santol 500ml",
+        "clean_name": "Lizol Santol",
+        "brand": "Lizol",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 103.0
+    },
+    {
+        "original_name": "lizol floral 500ml",
+        "clean_name": "Lizol Floral",
+        "brand": "Lizol",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 116.0
+    },
+    {
+        "original_name": "lizol fine 500ml",
+        "clean_name": "Lizol Fine",
+        "brand": "Lizol",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 103.0
+    },
+    {
+        "original_name": "lizol jasmine 200ml",
+        "clean_name": "Lizol Jasmine",
+        "brand": "Lizol",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 48.0
+    },
+    {
+        "original_name": "surf excel soup Rs.15",
+        "clean_name": "Surf Excel Soup",
+        "brand": "Surf",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "surf excel soup 15Rs",
+        "clean_name": "Surf Excel Soup 15Rs",
+        "brand": "Surf",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "lizol jasmine 500ml",
+        "clean_name": "Lizol Jasmine",
+        "brand": "Lizol",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 123.0
+    },
+    {
+        "original_name": "Rin liguid 430ml Rs.70",
+        "clean_name": "Rin Liguid",
+        "brand": "Rin",
+        "size": 430.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "Rin liguid 430ml Rs.85",
+        "clean_name": "Rin Liguid",
+        "brand": "Rin",
+        "size": 430.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "Rin liquid ALA 500ml Rs.85 ",
+        "clean_name": "Rin Liquid Ala",
+        "brand": "Rin",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "mop color steel no.2",
+        "clean_name": "Mop Color Steel No2",
+        "brand": "Mop",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "mop wood no.3",
+        "clean_name": "Mop Wood No3",
+        "brand": "Mop",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "samBrani cup maya Rs.72",
+        "clean_name": "Sambrani Cup Maya",
+        "brand": "Sambrani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 72.0
+    },
+    {
+        "original_name": "broom galaxy steel (1) Rs.195 ",
+        "clean_name": "Broom Galaxy Steel 1",
+        "brand": "Broom",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 195.0
+    },
+    {
+        "original_name": "broom alif broom(2)Rs.180",
+        "clean_name": "Broom Alif Broom2",
+        "brand": "Broom",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 180.0
+    },
+    {
+        "original_name": "broom Rose steel(3)Rs.160",
+        "clean_name": "Broom Rose Steel3",
+        "brand": "Broom",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "broom safar tulsi(4) Rs.225 ",
+        "clean_name": "Broom Safar Tulsi4",
+        "brand": "Broom",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 225.0
+    },
+    {
+        "original_name": "broom alif jumpo 3g(5)Rs.155",
+        "clean_name": "Broom Alif Jumpo 5",
+        "brand": "Broom",
+        "size": 3.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 155.0
+    },
+    {
+        "original_name": "broom alif pipe(6)Rs.165",
+        "clean_name": "Broom Alif Pipe6",
+        "brand": "Broom",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 165.0
+    },
+    {
+        "original_name": "broom safar steel zinc(7) Rs.265 ",
+        "clean_name": "Broom Safar Steel Zinc7",
+        "brand": "Broom",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 265.0
+    },
+    {
+        "original_name": "appolo toilet cleaner 400ml Rs.80",
+        "clean_name": "Appolo Toilet Cleaner",
+        "brand": "Appolo",
+        "size": 400.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "appolo floor cleaner 400ml Rs.80",
+        "clean_name": "Appolo Floor Cleaner",
+        "brand": "Appolo",
+        "size": 400.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "surf LIQ (T/L) Rs.210",
+        "clean_name": "Surf TL",
+        "brand": "Surf",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 210.0
+    },
+    {
+        "original_name": "surf LIQ F/L 500ml Rs.115",
+        "clean_name": "Surf FL",
+        "brand": "Surf",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 115.0
+    },
+    {
+        "original_name": "surf LIQ (F/L) 500ml Rs.115",
+        "clean_name": "Surf FL",
+        "brand": "Surf",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 115.0
+    },
+    {
+        "original_name": "tide 500g Rs.69",
+        "clean_name": "Tide",
+        "brand": "Tide",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 69.0
+    },
+    {
+        "original_name": "tide 500g Rs.64",
+        "clean_name": "Tide",
+        "brand": "Tide",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 64.0
+    },
+    {
+        "original_name": "tide 1.kg Rs.138",
+        "clean_name": "Tide 1Kg",
+        "brand": "Tide",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 138.0
+    },
+    {
+        "original_name": "EXO 500g round box rs.55",
+        "clean_name": "Exo  Round Box",
+        "brand": "Exo",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "goodKnight green coil Rs.38",
+        "clean_name": "Goodknight Green Coil",
+        "brand": "Goodknight",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 38.0
+    },
+    {
+        "original_name": "broom jasmine small(3)Rs.114",
+        "clean_name": "Broom Jasmine Small3",
+        "brand": "Broom",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 114.0
+    },
+    {
+        "original_name": "broom safar tulsi rough(4) Rs.225 ",
+        "clean_name": "Broom Safar Tulsi Rough4",
+        "brand": "Broom",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 225.0
+    },
+    {
+        "original_name": "broom deluxe rough(8)Rs.265",
+        "clean_name": "Broom Deluxe Rough8",
+        "brand": "Broom",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 265.0
+    },
+    {
+        "original_name": "broom china wood(8)Rs.165",
+        "clean_name": "Broom China Wood8",
+        "brand": "Broom",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 165.0
+    },
+    {
+        "original_name": "broom deluxe rough(9)Rs.265",
+        "clean_name": "Broom Deluxe Rough9",
+        "brand": "Broom",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 265.0
+    },
+    {
+        "original_name": "surf LIQ (T/L) Rs.220",
+        "clean_name": "Surf TL",
+        "brand": "Surf",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 220.0
+    },
+    {
+        "original_name": "surf excel soup.Rs.35",
+        "clean_name": "Surf Excel Soup",
+        "brand": "Surf",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "surf excel 1/2kg blue Rs.79",
+        "clean_name": "Surf Excel 1 Blue",
+        "brand": "Surf",
+        "size": 2.0,
+        "unit": "kg",
+        "category": "Household & Cleaning",
+        "mrp": 79.0
+    },
+    {
+        "original_name": "surf excel soup Rs.35",
+        "clean_name": "Surf Excel Soup",
+        "brand": "Surf",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 35.0
+    },
+    {
+        "original_name": "vim lemon liqid Rs.49",
+        "clean_name": "Vim Lemon Liqid",
+        "brand": "Vim",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 49.0
+    },
+    {
+        "original_name": "lizol citrus 500ml",
+        "clean_name": "Lizol Citrus",
+        "brand": "Lizol",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 116.0
+    },
+    {
+        "original_name": "lizol citrus 200ml",
+        "clean_name": "Lizol Citrus",
+        "brand": "Lizol",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 42.0
+    },
+    {
+        "original_name": "arial(F&L)500ml Rs.130",
+        "clean_name": "ArialFL",
+        "brand": "Arial(F&L)",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 130.0
+    },
+    {
+        "original_name": "arial (T&L)500ml Rs.115",
+        "clean_name": "Arial TL",
+        "brand": "Arial",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 115.0
+    },
+    {
+        "original_name": "surf excel liq(t&l)500ml Rs.112",
+        "clean_name": "Surf Excel TL",
+        "brand": "Surf",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 112.0
+    },
+    {
+        "original_name": "Rin ALA 200ml ",
+        "clean_name": "Rin Ala",
+        "brand": "Rin",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 42.0
+    },
+    {
+        "original_name": "Rin ALA 500ml",
+        "clean_name": "Rin Ala",
+        "brand": "Rin",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 82.0
+    },
+    {
+        "original_name": "Rin ALA 500ml Rs.85 ",
+        "clean_name": "Rin Ala",
+        "brand": "Rin",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "vim lemon liqid Rs.55",
+        "clean_name": "Vim Lemon Liqid",
+        "brand": "Vim",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 55.0
+    },
+    {
+        "original_name": "surf excel (Q&W) 1.kg Rs.240",
+        "clean_name": "Surf Excel QW 1Kg",
+        "brand": "Surf",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 240.0
+    },
+    {
+        "original_name": "computer sambrani ottagam Rs.24",
+        "clean_name": "Computer Sambrani Ottagam",
+        "brand": "Computer",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 24.0
+    },
+    {
+        "original_name": "sambrani katti 50g TPRG",
+        "clean_name": "Sambrani Katti  Tprg",
+        "brand": "Sambrani",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 28.0
+    },
+    {
+        "original_name": "vim liguid Rs.125",
+        "clean_name": "Vim Liguid",
+        "brand": "Vim",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 125.0
+    },
+    {
+        "original_name": "computer sambrani suganthi Rs.18",
+        "clean_name": "Computer Sambrani Suganthi",
+        "brand": "Computer",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 18.0
+    },
+    {
+        "original_name": "samBrani mookkudal cup Rs.50",
+        "clean_name": "Sambrani Mookkudal Cup",
+        "brand": "Sambrani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "computer sambrani ottagam Rs.28",
+        "clean_name": "Computer Sambrani Ottagam",
+        "brand": "Computer",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 28.0
+    },
+    {
+        "original_name": "Rin ALA 200ml.Rs.44 ",
+        "clean_name": "Rin Ala",
+        "brand": "Rin",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "surf LIQ (F/L) 1L Rs.250",
+        "clean_name": "Surf FL",
+        "brand": "Surf",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 250.0
+    },
+    {
+        "original_name": "samBrani mangaldeep computer",
+        "clean_name": "Sambrani Mangaldeep Computer",
+        "brand": "Sambrani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "computer samBrani mangaldeep ",
+        "clean_name": "Computer Sambrani Mangaldeep",
+        "brand": "Computer",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 18.0
+    },
+    {
+        "original_name": "broom Rose steel Rs.160",
+        "clean_name": "Broom Rose Steel",
+        "brand": "Broom",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "arial (T&L)1.ltr RS.230",
+        "clean_name": "Arial TL1Ltr",
+        "brand": "Arial",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 230.0
+    },
+    {
+        "original_name": "EXO round 250g box Rs.32",
+        "clean_name": "Exo Round  Box",
+        "brand": "Exo",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 32.0
+    },
+    {
+        "original_name": "domex lime fresh Rs.102",
+        "clean_name": "Domex Lime Fresh",
+        "brand": "Domex",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 102.0
+    },
+    {
+        "original_name": "computer sambrani koya's&maya Rs.15",
+        "clean_name": "Computer Sambrani KoyaSMaya",
+        "brand": "Computer",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "goodKnight gold flash",
+        "clean_name": "Goodknight Gold Flash",
+        "brand": "Goodknight",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 95.0
+    },
+    {
+        "original_name": "broom plastic ",
+        "clean_name": "Broom Plastic",
+        "brand": "Broom",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "goodKnight gold flash machine set",
+        "clean_name": "Goodknight Gold Flash Machine Set",
+        "brand": "Goodknight",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 95.0
+    },
+    {
+        "original_name": "surf LIQ FL 500ml Rs.130",
+        "clean_name": "Surf Fl",
+        "brand": "Surf",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 130.0
+    },
+    {
+        "original_name": "lizol citrus 975ml",
+        "clean_name": "Lizol Citrus",
+        "brand": "Lizol",
+        "size": 975.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 221.0
+    },
+    {
+        "original_name": "EXO steel scurber",
+        "clean_name": "Exo Steel Scurber",
+        "brand": "Exo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "arial liq TL 2.5ml",
+        "clean_name": "Arial Tl",
+        "brand": "Arial",
+        "size": 2.5,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 548.0
+    },
+    {
+        "original_name": "arial liq FL 2.5ml",
+        "clean_name": "Arial Fl",
+        "brand": "Arial",
+        "size": 2.5,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 625.0
+    },
+    {
+        "original_name": "tide 500g Rs.66",
+        "clean_name": "Tide",
+        "brand": "Tide",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 66.0
+    },
+    {
+        "original_name": "tide 500g Rs.71",
+        "clean_name": "Tide",
+        "brand": "Tide",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 71.0
+    },
+    {
+        "original_name": "tide 1kg Rs.146",
+        "clean_name": "Tide",
+        "brand": "Tide",
+        "size": 1.0,
+        "unit": "kg",
+        "category": "Household & Cleaning",
+        "mrp": 146.0
+    },
+    {
+        "original_name": "tide 500g Rs.73",
+        "clean_name": "Tide",
+        "brand": "Tide",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 76.0
+    },
+    {
+        "original_name": "EXO 500g round box rs.60",
+        "clean_name": "Exo  Round Box",
+        "brand": "Exo",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "samBrani cup DELTA ",
+        "clean_name": "Sambrani Cup Delta",
+        "brand": "Sambrani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 84.0
+    },
+    {
+        "original_name": "allout set Rs.95",
+        "clean_name": "Allout Set",
+        "brand": "Allout",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 95.0
+    },
+    {
+        "original_name": "surf excel(T&L)1ltr pouch Rs.185",
+        "clean_name": "Surf ExcelTL Pouch",
+        "brand": "Surf",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 185.0
+    },
+    {
+        "original_name": "surf excel(F&L)1ltr pouch Rs.199",
+        "clean_name": "Surf ExcelFL Pouch",
+        "brand": "Surf",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 199.0
+    },
+    {
+        "original_name": "cup mangaldeep treya sambrani",
+        "clean_name": "Cup Mangaldeep Treya Sambrani",
+        "brand": "Cup",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "sambrani cup mangaldeep treya",
+        "clean_name": "Sambrani Cup Mangaldeep Treya",
+        "brand": "Sambrani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "goodKnight gold flash set Rs.109",
+        "clean_name": "Goodknight Gold Flash Set",
+        "brand": "Goodknight",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 109.0
+    },
+    {
+        "original_name": "surf LIQ (F/L) 1L Rs.230",
+        "clean_name": "Surf FL",
+        "brand": "Surf",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 230.0
+    },
+    {
+        "original_name": "arial (T&L)1.ltr RS.235",
+        "clean_name": "Arial TL1Ltr",
+        "brand": "Arial",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 235.0
+    },
+    {
+        "original_name": "surf LIQ (F/L) 1L Rs 250",
+        "clean_name": "Surf FL",
+        "brand": "Surf",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 250.0
+    },
+    {
+        "original_name": "comfort kosu vathi Rs.16",
+        "clean_name": "Comfort Kosu Vathi",
+        "brand": "Comfort",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 16.0
+    },
+    {
+        "original_name": "MILTON scrubber ",
+        "clean_name": "Milton Scrubber",
+        "brand": "Milton",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "surf LIQ (F/L) 500ml",
+        "clean_name": "Surf FL",
+        "brand": "Surf",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 127.0
+    },
+    {
+        "original_name": "GO strong mosquito lqu 50rs",
+        "clean_name": "Go Strong Mosquito Lqu 50Rs",
+        "brand": "Go",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "arial (T&L)500ml Rs.122",
+        "clean_name": "Arial TL",
+        "brand": "Arial",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 122.0
+    },
+    {
+        "original_name": "lizol sandol 200ml",
+        "clean_name": "Lizol Sandol",
+        "brand": "Lizol",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 116.0
+    },
+    {
+        "original_name": "gopura kungumam 50g",
+        "clean_name": "Gopura Kungumam",
+        "brand": "Gopura",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 12.0
+    },
+    {
+        "original_name": "surf excel soup.Rs.10",
+        "clean_name": "Surf Excel Soup",
+        "brand": "Surf",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "sambrani cup mangaldeep Rs.72",
+        "clean_name": "Sambrani Cup Mangaldeep",
+        "brand": "Sambrani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 72.0
+    },
+    {
+        "original_name": "harpic 500ml blue",
+        "clean_name": "Harpic  Blue",
+        "brand": "Harpic",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "arial(F&L) 1ltr",
+        "clean_name": "ArialFL",
+        "brand": "Arial(F&L)",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 265.0
+    },
+    {
+        "original_name": "magic herbal cleaner",
+        "clean_name": "Magic Herbal Cleaner",
+        "brand": "Magic",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 350.0
+    },
+    {
+        "original_name": "vim liguid Rs.15 pkt",
+        "clean_name": "Vim Liguid Pkt",
+        "brand": "Vim",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "tide soup white RS 10",
+        "clean_name": "Tide Soup White",
+        "brand": "Tide",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "tide soup blue Rs.10",
+        "clean_name": "Tide Soup Blue",
+        "brand": "Tide",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "surf excel LIQ (T/L)500ml Rs.120",
+        "clean_name": "Surf Excel TL",
+        "brand": "Surf",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "lizol neem 500ml",
+        "clean_name": "Lizol Neem",
+        "brand": "Lizol",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "revive liquid stiffener 95g",
+        "clean_name": "Revive Liquid Stiffener",
+        "brand": "Revive",
+        "size": 95.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 38.0
+    },
+    {
+        "original_name": "surf LIQ FL 500ml",
+        "clean_name": "Surf Fl",
+        "brand": "Surf",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 130.0
+    },
+    {
+        "original_name": "tide liquid T/L 850ml Rs.179",
+        "clean_name": "Tide Liquid TL",
+        "brand": "Tide",
+        "size": 850.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 179.0
+    },
+    {
+        "original_name": "tide liquid F/L 850ml Rs.209",
+        "clean_name": "Tide Liquid FL",
+        "brand": "Tide",
+        "size": 850.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 209.0
+    },
+    {
+        "original_name": "arial (T&L)1.ltr ",
+        "clean_name": "Arial TL1Ltr",
+        "brand": "Arial",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 235.0
+    },
+    {
+        "original_name": "harpic 1ltr",
+        "clean_name": "Harpic",
+        "brand": "Harpic",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 225.0
+    },
+    {
+        "original_name": "lizol neem 200ml MRP 42",
+        "clean_name": "Lizol Neem  42",
+        "brand": "Lizol",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 42.0
+    },
+    {
+        "original_name": "lizol ROSE 200ml MRP 42",
+        "clean_name": "Lizol Rose  42",
+        "brand": "Lizol",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 42.0
+    },
+    {
+        "original_name": "lizol  LEMON 200ml MRP 42",
+        "clean_name": "Lizol Lemon  42",
+        "brand": "Lizol",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 42.0
+    },
+    {
+        "original_name": "sambrani varshini cup Rs76",
+        "clean_name": "Sambrani Varshini Cup",
+        "brand": "Sambrani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 76.0
+    },
+    {
+        "original_name": "GO strong mosquito lqu SET",
+        "clean_name": "Go Strong Mosquito Lqu Set",
+        "brand": "Go",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 65.0
+    },
+    {
+        "original_name": "mix fruit.steel glass.Rs.200",
+        "clean_name": "Mix FruitSteel Glass",
+        "brand": "Mix",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "twinkle dishwash bar Rs.5",
+        "clean_name": "Twinkle Dishwash",
+        "brand": "Twinkle",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "twinkle dishwash bar Rs.10",
+        "clean_name": "Twinkle Dishwash",
+        "brand": "Twinkle",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "lizol lime 975ml.Rs.210",
+        "clean_name": "Lizol Lime",
+        "brand": "Lizol",
+        "size": 975.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 210.0
+    },
+    {
+        "original_name": "lizol jasmine 975ml.Rs.210",
+        "clean_name": "Lizol Jasmine",
+        "brand": "Lizol",
+        "size": 975.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 210.0
+    },
+    {
+        "original_name": "vim liguid 500ml",
+        "clean_name": "Vim Liguid",
+        "brand": "Vim",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 130.0
+    },
+    {
+        "original_name": "vim lemon liqid 250ml",
+        "clean_name": "Vim Lemon Liqid",
+        "brand": "Vim",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "computer sambrani sivam",
+        "clean_name": "Computer Sambrani Sivam",
+        "brand": "Computer",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 24.0
+    },
+    {
+        "original_name": "computer sambrani sivam Rs.24",
+        "clean_name": "Computer Sambrani Sivam",
+        "brand": "Computer",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 24.0
+    },
+    {
+        "original_name": "surf LIQ easy wash Rs.205",
+        "clean_name": "Surf Easy Wash",
+        "brand": "Surf",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 205.0
+    },
+    {
+        "original_name": "surf LIQ (T/L) Rs160",
+        "clean_name": "Surf TL",
+        "brand": "Surf",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "Rin ALA 500ml Rs.89",
+        "clean_name": "Rin Ala",
+        "brand": "Rin",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 89.0
+    },
+    {
+        "original_name": "samBrani cup Kolam",
+        "clean_name": "Sambrani Cup Kolam",
+        "brand": "Sambrani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "tounge cleaner saram",
+        "clean_name": "Tounge Cleaner Saram",
+        "brand": "Tounge",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 200.0
+    },
+    {
+        "original_name": "tide liquid F/L 850ml Rs.155",
+        "clean_name": "Tide Liquid FL",
+        "brand": "Tide",
+        "size": 850.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 155.0
+    },
+    {
+        "original_name": "surf excel(F&L)1ltr pouch",
+        "clean_name": "Surf ExcelFL Pouch",
+        "brand": "Surf",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 175.0
+    },
+    {
+        "original_name": "revive liquid stiffener 400g Rs.155",
+        "clean_name": "Revive Liquid Stiffener",
+        "brand": "Revive",
+        "size": 400.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 154.0
+    },
+    {
+        "original_name": "revive liquid stiffener 400g",
+        "clean_name": "Revive Liquid Stiffener",
+        "brand": "Revive",
+        "size": 400.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 155.0
+    },
+    {
+        "original_name": "surf easywash liq Rs.189",
+        "clean_name": "Surf Easywash",
+        "brand": "Surf",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 189.0
+    },
+    {
+        "original_name": "surf LIQ FL Rs.185",
+        "clean_name": "Surf Fl",
+        "brand": "Surf",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 185.0
+    },
+    {
+        "original_name": "surf LIQ TL 1ltr Rs.160",
+        "clean_name": "Surf Tl",
+        "brand": "Surf",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "surf LIQ FL 1ltr Rs.185",
+        "clean_name": "Surf Fl",
+        "brand": "Surf",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 185.0
+    },
+    {
+        "original_name": "tide 500g Rs.76",
+        "clean_name": "Tide",
+        "brand": "Tide",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 76.0
+    },
+    {
+        "original_name": "surf excel (Q&W)1kg.Rs.220",
+        "clean_name": "Surf Excel QW",
+        "brand": "Surf",
+        "size": 1.0,
+        "unit": "kg",
+        "category": "Household & Cleaning",
+        "mrp": 220.0
+    },
+    {
+        "original_name": "goodKnight LIQ mini set Rs.50",
+        "clean_name": "Goodknight Mini Set",
+        "brand": "Goodknight",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 50.0
+    },
+    {
+        "original_name": "Shakthi dishwash sope Rs.10",
+        "clean_name": "Shakthi Dishwash Sope",
+        "brand": "Shakthi",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "Sakthi dishwash sope Rs.10",
+        "clean_name": "Sakthi Dishwash Sope",
+        "brand": "Sakthi",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "vim bar 250g tub",
+        "clean_name": "Vim  Tub",
+        "brand": "Vim",
+        "size": 250.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 27.0
+    },
+    {
+        "original_name": "surf excel 1/2 kg blue Rs.84",
+        "clean_name": "Surf Excel 1 Blue",
+        "brand": "Surf",
+        "size": 2.0,
+        "unit": "kg",
+        "category": "Household & Cleaning",
+        "mrp": 84.0
+    },
+    {
+        "original_name": "surf LIQ Rs.10",
+        "clean_name": "Surf",
+        "brand": "Surf",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "godrej genteel liquid detergent 957ml",
+        "clean_name": "Godrej Genteel Liquid Detergent",
+        "brand": "Godrej",
+        "size": 957.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "vathi sambrani Rs.6 dozen",
+        "clean_name": "Vathi Sambrani Dozen",
+        "brand": "Vathi",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "gopura kungumam 40g",
+        "clean_name": "Gopura Kungumam",
+        "brand": "Gopura",
+        "size": 40.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 12.0
+    },
+    {
+        "original_name": "sambrani navin cup rs.72 ",
+        "clean_name": "Sambrani Navin Cup",
+        "brand": "Sambrani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 72.0
+    },
+    {
+        "original_name": "sambrani navin cup rs.32",
+        "clean_name": "Sambrani Navin Cup",
+        "brand": "Sambrani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 32.0
+    },
+    {
+        "original_name": "sambrani sandalum cone rs.10",
+        "clean_name": "Sambrani Sandalum Cone",
+        "brand": "Sambrani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "lizol neem 200ml Rs.42",
+        "clean_name": "Lizol Neem",
+        "brand": "Lizol",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 42.0
+    },
+    {
+        "original_name": "lizol citrus 200ml Rs.42",
+        "clean_name": "Lizol Citrus",
+        "brand": "Lizol",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 42.0
+    },
+    {
+        "original_name": "lizol floral 200ml Rs.42",
+        "clean_name": "Lizol Floral",
+        "brand": "Lizol",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 42.0
+    },
+    {
+        "original_name": "lizol jasmine 200ml Rs.42",
+        "clean_name": "Lizol Jasmine",
+        "brand": "Lizol",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 42.0
+    },
+    {
+        "original_name": "feeding bottle steel rs.499",
+        "clean_name": "Feeding Bottle Steel",
+        "brand": "Feeding",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 499.0
+    },
+    {
+        "original_name": "Flask steel",
+        "clean_name": "Flask Steel",
+        "brand": "Flask",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 449.0
+    },
+    {
+        "original_name": "tounge cleaner ps",
+        "clean_name": "Tounge Cleaner Ps",
+        "brand": "Tounge",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 12.0
+    },
+    {
+        "original_name": "allout LIQ 45ml Rs.80",
+        "clean_name": "Allout",
+        "brand": "Allout",
+        "size": 45.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 80.0
+    },
+    {
+        "original_name": "naturo fruit bar jar Rs.5",
+        "clean_name": "Naturo Fruit Jar",
+        "brand": "Naturo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "surf excel(T&L)1ltr pouch Rs.175",
+        "clean_name": "Surf ExcelTL Pouch",
+        "brand": "Surf",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 149.0
+    },
+    {
+        "original_name": "surf excel LIQ (Q&W) 1LTR Rs.205",
+        "clean_name": "Surf Excel QW",
+        "brand": "Surf",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 205.0
+    },
+    {
+        "original_name": "surf LIQ FL 500ml Rs.127",
+        "clean_name": "Surf Fl",
+        "brand": "Surf",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 127.0
+    },
+    {
+        "original_name": "surf xl easywash liq 1LTR Rs.189",
+        "clean_name": "Surf Xl Easywash",
+        "brand": "Surf",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 189.0
+    },
+    {
+        "original_name": "arial liq T&L500ml Rs.122",
+        "clean_name": "Arial TL",
+        "brand": "Arial",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 122.0
+    },
+    {
+        "original_name": "arial liq T&L500ml Rs.120",
+        "clean_name": "Arial TL",
+        "brand": "Arial",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "samBrani maya supreme sambrani cup Rs.70",
+        "clean_name": "Sambrani Maya Supreme Sambrani Cup",
+        "brand": "Sambrani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 70.0
+    },
+    {
+        "original_name": "Scrubz dishwash 500ml (1+1)",
+        "clean_name": "Scrubz Dishwash  11",
+        "brand": "Scrubz",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 270.0
+    },
+    {
+        "original_name": "surf excel matic (T&L) 1ltr Rs.190",
+        "clean_name": "Surf Excel Matic TL",
+        "brand": "Surf",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 190.0
+    },
+    {
+        "original_name": "arial (T&L) 1ltr Rs.160",
+        "clean_name": "Arial TL",
+        "brand": "Arial",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "hit chalk Rs.18",
+        "clean_name": "Hit Chalk",
+        "brand": "Hit",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 18.0
+    },
+    {
+        "original_name": "goodKnight gold flash machine set Rs.100",
+        "clean_name": "Goodknight Gold Flash Machine Set",
+        "brand": "Goodknight",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "challenge rolax Rs.10",
+        "clean_name": "Challenge Rolax",
+        "brand": "Challenge",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "challenge rolax Rs.10 175g",
+        "clean_name": "Challenge Rolax",
+        "brand": "Challenge",
+        "size": 175.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "gopuram kungumam sivapu 40g",
+        "clean_name": "Gopuram Kungumam Sivapu",
+        "brand": "Gopuram",
+        "size": 40.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "tide sope combo 3+1",
+        "clean_name": "Tide Sope Combo 31",
+        "brand": "Tide",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "goodKnight green coil Rs.36",
+        "clean_name": "Goodknight Green Coil",
+        "brand": "Goodknight",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 36.0
+    },
+    {
+        "original_name": "tide liquid T/L 840ml Rs.129",
+        "clean_name": "Tide Liquid TL",
+        "brand": "Tide",
+        "size": 840.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 129.0
+    },
+    {
+        "original_name": "allout set Rs.90",
+        "clean_name": "Allout Set",
+        "brand": "Allout",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "allout LIQ 45ml Rs.70",
+        "clean_name": "Allout",
+        "brand": "Allout",
+        "size": 45.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "goodKnight green shakti coil Rs.40",
+        "clean_name": "Goodknight Green Shakti Coil",
+        "brand": "Goodknight",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 41.0
+    },
+    {
+        "original_name": "surf excel(T&L)1ltr pouch Rs.149",
+        "clean_name": "Surf ExcelTL Pouch",
+        "brand": "Surf",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 149.0
+    },
+    {
+        "original_name": "harpic blue 200ml Rs.44",
+        "clean_name": "Harpic Blue",
+        "brand": "Harpic",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 44.0
+    },
+    {
+        "original_name": "surf MTR LIQ (F/L) 1L Rs 220",
+        "clean_name": "Surf Mtr FL",
+        "brand": "Surf",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 220.0
+    },
+    {
+        "original_name": "samBrani cup maya Rs.75",
+        "clean_name": "Sambrani Cup Maya",
+        "brand": "Sambrani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "monkey ozone floor clear Rs.95",
+        "clean_name": "Monkey Ozone Floor Clear",
+        "brand": "Monkey",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 95.0
+    },
+    {
+        "original_name": "godrej FAB LIQ detergent 1L",
+        "clean_name": "Godrej Fab Detergent",
+        "brand": "Godrej",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 99.0
+    },
+    {
+        "original_name": "domex lime fresh 500ml",
+        "clean_name": "Domex Lime Fresh",
+        "brand": "Domex",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 102.0
+    },
+    {
+        "original_name": "arial complete+ 700g Rs.158",
+        "clean_name": "Arial Complete",
+        "brand": "Arial",
+        "size": 700.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 158.0
+    },
+    {
+        "original_name": "arial complete+ 1.5k Rs.338",
+        "clean_name": "Arial Complete 15K",
+        "brand": "Arial",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 338.0
+    },
+    {
+        "original_name": "sambrani cup mangaldeep Rs.75",
+        "clean_name": "Sambrani Cup Mangaldeep",
+        "brand": "Sambrani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "baby feeding bottle steel rs.499",
+        "clean_name": "Baby Feeding Bottle Steel",
+        "brand": "Baby",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 499.0
+    },
+    {
+        "original_name": "vim bar 500g tub",
+        "clean_name": "Vim  Tub",
+        "brand": "Vim",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 49.0
+    },
+    {
+        "original_name": "nippo mosquito bat mini",
+        "clean_name": "Nippo Mosquito Bat Mini",
+        "brand": "Nippo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 649.0
+    },
+    {
+        "original_name": "tide 1.kg Rs.146",
+        "clean_name": "Tide 1Kg",
+        "brand": "Tide",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 146.0
+    },
+    {
+        "original_name": "tide liquid T/L 840ml Rs.130",
+        "clean_name": "Tide Liquid TL",
+        "brand": "Tide",
+        "size": 840.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 130.0
+    },
+    {
+        "original_name": "vim liguid gel 125ml Rs.15 pkt",
+        "clean_name": "Vim Liguid Gel  Pkt",
+        "brand": "Vim",
+        "size": 125.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "lizol germichek lime 200ml",
+        "clean_name": "Lizol Germichek Lime",
+        "brand": "Lizol",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 42.0
+    },
+    {
+        "original_name": "lizol germichek green 200ml",
+        "clean_name": "Lizol Germichek Green",
+        "brand": "Lizol",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 42.0
+    },
+    {
+        "original_name": "lizol germichek rose 200ml",
+        "clean_name": "Lizol Germichek Rose",
+        "brand": "Lizol",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 42.0
+    },
+    {
+        "original_name": "lizol germichek lavender 200ml",
+        "clean_name": "Lizol Germichek Lavender",
+        "brand": "Lizol",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 42.0
+    },
+    {
+        "original_name": "Rin liguid 50ml Rs.10",
+        "clean_name": "Rin Liguid",
+        "brand": "Rin",
+        "size": 50.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "Rin liquid 800ml Rs.130",
+        "clean_name": "Rin Liquid",
+        "brand": "Rin",
+        "size": 800.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 130.0
+    },
+    {
+        "original_name": "arial (T&L) pouch 1L Rs.165",
+        "clean_name": "Arial TL Pouch",
+        "brand": "Arial",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 165.0
+    },
+    {
+        "original_name": "tounge cleaner pkt ",
+        "clean_name": "Tounge Cleaner Pkt",
+        "brand": "Tounge",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 100.0
+    },
+    {
+        "original_name": "xll LIQ Rs.10",
+        "clean_name": "Xll",
+        "brand": "Xll",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "xll LIQ (F/L) 1lit pouch",
+        "clean_name": "Xll FL  Pouch",
+        "brand": "Xll",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 185.0
+    },
+    {
+        "original_name": "baby feeding bottle steel rs.399",
+        "clean_name": "Baby Feeding Bottle Steel",
+        "brand": "Baby",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 399.0
+    },
+    {
+        "original_name": "baby feeding bottle steel rs.299",
+        "clean_name": "Baby Feeding Bottle Steel",
+        "brand": "Baby",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 299.0
+    },
+    {
+        "original_name": "naturo mango bar jar Rs.5",
+        "clean_name": "Naturo Mango Jar",
+        "brand": "Naturo",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "cleaner toilet 400g Rs.175 ",
+        "clean_name": "Cleaner Toilet",
+        "brand": "Cleaner",
+        "size": 400.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 175.0
+    },
+    {
+        "original_name": "cleaner floor 400g Rs.175 ",
+        "clean_name": "Cleaner Floor",
+        "brand": "Cleaner",
+        "size": 400.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 175.0
+    },
+    {
+        "original_name": "cleaner diswash 400g Rs.175 ",
+        "clean_name": "Cleaner Diswash",
+        "brand": "Cleaner",
+        "size": 400.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 175.0
+    },
+    {
+        "original_name": "lizol sandol 500ml Rs.116",
+        "clean_name": "Lizol Sandol",
+        "brand": "Lizol",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 116.0
+    },
+    {
+        "original_name": "lizol floral 500ml Rs.116",
+        "clean_name": "Lizol Floral",
+        "brand": "Lizol",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 116.0
+    },
+    {
+        "original_name": "domex Ocean Fresh 500ml",
+        "clean_name": "Domex Ocean Fresh",
+        "brand": "Domex",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 102.0
+    },
+    {
+        "original_name": "tide sope combo 4+1",
+        "clean_name": "Tide Sope Combo 41",
+        "brand": "Tide",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 125.0
+    },
+    {
+        "original_name": "tide sope combo 4+1 Rs.125",
+        "clean_name": "Tide Sope Combo 41",
+        "brand": "Tide",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 125.0
+    },
+    {
+        "original_name": "lizol citrus 500ml Rs.116",
+        "clean_name": "Lizol Citrus",
+        "brand": "Lizol",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 116.0
+    },
+    {
+        "original_name": "Rin liguid 430ml Rs.90",
+        "clean_name": "Rin Liguid",
+        "brand": "Rin",
+        "size": 430.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 90.0
+    },
+    {
+        "original_name": "arial Liquid 1L Rs.265",
+        "clean_name": "Arial Liquid",
+        "brand": "Arial",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 265.0
+    },
+    {
+        "original_name": "arial Lqd()F/L) 1L Rs.265",
+        "clean_name": "Arial LqdFL",
+        "brand": "Arial",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 265.0
+    },
+    {
+        "original_name": "arial liq(T/L) Rs.158",
+        "clean_name": "Arial TL",
+        "brand": "Arial",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 158.0
+    },
+    {
+        "original_name": "arial liq (T/L)1/2lit Rs.138 ",
+        "clean_name": "Arial TL1",
+        "brand": "Arial",
+        "size": 2.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 138.0
+    },
+    {
+        "original_name": "arial liq(F&L)1.ltr Rs.250",
+        "clean_name": "Arial FL1Ltr",
+        "brand": "Arial",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 250.0
+    },
+    {
+        "original_name": "arial liq(T/L) 1ltr Rs.160",
+        "clean_name": "Arial TL",
+        "brand": "Arial",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "arial Lqd(F/L) 1L Rs.265",
+        "clean_name": "Arial LqdFL",
+        "brand": "Arial",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 265.0
+    },
+    {
+        "original_name": "tounge cleaner",
+        "clean_name": "Tounge Cleaner",
+        "brand": "Tounge",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "choco bar Rs.5 box",
+        "clean_name": "Choco Box",
+        "brand": "Choco",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "lizol citrus 200ml Rs.45",
+        "clean_name": "Lizol Citrus",
+        "brand": "Lizol",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 48.0
+    },
+    {
+        "original_name": "lizol floral 200ml Rs.45",
+        "clean_name": "Lizol Floral",
+        "brand": "Lizol",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 48.0
+    },
+    {
+        "original_name": "harpic red 500ml Rs.110",
+        "clean_name": "Harpic Red",
+        "brand": "Harpic",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "arial (T&L) 1L Rs.165 pkt",
+        "clean_name": "Arial TL  Pkt",
+        "brand": "Arial",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 165.0
+    },
+    {
+        "original_name": "arial (F&L) 1L Rs.190 pkt",
+        "clean_name": "Arial FL  Pkt",
+        "brand": "Arial",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 190.0
+    },
+    {
+        "original_name": "arial complete+ 700g Rs.160",
+        "clean_name": "Arial Complete",
+        "brand": "Arial",
+        "size": 700.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 160.0
+    },
+    {
+        "original_name": "xll LIQ (F/L) mtr 1L Rs.250",
+        "clean_name": "Xll FL Mtr",
+        "brand": "Xll",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 250.0
+    },
+    {
+        "original_name": "EXO round box 500g Rs.60",
+        "clean_name": "Exo Round Box",
+        "brand": "Exo",
+        "size": 500.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "arial liq FL 2.5ml Rs.612",
+        "clean_name": "Arial Fl",
+        "brand": "Arial",
+        "size": 2.5,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 612.0
+    },
+    {
+        "original_name": "drain cleaner 50g Rs.25",
+        "clean_name": "Drain Cleaner",
+        "brand": "Drain",
+        "size": 50.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "domex floor cleaner 500ml Rs.114",
+        "clean_name": "Domex Floor Cleaner",
+        "brand": "Domex",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 114.0
+    },
+    {
+        "original_name": "Rin liquid F/L 850ml Rs.165",
+        "clean_name": "Rin Liquid FL",
+        "brand": "Rin",
+        "size": 850.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 165.0
+    },
+    {
+        "original_name": "revive liquid stiffener 95ml",
+        "clean_name": "Revive Liquid Stiffener",
+        "brand": "Revive",
+        "size": 95.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 38.0
+    },
+    {
+        "original_name": "revive liquid stiffener 200ml",
+        "clean_name": "Revive Liquid Stiffener",
+        "brand": "Revive",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 81.0
+    },
+    {
+        "original_name": "domex toilet cleaner 90g Rs.10",
+        "clean_name": "Domex Toilet Cleaner",
+        "brand": "Domex",
+        "size": 90.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "Tide Blue Bar 1kg",
+        "clean_name": "Tide Blue",
+        "brand": "Tide",
+        "size": 1.0,
+        "unit": "kg",
+        "category": "Household & Cleaning",
+        "mrp": 125.0
+    },
+    {
+        "original_name": "VIM  steel scrup Rs.25",
+        "clean_name": "Vim Steel Scrup",
+        "brand": "Vim",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "VIM scrup 2in1 Rs.25",
+        "clean_name": "Vim Scrup 2In1",
+        "brand": "Vim",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "harpic red 200",
+        "clean_name": "Harpic Red 200",
+        "brand": "Harpic",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 58.0
+    },
+    {
+        "original_name": "arial T&L 1L pkt rs.173",
+        "clean_name": "Arial TL  Pkt",
+        "brand": "Arial",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 173.0
+    },
+    {
+        "original_name": "arial (F&L) 1L pkt Rs.199",
+        "clean_name": "Arial FL  Pkt",
+        "brand": "Arial",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 199.0
+    },
+    {
+        "original_name": "mango fruit bar Rs.5",
+        "clean_name": "Mango Fruit",
+        "brand": "Mango",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 300.0
+    },
+    {
+        "original_name": "goodKnight comfort vathi Rs.144",
+        "clean_name": "Goodknight Comfort Vathi",
+        "brand": "Goodknight",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 144.0
+    },
+    {
+        "original_name": "gopuram kungumam sivapu 20g RS.9",
+        "clean_name": "Gopuram Kungumam Sivapu",
+        "brand": "Gopuram",
+        "size": 20.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 9.0
+    },
+    {
+        "original_name": "harpic red 250ml",
+        "clean_name": "Harpic Red",
+        "brand": "Harpic",
+        "size": 250.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 58.0
+    },
+    {
+        "original_name": "Rin liquid 800ml Rs.145",
+        "clean_name": "Rin Liquid",
+        "brand": "Rin",
+        "size": 800.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 145.0
+    },
+    {
+        "original_name": "goodKnight maha jumbo coil Rs.43",
+        "clean_name": "Goodknight Maha Jumbo Coil",
+        "brand": "Goodknight",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 43.0
+    },
+    {
+        "original_name": "goodKnight green coil Rs.45",
+        "clean_name": "Goodknight Green Coil",
+        "brand": "Goodknight",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "nestle bar one Rs.5",
+        "clean_name": "Nestle One",
+        "brand": "Nestle",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 5.0
+    },
+    {
+        "original_name": "sambrani katti 25g",
+        "clean_name": "Sambrani Katti",
+        "brand": "Sambrani",
+        "size": 25.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 15.0
+    },
+    {
+        "original_name": "sambrani katti 10g",
+        "clean_name": "Sambrani Katti",
+        "brand": "Sambrani",
+        "size": 10.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 6.0
+    },
+    {
+        "original_name": "computer sambrani rythm Rs.10",
+        "clean_name": "Computer Sambrani Rythm",
+        "brand": "Computer",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "mop monkey.Rs.290",
+        "clean_name": "Mop Monkey",
+        "brand": "Mop",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 290.0
+    },
+    {
+        "original_name": "mop monkey.Rs.320",
+        "clean_name": "Mop Monkey",
+        "brand": "Mop",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 320.0
+    },
+    {
+        "original_name": "mop monkey.Rs.230",
+        "clean_name": "Mop Monkey",
+        "brand": "Mop",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 230.0
+    },
+    {
+        "original_name": "goodKnight LIQ ps Rs.80",
+        "clean_name": "Goodknight Ps",
+        "brand": "Goodknight",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "hit chalk Rs.20",
+        "clean_name": "Hit Chalk",
+        "brand": "Hit",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "harpic blue 200ml Rs.46",
+        "clean_name": "Harpic Blue",
+        "brand": "Harpic",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 46.0
+    },
+    {
+        "original_name": "goodKnight LIQ ps 45ML",
+        "clean_name": "Goodknight Ps",
+        "brand": "Goodknight",
+        "size": 45.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "lizol pineapple 500ml Rs.116",
+        "clean_name": "Lizol Pineapple",
+        "brand": "Lizol",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 116.0
+    },
+    {
+        "original_name": "arial T&L 3L pouch ",
+        "clean_name": "Arial TL  Pouch",
+        "brand": "Arial",
+        "size": 3.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 610.0
+    },
+    {
+        "original_name": "shining vim liquid 100ml",
+        "clean_name": "Shining Vim Liquid",
+        "brand": "Shining",
+        "size": 100.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "harpic blue 500ml",
+        "clean_name": "Harpic Blue",
+        "brand": "Harpic",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "goodKnight green shakti coil Rs.41",
+        "clean_name": "Goodknight Green Shakti Coil",
+        "brand": "Goodknight",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 41.0
+    },
+    {
+        "original_name": "vim lemon liqid Rs.199",
+        "clean_name": "Vim Lemon Liqid",
+        "brand": "Vim",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 199.0
+    },
+    {
+        "original_name": "mil curd bucket 5kg ",
+        "clean_name": "Mil Curd Bucket",
+        "brand": "Mil",
+        "size": 5.0,
+        "unit": "kg",
+        "category": "Household & Cleaning",
+        "mrp": 470.0
+    },
+    {
+        "original_name": "mil curd bucket 10kg ",
+        "clean_name": "Mil Curd Bucket",
+        "brand": "Mil",
+        "size": 10.0,
+        "unit": "kg",
+        "category": "Household & Cleaning",
+        "mrp": 925.0
+    },
+    {
+        "original_name": "vim lemon ligid pouch 500ml",
+        "clean_name": "Vim Lemon Ligid Pouch",
+        "brand": "Vim",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 99.0
+    },
+    {
+        "original_name": "samBrani ilakkiya cup Rs.110",
+        "clean_name": "Sambrani Ilakkiya Cup",
+        "brand": "Sambrani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "Rin liquid 800ml pouch (t/l)",
+        "clean_name": "Rin Liquid  Pouch TL",
+        "brand": "Rin",
+        "size": 800.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 99.0
+    },
+    {
+        "original_name": "Rin liquid 800ml pouch (f/l)",
+        "clean_name": "Rin Liquid  Pouch FL",
+        "brand": "Rin",
+        "size": 800.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 115.0
+    },
+    {
+        "original_name": "vim floor cleaner lizol 500ml",
+        "clean_name": "Vim Floor Cleaner Lizol",
+        "brand": "Vim",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "lizol citrus 500ml Rs.123",
+        "clean_name": "Lizol Citrus",
+        "brand": "Lizol",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 129.0
+    },
+    {
+        "original_name": "ponvandu liquid 1L rs.110",
+        "clean_name": "Ponvandu Liquid",
+        "brand": "Ponvandu",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 110.0
+    },
+    {
+        "original_name": "xll LIQ (F/L) mtr 1L Rs.199",
+        "clean_name": "Xll FL Mtr",
+        "brand": "Xll",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 199.0
+    },
+    {
+        "original_name": "domex floor cleaner 500ml Rs.120",
+        "clean_name": "Domex Floor Cleaner",
+        "brand": "Domex",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "lizol neam 200ml Rs.45",
+        "clean_name": "Lizol Neam",
+        "brand": "Lizol",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 45.0
+    },
+    {
+        "original_name": "arial T&L pouch 1L rs.179",
+        "clean_name": "Arial TL Pouch",
+        "brand": "Arial",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 179.0
+    },
+    {
+        "original_name": "arial liq T&L rs.10",
+        "clean_name": "Arial TL",
+        "brand": "Arial",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "arial liq F&L rs.10",
+        "clean_name": "Arial FL",
+        "brand": "Arial",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "lizol floral 200ml Rs.48",
+        "clean_name": "Lizol Floral",
+        "brand": "Lizol",
+        "size": 200.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 48.0
+    },
+    {
+        "original_name": "gopuram kungumam sivapu 20g RS.9 (sf red)",
+        "clean_name": "Gopuram Kungumam Sivapu  Sf Red",
+        "brand": "Gopuram",
+        "size": 20.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 9.0
+    },
+    {
+        "original_name": "gopuram kungumam sivapu 40g (sf red)",
+        "clean_name": "Gopuram Kungumam Sivapu  Sf Red",
+        "brand": "Gopuram",
+        "size": 40.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "carry bag (24*27) BLUE",
+        "clean_name": "Carry Bag 2427 Blue",
+        "brand": "Carry",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "sambrani Thillai cup Rs.60",
+        "clean_name": "Sambrani Thillai Cup",
+        "brand": "Sambrani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 60.0
+    },
+    {
+        "original_name": "lizol floral 500ml+",
+        "clean_name": "Lizol Floral",
+        "brand": "Lizol",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 123.0
+    },
+    {
+        "original_name": "hit rat mat",
+        "clean_name": "Hit Rat Mat",
+        "brand": "Hit",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 120.0
+    },
+    {
+        "original_name": "allout LIQ 45ml Rs.85",
+        "clean_name": "Allout",
+        "brand": "Allout",
+        "size": 45.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 85.0
+    },
+    {
+        "original_name": "lizol citrus 975ml rs.235",
+        "clean_name": "Lizol Citrus",
+        "brand": "Lizol",
+        "size": 975.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 235.0
+    },
+    {
+        "original_name": "comfort goodnight kosuvathi Rs.180",
+        "clean_name": "Comfort Goodnight Kosuvathi",
+        "brand": "Comfort",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 180.0
+    },
+    {
+        "original_name": "power tyko liquid 5lr",
+        "clean_name": "Power Tyko Liquid 5Lr",
+        "brand": "Power",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 415.0
+    },
+    {
+        "original_name": "vim liqid Rs10",
+        "clean_name": "Vim Liqid",
+        "brand": "Vim",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 10.0
+    },
+    {
+        "original_name": "arial liq FL 500ml Rs.138",
+        "clean_name": "Arial Fl",
+        "brand": "Arial",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 138.0
+    },
+    {
+        "original_name": "godrej genteel liquid detergent 1kg",
+        "clean_name": "Godrej Genteel Liquid Detergent",
+        "brand": "Godrej",
+        "size": 1.0,
+        "unit": "kg",
+        "category": "Household & Cleaning",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "Jay Ec Wash Liquid 2L Rs.99",
+        "clean_name": "Jay Ec Wash Liquid",
+        "brand": "Jay",
+        "size": 2.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 99.0
+    },
+    {
+        "original_name": "goodKnight gold flash machine set Rs.105",
+        "clean_name": "Goodknight Gold Flash Machine Set",
+        "brand": "Goodknight",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 105.0
+    },
+    {
+        "original_name": "mango bar pkt Rs.1 ",
+        "clean_name": "Mango Pkt",
+        "brand": "Mango",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 24.0
+    },
+    {
+        "original_name": "harpic red 500ml Rs.115",
+        "clean_name": "Harpic Red",
+        "brand": "Harpic",
+        "size": 500.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 115.0
+    },
+    {
+        "original_name": "Rin liquid 850ml Rs.150",
+        "clean_name": "Rin Liquid",
+        "brand": "Rin",
+        "size": 850.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "Rin liquid 850ml Rs.150 JAR",
+        "clean_name": "Rin Liquid  Jar",
+        "brand": "Rin",
+        "size": 850.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 150.0
+    },
+    {
+        "original_name": "harpic blue 1ltr",
+        "clean_name": "Harpic Blue",
+        "brand": "Harpic",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 219.0
+    },
+    {
+        "original_name": "vim bar Rs.20",
+        "clean_name": "Vim",
+        "brand": "Vim",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 20.0
+    },
+    {
+        "original_name": "allout set Rs.105",
+        "clean_name": "Allout Set",
+        "brand": "Allout",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 105.0
+    },
+    {
+        "original_name": "harpic blue power 900ml ",
+        "clean_name": "Harpic Blue Power",
+        "brand": "Harpic",
+        "size": 900.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 195.0
+    },
+    {
+        "original_name": "kungumam TPRG 30g RED",
+        "clean_name": "Kungumam Tprg  Red",
+        "brand": "Kungumam",
+        "size": 30.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "kungumam TPRG 30g Merun",
+        "clean_name": "Kungumam Tprg  Merun",
+        "brand": "Kungumam",
+        "size": 30.0,
+        "unit": "g",
+        "category": "Household & Cleaning",
+        "mrp": 30.0
+    },
+    {
+        "original_name": "vim liguid Rs.25",
+        "clean_name": "Vim Liguid",
+        "brand": "Vim",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 25.0
+    },
+    {
+        "original_name": "sambrani treya cup mangaldeep Rs.75",
+        "clean_name": "Sambrani Treya Cup Mangaldeep",
+        "brand": "Sambrani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "domex 1ltr Rs.235",
+        "clean_name": "Domex",
+        "brand": "Domex",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 235.0
+    },
+    {
+        "original_name": "arial liq F&L 1L  ",
+        "clean_name": "Arial FL",
+        "brand": "Arial",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 209.0
+    },
+    {
+        "original_name": "arial liq F&L 1Ltr",
+        "clean_name": "Arial FL",
+        "brand": "Arial",
+        "size": 1.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 209.0
+    },
+    {
+        "original_name": "555 scruper",
+        "clean_name": "555 Scruper",
+        "brand": "555",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 180.0
+    },
+    {
+        "original_name": "scruper 555",
+        "clean_name": "Scruper 555",
+        "brand": "Scruper",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 180.0
+    },
+    {
+        "original_name": "Rin liquid 850ml jar (f/l)",
+        "clean_name": "Rin Liquid  Jar FL",
+        "brand": "Rin",
+        "size": 850.0,
+        "unit": "ml",
+        "category": "Household & Cleaning",
+        "mrp": 170.0
+    },
+    {
+        "original_name": "samBrani mangaldeep cupTREYA  ",
+        "clean_name": "Sambrani Mangaldeep Cuptreya",
+        "brand": "Sambrani",
+        "size": 1,
+        "unit": "pcs",
+        "category": "Household & Cleaning",
+        "mrp": 75.0
+    },
+    {
+        "original_name": "Shakthi detergent liq 5ltr",
+        "clean_name": "Shakthi Detergent",
+        "brand": "Shakthi",
+        "size": 5.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 415.0
+    },
+    {
+        "original_name": "Shakthi detergent liq 2ltr",
+        "clean_name": "Shakthi Detergent",
+        "brand": "Shakthi",
+        "size": 2.0,
+        "unit": "Ltr",
+        "category": "Household & Cleaning",
+        "mrp": 299.0
+    }
+]

@@ -1,0 +1,6556 @@
+[
+  {
+    "id": 1,
+    "name": "Milk Maid Tin",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 144,
+      "mrp": 158,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/milk_maid_tin.png",
+        "alt": "Milk Maid Tin",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "maid",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "maid",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 2,
+    "name": "Small Cone Butterscotch 65Ml",
+    "brand": "Dairy Day",
+    "category": "Ice Creams",
+    "subCategory": "Butter",
+    "variant": "65 ml",
+    "pricing": {
+      "price": 25,
+      "mrp": 28,
+      "discount": 11,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Dairy Day - Pure butter (vennai) for cooking, baking, and daily use.",
+      "long": "Dairy Day - Pure butter (vennai) for cooking, baking, and daily use. Made from fresh cream with rich taste and aroma. Perfect for rotis, parathas, baking, and cooking. Adds richness to your dishes. A kitchen essential for every household. Pack size: 65 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/ice_creams/small_cone_butterscotch_65ml.png",
+        "alt": "Small Cone Butterscotch 65Ml",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "butter",
+        "vennai",
+        "cooking butter",
+        "white butter",
+        "fresh butter",
+        "dairy butter",
+        "baking",
+        "dairy day",
+        "small",
+        "cone",
+        "butterscotch",
+        "65ml",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "vennai",
+        "butter",
+        "cooking",
+        "white butter",
+        "fresh",
+        "baking",
+        "dairy day",
+        "small",
+        "cone",
+        "butterscotch",
+        "65ml",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 3,
+    "name": "Large Cone Buttersc 120Ml",
+    "brand": "Dairy Day",
+    "category": "Ice Creams",
+    "subCategory": "Butter",
+    "variant": "120 ml",
+    "pricing": {
+      "price": 35,
+      "mrp": 39,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Dairy Day - Pure butter (vennai) for cooking, baking, and daily use.",
+      "long": "Dairy Day - Pure butter (vennai) for cooking, baking, and daily use. Made from fresh cream with rich taste and aroma. Perfect for rotis, parathas, baking, and cooking. Adds richness to your dishes. A kitchen essential for every household. Pack size: 120 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/ice_creams/large_cone_buttersc_120ml.png",
+        "alt": "Large Cone Buttersc 120Ml",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "butter",
+        "vennai",
+        "cooking butter",
+        "white butter",
+        "fresh butter",
+        "dairy butter",
+        "baking",
+        "dairy day",
+        "large",
+        "cone",
+        "buttersc",
+        "120ml",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "vennai",
+        "butter",
+        "cooking",
+        "white butter",
+        "fresh",
+        "baking",
+        "dairy day",
+        "large",
+        "cone",
+        "buttersc",
+        "120ml",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 4,
+    "name": "Vanilla Milky 50Ml",
+    "brand": "Dairy Day",
+    "category": "Ice Creams",
+    "subCategory": "Milk",
+    "variant": "50 ml",
+    "pricing": {
+      "price": 20,
+      "mrp": 22,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Dairy Day - Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Dairy Day - Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 50 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/ice_creams/vanilla_milky_50ml.png",
+        "alt": "Vanilla Milky 50Ml",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "dairy day",
+        "vanilla",
+        "milky",
+        "50ml",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "dairy day",
+        "vanilla",
+        "milky",
+        "50ml",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 5,
+    "name": "Pineapple Milky 50Ml",
+    "brand": "Dairy Day",
+    "category": "Ice Creams",
+    "subCategory": "Milk",
+    "variant": "50 ml",
+    "pricing": {
+      "price": 25,
+      "mrp": 28,
+      "discount": 11,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Dairy Day - Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Dairy Day - Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 50 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/ice_creams/pineapple_milky_50ml.png",
+        "alt": "Pineapple Milky 50Ml",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "dairy day",
+        "pineapple",
+        "milky",
+        "50ml",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "dairy day",
+        "pineapple",
+        "milky",
+        "50ml",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 6,
+    "name": "Milkybar Ps 1Box",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 box",
+    "pricing": {
+      "price": 240,
+      "mrp": 264,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 1 box."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/milkybar_ps_1box.png",
+        "alt": "Milkybar Ps 1Box",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "milkybar",
+        "1box"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "milkybar",
+        "1box"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 7,
+    "name": "Small Cup Buttersc 60Ml",
+    "brand": "Dairy Day",
+    "category": "Ice Creams",
+    "subCategory": "Butter",
+    "variant": "60 ml",
+    "pricing": {
+      "price": 15,
+      "mrp": 17,
+      "discount": 12,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Dairy Day - Pure butter (vennai) for cooking, baking, and daily use.",
+      "long": "Dairy Day - Pure butter (vennai) for cooking, baking, and daily use. Made from fresh cream with rich taste and aroma. Perfect for rotis, parathas, baking, and cooking. Adds richness to your dishes. A kitchen essential for every household. Pack size: 60 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/ice_creams/small_cup_buttersc_60ml.png",
+        "alt": "Small Cup Buttersc 60Ml",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "butter",
+        "vennai",
+        "cooking butter",
+        "white butter",
+        "fresh butter",
+        "dairy butter",
+        "baking",
+        "dairy day",
+        "small",
+        "buttersc",
+        "60ml",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "vennai",
+        "butter",
+        "cooking",
+        "white butter",
+        "fresh",
+        "baking",
+        "dairy day",
+        "small",
+        "buttersc",
+        "60ml",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 8,
+    "name": "Butterscotch 500Ml",
+    "brand": "Dairy Day",
+    "category": "Ice Creams",
+    "subCategory": "Butter",
+    "variant": "500 ml",
+    "pricing": {
+      "price": 140,
+      "mrp": 154,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Dairy Day - Pure butter (vennai) for cooking, baking, and daily use.",
+      "long": "Dairy Day - Pure butter (vennai) for cooking, baking, and daily use. Made from fresh cream with rich taste and aroma. Perfect for rotis, parathas, baking, and cooking. Adds richness to your dishes. A kitchen essential for every household. Pack size: 500 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/ice_creams/butterscotch_500ml.png",
+        "alt": "Butterscotch 500Ml",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "butter",
+        "vennai",
+        "cooking butter",
+        "white butter",
+        "fresh butter",
+        "dairy butter",
+        "baking",
+        "dairy day",
+        "butterscotch",
+        "500ml",
+        "milliliter",
+        "ml",
+        "500g",
+        "half liter",
+        "half kg"
+      ],
+      "tanglish": [
+        "vennai",
+        "butter",
+        "cooking",
+        "white butter",
+        "fresh",
+        "baking",
+        "dairy day",
+        "butterscotch",
+        "500ml",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 9,
+    "name": "Buy1Get1 (Buttersc 700Ml)",
+    "brand": "Dairy Day",
+    "category": "Ice Creams",
+    "subCategory": "Butter",
+    "variant": "700 ml",
+    "pricing": {
+      "price": 250,
+      "mrp": 275,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Dairy Day - Pure butter (vennai) for cooking, baking, and daily use.",
+      "long": "Dairy Day - Pure butter (vennai) for cooking, baking, and daily use. Made from fresh cream with rich taste and aroma. Perfect for rotis, parathas, baking, and cooking. Adds richness to your dishes. A kitchen essential for every household. Pack size: 700 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/ice_creams/buy1get1_buttersc_700ml.png",
+        "alt": "Buy1Get1 (Buttersc 700Ml)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "butter",
+        "vennai",
+        "cooking butter",
+        "white butter",
+        "fresh butter",
+        "dairy butter",
+        "baking",
+        "dairy day",
+        "buy1get1",
+        "(buttersc",
+        "700ml)",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "vennai",
+        "butter",
+        "cooking",
+        "white butter",
+        "fresh",
+        "baking",
+        "dairy day",
+        "buy1get1",
+        "(buttersc",
+        "700ml)",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 10,
+    "name": "Milkybar",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 10,
+      "mrp": 11,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/milkybar.png",
+        "alt": "Milkybar",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "milkybar",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "milkybar",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 11,
+    "name": "Milkybar (1Box)",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 box",
+    "pricing": {
+      "price": 140,
+      "mrp": 154,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 1 box."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/milkybar_1box.png",
+        "alt": "Milkybar (1Box)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "milkybar",
+        "(1box)"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "milkybar",
+        "(1box)"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 12,
+    "name": "Milkybar Ps",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 5,
+      "mrp": 6,
+      "discount": 17,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/milkybar_ps.png",
+        "alt": "Milkybar Ps",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "milkybar",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "milkybar",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 13,
+    "name": "Nescafe Classic 50G",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "General",
+    "variant": "50 g",
+    "pricing": {
+      "price": 150,
+      "mrp": 165,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 50 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/nescafe_classic_50g.png",
+        "alt": "Nescafe Classic 50G",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "nescafe",
+        "classic",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "nescafe",
+        "classic",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 14,
+    "name": "Pediasure 200G",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "General",
+    "variant": "200 g",
+    "pricing": {
+      "price": 350,
+      "mrp": 385,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Quality milk-based products for nutrition and daily consumption.",
+      "long": "Quality milk-based products for nutrition and daily consumption. Includes milkmaid, condensed milk, and milk powders. Perfect for sweets, desserts, and beverages. Rich in calcium and protein. Trusted brands for family health. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/pediasure_200g.png",
+        "alt": "Pediasure 200G",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk products",
+        "milkmaid",
+        "condensed milk",
+        "milk powder",
+        "dairy",
+        "nutrition",
+        "sweets",
+        "desserts",
+        "pediasure",
+        "200g",
+        "grams",
+        "g",
+        "200ml"
+      ],
+      "tanglish": [
+        "milk products",
+        "milkmaid",
+        "condensed milk",
+        "milk powder",
+        "dairy",
+        "nutrition",
+        "sweets",
+        "pediasure",
+        "200g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 15,
+    "name": "Pediasure 200G Jar",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "General",
+    "variant": "200 g",
+    "pricing": {
+      "price": 350,
+      "mrp": 385,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Quality milk-based products for nutrition and daily consumption.",
+      "long": "Quality milk-based products for nutrition and daily consumption. Includes milkmaid, condensed milk, and milk powders. Perfect for sweets, desserts, and beverages. Rich in calcium and protein. Trusted brands for family health. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/pediasure_200g_jar.png",
+        "alt": "Pediasure 200G Jar",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk products",
+        "milkmaid",
+        "condensed milk",
+        "milk powder",
+        "dairy",
+        "nutrition",
+        "sweets",
+        "desserts",
+        "pediasure",
+        "200g",
+        "grams",
+        "g",
+        "200ml"
+      ],
+      "tanglish": [
+        "milk products",
+        "milkmaid",
+        "condensed milk",
+        "milk powder",
+        "dairy",
+        "nutrition",
+        "sweets",
+        "pediasure",
+        "200g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 16,
+    "name": "Ensure 400G Rifil",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "General",
+    "variant": "400 g",
+    "pricing": {
+      "price": 580,
+      "mrp": 638,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 400 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/ensure_400g_rifil.png",
+        "alt": "Ensure 400G Rifil",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "ensure",
+        "400g",
+        "rifil",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "ensure",
+        "400g",
+        "rifil",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 17,
+    "name": "Ensure 200G Rifil",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "General",
+    "variant": "200 g",
+    "pricing": {
+      "price": 300,
+      "mrp": 330,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/ensure_200g_rifil.png",
+        "alt": "Ensure 200G Rifil",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "ensure",
+        "200g",
+        "rifil",
+        "grams",
+        "g",
+        "200ml"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "ensure",
+        "200g",
+        "rifil",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 18,
+    "name": "Ensure Choco 400G Rifil",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "General",
+    "variant": "400 g",
+    "pricing": {
+      "price": 580,
+      "mrp": 638,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 400 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/ensure_choco_400g_rifil.png",
+        "alt": "Ensure Choco 400G Rifil",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "ensure",
+        "choco",
+        "400g",
+        "rifil",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "ensure",
+        "choco",
+        "400g",
+        "rifil",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 19,
+    "name": "Ensure Vannila 200G Rifil",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "General",
+    "variant": "200 g",
+    "pricing": {
+      "price": 300,
+      "mrp": 330,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/ensure_vannila_200g_rifil.png",
+        "alt": "Ensure Vannila 200G Rifil",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "ensure",
+        "vannila",
+        "200g",
+        "rifil",
+        "grams",
+        "g",
+        "200ml"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "ensure",
+        "vannila",
+        "200g",
+        "rifil",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 20,
+    "name": "Ensure Choco 200G Rifil",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "General",
+    "variant": "200 g",
+    "pricing": {
+      "price": 300,
+      "mrp": 330,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/ensure_choco_200g_rifil.png",
+        "alt": "Ensure Choco 200G Rifil",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "ensure",
+        "choco",
+        "200g",
+        "rifil",
+        "grams",
+        "g",
+        "200ml"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "ensure",
+        "choco",
+        "200g",
+        "rifil",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 21,
+    "name": "Ensure Vannila 400G Rifil",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "General",
+    "variant": "400 g",
+    "pricing": {
+      "price": 590,
+      "mrp": 649,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 400 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/ensure_vannila_400g_rifil.png",
+        "alt": "Ensure Vannila 400G Rifil",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "ensure",
+        "vannila",
+        "400g",
+        "rifil",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "ensure",
+        "vannila",
+        "400g",
+        "rifil",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 22,
+    "name": "Pediasure Choco 200G Jar",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "General",
+    "variant": "200 g",
+    "pricing": {
+      "price": 330,
+      "mrp": 363,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Quality milk-based products for nutrition and daily consumption.",
+      "long": "Quality milk-based products for nutrition and daily consumption. Includes milkmaid, condensed milk, and milk powders. Perfect for sweets, desserts, and beverages. Rich in calcium and protein. Trusted brands for family health. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/pediasure_choco_200g_jar.png",
+        "alt": "Pediasure Choco 200G Jar",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk products",
+        "milkmaid",
+        "condensed milk",
+        "milk powder",
+        "dairy",
+        "nutrition",
+        "sweets",
+        "desserts",
+        "pediasure",
+        "choco",
+        "200g",
+        "grams",
+        "g",
+        "200ml"
+      ],
+      "tanglish": [
+        "milk products",
+        "milkmaid",
+        "condensed milk",
+        "milk powder",
+        "dairy",
+        "nutrition",
+        "sweets",
+        "pediasure",
+        "choco",
+        "200g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 23,
+    "name": "Pediasure Choco 400G Jar",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "General",
+    "variant": "400 g",
+    "pricing": {
+      "price": 610,
+      "mrp": 671,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Quality milk-based products for nutrition and daily consumption.",
+      "long": "Quality milk-based products for nutrition and daily consumption. Includes milkmaid, condensed milk, and milk powders. Perfect for sweets, desserts, and beverages. Rich in calcium and protein. Trusted brands for family health. Pack size: 400 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/pediasure_choco_400g_jar.png",
+        "alt": "Pediasure Choco 400G Jar",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk products",
+        "milkmaid",
+        "condensed milk",
+        "milk powder",
+        "dairy",
+        "nutrition",
+        "sweets",
+        "desserts",
+        "pediasure",
+        "choco",
+        "400g",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "milk products",
+        "milkmaid",
+        "condensed milk",
+        "milk powder",
+        "dairy",
+        "nutrition",
+        "sweets",
+        "pediasure",
+        "choco",
+        "400g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 24,
+    "name": "Pediasure Choco200G Rifil",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "General",
+    "variant": "200 g",
+    "pricing": {
+      "price": 320,
+      "mrp": 352,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Quality milk-based products for nutrition and daily consumption.",
+      "long": "Quality milk-based products for nutrition and daily consumption. Includes milkmaid, condensed milk, and milk powders. Perfect for sweets, desserts, and beverages. Rich in calcium and protein. Trusted brands for family health. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/pediasure_choco200g_rifil.png",
+        "alt": "Pediasure Choco200G Rifil",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk products",
+        "milkmaid",
+        "condensed milk",
+        "milk powder",
+        "dairy",
+        "nutrition",
+        "sweets",
+        "desserts",
+        "pediasure",
+        "choco200g",
+        "rifil",
+        "grams",
+        "g",
+        "200ml",
+        "200g"
+      ],
+      "tanglish": [
+        "milk products",
+        "milkmaid",
+        "condensed milk",
+        "milk powder",
+        "dairy",
+        "nutrition",
+        "sweets",
+        "pediasure",
+        "choco200g",
+        "rifil",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 25,
+    "name": "Pediasure Vannila 200G Rifil",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "General",
+    "variant": "200 g",
+    "pricing": {
+      "price": 650,
+      "mrp": 715,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Quality milk-based products for nutrition and daily consumption.",
+      "long": "Quality milk-based products for nutrition and daily consumption. Includes milkmaid, condensed milk, and milk powders. Perfect for sweets, desserts, and beverages. Rich in calcium and protein. Trusted brands for family health. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/pediasure_vannila_200g_rifil.png",
+        "alt": "Pediasure Vannila 200G Rifil",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk products",
+        "milkmaid",
+        "condensed milk",
+        "milk powder",
+        "dairy",
+        "nutrition",
+        "sweets",
+        "desserts",
+        "pediasure",
+        "vannila",
+        "200g",
+        "rifil",
+        "grams",
+        "g",
+        "200ml"
+      ],
+      "tanglish": [
+        "milk products",
+        "milkmaid",
+        "condensed milk",
+        "milk powder",
+        "dairy",
+        "nutrition",
+        "sweets",
+        "pediasure",
+        "vannila",
+        "200g",
+        "rifil",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 26,
+    "name": "Pediasure Vannila 400G Rifil",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "General",
+    "variant": "400 g",
+    "pricing": {
+      "price": 590,
+      "mrp": 649,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Quality milk-based products for nutrition and daily consumption.",
+      "long": "Quality milk-based products for nutrition and daily consumption. Includes milkmaid, condensed milk, and milk powders. Perfect for sweets, desserts, and beverages. Rich in calcium and protein. Trusted brands for family health. Pack size: 400 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/pediasure_vannila_400g_rifil.png",
+        "alt": "Pediasure Vannila 400G Rifil",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk products",
+        "milkmaid",
+        "condensed milk",
+        "milk powder",
+        "dairy",
+        "nutrition",
+        "sweets",
+        "desserts",
+        "pediasure",
+        "vannila",
+        "400g",
+        "rifil",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "milk products",
+        "milkmaid",
+        "condensed milk",
+        "milk powder",
+        "dairy",
+        "nutrition",
+        "sweets",
+        "pediasure",
+        "vannila",
+        "400g",
+        "rifil",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 27,
+    "name": "Pediasure Vannila 200G Jar",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "General",
+    "variant": "200 g",
+    "pricing": {
+      "price": 350,
+      "mrp": 385,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Quality milk-based products for nutrition and daily consumption.",
+      "long": "Quality milk-based products for nutrition and daily consumption. Includes milkmaid, condensed milk, and milk powders. Perfect for sweets, desserts, and beverages. Rich in calcium and protein. Trusted brands for family health. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/pediasure_vannila_200g_jar.png",
+        "alt": "Pediasure Vannila 200G Jar",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk products",
+        "milkmaid",
+        "condensed milk",
+        "milk powder",
+        "dairy",
+        "nutrition",
+        "sweets",
+        "desserts",
+        "pediasure",
+        "vannila",
+        "200g",
+        "grams",
+        "g",
+        "200ml"
+      ],
+      "tanglish": [
+        "milk products",
+        "milkmaid",
+        "condensed milk",
+        "milk powder",
+        "dairy",
+        "nutrition",
+        "sweets",
+        "pediasure",
+        "vannila",
+        "200g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 28,
+    "name": "Daimilk Box",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 1350,
+      "mrp": 1485,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/daimilk_box.png",
+        "alt": "Daimilk Box",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "daimilk",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "daimilk",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 29,
+    "name": "Milk Shake",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 40,
+      "mrp": 44,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/milk_shake.png",
+        "alt": "Milk Shake",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "shake",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "shake",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 30,
+    "name": "Milk Bikis Clasic Dozen",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 120,
+      "mrp": 132,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/milk_bikis_clasic_dozen.png",
+        "alt": "Milk Bikis Clasic Dozen",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "bikis",
+        "clasic",
+        "dozen",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "bikis",
+        "clasic",
+        "dozen",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 31,
+    "name": "Milkybar 1Box",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 box",
+    "pricing": {
+      "price": 480,
+      "mrp": 528,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 1 box."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/milkybar_1box.png",
+        "alt": "Milkybar 1Box",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "milkybar",
+        "1box"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "milkybar",
+        "1box"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 32,
+    "name": "Milkybar Ps",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 20,
+      "mrp": 22,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/milkybar_ps.png",
+        "alt": "Milkybar Ps",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "milkybar",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "milkybar",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 33,
+    "name": "Vivo Balls Mittaiye Pkt",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "General",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 60,
+      "mrp": 66,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/vivo_balls_mittaiye_pkt.png",
+        "alt": "Vivo Balls Mittaiye Pkt",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "vivo",
+        "balls",
+        "mittaiye",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "vivo",
+        "balls",
+        "mittaiye",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 34,
+    "name": "Milkybar",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 5,
+      "mrp": 6,
+      "discount": 17,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/milkybar.png",
+        "alt": "Milkybar",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "milkybar",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "milkybar",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 35,
+    "name": "Milkybar",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 20,
+      "mrp": 22,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/milkybar.png",
+        "alt": "Milkybar",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "milkybar",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "milkybar",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 36,
+    "name": "Sunfeast Super Milk",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 10,
+      "mrp": 11,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/sunfeast_super_milk.png",
+        "alt": "Sunfeast Super Milk",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "sunfeast",
+        "super",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "sunfeast",
+        "super",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 37,
+    "name": "Sunfeast Super Milk",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 5,
+      "mrp": 6,
+      "discount": 17,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/sunfeast_super_milk.png",
+        "alt": "Sunfeast Super Milk",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "sunfeast",
+        "super",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "sunfeast",
+        "super",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 38,
+    "name": "Kalimark Badam Milk",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 30,
+      "mrp": 33,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/kalimark_badam_milk.png",
+        "alt": "Kalimark Badam Milk",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "kalimark",
+        "badam",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "kalimark",
+        "badam",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 39,
+    "name": "Kalimark Cho Milk",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 30,
+      "mrp": 33,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/kalimark_cho_milk.png",
+        "alt": "Kalimark Cho Milk",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "kalimark",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "kalimark",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 40,
+    "name": "Super Milk",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 5,
+      "mrp": 6,
+      "discount": 17,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/super_milk.png",
+        "alt": "Super Milk",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "super",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "super",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 41,
+    "name": "Super Milk",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 9,
+      "mrp": 10,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/super_milk.png",
+        "alt": "Super Milk",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "super",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "super",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 42,
+    "name": "Sunfeast Milk Shake",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 20,
+      "mrp": 22,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/sunfeast_milk_shake.png",
+        "alt": "Sunfeast Milk Shake",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "sunfeast",
+        "shake",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "sunfeast",
+        "shake",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 43,
+    "name": "Milk Classic",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 20,
+      "mrp": 22,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/milk_classic.png",
+        "alt": "Milk Classic",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "classic",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "classic",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 44,
+    "name": "Pal Cova Jar",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "General",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 60,
+      "mrp": 66,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/pal_cova_jar.png",
+        "alt": "Pal Cova Jar",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "cova",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "cova",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 45,
+    "name": "Gulab Jamun 1+1 Milky Mist",
+    "brand": "Milky Mist",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 130,
+      "mrp": 143,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Milky Mist - Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Milky Mist - Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/gulab_jamun_1_1_milky_mist.png",
+        "alt": "Gulab Jamun 1+1 Milky Mist",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "milky mist",
+        "gulab",
+        "jamun",
+        "milky",
+        "mist",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "milky mist",
+        "gulab",
+        "jamun",
+        "milky",
+        "mist",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 46,
+    "name": "Kaju Butter Toffee",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Butter",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 200,
+      "mrp": 220,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Pure butter (vennai) for cooking, baking, and daily use.",
+      "long": "Pure butter (vennai) for cooking, baking, and daily use. Made from fresh cream with rich taste and aroma. Perfect for rotis, parathas, baking, and cooking. Adds richness to your dishes. A kitchen essential for every household. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/kaju_butter_toffee.png",
+        "alt": "Kaju Butter Toffee",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "butter",
+        "vennai",
+        "cooking butter",
+        "white butter",
+        "fresh butter",
+        "dairy butter",
+        "baking",
+        "kaju",
+        "toffee",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "vennai",
+        "butter",
+        "cooking",
+        "white butter",
+        "fresh",
+        "baking",
+        "kaju",
+        "toffee",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 47,
+    "name": "Jelly Butterfly Jar",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Butter",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 200,
+      "mrp": 220,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Pure butter (vennai) for cooking, baking, and daily use.",
+      "long": "Pure butter (vennai) for cooking, baking, and daily use. Made from fresh cream with rich taste and aroma. Perfect for rotis, parathas, baking, and cooking. Adds richness to your dishes. A kitchen essential for every household. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/jelly_butterfly_jar.png",
+        "alt": "Jelly Butterfly Jar",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "butter",
+        "vennai",
+        "cooking butter",
+        "white butter",
+        "fresh butter",
+        "dairy butter",
+        "baking",
+        "jelly",
+        "butterfly",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "vennai",
+        "butter",
+        "cooking",
+        "white butter",
+        "fresh",
+        "baking",
+        "jelly",
+        "butterfly",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 48,
+    "name": "Pen Cello Butterflow",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Butter",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 10,
+      "mrp": 11,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Pure butter (vennai) for cooking, baking, and daily use.",
+      "long": "Pure butter (vennai) for cooking, baking, and daily use. Made from fresh cream with rich taste and aroma. Perfect for rotis, parathas, baking, and cooking. Adds richness to your dishes. A kitchen essential for every household. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/pen_cello_butterflow.png",
+        "alt": "Pen Cello Butterflow",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "butter",
+        "vennai",
+        "cooking butter",
+        "white butter",
+        "fresh butter",
+        "dairy butter",
+        "baking",
+        "cello",
+        "butterflow",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "vennai",
+        "butter",
+        "cooking",
+        "white butter",
+        "fresh",
+        "baking",
+        "cello",
+        "butterflow",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 49,
+    "name": "Flair Inky Classic Pen",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "General",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 50,
+      "mrp": 55,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/flair_inky_classic_pen.png",
+        "alt": "Flair Inky Classic Pen",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "flair",
+        "inky",
+        "classic",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "flair",
+        "inky",
+        "classic",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 50,
+    "name": "Milk Maid Tin 400G",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "400 g",
+    "pricing": {
+      "price": 126,
+      "mrp": 139,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 400 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/milk_maid_tin_400g.png",
+        "alt": "Milk Maid Tin 400G",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "maid",
+        "400g",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "maid",
+        "400g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 51,
+    "name": "Ux M Pen Classic",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "General",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 75,
+      "mrp": 83,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/ux_m_pen_classic.png",
+        "alt": "Ux M Pen Classic",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "classic",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "classic",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 52,
+    "name": "Pal Cova Jar",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "General",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 150,
+      "mrp": 165,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/pal_cova_jar.png",
+        "alt": "Pal Cova Jar",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "cova",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "cova",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 53,
+    "name": "Pal Cova Jar Mani Mark",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "General",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 150,
+      "mrp": 165,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/pal_cova_jar_mani_mark.png",
+        "alt": "Pal Cova Jar Mani Mark",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "cova",
+        "mani",
+        "mark",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "cova",
+        "mani",
+        "mark",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 54,
+    "name": "Pal Cova Box",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "General",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 200,
+      "mrp": 220,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/pal_cova_box.png",
+        "alt": "Pal Cova Box",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "cova",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "cova",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 55,
+    "name": "Milk Maid Amul Tin 400G",
+    "brand": "Amul",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "400 g",
+    "pricing": {
+      "price": 126,
+      "mrp": 139,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Amul - Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Amul - Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 400 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/milk_maid_amul_tin_400g.png",
+        "alt": "Milk Maid Amul Tin 400G",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "amul",
+        "maid",
+        "400g",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "amul",
+        "maid",
+        "400g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 56,
+    "name": "Milk Shake Sunfeast",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 40,
+      "mrp": 44,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/milk_shake_sunfeast.png",
+        "alt": "Milk Shake Sunfeast",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "shake",
+        "sunfeast",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "shake",
+        "sunfeast",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 57,
+    "name": "Milk Shake Winkin Cow",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 35,
+      "mrp": 39,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/milk_shake_winkin_cow.png",
+        "alt": "Milk Shake Winkin Cow",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "shake",
+        "winkin",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "shake",
+        "winkin",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 58,
+    "name": "Milk Maid Tin",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 149,
+      "mrp": 164,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/milk_maid_tin.png",
+        "alt": "Milk Maid Tin",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "maid",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "maid",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 59,
+    "name": "Kissan Peanut Butter 100Gm",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Butter",
+    "variant": "100 g",
+    "pricing": {
+      "price": 50,
+      "mrp": 55,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 100 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/kissan_peanut_butter_100gm.png",
+        "alt": "Kissan Peanut Butter 100Gm",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "kissan",
+        "peanut",
+        "butter",
+        "100gm",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "kissan",
+        "peanut",
+        "butter",
+        "100gm",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 60,
+    "name": "Kissan peanut Butter 350Gm",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Butter",
+    "variant": "350 g",
+    "pricing": {
+      "price": 175,
+      "mrp": 193,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Pure butter (vennai) for cooking, baking, and daily use.",
+      "long": "Pure butter (vennai) for cooking, baking, and daily use. Made from fresh cream with rich taste and aroma. Perfect for rotis, parathas, baking, and cooking. Adds richness to your dishes. A kitchen essential for every household. Pack size: 350 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/kissan_penut_butter_350gm.png",
+        "alt": "Kissan peanut Butter 350Gm",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "butter",
+        "vennai",
+        "cooking butter",
+        "white butter",
+        "fresh butter",
+        "dairy butter",
+        "baking",
+        "kissan",
+        "penut",
+        "350gm",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vennai",
+        "butter",
+        "cooking",
+        "white butter",
+        "fresh",
+        "baking",
+        "kissan",
+        "penut",
+        "350gm",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 61,
+    "name": "Sweet Milk Box",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 60,
+      "mrp": 66,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/sweet_milk_box.png",
+        "alt": "Sweet Milk Box",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "sweet",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "sweet",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 62,
+    "name": "Nestle Classic",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "General",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 10,
+      "mrp": 11,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/nestle_classic.png",
+        "alt": "Nestle Classic",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "nestle",
+        "classic",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "nestle",
+        "classic",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 63,
+    "name": "Milky Mist Paneer 200G",
+    "brand": "Milky Mist",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "200 g",
+    "pricing": {
+      "price": 125,
+      "mrp": 138,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Milky Mist - Fresh paneer (cottage cheese) rich in protein for curries and snacks.",
+      "long": "Milky Mist - Fresh paneer (cottage cheese) rich in protein for curries and snacks. Made from fresh milk with soft and spongy texture. Perfect for paneer butter masala, kadai paneer, and snacks. A vegetarian protein source. Ideal for North and South Indian dishes. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/milky_mist_paneer_200g.png",
+        "alt": "Milky Mist Paneer 200G",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "paneer",
+        "cottage cheese",
+        "fresh paneer",
+        "protein",
+        "vegetarian",
+        "curry",
+        "snacks",
+        "cooking",
+        "milky mist",
+        "milky",
+        "mist",
+        "200g",
+        "grams",
+        "g",
+        "200ml"
+      ],
+      "tanglish": [
+        "paneer",
+        "cottage cheese",
+        "fresh",
+        "protein",
+        "curry",
+        "vegetarian",
+        "cooking",
+        "milky mist",
+        "milky",
+        "mist",
+        "200g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 64,
+    "name": "Milky Mist Paneer Cub 200G",
+    "brand": "Milky Mist",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "200 g",
+    "pricing": {
+      "price": 115,
+      "mrp": 127,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Milky Mist - Fresh paneer (cottage cheese) rich in protein for curries and snacks.",
+      "long": "Milky Mist - Fresh paneer (cottage cheese) rich in protein for curries and snacks. Made from fresh milk with soft and spongy texture. Perfect for paneer butter masala, kadai paneer, and snacks. A vegetarian protein source. Ideal for North and South Indian dishes. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/milky_mist_paneer_cub_200g.png",
+        "alt": "Milky Mist Paneer Cub 200G",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "paneer",
+        "cottage cheese",
+        "fresh paneer",
+        "protein",
+        "vegetarian",
+        "curry",
+        "snacks",
+        "cooking",
+        "milky mist",
+        "milky",
+        "mist",
+        "200g",
+        "grams",
+        "g",
+        "200ml"
+      ],
+      "tanglish": [
+        "paneer",
+        "cottage cheese",
+        "fresh",
+        "protein",
+        "curry",
+        "vegetarian",
+        "cooking",
+        "milky mist",
+        "milky",
+        "mist",
+        "200g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 65,
+    "name": "Milky Mist Butter 100G",
+    "brand": "Milky Mist",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "100 g",
+    "pricing": {
+      "price": 70,
+      "mrp": 77,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Milky Mist - Pure butter (vennai) for cooking, baking, and daily use.",
+      "long": "Milky Mist - Pure butter (vennai) for cooking, baking, and daily use. Made from fresh cream with rich taste and aroma. Perfect for rotis, parathas, baking, and cooking. Adds richness to your dishes. A kitchen essential for every household. Pack size: 100 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/milky_mist_butter_100g.png",
+        "alt": "Milky Mist Butter 100G",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "butter",
+        "vennai",
+        "cooking butter",
+        "white butter",
+        "fresh butter",
+        "dairy butter",
+        "baking",
+        "milky mist",
+        "milky",
+        "mist",
+        "100g",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vennai",
+        "butter",
+        "cooking",
+        "white butter",
+        "fresh",
+        "baking",
+        "milky mist",
+        "milky",
+        "mist",
+        "100g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 66,
+    "name": "Milky Mist Butter Cooking 100G",
+    "brand": "Milky Mist",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "100 g",
+    "pricing": {
+      "price": 70,
+      "mrp": 77,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Milky Mist - Pure butter (vennai) for cooking, baking, and daily use.",
+      "long": "Milky Mist - Pure butter (vennai) for cooking, baking, and daily use. Made from fresh cream with rich taste and aroma. Perfect for rotis, parathas, baking, and cooking. Adds richness to your dishes. A kitchen essential for every household. Pack size: 100 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/milky_mist_butter_cooking_100g.png",
+        "alt": "Milky Mist Butter Cooking 100G",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "butter",
+        "vennai",
+        "cooking butter",
+        "white butter",
+        "fresh butter",
+        "dairy butter",
+        "baking",
+        "milky mist",
+        "milky",
+        "mist",
+        "cooking",
+        "100g",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vennai",
+        "butter",
+        "cooking",
+        "white butter",
+        "fresh",
+        "baking",
+        "milky mist",
+        "milky",
+        "mist",
+        "100g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 67,
+    "name": "Milky Mist Butter Cooking 200G",
+    "brand": "Milky Mist",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "200 g",
+    "pricing": {
+      "price": 138,
+      "mrp": 152,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Milky Mist - Pure butter (vennai) for cooking, baking, and daily use.",
+      "long": "Milky Mist - Pure butter (vennai) for cooking, baking, and daily use. Made from fresh cream with rich taste and aroma. Perfect for rotis, parathas, baking, and cooking. Adds richness to your dishes. A kitchen essential for every household. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/milky_mist_butter_cooking_200g.png",
+        "alt": "Milky Mist Butter Cooking 200G",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "butter",
+        "vennai",
+        "cooking butter",
+        "white butter",
+        "fresh butter",
+        "dairy butter",
+        "baking",
+        "milky mist",
+        "milky",
+        "mist",
+        "cooking",
+        "200g",
+        "grams",
+        "g",
+        "200ml"
+      ],
+      "tanglish": [
+        "vennai",
+        "butter",
+        "cooking",
+        "white butter",
+        "fresh",
+        "baking",
+        "milky mist",
+        "milky",
+        "mist",
+        "200g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 68,
+    "name": "Milky Mist Butter Table 100G",
+    "brand": "Milky Mist",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "100 g",
+    "pricing": {
+      "price": 68,
+      "mrp": 75,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Milky Mist - Pure butter (vennai) for cooking, baking, and daily use.",
+      "long": "Milky Mist - Pure butter (vennai) for cooking, baking, and daily use. Made from fresh cream with rich taste and aroma. Perfect for rotis, parathas, baking, and cooking. Adds richness to your dishes. A kitchen essential for every household. Pack size: 100 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/milky_mist_butter_table_100g.png",
+        "alt": "Milky Mist Butter Table 100G",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "butter",
+        "vennai",
+        "cooking butter",
+        "white butter",
+        "fresh butter",
+        "dairy butter",
+        "baking",
+        "milky mist",
+        "milky",
+        "mist",
+        "table",
+        "100g",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vennai",
+        "butter",
+        "cooking",
+        "white butter",
+        "fresh",
+        "baking",
+        "milky mist",
+        "milky",
+        "mist",
+        "table",
+        "100g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 69,
+    "name": "Milky Mist Mozzarella Cheese 200G",
+    "brand": "Milky Mist",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "200 g",
+    "pricing": {
+      "price": 165,
+      "mrp": 182,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Milky Mist - Quality cheese slices and blocks perfect for sandwiches, pizzas, and snacks.",
+      "long": "Milky Mist - Quality cheese slices and blocks perfect for sandwiches, pizzas, and snacks. Made from fresh milk with smooth texture and rich taste. Ideal for cooking, baking, and direct consumption. A favorite among kids and adults. Adds flavor to every dish. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/milky_mist_mozzarella_cheese_200g.png",
+        "alt": "Milky Mist Mozzarella Cheese 200G",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "cheese",
+        "paneer",
+        "cheese slices",
+        "cheese block",
+        "mozzarella",
+        "cheddar",
+        "cooking cheese",
+        "snacks",
+        "milky mist",
+        "milky",
+        "mist",
+        "200g",
+        "grams",
+        "g",
+        "200ml"
+      ],
+      "tanglish": [
+        "cheese",
+        "paneer",
+        "slices",
+        "block",
+        "pizza",
+        "sandwich",
+        "snacks",
+        "milky mist",
+        "milky",
+        "mist",
+        "200g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 70,
+    "name": "Milky Mist Butter Chiplet Table 100G",
+    "brand": "Milky Mist",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "100 g",
+    "pricing": {
+      "price": 75,
+      "mrp": 83,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Milky Mist - Pure butter (vennai) for cooking, baking, and daily use.",
+      "long": "Milky Mist - Pure butter (vennai) for cooking, baking, and daily use. Made from fresh cream with rich taste and aroma. Perfect for rotis, parathas, baking, and cooking. Adds richness to your dishes. A kitchen essential for every household. Pack size: 100 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/milky_mist_butter_chiplet_table_100g.png",
+        "alt": "Milky Mist Butter Chiplet Table 100G",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "butter",
+        "vennai",
+        "cooking butter",
+        "white butter",
+        "fresh butter",
+        "dairy butter",
+        "baking",
+        "milky mist",
+        "milky",
+        "mist",
+        "chiplet",
+        "table",
+        "100g",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vennai",
+        "butter",
+        "cooking",
+        "white butter",
+        "fresh",
+        "baking",
+        "milky mist",
+        "milky",
+        "mist",
+        "chiplet",
+        "table",
+        "100g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 71,
+    "name": "Super Milk (With Free)",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 35,
+      "mrp": 39,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/super_milk_with_free.png",
+        "alt": "Super Milk (With Free)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "super",
+        "(with",
+        "free)",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "super",
+        "(with",
+        "free)",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 72,
+    "name": "Mil Paneer Cubes 1Kg",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Paneer",
+    "variant": "1 kg",
+    "pricing": {
+      "price": 520,
+      "mrp": 572,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh paneer (cottage cheese) rich in protein for curries and snacks.",
+      "long": "Fresh paneer (cottage cheese) rich in protein for curries and snacks. Made from fresh milk with soft and spongy texture. Perfect for paneer butter masala, kadai paneer, and snacks. A vegetarian protein source. Ideal for North and South Indian dishes. Pack size: 1 kg."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/mil_paneer_cubes_1kg.png",
+        "alt": "Mil Paneer Cubes 1Kg",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "paneer",
+        "cottage cheese",
+        "fresh paneer",
+        "protein",
+        "vegetarian",
+        "curry",
+        "snacks",
+        "cooking",
+        "cubes",
+        "kilogram",
+        "kg"
+      ],
+      "tanglish": [
+        "paneer",
+        "cottage cheese",
+        "fresh",
+        "protein",
+        "curry",
+        "vegetarian",
+        "cooking",
+        "cubes",
+        "kg"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 73,
+    "name": "Mil Milk Shake 220Ml",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "220 ml",
+    "pricing": {
+      "price": 40,
+      "mrp": 44,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 220 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/mil_milk_shake_220ml.png",
+        "alt": "Mil Milk Shake 220Ml",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "shake",
+        "220ml",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "shake",
+        "220ml",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 74,
+    "name": "Mil Curd Pkt 135Ml",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Curd",
+    "variant": "135 ml",
+    "pricing": {
+      "price": 10,
+      "mrp": 11,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Traditional curd (yogurt) perfect for rice, rasam, and daily meals.",
+      "long": "Traditional curd (yogurt) perfect for rice, rasam, and daily meals. Made from fresh milk with natural fermentation. Rich in probiotics for digestive health. Ideal for curd rice, raita, and buttermilk. A South Indian kitchen staple. Pack size: 135 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/mil_curd_pkt_135ml.png",
+        "alt": "Mil Curd Pkt 135Ml",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "curd",
+        "yogurt",
+        "thayir",
+        "dahi",
+        "probiotics",
+        "digestive",
+        "curd rice",
+        "raita",
+        "135ml",
+        "milliliter",
+        "ml"
+      ],
+      "tanglish": [
+        "thayir",
+        "curd",
+        "yogurt",
+        "dahi",
+        "curd rice",
+        "thayir sadham",
+        "135ml",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 75,
+    "name": "Mil Curd Pkt 400G",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Curd",
+    "variant": "400 g",
+    "pricing": {
+      "price": 42,
+      "mrp": 46,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Traditional curd (yogurt) perfect for rice, rasam, and daily meals.",
+      "long": "Traditional curd (yogurt) perfect for rice, rasam, and daily meals. Made from fresh milk with natural fermentation. Rich in probiotics for digestive health. Ideal for curd rice, raita, and buttermilk. A South Indian kitchen staple. Pack size: 400 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/mil_curd_pkt_400g.png",
+        "alt": "Mil Curd Pkt 400G",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "curd",
+        "yogurt",
+        "thayir",
+        "dahi",
+        "probiotics",
+        "digestive",
+        "curd rice",
+        "raita",
+        "400g",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "thayir",
+        "curd",
+        "yogurt",
+        "dahi",
+        "curd rice",
+        "thayir sadham",
+        "400g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 76,
+    "name": "Mil Butter Cooking 100G",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Butter",
+    "variant": "100 g",
+    "pricing": {
+      "price": 75,
+      "mrp": 83,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Pure butter (vennai) for cooking, baking, and daily use.",
+      "long": "Pure butter (vennai) for cooking, baking, and daily use. Made from fresh cream with rich taste and aroma. Perfect for rotis, parathas, baking, and cooking. Adds richness to your dishes. A kitchen essential for every household. Pack size: 100 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/mil_butter_cooking_100g.png",
+        "alt": "Mil Butter Cooking 100G",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "butter",
+        "vennai",
+        "cooking butter",
+        "white butter",
+        "fresh butter",
+        "dairy butter",
+        "baking",
+        "cooking",
+        "100g",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vennai",
+        "butter",
+        "cooking",
+        "white butter",
+        "fresh",
+        "baking",
+        "100g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 77,
+    "name": "Mil Butter Cooking 200G",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Butter",
+    "variant": "200 g",
+    "pricing": {
+      "price": 148,
+      "mrp": 163,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Pure butter (vennai) for cooking, baking, and daily use.",
+      "long": "Pure butter (vennai) for cooking, baking, and daily use. Made from fresh cream with rich taste and aroma. Perfect for rotis, parathas, baking, and cooking. Adds richness to your dishes. A kitchen essential for every household. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/mil_butter_cooking_200g.png",
+        "alt": "Mil Butter Cooking 200G",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "butter",
+        "vennai",
+        "cooking butter",
+        "white butter",
+        "fresh butter",
+        "dairy butter",
+        "baking",
+        "cooking",
+        "200g",
+        "grams",
+        "g",
+        "200ml"
+      ],
+      "tanglish": [
+        "vennai",
+        "butter",
+        "cooking",
+        "white butter",
+        "fresh",
+        "baking",
+        "200g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 78,
+    "name": "Mil Paneer Cub 200G",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Paneer",
+    "variant": "200 g",
+    "pricing": {
+      "price": 115,
+      "mrp": 127,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh paneer (cottage cheese) rich in protein for curries and snacks.",
+      "long": "Fresh paneer (cottage cheese) rich in protein for curries and snacks. Made from fresh milk with soft and spongy texture. Perfect for paneer butter masala, kadai paneer, and snacks. A vegetarian protein source. Ideal for North and South Indian dishes. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/mil_paneer_cub_200g.png",
+        "alt": "Mil Paneer Cub 200G",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "paneer",
+        "cottage cheese",
+        "fresh paneer",
+        "protein",
+        "vegetarian",
+        "curry",
+        "snacks",
+        "cooking",
+        "200g",
+        "grams",
+        "g",
+        "200ml"
+      ],
+      "tanglish": [
+        "paneer",
+        "cottage cheese",
+        "fresh",
+        "protein",
+        "curry",
+        "vegetarian",
+        "cooking",
+        "200g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 79,
+    "name": "Mil Mozzarella Cheese 200G",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Cheese",
+    "variant": "200 g",
+    "pricing": {
+      "price": 165,
+      "mrp": 182,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Quality cheese slices and blocks perfect for sandwiches, pizzas, and snacks.",
+      "long": "Quality cheese slices and blocks perfect for sandwiches, pizzas, and snacks. Made from fresh milk with smooth texture and rich taste. Ideal for cooking, baking, and direct consumption. A favorite among kids and adults. Adds flavor to every dish. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/mil_mozzarella_cheese_200g.png",
+        "alt": "Mil Mozzarella Cheese 200G",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "cheese",
+        "paneer",
+        "cheese slices",
+        "cheese block",
+        "mozzarella",
+        "cheddar",
+        "cooking cheese",
+        "snacks",
+        "200g",
+        "grams",
+        "g",
+        "200ml"
+      ],
+      "tanglish": [
+        "cheese",
+        "paneer",
+        "slices",
+        "block",
+        "pizza",
+        "sandwich",
+        "snacks",
+        "200g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 80,
+    "name": "Mil Butter Chiplet Table 100G",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Butter",
+    "variant": "100 g",
+    "pricing": {
+      "price": 75,
+      "mrp": 83,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Pure butter (vennai) for cooking, baking, and daily use.",
+      "long": "Pure butter (vennai) for cooking, baking, and daily use. Made from fresh cream with rich taste and aroma. Perfect for rotis, parathas, baking, and cooking. Adds richness to your dishes. A kitchen essential for every household. Pack size: 100 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/mil_butter_chiplet_table_100g.png",
+        "alt": "Mil Butter Chiplet Table 100G",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "butter",
+        "vennai",
+        "cooking butter",
+        "white butter",
+        "fresh butter",
+        "dairy butter",
+        "baking",
+        "chiplet",
+        "table",
+        "100g",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vennai",
+        "butter",
+        "cooking",
+        "white butter",
+        "fresh",
+        "baking",
+        "chiplet",
+        "table",
+        "100g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 81,
+    "name": "Mil Butter Table 100G",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Butter",
+    "variant": "100 g",
+    "pricing": {
+      "price": 68,
+      "mrp": 75,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Pure butter (vennai) for cooking, baking, and daily use.",
+      "long": "Pure butter (vennai) for cooking, baking, and daily use. Made from fresh cream with rich taste and aroma. Perfect for rotis, parathas, baking, and cooking. Adds richness to your dishes. A kitchen essential for every household. Pack size: 100 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/mil_butter_table_100g.png",
+        "alt": "Mil Butter Table 100G",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "butter",
+        "vennai",
+        "cooking butter",
+        "white butter",
+        "fresh butter",
+        "dairy butter",
+        "baking",
+        "table",
+        "100g",
+        "grams",
+        "g"
+      ],
+      "tanglish": [
+        "vennai",
+        "butter",
+        "cooking",
+        "white butter",
+        "fresh",
+        "baking",
+        "table",
+        "100g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 82,
+    "name": "Mil Paneer 200G",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Paneer",
+    "variant": "200 g",
+    "pricing": {
+      "price": 125,
+      "mrp": 138,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh paneer (cottage cheese) rich in protein for curries and snacks.",
+      "long": "Fresh paneer (cottage cheese) rich in protein for curries and snacks. Made from fresh milk with soft and spongy texture. Perfect for paneer butter masala, kadai paneer, and snacks. A vegetarian protein source. Ideal for North and South Indian dishes. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/mil_paneer_200g.png",
+        "alt": "Mil Paneer 200G",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "paneer",
+        "cottage cheese",
+        "fresh paneer",
+        "protein",
+        "vegetarian",
+        "curry",
+        "snacks",
+        "cooking",
+        "200g",
+        "grams",
+        "g",
+        "200ml"
+      ],
+      "tanglish": [
+        "paneer",
+        "cottage cheese",
+        "fresh",
+        "protein",
+        "curry",
+        "vegetarian",
+        "cooking",
+        "200g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 83,
+    "name": "Milk Maid Tin",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 145,
+      "mrp": 160,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/milk_maid_tin.png",
+        "alt": "Milk Maid Tin",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "maid",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "maid",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 84,
+    "name": "Mil Butter Cooking 500G",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Butter",
+    "variant": "500 g",
+    "pricing": {
+      "price": 335,
+      "mrp": 369,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Pure butter (vennai) for cooking, baking, and daily use.",
+      "long": "Pure butter (vennai) for cooking, baking, and daily use. Made from fresh cream with rich taste and aroma. Perfect for rotis, parathas, baking, and cooking. Adds richness to your dishes. A kitchen essential for every household. Pack size: 500 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/mil_butter_cooking_500g.png",
+        "alt": "Mil Butter Cooking 500G",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "butter",
+        "vennai",
+        "cooking butter",
+        "white butter",
+        "fresh butter",
+        "dairy butter",
+        "baking",
+        "cooking",
+        "500g",
+        "grams",
+        "g",
+        "500ml",
+        "half liter",
+        "half kg"
+      ],
+      "tanglish": [
+        "vennai",
+        "butter",
+        "cooking",
+        "white butter",
+        "fresh",
+        "baking",
+        "500g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 85,
+    "name": "Mil Cheese Cubs 200G",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Cheese",
+    "variant": "200 g",
+    "pricing": {
+      "price": 160,
+      "mrp": 176,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Quality cheese slices and blocks perfect for sandwiches, pizzas, and snacks.",
+      "long": "Quality cheese slices and blocks perfect for sandwiches, pizzas, and snacks. Made from fresh milk with smooth texture and rich taste. Ideal for cooking, baking, and direct consumption. A favorite among kids and adults. Adds flavor to every dish. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/mil_cheese_cubs_200g.png",
+        "alt": "Mil Cheese Cubs 200G",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "cheese",
+        "paneer",
+        "cheese slices",
+        "cheese block",
+        "mozzarella",
+        "cheddar",
+        "cooking cheese",
+        "snacks",
+        "cubs",
+        "200g",
+        "grams",
+        "g",
+        "200ml"
+      ],
+      "tanglish": [
+        "cheese",
+        "paneer",
+        "slices",
+        "block",
+        "pizza",
+        "sandwich",
+        "snacks",
+        "cubs",
+        "200g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 86,
+    "name": "Mil Butter Milk 200Ml",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "200 ml",
+    "pricing": {
+      "price": 20,
+      "mrp": 22,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 200 ml."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/mil_butter_milk_200ml.png",
+        "alt": "Mil Butter Milk 200Ml",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "butter",
+        "200ml",
+        "milliliter",
+        "ml",
+        "200g"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "butter",
+        "200ml",
+        "ml"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 87,
+    "name": "Milku",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 250,
+      "mrp": 275,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/milku.png",
+        "alt": "Milku",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "milku",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "milku",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 88,
+    "name": "More Light Liq Jar 5Ltr",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "General",
+    "variant": "5 Ltr",
+    "pricing": {
+      "price": 360,
+      "mrp": 396,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 5 Ltr."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/more_light_liq_jar_5ltr.png",
+        "alt": "More Light Liq Jar 5Ltr",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "more",
+        "light",
+        "5ltr",
+        "liter",
+        "ltr",
+        "l"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "more",
+        "light",
+        "5ltr",
+        "ltr",
+        "l"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 89,
+    "name": "Milk Maid Milky Mist Tin 395G",
+    "brand": "Milky Mist",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "395 g",
+    "pricing": {
+      "price": 145,
+      "mrp": 160,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Milky Mist - Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Milky Mist - Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 395 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/milk_maid_milky_mist_tin_395g.png",
+        "alt": "Milk Maid Milky Mist Tin 395G",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "milky mist",
+        "milk",
+        "maid",
+        "milky",
+        "mist",
+        "395g",
+        "grams"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "milky mist",
+        "milk",
+        "maid",
+        "milky",
+        "mist",
+        "395g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 90,
+    "name": "Merymilk",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 120,
+      "mrp": 132,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/merymilk.png",
+        "alt": "Merymilk",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "merymilk",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "merymilk",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 91,
+    "name": "Milk Maid Pkt",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 89,
+      "mrp": 98,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/milk_maid_pkt.png",
+        "alt": "Milk Maid Pkt",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "maid",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "maid",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 92,
+    "name": "Ecalrs Milk",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 50,
+      "mrp": 55,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/ecalrs_milk.png",
+        "alt": "Ecalrs Milk",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "ecalrs",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "ecalrs",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 93,
+    "name": "Winkin Cow Lassi",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "General",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 25,
+      "mrp": 28,
+      "discount": 11,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/winkin_cow_lassi.png",
+        "alt": "Winkin Cow Lassi",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "winkin",
+        "lassi",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "winkin",
+        "lassi",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 94,
+    "name": "Paneer Hatsun 200G",
+    "brand": "Hatsun",
+    "category": "Dairy & Fresh",
+    "subCategory": "Paneer",
+    "variant": "200 g",
+    "pricing": {
+      "price": 130,
+      "mrp": 143,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Hatsun - Fresh paneer (cottage cheese) rich in protein for curries and snacks.",
+      "long": "Hatsun - Fresh paneer (cottage cheese) rich in protein for curries and snacks. Made from fresh milk with soft and spongy texture. Perfect for paneer butter masala, kadai paneer, and snacks. A vegetarian protein source. Ideal for North and South Indian dishes. Pack size: 200 g."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/paneer_hatsun_200g.png",
+        "alt": "Paneer Hatsun 200G",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "paneer",
+        "cottage cheese",
+        "fresh paneer",
+        "protein",
+        "vegetarian",
+        "curry",
+        "snacks",
+        "cooking",
+        "hatsun",
+        "200g",
+        "grams",
+        "g",
+        "200ml"
+      ],
+      "tanglish": [
+        "paneer",
+        "cottage cheese",
+        "fresh",
+        "protein",
+        "curry",
+        "vegetarian",
+        "cooking",
+        "hatsun",
+        "200g",
+        "g"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 95,
+    "name": "Ecalrs Milk",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 100,
+      "mrp": 110,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/ecalrs_milk.png",
+        "alt": "Ecalrs Milk",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "ecalrs",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "ecalrs",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 96,
+    "name": "Super Milk (24Pcs)",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "24 pcs",
+    "pricing": {
+      "price": 120,
+      "mrp": 132,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 24 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/super_milk_24pcs.png",
+        "alt": "Super Milk (24Pcs)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "super",
+        "(24pcs)",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "super",
+        "(24pcs)",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 97,
+    "name": "Super Milk 9 Rs",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 9,
+      "mrp": 10,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/super_milk_9_rs.png",
+        "alt": "Super Milk 9 Rs",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "super",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "super",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 98,
+    "name": "Nyra Milk Jar",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 150,
+      "mrp": 165,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/nyra_milk_jar.png",
+        "alt": "Nyra Milk Jar",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "nyra",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "nyra",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 99,
+    "name": "Pal Cova Jar",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "General",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 75,
+      "mrp": 83,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/pal_cova_jar.png",
+        "alt": "Pal Cova Jar",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "cova",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "cova",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 100,
+    "name": "Super Milk (24Pcs)",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "24 pcs",
+    "pricing": {
+      "price": 108,
+      "mrp": 119,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 24 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/super_milk_24pcs.png",
+        "alt": "Super Milk (24Pcs)",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "super",
+        "(24pcs)",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "super",
+        "(24pcs)",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 101,
+    "name": "Super Milk",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 18,
+      "mrp": 20,
+      "discount": 10,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/super_milk.png",
+        "alt": "Super Milk",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "super",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "super",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 102,
+    "name": "Cl Jelly Butterfly Jar",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Butter",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 300,
+      "mrp": 330,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Pure butter (vennai) for cooking, baking, and daily use.",
+      "long": "Pure butter (vennai) for cooking, baking, and daily use. Made from fresh cream with rich taste and aroma. Perfect for rotis, parathas, baking, and cooking. Adds richness to your dishes. A kitchen essential for every household. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/cl_jelly_butterfly_jar.png",
+        "alt": "Cl Jelly Butterfly Jar",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "butter",
+        "vennai",
+        "cooking butter",
+        "white butter",
+        "fresh butter",
+        "dairy butter",
+        "baking",
+        "jelly",
+        "butterfly",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "vennai",
+        "butter",
+        "cooking",
+        "white butter",
+        "fresh",
+        "baking",
+        "jelly",
+        "butterfly",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 103,
+    "name": "Cl Jelly Mittaiye Jar",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "General",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 200,
+      "mrp": 220,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/cl_jelly_mittaiye_jar.png",
+        "alt": "Cl Jelly Mittaiye Jar",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "jelly",
+        "mittaiye",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "jelly",
+        "mittaiye",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 104,
+    "name": "Cl Pal Cova Jar",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "General",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 60,
+      "mrp": 66,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Premium quality dairy and bakery product for daily nutrition and enjoyment.",
+      "long": "Premium quality dairy and bakery product for daily nutrition and enjoyment. Sourced from trusted brands and processed with care. Perfect for South Indian households and daily consumption. Quality assured for your family. A nutritious addition to your meals. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/cl_pal_cova_jar.png",
+        "alt": "Cl Pal Cova Jar",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium quality",
+        "nutrition",
+        "family",
+        "trusted",
+        "consumption",
+        "cova",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "dairy",
+        "bakery",
+        "daily",
+        "premium",
+        "nutrition",
+        "family",
+        "trusted",
+        "cova",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": true,
+      "show_on_home": true
+    }
+  },
+  {
+    "id": 105,
+    "name": "Cl Milku",
+    "brand": "Generic",
+    "category": "Dairy & Fresh",
+    "subCategory": "Milk",
+    "variant": "1 pcs",
+    "pricing": {
+      "price": 250,
+      "mrp": 275,
+      "discount": 9,
+      "currency": "INR"
+    },
+    "description": {
+      "short": "Fresh and pure milk for daily nutrition and healthy living.",
+      "long": "Fresh and pure milk for daily nutrition and healthy living. Sourced from trusted dairy farms and processed with care. Rich in calcium, protein, and essential vitamins. Perfect for tea, coffee, sweets, and daily consumption. Quality assured for your family health. Pack size: 1 pcs."
+    },
+    "images": [
+      {
+        "url": "assets/images/products/dairy_fresh/cl_milku.png",
+        "alt": "Cl Milku",
+        "is_primary": true
+      }
+    ],
+    "search_keywords": {
+      "english": [
+        "milk",
+        "fresh milk",
+        "dairy milk",
+        "paal",
+        "daily milk",
+        "pure milk",
+        "cow milk",
+        "toned milk",
+        "milku",
+        "pieces",
+        "pcs"
+      ],
+      "tanglish": [
+        "paal",
+        "milk",
+        "fresh",
+        "dairy",
+        "daily",
+        "pure",
+        "cow",
+        "milku",
+        "pcs"
+      ]
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 100
+    },
+    "display": {
+      "is_featured": false,
+      "is_bestseller": false,
+      "show_on_home": true
+    }
+  }
+]

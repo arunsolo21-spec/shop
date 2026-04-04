@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Healthmix Ramanas 500G",
+    "description": "High-quality Healthmix Ramanas 500G.",
+    "brand": "Generic",
+    "category": "Health Drinks",
+    "variant": "500 g",
+    "price": 220,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/health_drinks/healthmix_ramanas_500g.png",
+    "search_tags": [
+      "health drinks",
+      "health mix",
+      "generic",
+      "sathu maavu",
+      "சத்து மாவு",
+      "healthmix ramanas 500g"
+    ],
+    "subCategory": "General",
+    "mrp": 242,
+    "discount": 9
+  },
+  {
+    "name": "Healthmix Rama(Thani Varu)1Kg",
+    "description": "High-quality Healthmix Rama(Thani.Varu)1Kg.",
+    "brand": "Generic",
+    "category": "Health Drinks",
+    "variant": "1 kg",
+    "price": 210,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/health_drinks/healthmix_rama_thani_varu_1kg.png",
+    "search_tags": [
+      "health drinks",
+      "health mix",
+      "generic",
+      "healthmix rama(thani.varu)1kg",
+      "sathu maavu",
+      "சத்து மாவு"
+    ],
+    "subCategory": "General",
+    "mrp": 231,
+    "discount": 9
+  },
+  {
+    "name": "Manna Health Mix 500G",
+    "description": "High-quality Manna Health Mix 500G.",
+    "brand": "Manna",
+    "category": "Health Drinks",
+    "variant": "500 g",
+    "price": 285,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/health_drinks/manna_health_mix_500g.png",
+    "search_tags": [
+      "health drinks",
+      "health mix",
+      "sathu maavu",
+      "manna",
+      "சத்து மாவு",
+      "manna health mix 500g"
+    ],
+    "subCategory": "General",
+    "mrp": 314,
+    "discount": 9
+  },
+  {
+    "name": "Medimix Ayurvedic 75G Set",
+    "description": "High-quality Medimix Ayurvedic 75G Set.",
+    "brand": "Generic",
+    "category": "Health Drinks",
+    "variant": "75 g",
+    "price": 96,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/health_drinks/medimix_ayurvedic_75g_set.png",
+    "search_tags": [
+      "medimix ayurvedic 75g set",
+      "health drinks",
+      "health mix",
+      "generic",
+      "sathu maavu",
+      "சத்து மாவு"
+    ],
+    "subCategory": "General",
+    "mrp": 106,
+    "discount": 9
+  },
+  {
+    "name": "Medimix Ayurvedic 75G",
+    "description": "High-quality Medimix Ayurvedic 75G.",
+    "brand": "Generic",
+    "category": "Health Drinks",
+    "variant": "75 g",
+    "price": 32,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/health_drinks/medimix_ayurvedic_75g.png",
+    "search_tags": [
+      "health drinks",
+      "health mix",
+      "generic",
+      "sathu maavu",
+      "சத்து மாவு",
+      "medimix ayurvedic 75g"
+    ],
+    "subCategory": "General",
+    "mrp": 35,
+    "discount": 9
+  },
+  {
+    "name": "Healthmix J K 500G",
+    "description": "High-quality Healthmix J.K 500G.",
+    "brand": "Generic",
+    "category": "Health Drinks",
+    "variant": "500 g",
+    "price": 200,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/health_drinks/healthmix_j_k_500g.png",
+    "search_tags": [
+      "health drinks",
+      "healthmix j.k 500g",
+      "health mix",
+      "generic",
+      "sathu maavu",
+      "சத்து மாவு"
+    ],
+    "subCategory": "General",
+    "mrp": 220,
+    "discount": 9
+  },
+  {
+    "name": "Mixed Dry Fruit",
+    "description": "High-quality Mixed Dry Fruit.",
+    "brand": "Generic",
+    "category": "Health Drinks",
+    "variant": "1 pcs",
+    "price": 250,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/health_drinks/mixed_dry_fruit.png",
+    "search_tags": [
+      "mixed dry fruit",
+      "health drinks",
+      "health mix",
+      "generic",
+      "sathu maavu",
+      "சத்து மாவு"
+    ],
+    "subCategory": "General",
+    "mrp": 275,
+    "discount": 9
+  },
+  {
+    "name": "Manna Health Mix 250G",
+    "description": "High-quality Manna Health Mix 250G.",
+    "brand": "Manna",
+    "category": "Health Drinks",
+    "variant": "250 g",
+    "price": 169,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/health_drinks/manna_health_mix_250g.png",
+    "search_tags": [
+      "health drinks",
+      "health mix",
+      "manna health mix 250g",
+      "sathu maavu",
+      "manna",
+      "சத்து மாவு"
+    ],
+    "subCategory": "General",
+    "mrp": 186,
+    "discount": 9
+  },
+  {
+    "name": "Healthmix Jk 500G",
+    "description": "High-quality Healthmix Jk 500G.",
+    "brand": "Generic",
+    "category": "Health Drinks",
+    "variant": "500 g",
+    "price": 200,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/health_drinks/healthmix_jk_500g.png",
+    "search_tags": [
+      "health drinks",
+      "healthmix jk 500g",
+      "health mix",
+      "generic",
+      "sathu maavu",
+      "சத்து மாவு"
+    ],
+    "subCategory": "General",
+    "mrp": 220,
+    "discount": 9
+  },
+  {
+    "name": "Medimix Ayurvedic 125Gm",
+    "description": "High-quality Medimix Ayurvedic 125Gm.",
+    "brand": "Generic",
+    "category": "Health Drinks",
+    "variant": "125 g",
+    "price": 47,
+    "in_stock": true,
+    "is_featured": false,
+    "image_url": "assets/images/products/health_drinks/medimix_ayurvedic_125gm.png",
+    "search_tags": [
+      "health drinks",
+      "health mix",
+      "medimix ayurvedic 125gm",
+      "generic",
+      "sathu maavu",
+      "சத்து மாவு"
+    ],
+    "subCategory": "General",
+    "mrp": 52,
+    "discount": 10
+  }
+]
